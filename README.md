@@ -1,6 +1,9 @@
 # Pokemon IME Dictionary
 
-ポケモンの名前を簡単に出せるようにする辞書
+ポケモンの名前を簡単に出せるようにする辞書。
+別ファイルにてポケモンの技も用意しました。（英語未対応）
+
+Excelで強引に作成しています。
 
 ## 導入
 
@@ -34,7 +37,7 @@
 
 ## 以下の通り変換できます
 
-### 型
+### ポケモンの名前
 
 | 変換元   | 変換先  |
 | ----- | ---- |
@@ -43,7 +46,7 @@
 | 図鑑No. | カタカナ |
 | 図鑑No. | 英語   |
 
-### 例
+#### 例
 
 | 変換元  | 変換先    |
 | ---- | ------ |
@@ -56,3 +59,8 @@
 
 - おどりどり→「Oricorio」のみ
 - 741p→「Oricorio」のみ
+
+## データ元
+
+- <https://wiki.xn--rckteqa2e.com/wiki/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%E4%B8%80%E8%A6%A7>
+- <https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_National_Pok%C3%A9dex_number>
