@@ -1,5 +1,7 @@
 # Pokemon IME Dictionary
 
+![Dec-19-2022 10-09-40](https://user-images.githubusercontent.com/36149909/208329894-553013c3-cead-442e-bbe6-19a32d0d74c6.gif)
+
 ポケモンの名前を簡単に出せるようにする辞書。
 別ファイルにてポケモンの技も用意しました。（英語未対応）
 
