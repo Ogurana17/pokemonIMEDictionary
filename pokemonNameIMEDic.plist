@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
+<?xml version=1.0 encoding=UTF-8?>
+<!DOCTYPE plist PUBLIC -//Apple//DTD PLIST 1.0//EN http://www.apple.com/DTDs/PropertyList-1.0.dtd>
+<plist version=1.0>
 <array>
 	<dict>
 		<key>phrase</key>
@@ -22384,45 +22384,633 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wyrdeer</string>
+		<string>ニャオハ</string>
 		<key>shortcut</key>
-		<string>899p</string>
+		<string>906p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kleavor</string>
+		<string>ニャローテ</string>
 		<key>shortcut</key>
-		<string>900p</string>
+		<string>907p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ursaluna</string>
+		<string>マスカーニャ</string>
 		<key>shortcut</key>
-		<string>901p</string>
+		<string>908p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Basculegion</string>
+		<string>ホゲータ</string>
 		<key>shortcut</key>
-		<string>902p</string>
+		<string>909p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sneasler</string>
+		<string>アチゲータ</string>
 		<key>shortcut</key>
-		<string>903p</string>
+		<string>910p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Overqwil</string>
+		<string>ラウドボーン</string>
 		<key>shortcut</key>
-		<string>904p</string>
+		<string>911p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Enamorus</string>
+		<string>クワッス</string>
 		<key>shortcut</key>
-		<string>905p</string>
+		<string>912p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ウェルカモ</string>
+		<key>shortcut</key>
+		<string>913p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ウェーニバル</string>
+		<key>shortcut</key>
+		<string>914p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>グルトン</string>
+		<key>shortcut</key>
+		<string>915p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>パフュートン</string>
+		<key>shortcut</key>
+		<string>916p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>タマンチュラ</string>
+		<key>shortcut</key>
+		<string>917p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ワナイダー</string>
+		<key>shortcut</key>
+		<string>918p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>マメバッタ</string>
+		<key>shortcut</key>
+		<string>919p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>エクスレッグ</string>
+		<key>shortcut</key>
+		<string>920p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>パモ</string>
+		<key>shortcut</key>
+		<string>921p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>パモット</string>
+		<key>shortcut</key>
+		<string>922p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>パーモット</string>
+		<key>shortcut</key>
+		<string>923p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ワッカネズミ</string>
+		<key>shortcut</key>
+		<string>924p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>イッカネズミ</string>
+		<key>shortcut</key>
+		<string>925p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>パピモッチ</string>
+		<key>shortcut</key>
+		<string>926p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>バウッツェル</string>
+		<key>shortcut</key>
+		<string>927p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ミニーブ</string>
+		<key>shortcut</key>
+		<string>928p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>オリーニョ</string>
+		<key>shortcut</key>
+		<string>929p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>オリーヴァ</string>
+		<key>shortcut</key>
+		<string>930p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>イキリンコ</string>
+		<key>shortcut</key>
+		<string>931p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>コジオ</string>
+		<key>shortcut</key>
+		<string>932p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ジオヅム</string>
+		<key>shortcut</key>
+		<string>933p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>キョジオーン</string>
+		<key>shortcut</key>
+		<string>934p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>カルボウ</string>
+		<key>shortcut</key>
+		<string>935p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>グレンアルマ</string>
+		<key>shortcut</key>
+		<string>936p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ソウブレイズ</string>
+		<key>shortcut</key>
+		<string>937p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ズピカ</string>
+		<key>shortcut</key>
+		<string>938p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ハラバリー</string>
+		<key>shortcut</key>
+		<string>939p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>カイデン</string>
+		<key>shortcut</key>
+		<string>940p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>タイカイデン</string>
+		<key>shortcut</key>
+		<string>941p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>オラチフ</string>
+		<key>shortcut</key>
+		<string>942p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>マフィティフ</string>
+		<key>shortcut</key>
+		<string>943p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>シルシュルー</string>
+		<key>shortcut</key>
+		<string>944p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>タギングル</string>
+		<key>shortcut</key>
+		<string>945p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>アノクサ</string>
+		<key>shortcut</key>
+		<string>946p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>アノホラグサ</string>
+		<key>shortcut</key>
+		<string>947p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ノノクラゲ</string>
+		<key>shortcut</key>
+		<string>948p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>リククラゲ</string>
+		<key>shortcut</key>
+		<string>949p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ガケガニ</string>
+		<key>shortcut</key>
+		<string>950p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>カプサイジ</string>
+		<key>shortcut</key>
+		<string>951p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>スコヴィラン</string>
+		<key>shortcut</key>
+		<string>952p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>シガロコ</string>
+		<key>shortcut</key>
+		<string>953p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ベラカス</string>
+		<key>shortcut</key>
+		<string>954p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ヒラヒナ</string>
+		<key>shortcut</key>
+		<string>955p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>クエスパトラ</string>
+		<key>shortcut</key>
+		<string>956p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>カヌチャン</string>
+		<key>shortcut</key>
+		<string>957p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ナカヌチャン</string>
+		<key>shortcut</key>
+		<string>958p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>デカヌチャン</string>
+		<key>shortcut</key>
+		<string>959p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ウミディグダ</string>
+		<key>shortcut</key>
+		<string>960p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ウミトリオ</string>
+		<key>shortcut</key>
+		<string>961p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>オトシドリ</string>
+		<key>shortcut</key>
+		<string>962p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ナミイルカ</string>
+		<key>shortcut</key>
+		<string>963p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>イルカマン</string>
+		<key>shortcut</key>
+		<string>964p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ブロロン</string>
+		<key>shortcut</key>
+		<string>965p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ブロロローム</string>
+		<key>shortcut</key>
+		<string>966p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>モトトカゲ</string>
+		<key>shortcut</key>
+		<string>967p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ミミズズ</string>
+		<key>shortcut</key>
+		<string>968p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>キラーメ</string>
+		<key>shortcut</key>
+		<string>969p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>キラフロル</string>
+		<key>shortcut</key>
+		<string>970p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ボチ</string>
+		<key>shortcut</key>
+		<string>971p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ハカドッグ</string>
+		<key>shortcut</key>
+		<string>972p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>カラミンゴ</string>
+		<key>shortcut</key>
+		<string>973p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>アルクジラ</string>
+		<key>shortcut</key>
+		<string>974p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ハルクジラ</string>
+		<key>shortcut</key>
+		<string>975p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ミガルーサ</string>
+		<key>shortcut</key>
+		<string>976p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ヘイラッシャ</string>
+		<key>shortcut</key>
+		<string>977p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>シャリタツ</string>
+		<key>shortcut</key>
+		<string>978p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>コノヨザル</string>
+		<key>shortcut</key>
+		<string>979p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ドオー</string>
+		<key>shortcut</key>
+		<string>980p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>リキキリン</string>
+		<key>shortcut</key>
+		<string>981p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ノココッチ</string>
+		<key>shortcut</key>
+		<string>982p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ドドゲザン</string>
+		<key>shortcut</key>
+		<string>983p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>イダイナキバ</string>
+		<key>shortcut</key>
+		<string>984p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>サケブシッポ</string>
+		<key>shortcut</key>
+		<string>985p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>アラブルタケ</string>
+		<key>shortcut</key>
+		<string>986p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ハバタクカミ</string>
+		<key>shortcut</key>
+		<string>987p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>チヲハウハネ</string>
+		<key>shortcut</key>
+		<string>988p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>スナノケガワ</string>
+		<key>shortcut</key>
+		<string>989p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>テツノワダチ</string>
+		<key>shortcut</key>
+		<string>990p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>テツノツツミ</string>
+		<key>shortcut</key>
+		<string>991p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>テツノカイナ</string>
+		<key>shortcut</key>
+		<string>992p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>テツノコウベ</string>
+		<key>shortcut</key>
+		<string>993p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>テツノドクガ</string>
+		<key>shortcut</key>
+		<string>994p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>テツノイバラ</string>
+		<key>shortcut</key>
+		<string>995p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>セビエ</string>
+		<key>shortcut</key>
+		<string>996p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>セゴール</string>
+		<key>shortcut</key>
+		<string>997p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>セグレイブ</string>
+		<key>shortcut</key>
+		<string>998p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>コレクレー</string>
+		<key>shortcut</key>
+		<string>999p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>サーフゴー</string>
+		<key>shortcut</key>
+		<string>1000p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>チオンジェン</string>
+		<key>shortcut</key>
+		<string>1001p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>パオジアン</string>
+		<key>shortcut</key>
+		<string>1002p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ディンルー</string>
+		<key>shortcut</key>
+		<string>1003p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>イーユイ</string>
+		<key>shortcut</key>
+		<string>1004p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>トドロクツキ</string>
+		<key>shortcut</key>
+		<string>1005p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>テツノブジン</string>
+		<key>shortcut</key>
+		<string>1006p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>コライドン</string>
+		<key>shortcut</key>
+		<string>1007p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ミライドン</string>
+		<key>shortcut</key>
+		<string>1008p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ウネルミナモ</string>
+		<key>shortcut</key>
+		<string>1009p</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>テツノイサハ</string>
+		<key>shortcut</key>
+		<string>1010p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -22492,1281 +23080,567 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dudunsparce</string>
-		<key>shortcut</key>
-		<string>917p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
 		<string>Tarountula</string>
 		<key>shortcut</key>
-		<string>918p</string>
+		<string>917p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Spidops</string>
 		<key>shortcut</key>
-		<string>919p</string>
+		<string>918p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Nymble</string>
 		<key>shortcut</key>
-		<string>920p</string>
+		<string>919p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Lokix</string>
 		<key>shortcut</key>
-		<string>921p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Rellor</string>
-		<key>shortcut</key>
-		<string>922p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Rabsca</string>
-		<key>shortcut</key>
-		<string>923p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Greavard</string>
-		<key>shortcut</key>
-		<string>924p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Houndstone</string>
-		<key>shortcut</key>
-		<string>925p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Flittle</string>
-		<key>shortcut</key>
-		<string>926p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Espathra</string>
-		<key>shortcut</key>
-		<string>927p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Farigiraf</string>
-		<key>shortcut</key>
-		<string>928p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Wiglett</string>
-		<key>shortcut</key>
-		<string>929p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Wugtrio</string>
-		<key>shortcut</key>
-		<string>930p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Dondozo</string>
-		<key>shortcut</key>
-		<string>931p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Veluza</string>
-		<key>shortcut</key>
-		<string>932p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Finizen</string>
-		<key>shortcut</key>
-		<string>933p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Palafin</string>
-		<key>shortcut</key>
-		<string>934p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Smoliv</string>
-		<key>shortcut</key>
-		<string>935p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Dolliv</string>
-		<key>shortcut</key>
-		<string>936p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Arboliva</string>
-		<key>shortcut</key>
-		<string>937p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Capsakid</string>
-		<key>shortcut</key>
-		<string>938p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Scovillain</string>
-		<key>shortcut</key>
-		<string>939p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Tadbulb</string>
-		<key>shortcut</key>
-		<string>940p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Bellibolt</string>
-		<key>shortcut</key>
-		<string>941p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Varoom</string>
-		<key>shortcut</key>
-		<string>942p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Revavroom</string>
-		<key>shortcut</key>
-		<string>943p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Orthworm</string>
-		<key>shortcut</key>
-		<string>944p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Tandemaus</string>
-		<key>shortcut</key>
-		<string>945p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Maushold</string>
-		<key>shortcut</key>
-		<string>946p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Cetoddle</string>
-		<key>shortcut</key>
-		<string>947p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Cetitan</string>
-		<key>shortcut</key>
-		<string>948p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Frigibax</string>
-		<key>shortcut</key>
-		<string>949p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Arctibax</string>
-		<key>shortcut</key>
-		<string>950p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Baxcalibur</string>
-		<key>shortcut</key>
-		<string>951p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Tatsugiri</string>
-		<key>shortcut</key>
-		<string>952p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Cyclizar</string>
-		<key>shortcut</key>
-		<string>953p</string>
+		<string>920p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Pawmi</string>
 		<key>shortcut</key>
-		<string>954p</string>
+		<string>921p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Pawmo</string>
 		<key>shortcut</key>
-		<string>955p</string>
+		<string>922p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Pawmot</string>
 		<key>shortcut</key>
-		<string>956p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Wattrel</string>
-		<key>shortcut</key>
-		<string>957p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Kilowattrel</string>
-		<key>shortcut</key>
-		<string>958p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Bombirdier</string>
-		<key>shortcut</key>
-		<string>959p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Squawkabily</string>
-		<key>shortcut</key>
-		<string>960p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Flamigo</string>
-		<key>shortcut</key>
-		<string>961p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Klawf</string>
-		<key>shortcut</key>
-		<string>962p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Nacli</string>
-		<key>shortcut</key>
-		<string>963p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Naclstack</string>
-		<key>shortcut</key>
-		<string>964p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Garganacl</string>
-		<key>shortcut</key>
-		<string>965p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Glimmet</string>
-		<key>shortcut</key>
-		<string>966p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Glimmora</string>
-		<key>shortcut</key>
-		<string>967p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Shroodle</string>
-		<key>shortcut</key>
-		<string>968p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Grafaiai</string>
-		<key>shortcut</key>
-		<string>969p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Fidough</string>
-		<key>shortcut</key>
-		<string>970p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Dachsbun</string>
-		<key>shortcut</key>
-		<string>971p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Maschiff</string>
-		<key>shortcut</key>
-		<string>972p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Mabosstiff</string>
-		<key>shortcut</key>
-		<string>973p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Bramblin</string>
-		<key>shortcut</key>
-		<string>974p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Brambleghost</string>
-		<key>shortcut</key>
-		<string>975p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Gimmighoul</string>
-		<key>shortcut</key>
-		<string>976p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Gholdengo</string>
-		<key>shortcut</key>
-		<string>977p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Great Tusk</string>
-		<key>shortcut</key>
-		<string>978p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Brute Bonnet</string>
-		<key>shortcut</key>
-		<string>979p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>???</string>
-		<key>shortcut</key>
-		<string>980p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Sandy Shocks</string>
-		<key>shortcut</key>
-		<string>981p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Scream Tail</string>
-		<key>shortcut</key>
-		<string>982p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Flutter Mane</string>
-		<key>shortcut</key>
-		<string>983p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Slither Wing</string>
-		<key>shortcut</key>
-		<string>984p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Roaring Moon</string>
-		<key>shortcut</key>
-		<string>985p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Iron Treads</string>
-		<key>shortcut</key>
-		<string>986p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>???</string>
-		<key>shortcut</key>
-		<string>987p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Iron Moth</string>
-		<key>shortcut</key>
-		<string>988p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Iron Hands</string>
-		<key>shortcut</key>
-		<string>989p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Iron Jugulis</string>
-		<key>shortcut</key>
-		<string>990p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Iron Thorns</string>
-		<key>shortcut</key>
-		<string>991p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Iron Bundle</string>
-		<key>shortcut</key>
-		<string>992p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Iron Valiant</string>
-		<key>shortcut</key>
-		<string>993p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Ting-Lu</string>
-		<key>shortcut</key>
-		<string>994p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Chien-Pao</string>
-		<key>shortcut</key>
-		<string>995p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Wo-Chien</string>
-		<key>shortcut</key>
-		<string>996p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Chi-Yu</string>
-		<key>shortcut</key>
-		<string>997p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Koraidon</string>
-		<key>shortcut</key>
-		<string>998p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Miraidon</string>
-		<key>shortcut</key>
-		<string>999p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Tinkatink</string>
-		<key>shortcut</key>
-		<string>1000p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Tinkatuff</string>
-		<key>shortcut</key>
-		<string>1001p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Tinkaton</string>
-		<key>shortcut</key>
-		<string>1002p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Charcadet</string>
-		<key>shortcut</key>
-		<string>1003p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Armarouge</string>
-		<key>shortcut</key>
-		<string>1004p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Ceruledge</string>
-		<key>shortcut</key>
-		<string>1005p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Toedscool</string>
-		<key>shortcut</key>
-		<string>1006p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Toedscruel</string>
-		<key>shortcut</key>
-		<string>1007p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Kingambit</string>
-		<key>shortcut</key>
-		<string>1008p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Clodsire</string>
-		<key>shortcut</key>
-		<string>1009p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Annihilape</string>
-		<key>shortcut</key>
-		<string>1010p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>アヤシシ</string>
-		<key>shortcut</key>
-		<string>899p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>バサギリ</string>
-		<key>shortcut</key>
-		<string>900p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>ガチグマ</string>
-		<key>shortcut</key>
-		<string>901p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>イダイトウ</string>
-		<key>shortcut</key>
-		<string>902p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>オオニューラ</string>
-		<key>shortcut</key>
-		<string>903p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>ハリーマン</string>
-		<key>shortcut</key>
-		<string>904p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>ラブトロス</string>
-		<key>shortcut</key>
-		<string>905p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>ニャオハ</string>
-		<key>shortcut</key>
-		<string>906p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>ニャローテ</string>
-		<key>shortcut</key>
-		<string>907p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>マスカーニャ</string>
-		<key>shortcut</key>
-		<string>908p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>ホゲータ</string>
-		<key>shortcut</key>
-		<string>909p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>アチゲータ</string>
-		<key>shortcut</key>
-		<string>910p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>ラウドボーン</string>
-		<key>shortcut</key>
-		<string>911p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>クワッス</string>
-		<key>shortcut</key>
-		<string>912p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>ウェルカモ</string>
-		<key>shortcut</key>
-		<string>913p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>ウェーニバル</string>
-		<key>shortcut</key>
-		<string>914p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>グルトン</string>
-		<key>shortcut</key>
-		<string>915p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>パフュートン</string>
-		<key>shortcut</key>
-		<string>916p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>ノココッチ</string>
-		<key>shortcut</key>
-		<string>917p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>タマンチュラ</string>
-		<key>shortcut</key>
-		<string>918p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>ワナイダー</string>
-		<key>shortcut</key>
-		<string>919p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>マメバッタ</string>
-		<key>shortcut</key>
-		<string>920p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>エクスレッグ</string>
-		<key>shortcut</key>
-		<string>921p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>シガロコ</string>
-		<key>shortcut</key>
-		<string>922p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>ベラカス</string>
-		<key>shortcut</key>
 		<string>923p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ボチ</string>
+		<string>Tandemaus</string>
 		<key>shortcut</key>
 		<string>924p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ハカドッグ</string>
+		<string>Maushold</string>
 		<key>shortcut</key>
 		<string>925p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヒラヒナ</string>
+		<string>Fidough</string>
 		<key>shortcut</key>
 		<string>926p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>クエスパトラ</string>
+		<string>Dachsbun</string>
 		<key>shortcut</key>
 		<string>927p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>リキキリン</string>
+		<string>Smoliv</string>
 		<key>shortcut</key>
 		<string>928p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ウミディグダ</string>
+		<string>Dolliv</string>
 		<key>shortcut</key>
 		<string>929p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ウミトリオ</string>
+		<string>Arboliva</string>
 		<key>shortcut</key>
 		<string>930p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヘイラッシャ</string>
+		<string>Squawkabilly</string>
 		<key>shortcut</key>
 		<string>931p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ミガルーサ</string>
+		<string>Nacli</string>
 		<key>shortcut</key>
 		<string>932p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ナミイルカ</string>
+		<string>Naclstack</string>
 		<key>shortcut</key>
 		<string>933p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>イルカマン</string>
+		<string>Garganacl</string>
 		<key>shortcut</key>
 		<string>934p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ミニーブ</string>
+		<string>Charcadet</string>
 		<key>shortcut</key>
 		<string>935p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オリーニョ</string>
+		<string>Armarouge</string>
 		<key>shortcut</key>
 		<string>936p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オリーヴァ</string>
+		<string>Ceruledge</string>
 		<key>shortcut</key>
 		<string>937p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カプサイジ</string>
+		<string>Tadbulb</string>
 		<key>shortcut</key>
 		<string>938p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>スコヴィラン</string>
+		<string>Bellibolt</string>
 		<key>shortcut</key>
 		<string>939p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ズピカ</string>
+		<string>Wattrel</string>
 		<key>shortcut</key>
 		<string>940p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ハラバリー</string>
+		<string>Kilowattrel</string>
 		<key>shortcut</key>
 		<string>941p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ブロロン</string>
+		<string>Maschiff</string>
 		<key>shortcut</key>
 		<string>942p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ブロロローム</string>
+		<string>Mabosstiff</string>
 		<key>shortcut</key>
 		<string>943p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ミミズズ</string>
+		<string>Shroodle</string>
 		<key>shortcut</key>
 		<string>944p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ワッカネズミ</string>
+		<string>Grafaiai</string>
 		<key>shortcut</key>
 		<string>945p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>イッカネズミ</string>
+		<string>Bramblin</string>
 		<key>shortcut</key>
 		<string>946p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アルクジラ</string>
+		<string>Brambleghast</string>
 		<key>shortcut</key>
 		<string>947p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ハルクジラ</string>
+		<string>Toedscool</string>
 		<key>shortcut</key>
 		<string>948p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>セビエ</string>
+		<string>Toedscruel</string>
 		<key>shortcut</key>
 		<string>949p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>セゴール</string>
+		<string>Klawf</string>
 		<key>shortcut</key>
 		<string>950p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>セグレイブ</string>
+		<string>Capsakid</string>
 		<key>shortcut</key>
 		<string>951p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>シャリタツ</string>
+		<string>Scovillain</string>
 		<key>shortcut</key>
 		<string>952p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モトトカゲ</string>
+		<string>Rellor</string>
 		<key>shortcut</key>
 		<string>953p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>パモ</string>
+		<string>Rabsca</string>
 		<key>shortcut</key>
 		<string>954p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>パモット</string>
+		<string>Flittle</string>
 		<key>shortcut</key>
 		<string>955p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>パーモット</string>
+		<string>Espathra</string>
 		<key>shortcut</key>
 		<string>956p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カイデン</string>
+		<string>Tinkatink</string>
 		<key>shortcut</key>
 		<string>957p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>タイカイデン</string>
+		<string>Tinkatuff</string>
 		<key>shortcut</key>
 		<string>958p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オトシドリ</string>
+		<string>Tinkaton</string>
 		<key>shortcut</key>
 		<string>959p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>イキリンコ</string>
+		<string>Wiglett</string>
 		<key>shortcut</key>
 		<string>960p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カラミンゴ</string>
+		<string>Wugtrio</string>
 		<key>shortcut</key>
 		<string>961p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ガケガニ</string>
+		<string>Bombirdier</string>
 		<key>shortcut</key>
 		<string>962p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コジオ</string>
+		<string>Finizen</string>
 		<key>shortcut</key>
 		<string>963p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ジオヅム</string>
+		<string>Palafin</string>
 		<key>shortcut</key>
 		<string>964p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>キョジオーン</string>
+		<string>Varoom</string>
 		<key>shortcut</key>
 		<string>965p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>キラーメ</string>
+		<string>Revavroom</string>
 		<key>shortcut</key>
 		<string>966p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>キラフロル</string>
+		<string>Cyclizar</string>
 		<key>shortcut</key>
 		<string>967p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>シルシュルー</string>
+		<string>Orthworm</string>
 		<key>shortcut</key>
 		<string>968p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>タギングル</string>
+		<string>Glimmet</string>
 		<key>shortcut</key>
 		<string>969p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>パピモッチ</string>
+		<string>Glimmora</string>
 		<key>shortcut</key>
 		<string>970p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>バウッツェル</string>
+		<string>Greavard</string>
 		<key>shortcut</key>
 		<string>971p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オラチフ</string>
+		<string>Houndstone</string>
 		<key>shortcut</key>
 		<string>972p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マフィティフ</string>
+		<string>Flamigo</string>
 		<key>shortcut</key>
 		<string>973p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アノクサ</string>
+		<string>Cetoddle</string>
 		<key>shortcut</key>
 		<string>974p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アノホラグサ</string>
+		<string>Cetitan</string>
 		<key>shortcut</key>
 		<string>975p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コレクレー</string>
+		<string>Veluza</string>
 		<key>shortcut</key>
 		<string>976p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>サーフゴー</string>
+		<string>Dondozo</string>
 		<key>shortcut</key>
 		<string>977p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>イダイナキバ</string>
+		<string>Tatsugiri</string>
 		<key>shortcut</key>
 		<string>978p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アラブルタケ</string>
+		<string>Annihilape</string>
 		<key>shortcut</key>
 		<string>979p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>???</string>
+		<string>Clodsire</string>
 		<key>shortcut</key>
 		<string>980p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>スナノケガワ</string>
+		<string>Farigiraf</string>
 		<key>shortcut</key>
 		<string>981p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>サケブシッポ</string>
+		<string>Dudunsparce</string>
 		<key>shortcut</key>
 		<string>982p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ハバタクカミ</string>
+		<string>Kingambit</string>
 		<key>shortcut</key>
 		<string>983p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>チヲハウハネ</string>
+		<string>Great Tusk</string>
 		<key>shortcut</key>
 		<string>984p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>トドロクツキ</string>
+		<string>Scream Tail</string>
 		<key>shortcut</key>
 		<string>985p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>テツノワダチ</string>
+		<string>Brute Bonnet</string>
 		<key>shortcut</key>
 		<string>986p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>???</string>
+		<string>Flutter Mane</string>
 		<key>shortcut</key>
 		<string>987p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>テツノドクガ</string>
+		<string>Slither Wing</string>
 		<key>shortcut</key>
 		<string>988p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>テツノカイナ</string>
+		<string>Sandy Shocks</string>
 		<key>shortcut</key>
 		<string>989p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>テツノコウベ</string>
+		<string>Iron Treads</string>
 		<key>shortcut</key>
 		<string>990p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>テツノイバラ</string>
+		<string>Iron Bundle</string>
 		<key>shortcut</key>
 		<string>991p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>テツノツツミ</string>
+		<string>Iron Hands</string>
 		<key>shortcut</key>
 		<string>992p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>テツノブジン</string>
+		<string>Iron Jugulis</string>
 		<key>shortcut</key>
 		<string>993p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ディンルー</string>
+		<string>Iron Moth</string>
 		<key>shortcut</key>
 		<string>994p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>パオジアン</string>
+		<string>Iron Thorns</string>
 		<key>shortcut</key>
 		<string>995p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>チオンジェン</string>
+		<string>Frigibax</string>
 		<key>shortcut</key>
 		<string>996p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>イーユイ</string>
+		<string>Arctibax</string>
 		<key>shortcut</key>
 		<string>997p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コライドン</string>
+		<string>Baxcalibur</string>
 		<key>shortcut</key>
 		<string>998p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ミライドン</string>
+		<string>Gimmighoul</string>
 		<key>shortcut</key>
 		<string>999p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カヌチャン</string>
+		<string>Gholdengo</string>
 		<key>shortcut</key>
 		<string>1000p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ナカヌチャン</string>
+		<string>Wo-Chien</string>
 		<key>shortcut</key>
 		<string>1001p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>デカヌチャン</string>
+		<string>Chien-Pao</string>
 		<key>shortcut</key>
 		<string>1002p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カルボウ</string>
+		<string>Ting-Lu</string>
 		<key>shortcut</key>
 		<string>1003p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>グレンアルマ</string>
+		<string>Chi-Yu</string>
 		<key>shortcut</key>
 		<string>1004p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ソウブレイズ</string>
+		<string>Roaring Moon</string>
 		<key>shortcut</key>
 		<string>1005p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ノノクラゲ</string>
+		<string>Iron Valiant</string>
 		<key>shortcut</key>
 		<string>1006p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>リククラゲ</string>
+		<string>Koraidon</string>
 		<key>shortcut</key>
 		<string>1007p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドドゲザン</string>
+		<string>Miraidon</string>
 		<key>shortcut</key>
 		<string>1008p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドオー</string>
+		<string>Walking Wake</string>
 		<key>shortcut</key>
 		<string>1009p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コノヨザル</string>
+		<string>Iron Leaves</string>
 		<key>shortcut</key>
 		<string>1010p</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>アヤシシ</string>
-		<key>shortcut</key>
-		<string>あやしし</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>バサギリ</string>
-		<key>shortcut</key>
-		<string>ばさぎり</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>ガチグマ</string>
-		<key>shortcut</key>
-		<string>がちぐま</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>イダイトウ</string>
-		<key>shortcut</key>
-		<string>いだいとう</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>オオニューラ</string>
-		<key>shortcut</key>
-		<string>おおにゅーら</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>ハリーマン</string>
-		<key>shortcut</key>
-		<string>はりーまん</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>ラブトロス</string>
-		<key>shortcut</key>
-		<string>らぶとろす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -23836,12 +23710,6 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ノココッチ</string>
-		<key>shortcut</key>
-		<string>のここっち</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
 		<string>タマンチュラ</string>
 		<key>shortcut</key>
 		<string>たまんちゅら</string>
@@ -23866,81 +23734,45 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>シガロコ</string>
+		<string>パモ</string>
 		<key>shortcut</key>
-		<string>しがろこ</string>
+		<string>ぱも</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ベラカス</string>
+		<string>パモット</string>
 		<key>shortcut</key>
-		<string>べらかす</string>
+		<string>ぱもっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ボチ</string>
+		<string>パーモット</string>
 		<key>shortcut</key>
-		<string>ぼち</string>
+		<string>ぱーもっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ハカドッグ</string>
+		<string>ワッカネズミ</string>
 		<key>shortcut</key>
-		<string>はかどっぐ</string>
+		<string>わっかねずみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヒラヒナ</string>
+		<string>イッカネズミ</string>
 		<key>shortcut</key>
-		<string>ひらひな</string>
+		<string>いっかねずみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>クエスパトラ</string>
+		<string>パピモッチ</string>
 		<key>shortcut</key>
-		<string>くえすぱとら</string>
+		<string>ぱぴもっち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>リキキリン</string>
+		<string>バウッツェル</string>
 		<key>shortcut</key>
-		<string>りききりん</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>ウミディグダ</string>
-		<key>shortcut</key>
-		<string>うみでぃぐだ</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>ウミトリオ</string>
-		<key>shortcut</key>
-		<string>うみとりお</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>ヘイラッシャ</string>
-		<key>shortcut</key>
-		<string>へいらっしゃ</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>ミガルーサ</string>
-		<key>shortcut</key>
-		<string>みがるーさ</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>ナミイルカ</string>
-		<key>shortcut</key>
-		<string>なみいるか</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>イルカマン</string>
-		<key>shortcut</key>
-		<string>いるかまん</string>
+		<string>ばうっつぇる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -23962,153 +23794,9 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カプサイジ</string>
-		<key>shortcut</key>
-		<string>かぷさいじ</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>スコヴィラン</string>
-		<key>shortcut</key>
-		<string>すこヴぃらん</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>ズピカ</string>
-		<key>shortcut</key>
-		<string>ずぴか</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>ハラバリー</string>
-		<key>shortcut</key>
-		<string>はらばりー</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>ブロロン</string>
-		<key>shortcut</key>
-		<string>ぶろろん</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>ブロロローム</string>
-		<key>shortcut</key>
-		<string>ぶろろろーむ</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>ミミズズ</string>
-		<key>shortcut</key>
-		<string>みみずず</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>ワッカネズミ</string>
-		<key>shortcut</key>
-		<string>わっかねずみ</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>イッカネズミ</string>
-		<key>shortcut</key>
-		<string>いっかねずみ</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>アルクジラ</string>
-		<key>shortcut</key>
-		<string>あるくじら</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>ハルクジラ</string>
-		<key>shortcut</key>
-		<string>はるくじら</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>セビエ</string>
-		<key>shortcut</key>
-		<string>せびえ</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>セゴール</string>
-		<key>shortcut</key>
-		<string>せごーる</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>セグレイブ</string>
-		<key>shortcut</key>
-		<string>せぐれいぶ</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>シャリタツ</string>
-		<key>shortcut</key>
-		<string>しゃりたつ</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>モトトカゲ</string>
-		<key>shortcut</key>
-		<string>もととかげ</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>パモ</string>
-		<key>shortcut</key>
-		<string>ぱも</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>パモット</string>
-		<key>shortcut</key>
-		<string>ぱもっと</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>パーモット</string>
-		<key>shortcut</key>
-		<string>ぱーもっと</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>カイデン</string>
-		<key>shortcut</key>
-		<string>かいでん</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>タイカイデン</string>
-		<key>shortcut</key>
-		<string>たいかいでん</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>オトシドリ</string>
-		<key>shortcut</key>
-		<string>おとしどり</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
 		<string>イキリンコ</string>
 		<key>shortcut</key>
 		<string>いきりんこ</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>カラミンゴ</string>
-		<key>shortcut</key>
-		<string>からみんご</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>ガケガニ</string>
-		<key>shortcut</key>
-		<string>がけがに</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -24130,39 +23818,45 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>キラーメ</string>
+		<string>カルボウ</string>
 		<key>shortcut</key>
-		<string>きらーめ</string>
+		<string>かるぼう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>キラフロル</string>
+		<string>グレンアルマ</string>
 		<key>shortcut</key>
-		<string>きらふろる</string>
+		<string>ぐれんあるま</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>シルシュルー</string>
+		<string>ソウブレイズ</string>
 		<key>shortcut</key>
-		<string>しるしゅるー</string>
+		<string>そうぶれいず</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>タギングル</string>
+		<string>ズピカ</string>
 		<key>shortcut</key>
-		<string>たぎんぐる</string>
+		<string>ずぴか</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>パピモッチ</string>
+		<string>ハラバリー</string>
 		<key>shortcut</key>
-		<string>ぱぴもっち</string>
+		<string>はらばりー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>バウッツェル</string>
+		<string>カイデン</string>
 		<key>shortcut</key>
-		<string>ばうっつぇる</string>
+		<string>かいでん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>タイカイデン</string>
+		<key>shortcut</key>
+		<string>たいかいでん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -24178,6 +23872,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>シルシュルー</string>
+		<key>shortcut</key>
+		<string>しるしゅるー</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>タギングル</string>
+		<key>shortcut</key>
+		<string>たぎんぐる</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>アノクサ</string>
 		<key>shortcut</key>
 		<string>あのくさ</string>
@@ -24190,147 +23896,57 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コレクレー</string>
+		<string>ノノクラゲ</string>
 		<key>shortcut</key>
-		<string>これくれー</string>
+		<string>ののくらげ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>サーフゴー</string>
+		<string>リククラゲ</string>
 		<key>shortcut</key>
-		<string>さーふごー</string>
+		<string>りくくらげ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>イダイナキバ</string>
+		<string>ガケガニ</string>
 		<key>shortcut</key>
-		<string>いだいなきば</string>
+		<string>がけがに</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アラブルタケ</string>
+		<string>カプサイジ</string>
 		<key>shortcut</key>
-		<string>あらぶるたけ</string>
+		<string>かぷさいじ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>???</string>
+		<string>スコヴィラン</string>
 		<key>shortcut</key>
-		<string>???</string>
+		<string>すこヴぃらん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>スナノケガワ</string>
+		<string>シガロコ</string>
 		<key>shortcut</key>
-		<string>すなのけがわ</string>
+		<string>しがろこ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>サケブシッポ</string>
+		<string>ベラカス</string>
 		<key>shortcut</key>
-		<string>さけぶしっぽ</string>
+		<string>べらかす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ハバタクカミ</string>
+		<string>ヒラヒナ</string>
 		<key>shortcut</key>
-		<string>はばたくかみ</string>
+		<string>ひらひな</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>チヲハウハネ</string>
+		<string>クエスパトラ</string>
 		<key>shortcut</key>
-		<string>ちをはうはね</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>トドロクツキ</string>
-		<key>shortcut</key>
-		<string>とどろくつき</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>テツノワダチ</string>
-		<key>shortcut</key>
-		<string>てつのわだち</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>???</string>
-		<key>shortcut</key>
-		<string>???</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>テツノドクガ</string>
-		<key>shortcut</key>
-		<string>てつのどくが</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>テツノカイナ</string>
-		<key>shortcut</key>
-		<string>てつのかいな</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>テツノコウベ</string>
-		<key>shortcut</key>
-		<string>てつのこうべ</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>テツノイバラ</string>
-		<key>shortcut</key>
-		<string>てつのいばら</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>テツノツツミ</string>
-		<key>shortcut</key>
-		<string>てつのつつみ</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>テツノブジン</string>
-		<key>shortcut</key>
-		<string>てつのぶじん</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>ディンルー</string>
-		<key>shortcut</key>
-		<string>でぃんるー</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>パオジアン</string>
-		<key>shortcut</key>
-		<string>ぱおじあん</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>チオンジェン</string>
-		<key>shortcut</key>
-		<string>ちおんじぇん</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>イーユイ</string>
-		<key>shortcut</key>
-		<string>いーゆい</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>コライドン</string>
-		<key>shortcut</key>
-		<string>こらいどん</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>ミライドン</string>
-		<key>shortcut</key>
-		<string>みらいどん</string>
+		<string>くえすぱとら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -24352,45 +23968,117 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カルボウ</string>
+		<string>ウミディグダ</string>
 		<key>shortcut</key>
-		<string>かるぼう</string>
+		<string>うみでぃぐだ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>グレンアルマ</string>
+		<string>ウミトリオ</string>
 		<key>shortcut</key>
-		<string>ぐれんあるま</string>
+		<string>うみとりお</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ソウブレイズ</string>
+		<string>オトシドリ</string>
 		<key>shortcut</key>
-		<string>そうぶれいず</string>
+		<string>おとしどり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ノノクラゲ</string>
+		<string>ナミイルカ</string>
 		<key>shortcut</key>
-		<string>ののくらげ</string>
+		<string>なみいるか</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>リククラゲ</string>
+		<string>イルカマン</string>
 		<key>shortcut</key>
-		<string>りくくらげ</string>
+		<string>いるかまん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドドゲザン</string>
+		<string>ブロロン</string>
 		<key>shortcut</key>
-		<string>どどげざん</string>
+		<string>ぶろろん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドオー</string>
+		<string>ブロロローム</string>
 		<key>shortcut</key>
-		<string>どおー</string>
+		<string>ぶろろろーむ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>モトトカゲ</string>
+		<key>shortcut</key>
+		<string>もととかげ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ミミズズ</string>
+		<key>shortcut</key>
+		<string>みみずず</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>キラーメ</string>
+		<key>shortcut</key>
+		<string>きらーめ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>キラフロル</string>
+		<key>shortcut</key>
+		<string>きらふろる</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ボチ</string>
+		<key>shortcut</key>
+		<string>ぼち</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ハカドッグ</string>
+		<key>shortcut</key>
+		<string>はかどっぐ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>カラミンゴ</string>
+		<key>shortcut</key>
+		<string>からみんご</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>アルクジラ</string>
+		<key>shortcut</key>
+		<string>あるくじら</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ハルクジラ</string>
+		<key>shortcut</key>
+		<string>はるくじら</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ミガルーサ</string>
+		<key>shortcut</key>
+		<string>みがるーさ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ヘイラッシャ</string>
+		<key>shortcut</key>
+		<string>へいらっしゃ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>シャリタツ</string>
+		<key>shortcut</key>
+		<string>しゃりたつ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -24400,45 +24088,189 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wyrdeer</string>
+		<string>ドオー</string>
 		<key>shortcut</key>
-		<string>あやしし</string>
+		<string>どおー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kleavor</string>
+		<string>リキキリン</string>
 		<key>shortcut</key>
-		<string>ばさぎり</string>
+		<string>りききりん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ursaluna</string>
+		<string>ノココッチ</string>
 		<key>shortcut</key>
-		<string>がちぐま</string>
+		<string>のここっち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Basculegion</string>
+		<string>ドドゲザン</string>
 		<key>shortcut</key>
-		<string>いだいとう</string>
+		<string>どどげざん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sneasler</string>
+		<string>イダイナキバ</string>
 		<key>shortcut</key>
-		<string>おおにゅーら</string>
+		<string>いだいなきば</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Overqwil</string>
+		<string>サケブシッポ</string>
 		<key>shortcut</key>
-		<string>はりーまん</string>
+		<string>さけぶしっぽ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Enamorus</string>
+		<string>アラブルタケ</string>
 		<key>shortcut</key>
-		<string>らぶとろす</string>
+		<string>あらぶるたけ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ハバタクカミ</string>
+		<key>shortcut</key>
+		<string>はばたくかみ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>チヲハウハネ</string>
+		<key>shortcut</key>
+		<string>ちをはうはね</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>スナノケガワ</string>
+		<key>shortcut</key>
+		<string>すなのけがわ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>テツノワダチ</string>
+		<key>shortcut</key>
+		<string>てつのわだち</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>テツノツツミ</string>
+		<key>shortcut</key>
+		<string>てつのつつみ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>テツノカイナ</string>
+		<key>shortcut</key>
+		<string>てつのかいな</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>テツノコウベ</string>
+		<key>shortcut</key>
+		<string>てつのこうべ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>テツノドクガ</string>
+		<key>shortcut</key>
+		<string>てつのどくが</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>テツノイバラ</string>
+		<key>shortcut</key>
+		<string>てつのいばら</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>セビエ</string>
+		<key>shortcut</key>
+		<string>せびえ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>セゴール</string>
+		<key>shortcut</key>
+		<string>せごーる</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>セグレイブ</string>
+		<key>shortcut</key>
+		<string>せぐれいぶ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>コレクレー</string>
+		<key>shortcut</key>
+		<string>これくれー</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>サーフゴー</string>
+		<key>shortcut</key>
+		<string>さーふごー</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>チオンジェン</string>
+		<key>shortcut</key>
+		<string>ちおんじぇん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>パオジアン</string>
+		<key>shortcut</key>
+		<string>ぱおじあん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ディンルー</string>
+		<key>shortcut</key>
+		<string>でぃんるー</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>イーユイ</string>
+		<key>shortcut</key>
+		<string>いーゆい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>トドロクツキ</string>
+		<key>shortcut</key>
+		<string>とどろくつき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>テツノブジン</string>
+		<key>shortcut</key>
+		<string>てつのぶじん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>コライドン</string>
+		<key>shortcut</key>
+		<string>こらいどん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ミライドン</string>
+		<key>shortcut</key>
+		<string>みらいどん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ウネルミナモ</string>
+		<key>shortcut</key>
+		<string>うねるみなも</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>テツノイサハ</string>
+		<key>shortcut</key>
+		<string>てつのいさは</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -24508,12 +24340,6 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dudunsparce</string>
-		<key>shortcut</key>
-		<string>のここっち</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
 		<string>Tarountula</string>
 		<key>shortcut</key>
 		<string>たまんちゅら</string>
@@ -24538,81 +24364,45 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rellor</string>
+		<string>Pawmi</string>
 		<key>shortcut</key>
-		<string>しがろこ</string>
+		<string>ぱも</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rabsca</string>
+		<string>Pawmo</string>
 		<key>shortcut</key>
-		<string>べらかす</string>
+		<string>ぱもっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Greavard</string>
+		<string>Pawmot</string>
 		<key>shortcut</key>
-		<string>ぼち</string>
+		<string>ぱーもっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Houndstone</string>
+		<string>Tandemaus</string>
 		<key>shortcut</key>
-		<string>はかどっぐ</string>
+		<string>わっかねずみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Flittle</string>
+		<string>Maushold</string>
 		<key>shortcut</key>
-		<string>ひらひな</string>
+		<string>いっかねずみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Espathra</string>
+		<string>Fidough</string>
 		<key>shortcut</key>
-		<string>くえすぱとら</string>
+		<string>ぱぴもっち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Farigiraf</string>
+		<string>Dachsbun</string>
 		<key>shortcut</key>
-		<string>りききりん</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Wiglett</string>
-		<key>shortcut</key>
-		<string>うみでぃぐだ</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Wugtrio</string>
-		<key>shortcut</key>
-		<string>うみとりお</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Dondozo</string>
-		<key>shortcut</key>
-		<string>へいらっしゃ</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Veluza</string>
-		<key>shortcut</key>
-		<string>みがるーさ</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Finizen</string>
-		<key>shortcut</key>
-		<string>なみいるか</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Palafin</string>
-		<key>shortcut</key>
-		<string>いるかまん</string>
+		<string>ばうっつぇる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -24634,153 +24424,9 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Capsakid</string>
-		<key>shortcut</key>
-		<string>かぷさいじ</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Scovillain</string>
-		<key>shortcut</key>
-		<string>すこヴぃらん</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Tadbulb</string>
-		<key>shortcut</key>
-		<string>ずぴか</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Bellibolt</string>
-		<key>shortcut</key>
-		<string>はらばりー</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Varoom</string>
-		<key>shortcut</key>
-		<string>ぶろろん</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Revavroom</string>
-		<key>shortcut</key>
-		<string>ぶろろろーむ</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Orthworm</string>
-		<key>shortcut</key>
-		<string>みみずず</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Tandemaus</string>
-		<key>shortcut</key>
-		<string>わっかねずみ</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Maushold</string>
-		<key>shortcut</key>
-		<string>いっかねずみ</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Cetoddle</string>
-		<key>shortcut</key>
-		<string>あるくじら</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Cetitan</string>
-		<key>shortcut</key>
-		<string>はるくじら</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Frigibax</string>
-		<key>shortcut</key>
-		<string>せびえ</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Arctibax</string>
-		<key>shortcut</key>
-		<string>せごーる</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Baxcalibur</string>
-		<key>shortcut</key>
-		<string>せぐれいぶ</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Tatsugiri</string>
-		<key>shortcut</key>
-		<string>しゃりたつ</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Cyclizar</string>
-		<key>shortcut</key>
-		<string>もととかげ</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Pawmi</string>
-		<key>shortcut</key>
-		<string>ぱも</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Pawmo</string>
-		<key>shortcut</key>
-		<string>ぱもっと</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Pawmot</string>
-		<key>shortcut</key>
-		<string>ぱーもっと</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Wattrel</string>
-		<key>shortcut</key>
-		<string>かいでん</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Kilowattrel</string>
-		<key>shortcut</key>
-		<string>たいかいでん</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Bombirdier</string>
-		<key>shortcut</key>
-		<string>おとしどり</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Squawkabily</string>
+		<string>Squawkabilly</string>
 		<key>shortcut</key>
 		<string>いきりんこ</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Flamigo</string>
-		<key>shortcut</key>
-		<string>からみんご</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Klawf</string>
-		<key>shortcut</key>
-		<string>がけがに</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -24802,39 +24448,45 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Glimmet</string>
+		<string>Charcadet</string>
 		<key>shortcut</key>
-		<string>きらーめ</string>
+		<string>かるぼう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Glimmora</string>
+		<string>Armarouge</string>
 		<key>shortcut</key>
-		<string>きらふろる</string>
+		<string>ぐれんあるま</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Shroodle</string>
+		<string>Ceruledge</string>
 		<key>shortcut</key>
-		<string>しるしゅるー</string>
+		<string>そうぶれいず</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Grafaiai</string>
+		<string>Tadbulb</string>
 		<key>shortcut</key>
-		<string>たぎんぐる</string>
+		<string>ずぴか</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Fidough</string>
+		<string>Bellibolt</string>
 		<key>shortcut</key>
-		<string>ぱぴもっち</string>
+		<string>はらばりー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dachsbun</string>
+		<string>Wattrel</string>
 		<key>shortcut</key>
-		<string>ばうっつぇる</string>
+		<string>かいでん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Kilowattrel</string>
+		<key>shortcut</key>
+		<string>たいかいでん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -24850,159 +24502,81 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>Shroodle</string>
+		<key>shortcut</key>
+		<string>しるしゅるー</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Grafaiai</string>
+		<key>shortcut</key>
+		<string>たぎんぐる</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>Bramblin</string>
 		<key>shortcut</key>
 		<string>あのくさ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Brambleghost</string>
+		<string>Brambleghast</string>
 		<key>shortcut</key>
 		<string>あのほらぐさ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gimmighoul</string>
+		<string>Toedscool</string>
 		<key>shortcut</key>
-		<string>これくれー</string>
+		<string>ののくらげ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gholdengo</string>
+		<string>Toedscruel</string>
 		<key>shortcut</key>
-		<string>さーふごー</string>
+		<string>りくくらげ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Great Tusk</string>
+		<string>Klawf</string>
 		<key>shortcut</key>
-		<string>いだいなきば</string>
+		<string>がけがに</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Brute Bonnet</string>
+		<string>Capsakid</string>
 		<key>shortcut</key>
-		<string>あらぶるたけ</string>
+		<string>かぷさいじ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>???</string>
+		<string>Scovillain</string>
 		<key>shortcut</key>
-		<string>???</string>
+		<string>すこヴぃらん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sandy Shocks</string>
+		<string>Rellor</string>
 		<key>shortcut</key>
-		<string>すなのけがわ</string>
+		<string>しがろこ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Scream Tail</string>
+		<string>Rabsca</string>
 		<key>shortcut</key>
-		<string>さけぶしっぽ</string>
+		<string>べらかす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Flutter Mane</string>
+		<string>Flittle</string>
 		<key>shortcut</key>
-		<string>はばたくかみ</string>
+		<string>ひらひな</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Slither Wing</string>
+		<string>Espathra</string>
 		<key>shortcut</key>
-		<string>ちをはうはね</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Roaring Moon</string>
-		<key>shortcut</key>
-		<string>とどろくつき</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Iron Treads</string>
-		<key>shortcut</key>
-		<string>てつのわだち</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>???</string>
-		<key>shortcut</key>
-		<string>???</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Iron Moth</string>
-		<key>shortcut</key>
-		<string>てつのどくが</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Iron Hands</string>
-		<key>shortcut</key>
-		<string>てつのかいな</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Iron Jugulis</string>
-		<key>shortcut</key>
-		<string>てつのこうべ</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Iron Thorns</string>
-		<key>shortcut</key>
-		<string>てつのいばら</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Iron Bundle</string>
-		<key>shortcut</key>
-		<string>てつのつつみ</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Iron Valiant</string>
-		<key>shortcut</key>
-		<string>てつのぶじん</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Ting-Lu</string>
-		<key>shortcut</key>
-		<string>でぃんるー</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Chien-Pao</string>
-		<key>shortcut</key>
-		<string>ぱおじあん</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Wo-Chien</string>
-		<key>shortcut</key>
-		<string>ちおんじぇん</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Chi-Yu</string>
-		<key>shortcut</key>
-		<string>いーゆい</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Koraidon</string>
-		<key>shortcut</key>
-		<string>こらいどん</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>Miraidon</string>
-		<key>shortcut</key>
-		<string>みらいどん</string>
+		<string>くえすぱとら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -25024,39 +24598,123 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Charcadet</string>
+		<string>Wiglett</string>
 		<key>shortcut</key>
-		<string>かるぼう</string>
+		<string>うみでぃぐだ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Armarouge</string>
+		<string>Wugtrio</string>
 		<key>shortcut</key>
-		<string>ぐれんあるま</string>
+		<string>うみとりお</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ceruledge</string>
+		<string>Bombirdier</string>
 		<key>shortcut</key>
-		<string>そうぶれいず</string>
+		<string>おとしどり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Toedscool</string>
+		<string>Finizen</string>
 		<key>shortcut</key>
-		<string>ののくらげ</string>
+		<string>なみいるか</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Toedscruel</string>
+		<string>Palafin</string>
 		<key>shortcut</key>
-		<string>りくくらげ</string>
+		<string>いるかまん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kingambit</string>
+		<string>Varoom</string>
 		<key>shortcut</key>
-		<string>どどげざん</string>
+		<string>ぶろろん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Revavroom</string>
+		<key>shortcut</key>
+		<string>ぶろろろーむ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Cyclizar</string>
+		<key>shortcut</key>
+		<string>もととかげ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Orthworm</string>
+		<key>shortcut</key>
+		<string>みみずず</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Glimmet</string>
+		<key>shortcut</key>
+		<string>きらーめ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Glimmora</string>
+		<key>shortcut</key>
+		<string>きらふろる</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Greavard</string>
+		<key>shortcut</key>
+		<string>ぼち</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Houndstone</string>
+		<key>shortcut</key>
+		<string>はかどっぐ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Flamigo</string>
+		<key>shortcut</key>
+		<string>からみんご</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Cetoddle</string>
+		<key>shortcut</key>
+		<string>あるくじら</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Cetitan</string>
+		<key>shortcut</key>
+		<string>はるくじら</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Veluza</string>
+		<key>shortcut</key>
+		<string>みがるーさ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Dondozo</string>
+		<key>shortcut</key>
+		<string>へいらっしゃ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Tatsugiri</string>
+		<key>shortcut</key>
+		<string>しゃりたつ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Annihilape</string>
+		<key>shortcut</key>
+		<string>このよざる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -25066,9 +24724,183 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Annihilape</string>
+		<string>Farigiraf</string>
 		<key>shortcut</key>
-		<string>このよざる</string>
+		<string>りききりん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Dudunsparce</string>
+		<key>shortcut</key>
+		<string>のここっち</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Kingambit</string>
+		<key>shortcut</key>
+		<string>どどげざん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Great Tusk</string>
+		<key>shortcut</key>
+		<string>いだいなきば</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Scream Tail</string>
+		<key>shortcut</key>
+		<string>さけぶしっぽ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Brute Bonnet</string>
+		<key>shortcut</key>
+		<string>あらぶるたけ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Flutter Mane</string>
+		<key>shortcut</key>
+		<string>はばたくかみ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Slither Wing</string>
+		<key>shortcut</key>
+		<string>ちをはうはね</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Sandy Shocks</string>
+		<key>shortcut</key>
+		<string>すなのけがわ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Iron Treads</string>
+		<key>shortcut</key>
+		<string>てつのわだち</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Iron Bundle</string>
+		<key>shortcut</key>
+		<string>てつのつつみ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Iron Hands</string>
+		<key>shortcut</key>
+		<string>てつのかいな</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Iron Jugulis</string>
+		<key>shortcut</key>
+		<string>てつのこうべ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Iron Moth</string>
+		<key>shortcut</key>
+		<string>てつのどくが</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Iron Thorns</string>
+		<key>shortcut</key>
+		<string>てつのいばら</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Frigibax</string>
+		<key>shortcut</key>
+		<string>せびえ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Arctibax</string>
+		<key>shortcut</key>
+		<string>せごーる</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Baxcalibur</string>
+		<key>shortcut</key>
+		<string>せぐれいぶ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Gimmighoul</string>
+		<key>shortcut</key>
+		<string>これくれー</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Gholdengo</string>
+		<key>shortcut</key>
+		<string>さーふごー</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Wo-Chien</string>
+		<key>shortcut</key>
+		<string>ちおんじぇん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Chien-Pao</string>
+		<key>shortcut</key>
+		<string>ぱおじあん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Ting-Lu</string>
+		<key>shortcut</key>
+		<string>でぃんるー</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Chi-Yu</string>
+		<key>shortcut</key>
+		<string>いーゆい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Roaring Moon</string>
+		<key>shortcut</key>
+		<string>とどろくつき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Iron Valiant</string>
+		<key>shortcut</key>
+		<string>てつのぶじん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Koraidon</string>
+		<key>shortcut</key>
+		<string>こらいどん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Miraidon</string>
+		<key>shortcut</key>
+		<string>みらいどん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Walking Wake</string>
+		<key>shortcut</key>
+		<string>うねるみなも</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Iron Leaves</string>
+		<key>shortcut</key>
+		<string>てつのいさは</string>
 	</dict>
 </array>
 </plist>
