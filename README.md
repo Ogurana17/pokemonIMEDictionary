@@ -3,14 +3,10 @@
 ![Dec-19-2022 10-09-40](https://user-images.githubusercontent.com/36149909/208329894-553013c3-cead-442e-bbe6-19a32d0d74c6.gif)
 
 ポケモンの名前を簡単に出せるようにする辞書。
-別ファイルにてポケモンの技も用意しました。（英語未対応）
+`特性`,`木の実`,`アイテム`,`技`,`性格`も用意しました。
 
 Googleスプレッドシートで強引に作成しています。
-
-- [Name](https://docs.google.com/spreadsheets/d/1N337y8ql4F_ZYNKLs0u6JE93hcnkHD8nGOKMuC-Q7VI/edit)
-- [Move]()
-- [Ability]()
-- [Item]()
+<https://drive.google.com/drive/folders/1oKhRNsdcKU27HQ4VobmATZQvXWYdvYtm>
 
 ## 導入
 
