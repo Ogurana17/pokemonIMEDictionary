@@ -1,0 +1,934 @@
+はたく	Pound	固有名詞
+からてちょっぷ	Karate Chop	固有名詞
+おうふくびんた	Double Slap	固有名詞
+れんぞくぱんち	Comet Punch	固有名詞
+めがとんぱんち	Mega Punch	固有名詞
+ねこにこばん	Pay Day	固有名詞
+ほのおのぱんち	Fire Punch	固有名詞
+れいとうぱんち	Ice Punch	固有名詞
+かみなりぱんち	Thunder Punch	固有名詞
+ひっかく	Scratch	固有名詞
+はさむ	Vise Grip	固有名詞
+はさみぎろちん	Guillotine	固有名詞
+かまいたち	Razor Wind	固有名詞
+つるぎのまい	Swords Dance	固有名詞
+いあいぎり	Cut	固有名詞
+かぜおこし	Gust	固有名詞
+つばさでうつ	Wing Attack	固有名詞
+ふきとばし	Whirlwind	固有名詞
+そらをとぶ	Fly	固有名詞
+しめつける	Bind	固有名詞
+たたきつける	Slam	固有名詞
+つるのむち	Vine Whip	固有名詞
+ふみつけ	Stomp	固有名詞
+にどげり	Double Kick	固有名詞
+めがとんきっく	Mega Kick	固有名詞
+とびげり	Jump Kick	固有名詞
+まわしげり	Rolling Kick	固有名詞
+すなかけ	Sand Attack	固有名詞
+ずつき	Headbutt	固有名詞
+つのでつく	Horn Attack	固有名詞
+みだれづき	Fury Attack	固有名詞
+つのどりる	Horn Drill	固有名詞
+たいあたり	Tackle	固有名詞
+のしかかり	Body Slam	固有名詞
+まきつく	Wrap	固有名詞
+とっしん	Take Down	固有名詞
+あばれる	Thrash	固有名詞
+すてみたっくる	Double-Edge	固有名詞
+しっぽをふる	Tail Whip	固有名詞
+どくばり	Poison Sting	固有名詞
+だぶるにーどる	Twineedle	固有名詞
+みさいるばり	Pin Missile	固有名詞
+にらみつける	Leer	固有名詞
+かみつく	Bite	固有名詞
+なきごえ	Growl	固有名詞
+ほえる	Roar	固有名詞
+うたう	Sing	固有名詞
+ちょうおんぱ	Supersonic	固有名詞
+そにっくぶーむ	Sonic Boom	固有名詞
+かなしばり	Disable	固有名詞
+ようかいえき	Acid	固有名詞
+ひのこ	Ember	固有名詞
+かえんほうしゃ	Flamethrower	固有名詞
+しろいきり	Mist	固有名詞
+みずでっぽう	Water Gun	固有名詞
+はいどろぽんぷ	Hydro Pump	固有名詞
+なみのり	Surf	固有名詞
+れいとうびーむ	Ice Beam	固有名詞
+ふぶき	Blizzard	固有名詞
+さいけこうせん	Psybeam	固有名詞
+ばぶるこうせん	Bubble Beam	固有名詞
+おーろらびーむ	Aurora Beam	固有名詞
+はかいこうせん	Hyper Beam	固有名詞
+つつく	Peck	固有名詞
+どりるくちばし	Drill Peck	固有名詞
+じごくぐるま	Submission	固有名詞
+けたぐり	Low Kick	固有名詞
+かうんたー	Counter	固有名詞
+ちきゅうなげ	Seismic Toss	固有名詞
+かいりき	Strength	固有名詞
+すいとる	Absorb	固有名詞
+めがどれいん	Mega Drain	固有名詞
+やどりぎのたね	Leech Seed	固有名詞
+せいちょう	Growth	固有名詞
+はっぱかったー	Razor Leaf	固有名詞
+そーらーびーむ	Solar Beam	固有名詞
+どくのこな	Poison Powder	固有名詞
+しびれごな	Stun Spore	固有名詞
+ねむりごな	Sleep Powder	固有名詞
+はなびらのまい	Petal Dance	固有名詞
+いとをはく	String Shot	固有名詞
+りゅうのいかり	Dragon Rage	固有名詞
+ほのおのうず	Fire Spin	固有名詞
+でんきしょっく	Thunder Shock	固有名詞
+じゅうまんぼると	Thunderbolt	固有名詞
+でんじは	Thunder Wave	固有名詞
+かみなり	Thunder	固有名詞
+いわおとし	Rock Throw	固有名詞
+じしん	Earthquake	固有名詞
+じわれ	Fissure	固有名詞
+あなをほる	Dig	固有名詞
+どくどく	Toxic	固有名詞
+ねんりき	Confusion	固有名詞
+さいこきねしす	Psychic	固有名詞
+さいみんじゅつ	Hypnosis	固有名詞
+よがのぽーず	Meditate	固有名詞
+こうそくいどう	Agility	固有名詞
+でんこうせっか	Quick Attack	固有名詞
+いかり	Rage	固有名詞
+てれぽーと	Teleport	固有名詞
+ないとへっど	Night Shade	固有名詞
+ものまね	Mimic	固有名詞
+いやなおと	Screech	固有名詞
+かげぶんしん	Double Team	固有名詞
+じこさいせい	Recover	固有名詞
+かたくなる	Harden	固有名詞
+ちいさくなる	Minimize	固有名詞
+えんまく	Smokescreen	固有名詞
+あやしいひかり	Confuse Ray	固有名詞
+からにこもる	Withdraw	固有名詞
+まるくなる	Defense Curl	固有名詞
+ばりあー	Barrier	固有名詞
+ひかりのかべ	Light Screen	固有名詞
+くろいきり	Haze	固有名詞
+りふれくたー	Reflect	固有名詞
+きあいだめ	Focus Energy	固有名詞
+がまん	Bide	固有名詞
+ゆびをふる	Metronome	固有名詞
+おうむがえし	Mirror Move	固有名詞
+じばく	Self-Destruct	固有名詞
+たまごばくだん	Egg Bomb	固有名詞
+したでなめる	Lick	固有名詞
+すもっぐ	Smog	固有名詞
+へどろこうげき	Sludge	固有名詞
+ほねこんぼう	Bone Club	固有名詞
+だいもんじ	Fire Blast	固有名詞
+たきのぼり	Waterfall	固有名詞
+からではさむ	Clamp	固有名詞
+すぴーどすたー	Swift	固有名詞
+ろけっとずつき	Skull Bash	固有名詞
+とげきゃのん	Spike Cannon	固有名詞
+からみつく	Constrict	固有名詞
+どわすれ	Amnesia	固有名詞
+すぷーんまげ	Kinesis	固有名詞
+たまごうみ	Soft-Boiled	固有名詞
+とびひざげり	High Jump Kick	固有名詞
+へびにらみ	Glare	固有名詞
+ゆめくい	Dream Eater	固有名詞
+どくがす	Poison Gas	固有名詞
+たまなげ	Barrage	固有名詞
+きゅうけつ	Leech Life	固有名詞
+あくまのきっす	Lovely Kiss	固有名詞
+ごっどばーど	Sky Attack	固有名詞
+へんしん	Transform	固有名詞
+あわ	Bubble	固有名詞
+ぴよぴよぱんち	Dizzy Punch	固有名詞
+きのこのほうし	Spore	固有名詞
+ふらっしゅ	Flash	固有名詞
+さいこうぇーぶ	Psywave	固有名詞
+はねる	Splash	固有名詞
+とける	Acid Armor	固有名詞
+くらぶはんまー	Crabhammer	固有名詞
+だいばくはつ	Explosion	固有名詞
+みだれひっかき	Fury Swipes	固有名詞
+ほねぶーめらん	Bonemerang	固有名詞
+ねむる	Rest	固有名詞
+いわなだれ	Rock Slide	固有名詞
+ひっさつまえば	Hyper Fang	固有名詞
+かくばる	Sharpen	固有名詞
+てくすちゃー	Conversion	固有名詞
+とらいあたっく	Tri Attack	固有名詞
+いかりのまえば	Super Fang	固有名詞
+きりさく	Slash	固有名詞
+みがわり	Substitute	固有名詞
+わるあがき	Struggle	固有名詞
+すけっち	Sketch	固有名詞
+とりぷるきっく	Triple Kick	固有名詞
+どろぼう	Thief	固有名詞
+くものす	Spider Web	固有名詞
+こころのめ	Mind Reader	固有名詞
+あくむ	Nightmare	固有名詞
+かえんぐるま	Flame Wheel	固有名詞
+いびき	Snore	固有名詞
+のろい	Curse	固有名詞
+じたばた	Flail	固有名詞
+てくすちゃーつー	Conversion 2	固有名詞
+えあろぶらすと	Aeroblast	固有名詞
+わたほうし	Cotton Spore	固有名詞
+きしかいせい	Reversal	固有名詞
+うらみ	Spite	固有名詞
+こなゆき	Powder Snow	固有名詞
+まもる	Protect	固有名詞
+まっはぱんち	Mach Punch	固有名詞
+こわいかお	Scary Face	固有名詞
+だましうち	Feint Attack	固有名詞
+てんしのきっす	Sweet Kiss	固有名詞
+はらだいこ	Belly Drum	固有名詞
+へどろばくだん	Sludge Bomb	固有名詞
+どろかけ	Mud-Slap	固有名詞
+おくたんほう	Octazooka	固有名詞
+まきびし	Spikes	固有名詞
+でんじほう	Zap Cannon	固有名詞
+みやぶる	Foresight	固有名詞
+みちづれ	Destiny Bond	固有名詞
+ほろびのうた	Perish Song	固有名詞
+こごえるかぜ	Icy Wind	固有名詞
+みきり	Detect	固有名詞
+ぼーんらっしゅ	Bone Rush	固有名詞
+ろっくおん	Lock-On	固有名詞
+げきりん	Outrage	固有名詞
+すなあらし	Sandstorm	固有名詞
+ぎがどれいん	Giga Drain	固有名詞
+こらえる	Endure	固有名詞
+あまえる	Charm	固有名詞
+ころがる	Rollout	固有名詞
+みねうち	False Swipe	固有名詞
+いばる	Swagger	固有名詞
+みるくのみ	Milk Drink	固有名詞
+すぱーく	Spark	固有名詞
+れんぞくぎり	Fury Cutter	固有名詞
+はがねのつばさ	Steel Wing	固有名詞
+くろいまなざし	Mean Look	固有名詞
+めろめろ	Attract	固有名詞
+ねごと	Sleep Talk	固有名詞
+いやしのすず	Heal Bell	固有名詞
+おんがえし	Return	固有名詞
+ぷれぜんと	Present	固有名詞
+やつあたり	Frustration	固有名詞
+しんぴのまもり	Safeguard	固有名詞
+いたみわけ	Pain Split	固有名詞
+せいなるほのお	Sacred Fire	固有名詞
+まぐにちゅーど	Magnitude	固有名詞
+ばくれつぱんち	Dynamic Punch	固有名詞
+めがほーん	Megahorn	固有名詞
+りゅうのいぶき	Dragon Breath	固有名詞
+ばとんたっち	Baton Pass	固有名詞
+あんこーる	Encore	固有名詞
+おいうち	Pursuit	固有名詞
+こうそくすぴん	Rapid Spin	固有名詞
+あまいかおり	Sweet Scent	固有名詞
+あいあんてーる	Iron Tail	固有名詞
+めたるくろー	Metal Claw	固有名詞
+あてみなげ	Vital Throw	固有名詞
+あさのひざし	Morning Sun	固有名詞
+こうごうせい	Synthesis	固有名詞
+つきのひかり	Moonlight	固有名詞
+めざめるぱわー	Hidden Power	固有名詞
+くろすちょっぷ	Cross Chop	固有名詞
+たつまき	Twister	固有名詞
+あまごい	Rain Dance	固有名詞
+にほんばれ	Sunny Day	固有名詞
+かみくだく	Crunch	固有名詞
+みらーこーと	Mirror Coat	固有名詞
+じこあんじ	Psych Up	固有名詞
+しんそく	Extreme Speed	固有名詞
+げんしのちから	Ancient Power	固有名詞
+しゃどーぼーる	Shadow Ball	固有名詞
+みらいよち	Future Sight	固有名詞
+いわくだき	Rock Smash	固有名詞
+うずしお	Whirlpool	固有名詞
+ふくろだたき	Beat Up	固有名詞
+ねこだまし	Fake Out	固有名詞
+さわぐ	Uproar	固有名詞
+たくわえる	Stockpile	固有名詞
+はきだす	Spit Up	固有名詞
+のみこむ	Swallow	固有名詞
+ねっぷう	Heat Wave	固有名詞
+あられ	Hail	固有名詞
+いちゃもん	Torment	固有名詞
+おだてる	Flatter	固有名詞
+おにび	Will-O-Wisp	固有名詞
+おきみやげ	Memento	固有名詞
+からげんき	Facade	固有名詞
+きあいぱんち	Focus Punch	固有名詞
+きつけ	Smelling Salts	固有名詞
+このゆびとまれ	Follow Me	固有名詞
+しぜんのちから	Nature Power	固有名詞
+じゅうでん	Charge	固有名詞
+ちょうはつ	Taunt	固有名詞
+てだすけ	Helping Hand	固有名詞
+とりっく	Trick	固有名詞
+なりきり	Role Play	固有名詞
+ねがいごと	Wish	固有名詞
+ねこのて	Assist	固有名詞
+ねをはる	Ingrain	固有名詞
+ばかぢから	Superpower	固有名詞
+まじっくこーと	Magic Coat	固有名詞
+りさいくる	Recycle	固有名詞
+りべんじ	Revenge	固有名詞
+かわらわり	Brick Break	固有名詞
+あくび	Yawn	固有名詞
+はたきおとす	Knock Off	固有名詞
+がむしゃら	Endeavor	固有名詞
+ふんか	Eruption	固有名詞
+すきるすわっぷ	Skill Swap	固有名詞
+ふういん	Imprison	固有名詞
+りふれっしゅ	Refresh	固有名詞
+おんねん	Grudge	固有名詞
+よこどり	Snatch	固有名詞
+ひみつのちから	Secret Power	固有名詞
+だいびんぐ	Dive	固有名詞
+つっぱり	Arm Thrust	固有名詞
+ほごしょく	Camouflage	固有名詞
+ほたるび	Tail Glow	固有名詞
+らすたーぱーじ	Luster Purge	固有名詞
+みすとぼーる	Mist Ball	固有名詞
+ふぇざーだんす	Feather Dance	固有名詞
+ふらふらだんす	Teeter Dance	固有名詞
+ぶれいずきっく	Blaze Kick	固有名詞
+どろあそび	Mud Sport	固有名詞
+あいすぼーる	Ice Ball	固有名詞
+にーどるあーむ	Needle Arm	固有名詞
+なまける	Slack Off	固有名詞
+はいぱーぼいす	Hyper Voice	固有名詞
+どくどくのきば	Poison Fang	固有名詞
+ぶれいくくろー	Crush Claw	固有名詞
+ぶらすとばーん	Blast Burn	固有名詞
+はいどろかのん	Hydro Cannon	固有名詞
+こめっとぱんち	Meteor Mash	固有名詞
+おどろかす	Astonish	固有名詞
+うぇざーぼーる	Weather Ball	固有名詞
+あろませらぴー	Aromatherapy	固有名詞
+うそなき	Fake Tears	固有名詞
+えあかったー	Air Cutter	固有名詞
+おーばーひーと	Overheat	固有名詞
+かぎわける	Odor Sleuth	固有名詞
+がんせきふうじ	Rock Tomb	固有名詞
+ぎんいろのかぜ	Silver Wind	固有名詞
+きんぞくおん	Metal Sound	固有名詞
+くさぶえ	Grass Whistle	固有名詞
+くすぐる	Tickle	固有名詞
+こすもぱわー	Cosmic Power	固有名詞
+しおふき	Water Spout	固有名詞
+しぐなるびーむ	Signal Beam	固有名詞
+しゃどーぱんち	Shadow Punch	固有名詞
+じんつうりき	Extrasensory	固有名詞
+すかいあっぱー	Sky Uppercut	固有名詞
+すなじごく	Sand Tomb	固有名詞
+ぜったいれいど	Sheer Cold	固有名詞
+だくりゅう	Muddy Water	固有名詞
+たねましんがん	Bullet Seed	固有名詞
+つばめがえし	Aerial Ace	固有名詞
+つららばり	Icicle Spear	固有名詞
+てっぺき	Iron Defense	固有名詞
+とおせんぼう	Block	固有名詞
+とおぼえ	Howl	固有名詞
+どらごんくろー	Dragon Claw	固有名詞
+はーどぷらんと	Frenzy Plant	固有名詞
+びるどあっぷ	Bulk Up	固有名詞
+とびはねる	Bounce	固有名詞
+まっどしょっと	Mud Shot	固有名詞
+ぽいずんてーる	Poison Tail	固有名詞
+ほしがる	Covet	固有名詞
+ぼるてっかー	Volt Tackle	固有名詞
+まじかるりーふ	Magical Leaf	固有名詞
+みずあそび	Water Sport	固有名詞
+めいそう	Calm Mind	固有名詞
+りーふぶれーど	Leaf Blade	固有名詞
+りゅうのまい	Dragon Dance	固有名詞
+ろっくぶらすと	Rock Blast	固有名詞
+でんげきは	Shock Wave	固有名詞
+みずのはどう	Water Pulse	固有名詞
+はめつのねがい	Doom Desire	固有名詞
+さいこぶーすと	Psycho Boost	固有名詞
+はねやすめ	Roost	固有名詞
+じゅうりょく	Gravity	固有名詞
+みらくるあい	Miracle Eye	固有名詞
+めざましびんた	Wake-Up Slap	固有名詞
+あーむはんまー	Hammer Arm	固有名詞
+じゃいろぼーる	Gyro Ball	固有名詞
+いやしのねがい	Healing Wish	固有名詞
+しおみず	Brine	固有名詞
+しぜんのめぐみ	Natural Gift	固有名詞
+ふぇいんと	Feint	固有名詞
+ついばむ	Pluck	固有名詞
+おいかぜ	Tailwind	固有名詞
+つぼをつく	Acupressure	固有名詞
+めたるばーすと	Metal Burst	固有名詞
+とんぼがえり	U-turn	固有名詞
+いんふぁいと	Close Combat	固有名詞
+しっぺがえし	Payback	固有名詞
+だめおし	Assurance	固有名詞
+さしおさえ	Embargo	固有名詞
+なげつける	Fling	固有名詞
+さいこしふと	Psycho Shift	固有名詞
+きりふだ	Trump Card	固有名詞
+かいふくふうじ	Heal Block	固有名詞
+しぼりとる	Wring Out	固有名詞
+ぱわーとりっく	Power Trick	固有名詞
+いえき	Gastro Acid	固有名詞
+おまじない	Lucky Chant	固有名詞
+さきどり	Me First	固有名詞
+まねっこ	Copycat	固有名詞
+ぱわーすわっぷ	Power Swap	固有名詞
+がーどすわっぷ	Guard Swap	固有名詞
+おしおき	Punishment	固有名詞
+とっておき	Last Resort	固有名詞
+なやみのたね	Worry Seed	固有名詞
+ふいうち	Sucker Punch	固有名詞
+どくびし	Toxic Spikes	固有名詞
+はーとすわっぷ	Heart Swap	固有名詞
+あくありんぐ	Aqua Ring	固有名詞
+でんじふゆう	Magnet Rise	固有名詞
+ふれあどらいぶ	Flare Blitz	固有名詞
+はっけい	Force Palm	固有名詞
+はどうだん	Aura Sphere	固有名詞
+ろっくかっと	Rock Polish	固有名詞
+どくづき	Poison Jab	固有名詞
+あくのはどう	Dark Pulse	固有名詞
+つじぎり	Night Slash	固有名詞
+あくあてーる	Aqua Tail	固有名詞
+たねばくだん	Seed Bomb	固有名詞
+えあすらっしゅ	Air Slash	固有名詞
+しざーくろす	X-Scissor	固有名詞
+むしのさざめき	Bug Buzz	固有名詞
+りゅうのはどう	Dragon Pulse	固有名詞
+どらごんだいぶ	Dragon Rush	固有名詞
+ぱわーじぇむ	Power Gem	固有名詞
+どれいんぱんち	Drain Punch	固有名詞
+しんくうは	Vacuum Wave	固有名詞
+きあいだま	Focus Blast	固有名詞
+えなじーぼーる	Energy Ball	固有名詞
+ぶれいぶばーど	Brave Bird	固有名詞
+だいちのちから	Earth Power	固有名詞
+すりかえ	Switcheroo	固有名詞
+ぎがいんぱくと	Giga Impact	固有名詞
+わるだくみ	Nasty Plot	固有名詞
+ばれっとぱんち	Bullet Punch	固有名詞
+ゆきなだれ	Avalanche	固有名詞
+こおりのつぶて	Ice Shard	固有名詞
+しゃどーくろー	Shadow Claw	固有名詞
+かみなりのきば	Thunder Fang	固有名詞
+こおりのきば	Ice Fang	固有名詞
+ほのおのきば	Fire Fang	固有名詞
+かげうち	Shadow Sneak	固有名詞
+どろばくだん	Mud Bomb	固有名詞
+さいこかったー	Psycho Cut	固有名詞
+しねんのずつき	Zen Headbutt	固有名詞
+みらーしょっと	Mirror Shot	固有名詞
+らすたーかのん	Flash Cannon	固有名詞
+ろっくくらいむ	Rock Climb	固有名詞
+きりばらい	Defog	固有名詞
+とりっくるーむ	Trick Room	固有名詞
+りゅうせいぐん	Draco Meteor	固有名詞
+ほうでん	Discharge	固有名詞
+ふんえん	Lava Plume	固有名詞
+りーふすとーむ	Leaf Storm	固有名詞
+ぱわーうぃっぷ	Power Whip	固有名詞
+がんせきほう	Rock Wrecker	固有名詞
+くろすぽいずん	Cross Poison	固有名詞
+だすとしゅーと	Gunk Shot	固有名詞
+あいあんへっど	Iron Head	固有名詞
+まぐねっとぼむ	Magnet Bomb	固有名詞
+すとーんえっじ	Stone Edge	固有名詞
+ゆうわく	Captivate	固有名詞
+すてるすろっく	Stealth Rock	固有名詞
+くさむすび	Grass Knot	固有名詞
+おしゃべり	Chatter	固有名詞
+さばきのつぶて	Judgment	固有名詞
+むしくい	Bug Bite	固有名詞
+ちゃーじびーむ	Charge Beam	固有名詞
+うっどはんまー	Wood Hammer	固有名詞
+あくあじぇっと	Aqua Jet	固有名詞
+こうげきしれい	Attack Order	固有名詞
+ぼうぎょしれい	Defend Order	固有名詞
+かいふくしれい	Heal Order	固有名詞
+もろはのずつき	Head Smash	固有名詞
+だぶるあたっく	Double Hit	固有名詞
+ときのほうこう	Roar of Time	固有名詞
+あくうせつだん	Spacial Rend	固有名詞
+みかづきのまい	Lunar Dance	固有名詞
+にぎりつぶす	Crush Grip	固有名詞
+まぐますとーむ	Magma Storm	固有名詞
+だーくほーる	Dark Void	固有名詞
+しーどふれあ	Seed Flare	固有名詞
+あやしいかぜ	Ominous Wind	固有名詞
+しゃどーだいぶ	Shadow Force	固有名詞
+つめとぎ	Hone Claws	固有名詞
+わいどがーど	Wide Guard	固有名詞
+がーどしぇあ	Guard Split	固有名詞
+ぱわーしぇあ	Power Split	固有名詞
+わんだーるーむ	Wonder Room	固有名詞
+さいこしょっく	Psyshock	固有名詞
+べのむしょっく	Venoshock	固有名詞
+ぼでぃぱーじ	Autotomize	固有名詞
+いかりのこな	Rage Powder	固有名詞
+てれきねしす	Telekinesis	固有名詞
+まじっくるーむ	Magic Room	固有名詞
+うちおとす	Smack Down	固有名詞
+やまあらし	Storm Throw	固有名詞
+はじけるほのお	Flame Burst	固有名詞
+へどろうぇーぶ	Sludge Wave	固有名詞
+ちょうのまい	Quiver Dance	固有名詞
+へびーぼんばー	Heavy Slam	固有名詞
+しんくろのいず	Synchronoise	固有名詞
+えれきぼーる	Electro Ball	固有名詞
+みずびたし	Soak	固有名詞
+にとろちゃーじ	Flame Charge	固有名詞
+とぐろをまく	Coil	固有名詞
+ろーきっく	Low Sweep	固有名詞
+あしっどぼむ	Acid Spray	固有名詞
+いかさま	Foul Play	固有名詞
+しんぷるびーむ	Simple Beam	固有名詞
+なかまづくり	Entrainment	固有名詞
+おさきにどうぞ	After You	固有名詞
+りんしょう	Round	固有名詞
+えこーぼいす	Echoed Voice	固有名詞
+なしくずし	Chip Away	固有名詞
+くりあすもっぐ	Clear Smog	固有名詞
+あしすとぱわー	Stored Power	固有名詞
+ふぁすとがーど	Quick Guard	固有名詞
+さいどちぇんじ	Ally Switch	固有名詞
+ねっとう	Scald	固有名詞
+からをやぶる	Shell Smash	固有名詞
+いやしのはどう	Heal Pulse	固有名詞
+たたりめ	Hex	固有名詞
+ふりーふぉーる	Sky Drop	固有名詞
+ぎあちぇんじ	Shift Gear	固有名詞
+ともえなげ	Circle Throw	固有名詞
+やきつくす	Incinerate	固有名詞
+さきおくり	Quash	固有名詞
+あくろばっと	Acrobatics	固有名詞
+みらーたいぷ	Reflect Type	固有名詞
+かたきうち	Retaliate	固有名詞
+いのちがけ	Final Gambit	固有名詞
+ぎふとぱす	Bestow	固有名詞
+れんごく	Inferno	固有名詞
+みずのちかい	Water Pledge	固有名詞
+ほのおのちかい	Fire Pledge	固有名詞
+くさのちかい	Grass Pledge	固有名詞
+ぼるとちぇんじ	Volt Switch	固有名詞
+むしのていこう	Struggle Bug	固有名詞
+じならし	Bulldoze	固有名詞
+こおりのいぶき	Frost Breath	固有名詞
+どらごんてーる	Dragon Tail	固有名詞
+ふるいたてる	Work Up	固有名詞
+えれきねっと	Electroweb	固有名詞
+わいるどぼると	Wild Charge	固有名詞
+どりるらいなー	Drill Run	固有名詞
+だぶるちょっぷ	Dual Chop	固有名詞
+はーとすたんぷ	Heart Stamp	固有名詞
+うっどほーん	Horn Leech	固有名詞
+せいなるつるぎ	Sacred Sword	固有名詞
+しぇるぶれーど	Razor Shell	固有名詞
+ひーとすたんぷ	Heat Crash	固有名詞
+ぐらすみきさー	Leaf Tornado	固有名詞
+はーどろーらー	Steamroller	固有名詞
+こっとんがーど	Cotton Guard	固有名詞
+ないとばーすと	Night Daze	固有名詞
+さいこぶれいく	Psystrike	固有名詞
+すいーぷびんた	Tail Slap	固有名詞
+ぼうふう	Hurricane	固有名詞
+あふろぶれいく	Head Charge	固有名詞
+ぎあそーさー	Gear Grind	固有名詞
+かえんだん	Searing Shot	固有名詞
+てくのばすたー	Techno Blast	固有名詞
+いにしえのうた	Relic Song	固有名詞
+しんぴのつるぎ	Secret Sword	固有名詞
+こごえるせかい	Glaciate	固有名詞
+らいげき	Bolt Strike	固有名詞
+あおいほのお	Blue Flare	固有名詞
+ほのおのまい	Fiery Dance	固有名詞
+ふりーずぼると	Freeze Shock	固有名詞
+こーるどふれあ	Ice Burn	固有名詞
+ばーくあうと	Snarl	固有名詞
+つららおとし	Icicle Crash	固有名詞
+ぶいじぇねれーと	V-create	固有名詞
+くろすふれいむ	Fusion Flare	固有名詞
+くろすさんだー	Fusion Bolt	固有名詞
+ふらいんぐぷれす	Flying Press	固有名詞
+たたみがえし	Mat Block	固有名詞
+げっぷ	Belch	固有名詞
+たがやす	Rototiller	固有名詞
+ねばねばねっと	Sticky Web	固有名詞
+とどめばり	Fell Stinger	固有名詞
+ごーすとだいぶ	Phantom Force	固有名詞
+はろうぃん	Trick-or-Treat	固有名詞
+おたけび	Noble Roar	固有名詞
+ぷらずましゃわー	Ion Deluge	固有名詞
+ぱらぼらちゃーじ	Parabolic Charge	固有名詞
+もりののろい	Forest’s Curse	固有名詞
+はなふぶき	Petal Blizzard	固有名詞
+ふりーずどらい	Freeze-Dry	固有名詞
+ちゃーむぼいす	Disarming Voice	固有名詞
+すてぜりふ	Parting Shot	固有名詞
+ひっくりかえす	Topsy-Turvy	固有名詞
+どれいんきっす	Draining Kiss	固有名詞
+とりっくがーど	Crafty Shield	固有名詞
+ふらわーがーど	Flower Shield	固有名詞
+ぐらすふぃーるど	Grassy Terrain	固有名詞
+みすとふぃーるど	Misty Terrain	固有名詞
+そうでん	Electrify	固有名詞
+じゃれつく	Play Rough	固有名詞
+ようせいのかぜ	Fairy Wind	固有名詞
+むーんふぉーす	Moonblast	固有名詞
+ばくおんぱ	Boomburst	固有名詞
+ふぇありーろっく	Fairy Lock	固有名詞
+きんぐしーるど	King’s Shield	固有名詞
+なかよくする	Play Nice	固有名詞
+ないしょばなし	Confide	固有名詞
+だいやすとーむ	Diamond Storm	固有名詞
+すちーむばーすと	Steam Eruption	固有名詞
+いじげんほーる	Hyperspace Hole	固有名詞
+みずしゅりけん	Water Shuriken	固有名詞
+まじかるふれいむ	Mystical Fire	固有名詞
+にーどるがーど	Spiky Shield	固有名詞
+あろまみすと	Aromatic Mist	固有名詞
+かいでんぱ	Eerie Impulse	固有名詞
+べのむとらっぷ	Venom Drench	固有名詞
+ふんじん	Powder	固有名詞
+じおこんとろーる	Geomancy	固有名詞
+じばそうさ	Magnetic Flux	固有名詞
+はっぴーたいむ	Happy Hour	固有名詞
+えれきふぃーるど	Electric Terrain	固有名詞
+まじかるしゃいん	Dazzling Gleam	固有名詞
+おいわい	Celebrate	固有名詞
+てをつなぐ	Hold Hands	固有名詞
+つぶらなひとみ	Baby-Doll Eyes	固有名詞
+ほっぺすりすり	Nuzzle	固有名詞
+てかげん	Hold Back	固有名詞
+まとわりつく	Infestation	固有名詞
+ぐろうぱんち	Power-Up Punch	固有名詞
+ですういんぐ	Oblivion Wing	固有名詞
+さうざんあろー	Thousand Arrows	固有名詞
+さうざんうぇーぶ	Thousand Waves	固有名詞
+ぐらんどふぉーす	Land’s Wrath	固有名詞
+はめつのひかり	Light of Ruin	固有名詞
+こんげんのはどう	Origin Pulse	固有名詞
+だんがいのつるぎ	Precipice Blades	固有名詞
+がりょうてんせい	Dragon Ascent	固有名詞
+いじげんらっしゅ	Hyperspace Fury	固有名詞
+うるとらだっしゅあたっく	Breakneck Blitz	固有名詞
+ぜんりょくむそうげきれつけん	All-Out Pummeling	固有名詞
+ふぁいなるだいぶくらっしゅ	Supersonic Skystrike	固有名詞
+あしっどぽいずんでりーと	Acid Downpour	固有名詞
+らいじんぐらんどおーばー	Tectonic Rage	固有名詞
+わーるずえんどふぉーる	Continental Crush	固有名詞
+ぜったいほしょくかいてんざん	Savage Spin-Out	固有名詞
+むげんあんやへのいざない	Never-Ending Nightmare	固有名詞
+ちょうぜつらせんれんげき	Corkscrew Crash	固有名詞
+だいなみっくふるふれいむ	Inferno Overdrive	固有名詞
+すーぱーあくあとるねーど	Hydro Vortex	固有名詞
+ぶるーむしゃいんえくすとら	Bloom Doom	固有名詞
+すぱーきんぐぎがぼると	Gigavolt Havoc	固有名詞
+まきしまむさいぶれいかー	Shattered Psyche	固有名詞
+れいじんぐじおふりーず	Subzero Slammer	固有名詞
+あるてぃめっとどらごんばーん	Devastating Drake	固有名詞
+ぶらっくほーるいくりぷす	Black Hole Eclipse	固有名詞
+らぶりーすたーいんぱくと	Twinkle Tackle	固有名詞
+ひっさつのぴかちゅーと	Catastropika	固有名詞
+すなあつめ	Shore Up	固有名詞
+であいがしら	First Impression	固有名詞
+とーちか	Baneful Bunker	固有名詞
+かげぬい	Spirit Shackle	固有名詞
+でぃーでぃーらりあっと	Darkest Lariat	固有名詞
+うたかたのありあ	Sparkling Aria	固有名詞
+あいすはんまー	Ice Hammer	固有名詞
+ふらわーひーる	Floral Healing	固有名詞
+じゅうまんばりき	High Horsepower	固有名詞
+ちからをすいとる	Strength Sap	固有名詞
+そーらーぶれーど	Solar Blade	固有名詞
+このは	Leafage	固有名詞
+すぽっとらいと	Spotlight	固有名詞
+どくのいと	Toxic Thread	固有名詞
+とぎすます	Laser Focus	固有名詞
+あしすとぎあ	Gear Up	固有名詞
+じごくづき	Throat Chop	固有名詞
+かふんだんご	Pollen Puff	固有名詞
+あんかーしょっと	Anchor Shot	固有名詞
+さいこふぃーるど	Psychic Terrain	固有名詞
+とびかかる	Lunge	固有名詞
+ほのおのむち	Fire Lash	固有名詞
+つけあがる	Power Trip	固有名詞
+もえつきる	Burn Up	固有名詞
+すぴーどすわっぷ	Speed Swap	固有名詞
+すまーとほーん	Smart Strike	固有名詞
+じょうか	Purify	固有名詞
+めざめるだんす	Revelation Dance	固有名詞
+こあぱにっしゃー	Core Enforcer	固有名詞
+とろぴかるきっく	Trop Kick	固有名詞
+さいはい	Instruct	固有名詞
+くちばしきゃのん	Beak Blast	固有名詞
+すけいるのいず	Clanging Scales	固有名詞
+どらごんはんまー	Dragon Hammer	固有名詞
+ぶんまわす	Brutal Swing	固有名詞
+おーろらべーる	Aurora Veil	固有名詞
+しゃどーあろーずすとらいく	Sinister Arrow Raid	固有名詞
+はいぱーだーくくらっしゃー	Malicious Moonsault	固有名詞
+わだつみのしんふぉにあ	Oceanic Operetta	固有名詞
+がーでぃあん・で・あろーら	Guardian of Alola	固有名詞
+しちせいだっこんたい	Soul-Stealing 7-Star Strike	固有名詞
+らいとにんぐさーふらいど	Stoked Sparksurfer	固有名詞
+ほんきをだす こうげき	Pulverizing Pancake	固有名詞
+ないんえぼるぶーすと	Extreme Evoboost	固有名詞
+おりじんずすーぱーのヴぁ	Genesis Supernova	固有名詞
+とらっぷしぇる	Shell Trap	固有名詞
+ふるーるかのん	Fleur Cannon	固有名詞
+さいこふぁんぐ	Psychic Fangs	固有名詞
+じだんだ	Stomping Tantrum	固有名詞
+しゃどーぼーん	Shadow Bone	固有名詞
+あくせるろっく	Accelerock	固有名詞
+あくあぶれいく	Liquidation	固有名詞
+ぷりずむれーざー	Prismatic Laser	固有名詞
+しゃどーすちーる	Spectral Thief	固有名詞
+めておどらいぶ	Sunsteel Strike	固有名詞
+しゃどーれい	Moongeist Beam	固有名詞
+なみだめ	Tearful Look	固有名詞
+びりびりちくちく	Zing Zap	固有名詞
+しぜんのいかり	Nature’s Madness	固有名詞
+まるちあたっく	Multi-Attack	固有名詞
+せんまんぼると	10,000,000 Volt Thunderbolt	固有名詞
+ふぉとんげいざー	Photon Geyser	固有名詞
+びっくりへっど	Mind Blown	固有名詞
+ぷらずまふぃすと	Plasma Fists	固有名詞
+ぶれいじんぐそうるびーと	Clangorous Soulblaze	固有名詞
+らじあるえっじすとーむ	Splintered Stormshards	固有名詞
+さんしゃいんすまっしゃー	Searing Sunraze Smash	固有名詞
+むーんらいとぶらすたー	Menacing Moonraze Maelstrom	固有名詞
+てんこがすめつぼうのひかり	Light That Burns The Sky	固有名詞
+ぽかぼかふれんどたいむ	Let's Snuggle Forever	固有名詞
+ばちばちあくせる	Zippy Zap	固有名詞
+ざぶざぶさーふ	Splishy Splash	固有名詞
+ふわふわふぉーる	Floaty Fall	固有名詞
+ぴかぴかさんだー	Pika Papow	固有名詞
+いきいきばぶる	Bouncy Bubble	固有名詞
+びりびりえれき	Buzzy Buzz	固有名詞
+めらめらばーん	Sizzly Slide	固有名詞
+どばどばおーら	Glitzy Glow	固有名詞
+わるわるぞーん	Baddy Bad	固有名詞
+すくすくぼんばー	Sappy Seed	固有名詞
+こちこちふろすと	Freezy Frost	固有名詞
+きらきらすとーむ	Sparkly Swirl	固有名詞
+ぶいぶいぶれいく	Veevee Volley	固有名詞
+だぶるぱんつぁー	Double Iron Bash	固有名詞
+だいあたっく	Max Strike	固有名詞
+だいなっくる	Max Knuckle	固有名詞
+だいじぇっと	Max Airstream	固有名詞
+だいあしっど	Max Ooze	固有名詞
+だいあーす	Max Quake	固有名詞
+だいろっく	Max Rockfall	固有名詞
+だいわーむ	Max Flutterby	固有名詞
+だいほろう	Max Phantasm	固有名詞
+だいすちる	Max Steelspike	固有名詞
+だいばーん	Max Flare	固有名詞
+だいすとりーむ	Max Geyser	固有名詞
+だいそうげん	Max Overgrowth	固有名詞
+だいさんだー	Max Lightning	固有名詞
+だいさいこ	Max Mindstorm	固有名詞
+だいあいす	Max Hailstorm	固有名詞
+だいどらぐーん	Max Wyrmwind	固有名詞
+だいあーく	Max Darkness	固有名詞
+だいふぇありー	Max Starfall	固有名詞
+だいうぉーる	Max Guard	固有名詞
+きょだいべんたつ	G-Max Vine Lash	固有名詞
+きょだいごくえん	G-Max Wildfire	固有名詞
+きょだいほうげき	G-Max Cannonade	固有名詞
+きょだいこわく	G-Max Befuddle	固有名詞
+きょだいばんらい	G-Max Volt Crash	固有名詞
+きょだいこばん	G-Max Gold Rush	固有名詞
+きょだいしんげき	G-Max Chi Strike	固有名詞
+きょだいげんえい	G-Max Terror	固有名詞
+きょだいほうまつ	G-Max Foam Burst	固有名詞
+きょだいせんりつ	G-Max Resonance	固有名詞
+きょだいほーよー	G-Max Cuddle	固有名詞
+きょだいさいせい	G-Max Replenish	固有名詞
+きょだいしゅうき	G-Max Malodor	固有名詞
+きょだいゆうげき	G-Max Meltdown	固有名詞
+きょだいこらんだ	G-Max Drum Solo	固有名詞
+きょだいかきゅう	G-Max Fireball	固有名詞
+きょだいそげき	G-Max Hydrosnipe	固有名詞
+きょだいふうげき	G-Max Wind Rage	固有名詞
+きょだいてんどう	G-Max Gravitas	固有名詞
+きょだいがんじん	G-Max Stonesurge	固有名詞
+きょだいふんせき	G-Max Volcalith	固有名詞
+きょだいさんげき	G-Max Tartness	固有名詞
+きょだいかんろ	G-Max Sweetness	固有名詞
+きょだいさじん	G-Max Sandblast	固有名詞
+きょだいかんでん	G-Max Stun Shock	固有名詞
+きょだいひゃっか	G-Max Centiferno	固有名詞
+きょだいてんばつ	G-Max Smite	固有名詞
+きょだいすいま	G-Max Snooze	固有名詞
+きょだいだんえん	G-Max Finale	固有名詞
+きょだいこうじん	G-Max Steelsurge	固有名詞
+きょだいげんすい	G-Max Depletion	固有名詞
+きょだいいちげき	G-Max One Blow	固有名詞
+きょだいれんげき	G-Max Rapid Flow	固有名詞
+じーのちから	Grav Apple	固有名詞
+あいあんろーらー	Steel Roller	固有名詞
+あすとらるびっと	Astral Barrage	固有名詞
+あんこくきょうだ	Wicked Blow	固有名詞
+いてつくしせん	Freezing Glare	固有名詞
+いのちのしずく	Life Dew	固有名詞
+うっぷんばらし	Lash Out	固有名詞
+えだづき	Branch Poke	固有名詞
+えらがみ	Fishious Rend	固有名詞
+おーばーどらいぶ	Overdrive	固有名詞
+おーらぐるま	Aura Wheel	固有名詞
+おちゃかい	Teatime	固有名詞
+かえんぼーる	Pyro Ball	固有名詞
+きょじゅうざん	Behemoth Blade	固有名詞
+きょじゅうだん	Behemoth Bash	固有名詞
+くいっくたーん	Flip Turn	固有名詞
+くらいつく	Jaw Lock	固有名詞
+ぐらすすらいだー	Grassy Glide	固有名詞
+こーちんぐ	Coaching	固有名詞
+こーとちぇんじ	Court Change	固有名詞
+さんだーぷりずん	Thunder Cage	固有名詞
+しぇるあーむず	Shell Side Arm	固有名詞
+しっとのほのお	Burning Jealousy	固有名詞
+じゃんぐるひーる	Jungle Healing	固有名詞
+すいりゅうれんだ	Surging Strikes	固有名詞
+すけいるしょっと	Scale Shot	固有名詞
+すたーあさると	Meteor Assault	固有名詞
+そうるくらっしゅ	Spirit Break	固有名詞
+そうるびーと	Clangorous Soul	固有名詞
+たーるしょっと	Tar Shot	固有名詞
+だいちのはどう	Terrain Pulse	固有名詞
+だいまっくすほう	Dynamax Cannon	固有名詞
+たこがため	Octolock	固有名詞
+だぶるういんぐ	Dual Wingbeat	固有名詞
+でこれーしょん	Decorate	固有名詞
+てっていこうせん	Steel Beam	固有名詞
+でんげきくちばし	Bolt Beak	固有名詞
+どげざつき	False Surrender	固有名詞
+どらごんあろー	Dragon Darts	固有名詞
+どらごんえなじー	Dragon Energy	固有名詞
+とらばさみ	Snap Trap	固有名詞
+どらむあたっく	Drum Beating	固有名詞
+とりぷるあくせる	Triple Axel	固有名詞
+ねっさのだいち	Scorching Sands	固有名詞
+ねらいうち	Snipe Shot	固有名詞
+はいすいのじん	No Retreat	固有名詞
+はいよるいちげき	Skitter Smack	固有名詞
+ぶきみなじゅもん	Eerie Spell	固有名詞
+ふしょくがす	Corrosive Gas	固有名詞
+ぶりざーどらんす	Glacial Lance	固有名詞
+ぶろっきんぐ	Obstruct	固有名詞
+ほおばる	Stuff Cheeks	固有名詞
+ぼでぃぷれす	Body Press	固有名詞
+ぽるたーがいすと	Poltergeist	固有名詞
+まほうのこな	Magic Powder	固有名詞
+みすとばーすと	Misty Explosion	固有名詞
+むげんだいびーむ	Eternabeam	固有名詞
+めておびーむ	Meteor Beam	固有名詞
+もえあがるいかり	Fiery Wrath	固有名詞
+らいじんぐぼると	Rising Voltage	固有名詞
+らいめいげり	Thunderous Kick	固有名詞
+りんごさん	Apple Acid	固有名詞
+わいどふぉーす	Expanding Force	固有名詞
+わいどぶれいかー	Breaking Swipe	固有名詞
+わんだーすちーむ	Strange Steam	固有名詞
+ふぇいたるくろー	Dire Claw	固有名詞
+ばりあーらっしゅ	Psyshield Bash	固有名詞
+ぱわーしふと	Power Shift	固有名詞
+がんせきあっくす	Stone Axe	固有名詞
+はるのあらし	Springtide Storm	固有名詞
+しんぴのちから	Mystical Power	固有名詞
+だいふんげき	Raging Fury	固有名詞
+うぇーぶたっくる	Wave Crash	固有名詞
+くろろぶらすと	Chloroblast	固有名詞
+ひょうざんおろし	Mountain Gale	固有名詞
+しょうりのまい	Victory Dance	固有名詞
+ぶちかまし	Headlong Rush	固有名詞
+どくばりせんぼん	Barb Barrage	固有名詞
+おーらういんぐ	Esper Wing	固有名詞
+うらみつらみ	Bitter Malice	固有名詞
+たてこもる	Shelter	固有名詞
+さんぼんのや	Triple Arrows	固有名詞
+ひゃっきやこう	Infernal Parade	固有名詞
+ひけん・ちえなみ	Ceaseless Edge	固有名詞
+こがらしあらし	Bleakwind Storm	固有名詞
+かみなりあらし	Wildbolt Storm	固有名詞
+ねっさのあらし	Sandsear Storm	固有名詞
+みかづきのいのり	Lunar Blessing	固有名詞
+ぶれいぶちゃーじ	Take Heart	固有名詞
+あーまーきゃのん	Armor Cannon	固有名詞
+あいすすぴなー	Ice Spinner	固有名詞
+あくあかったー	Aqua Cutter	固有名詞
+あくあすてっぷ	Aqua Step	固有名詞
+あくせるぶれいく	Collision Course	固有名詞
+いっちょうあがり	Order Up	固有名詞
+いなずまどらいぶ	Electro Drift	固有名詞
+うつしえ	Doodle	固有名詞
+えれくとろびーむ	Electro Shot	固有名詞
+おかたづけ	Tidy Up	固有名詞
+おはかまいり	Last Respects	固有名詞
+かえんのまもり	Burning Bulwark	固有名詞
+かかとおとし	Axe Kick	固有名詞
+かたすとろふぃ	Ruination	固有名詞
+きまぐれーざー	Fickle Beam	固有名詞
+きょけんとつげき	Glaive Rush	固有名詞
+きらーすぴん	Mortal Spin	固有名詞
+くさわけ	Trailblaze	固有名詞
+ごーるどらっしゅ	Make It Rain	固有名詞
+さいきのいのり	Revival Blessing	固有名詞
+さいこのいず	Psychic Noise	固有名詞
+さいこぶれいど	Psyblade	固有名詞
+さむいぎゃぐ	Chilly Reception	固有名詞
+さんだーだいぶ	Supercell Slam	固有名詞
+じぇっとぱんち	Jet Punch	固有名詞
+しおづけ	Salt Cure	固有名詞
+しっぽきり	Shed Tail	固有名詞
+しゃかしゃかほう	Matcha Gotcha	固有名詞
+じゃどくのくさり	Malignant Chain	固有名詞
+じんらい	Thunderclap	固有名詞
+すれっどとらっぷ	Silk Trap	固有名詞
+たきおんかったー	Tachyon Cutter	固有名詞
+ついんびーむ	Twin Beam	固有名詞
+つたこんぼう	Ivy Cudgel	固有名詞
+でかはんまー	Gigaton Hammer	固有名詞
+てらくらすたー	Tera Starstorm	固有名詞
+てらばーすと	Tera Blast	固有名詞
+でんこうそうげき	Double Shock	固有名詞
+どげざん	Kowtow Cleave	固有名詞
+とびつく	Pounce	固有名詞
+どらごんえーる	Dragon Cheer	固有名詞
+とりっくふらわー	Flower Trick	固有名詞
+とりぷるだいぶ	Triple Dive	固有名詞
+ねずみざん	Population Bomb	固有名詞
+はーどぷれす	Hard Press	固有名詞
+はいどろすちーむ	Hydro Steam	固有名詞
+はいぱーどりる	Hyper Drill	固有名詞
+はばねろえきす	Spicy Extract	固有名詞
+はやてがえし	Upper Hand	固有名詞
+ぱわふるえっじ	Mighty Cleave	固有名詞
+ひやみず	Chilling Water	固有名詞
+ぶらっどむーん	Blood Moon	固有名詞
+ふれあそんぐ	Torch Song	固有名詞
+ふんどのこぶし	Rage Fist	固有名詞
+ほいーるすぴん	Spin Out	固有名詞
+ほうふく	Comeuppance	固有名詞
+みずあめぼむ	Syrup Bomb	固有名詞
+みわくのぼいす	Alluring Voice	固有名詞
+みをけずる	Fillet Away	固有名詞
+むねんのつるぎ	Bitter Blade	固有名詞
+やけっぱち	Temper Flare	固有名詞
+ゆきげしき	Snowscape	固有名詞
+るみなこりじょん	Lumina Crash	固有名詞
+れいじんぐぶる	Raging Bull	固有名詞
+だーくあくせる	Wicked Torque	固有名詞
+ばーんあくせる	Blazing Torque	固有名詞
+ぽいずんあくせる	Noxious Torque	固有名詞
+まじかるあくせる	Magical Torque	固有名詞
+ふぁいとあくせる	Combat Torque	固有名詞
