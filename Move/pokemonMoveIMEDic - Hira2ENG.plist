@@ -1,6156 +1,6156 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
+<?xml version=1.0 encoding=UTF-8?>
+<!DOCTYPE plist PUBLIC -//Apple//DTD PLIST 1.0//EN http://www.apple.com/DTDs/PropertyList-1.0.dtd>
+<plist version=1.0>
 <array>
 	<dict>
 		<key>phrase</key>
-		<string>Bulbasaur</string>
+		<string>Pound</string>
 		<key>shortcut</key>
-		<string>ふしぎだね</string>
+		<string>はたく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ivysaur</string>
+		<string>Karate Chop</string>
 		<key>shortcut</key>
-		<string>ふしぎそう</string>
+		<string>からてちょっぷ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Venusaur</string>
+		<string>Double Slap</string>
 		<key>shortcut</key>
-		<string>ふしぎばな</string>
+		<string>おうふくびんた</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Charmander</string>
+		<string>Comet Punch</string>
 		<key>shortcut</key>
-		<string>ひとかげ</string>
+		<string>れんぞくぱんち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Charmeleon</string>
+		<string>Mega Punch</string>
 		<key>shortcut</key>
-		<string>りざーど</string>
+		<string>めがとんぱんち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Charizard</string>
+		<string>Pay Day</string>
 		<key>shortcut</key>
-		<string>りざーどん</string>
+		<string>ねこにこばん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Squirtle</string>
+		<string>Fire Punch</string>
 		<key>shortcut</key>
-		<string>ぜにがめ</string>
+		<string>ほのおのぱんち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wartortle</string>
+		<string>Ice Punch</string>
 		<key>shortcut</key>
-		<string>かめーる</string>
+		<string>れいとうぱんち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Blastoise</string>
+		<string>Thunder Punch</string>
 		<key>shortcut</key>
-		<string>かめっくす</string>
+		<string>かみなりぱんち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Caterpie</string>
+		<string>Scratch</string>
 		<key>shortcut</key>
-		<string>きゃたぴー</string>
+		<string>ひっかく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Metapod</string>
+		<string>Vise Grip</string>
 		<key>shortcut</key>
-		<string>とらんせる</string>
+		<string>はさむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Butterfree</string>
+		<string>Guillotine</string>
 		<key>shortcut</key>
-		<string>ばたふりー</string>
+		<string>はさみぎろちん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Weedle</string>
+		<string>Razor Wind</string>
 		<key>shortcut</key>
-		<string>びーどる</string>
+		<string>かまいたち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kakuna</string>
+		<string>Swords Dance</string>
 		<key>shortcut</key>
-		<string>こくーん</string>
+		<string>つるぎのまい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Beedrill</string>
+		<string>Cut</string>
 		<key>shortcut</key>
-		<string>すぴあー</string>
+		<string>いあいぎり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pidgey</string>
+		<string>Gust</string>
 		<key>shortcut</key>
-		<string>ぽっぽ</string>
+		<string>かぜおこし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pidgeotto</string>
+		<string>Wing Attack</string>
 		<key>shortcut</key>
-		<string>ぴじょん</string>
+		<string>つばさでうつ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pidgeot</string>
+		<string>Whirlwind</string>
 		<key>shortcut</key>
-		<string>ぴじょっと</string>
+		<string>ふきとばし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rattata</string>
+		<string>Fly</string>
 		<key>shortcut</key>
-		<string>こらった</string>
+		<string>そらをとぶ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Raticate</string>
+		<string>Bind</string>
 		<key>shortcut</key>
-		<string>らった</string>
+		<string>しめつける</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Spearow</string>
+		<string>Slam</string>
 		<key>shortcut</key>
-		<string>おにすずめ</string>
+		<string>たたきつける</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Fearow</string>
+		<string>Vine Whip</string>
 		<key>shortcut</key>
-		<string>おにどりる</string>
+		<string>つるのむち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ekans</string>
+		<string>Stomp</string>
 		<key>shortcut</key>
-		<string>あーぼ</string>
+		<string>ふみつけ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Arbok</string>
+		<string>Double Kick</string>
 		<key>shortcut</key>
-		<string>あーぼっく</string>
+		<string>にどげり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pikachu</string>
+		<string>Mega Kick</string>
 		<key>shortcut</key>
-		<string>ぴかちゅう</string>
+		<string>めがとんきっく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Raichu</string>
+		<string>Jump Kick</string>
 		<key>shortcut</key>
-		<string>らいちゅう</string>
+		<string>とびげり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sandshrew</string>
+		<string>Rolling Kick</string>
 		<key>shortcut</key>
-		<string>さんど</string>
+		<string>まわしげり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sandslash</string>
+		<string>Sand Attack</string>
 		<key>shortcut</key>
-		<string>さんどぱん</string>
+		<string>すなかけ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Nidoran♀</string>
+		<string>Headbutt</string>
 		<key>shortcut</key>
-		<string>にどらん♀</string>
+		<string>ずつき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Nidorina</string>
+		<string>Horn Attack</string>
 		<key>shortcut</key>
-		<string>にどりーな</string>
+		<string>つのでつく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Nidoqueen</string>
+		<string>Fury Attack</string>
 		<key>shortcut</key>
-		<string>にどくいん</string>
+		<string>みだれづき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Nidoran♂</string>
+		<string>Horn Drill</string>
 		<key>shortcut</key>
-		<string>にどらん♂</string>
+		<string>つのどりる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Nidorino</string>
+		<string>Tackle</string>
 		<key>shortcut</key>
-		<string>にどりーの</string>
+		<string>たいあたり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Nidoking</string>
+		<string>Body Slam</string>
 		<key>shortcut</key>
-		<string>にどきんぐ</string>
+		<string>のしかかり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Clefairy</string>
+		<string>Wrap</string>
 		<key>shortcut</key>
-		<string>ぴっぴ</string>
+		<string>まきつく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Clefable</string>
+		<string>Take Down</string>
 		<key>shortcut</key>
-		<string>ぴくしー</string>
+		<string>とっしん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Vulpix</string>
+		<string>Thrash</string>
 		<key>shortcut</key>
-		<string>ろこん</string>
+		<string>あばれる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ninetales</string>
+		<string>Double-Edge</string>
 		<key>shortcut</key>
-		<string>きゅうこん</string>
+		<string>すてみたっくる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Jigglypuff</string>
+		<string>Tail Whip</string>
 		<key>shortcut</key>
-		<string>ぷりん</string>
+		<string>しっぽをふる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wigglytuff</string>
+		<string>Poison Sting</string>
 		<key>shortcut</key>
-		<string>ぷくりん</string>
+		<string>どくばり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Zubat</string>
+		<string>Twineedle</string>
 		<key>shortcut</key>
-		<string>ずばっと</string>
+		<string>だぶるにーどる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Golbat</string>
+		<string>Pin Missile</string>
 		<key>shortcut</key>
-		<string>ごるばっと</string>
+		<string>みさいるばり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Oddish</string>
+		<string>Leer</string>
 		<key>shortcut</key>
-		<string>なぞのくさ</string>
+		<string>にらみつける</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gloom</string>
+		<string>Bite</string>
 		<key>shortcut</key>
-		<string>くさいはな</string>
+		<string>かみつく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Vileplume</string>
+		<string>Growl</string>
 		<key>shortcut</key>
-		<string>らふれしあ</string>
+		<string>なきごえ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Paras</string>
+		<string>Roar</string>
 		<key>shortcut</key>
-		<string>ぱらす</string>
+		<string>ほえる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Parasect</string>
+		<string>Sing</string>
 		<key>shortcut</key>
-		<string>ぱらせくと</string>
+		<string>うたう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Venonat</string>
+		<string>Supersonic</string>
 		<key>shortcut</key>
-		<string>こんぱん</string>
+		<string>ちょうおんぱ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Venomoth</string>
+		<string>Sonic Boom</string>
 		<key>shortcut</key>
-		<string>もるふぉん</string>
+		<string>そにっくぶーむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Diglett</string>
+		<string>Disable</string>
 		<key>shortcut</key>
-		<string>でぃぐだ</string>
+		<string>かなしばり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dugtrio</string>
+		<string>Acid</string>
 		<key>shortcut</key>
-		<string>だぐとりお</string>
+		<string>ようかいえき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Meowth</string>
+		<string>Ember</string>
 		<key>shortcut</key>
-		<string>にゃーす</string>
+		<string>ひのこ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Persian</string>
+		<string>Flamethrower</string>
 		<key>shortcut</key>
-		<string>ぺるしあん</string>
+		<string>かえんほうしゃ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Psyduck</string>
+		<string>Mist</string>
 		<key>shortcut</key>
-		<string>こだっく</string>
+		<string>しろいきり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Golduck</string>
+		<string>Water Gun</string>
 		<key>shortcut</key>
-		<string>ごるだっく</string>
+		<string>みずでっぽう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mankey</string>
+		<string>Hydro Pump</string>
 		<key>shortcut</key>
-		<string>まんきー</string>
+		<string>はいどろぽんぷ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Primeape</string>
+		<string>Surf</string>
 		<key>shortcut</key>
-		<string>おこりざる</string>
+		<string>なみのり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Growlithe</string>
+		<string>Ice Beam</string>
 		<key>shortcut</key>
-		<string>がーでぃ</string>
+		<string>れいとうびーむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Arcanine</string>
+		<string>Blizzard</string>
 		<key>shortcut</key>
-		<string>ういんでぃ</string>
+		<string>ふぶき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Poliwag</string>
+		<string>Psybeam</string>
 		<key>shortcut</key>
-		<string>にょろも</string>
+		<string>さいけこうせん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Poliwhirl</string>
+		<string>Bubble Beam</string>
 		<key>shortcut</key>
-		<string>にょろぞ</string>
+		<string>ばぶるこうせん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Poliwrath</string>
+		<string>Aurora Beam</string>
 		<key>shortcut</key>
-		<string>にょろぼん</string>
+		<string>おーろらびーむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Abra</string>
+		<string>Hyper Beam</string>
 		<key>shortcut</key>
-		<string>けーしぃ</string>
+		<string>はかいこうせん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kadabra</string>
+		<string>Peck</string>
 		<key>shortcut</key>
-		<string>ゆんげらー</string>
+		<string>つつく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Alakazam</string>
+		<string>Drill Peck</string>
 		<key>shortcut</key>
-		<string>ふーでぃん</string>
+		<string>どりるくちばし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Machop</string>
+		<string>Submission</string>
 		<key>shortcut</key>
-		<string>わんりきー</string>
+		<string>じごくぐるま</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Machoke</string>
+		<string>Low Kick</string>
 		<key>shortcut</key>
-		<string>ごーりきー</string>
+		<string>けたぐり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Machamp</string>
+		<string>Counter</string>
 		<key>shortcut</key>
-		<string>かいりきー</string>
+		<string>かうんたー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bellsprout</string>
+		<string>Seismic Toss</string>
 		<key>shortcut</key>
-		<string>まだつぼみ</string>
+		<string>ちきゅうなげ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Weepinbell</string>
+		<string>Strength</string>
 		<key>shortcut</key>
-		<string>うつどん</string>
+		<string>かいりき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Victreebel</string>
+		<string>Absorb</string>
 		<key>shortcut</key>
-		<string>うつぼっと</string>
+		<string>すいとる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tentacool</string>
+		<string>Mega Drain</string>
 		<key>shortcut</key>
-		<string>めのくらげ</string>
+		<string>めがどれいん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tentacruel</string>
+		<string>Leech Seed</string>
 		<key>shortcut</key>
-		<string>どくくらげ</string>
+		<string>やどりぎのたね</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Geodude</string>
+		<string>Growth</string>
 		<key>shortcut</key>
-		<string>いしつぶて</string>
+		<string>せいちょう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Graveler</string>
+		<string>Razor Leaf</string>
 		<key>shortcut</key>
-		<string>ごろーん</string>
+		<string>はっぱかったー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Golem</string>
+		<string>Solar Beam</string>
 		<key>shortcut</key>
-		<string>ごろーにゃ</string>
+		<string>そーらーびーむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ponyta</string>
+		<string>Poison Powder</string>
 		<key>shortcut</key>
-		<string>ぽにーた</string>
+		<string>どくのこな</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rapidash</string>
+		<string>Stun Spore</string>
 		<key>shortcut</key>
-		<string>ぎゃろっぷ</string>
+		<string>しびれごな</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Slowpoke</string>
+		<string>Sleep Powder</string>
 		<key>shortcut</key>
-		<string>やどん</string>
+		<string>ねむりごな</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Slowbro</string>
+		<string>Petal Dance</string>
 		<key>shortcut</key>
-		<string>やどらん</string>
+		<string>はなびらのまい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Magnemite</string>
+		<string>String Shot</string>
 		<key>shortcut</key>
-		<string>こいる</string>
+		<string>いとをはく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Magneton</string>
+		<string>Dragon Rage</string>
 		<key>shortcut</key>
-		<string>れあこいる</string>
+		<string>りゅうのいかり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Farfetch'd</string>
+		<string>Fire Spin</string>
 		<key>shortcut</key>
-		<string>かもねぎ</string>
+		<string>ほのおのうず</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Doduo</string>
+		<string>Thunder Shock</string>
 		<key>shortcut</key>
-		<string>どーどー</string>
+		<string>でんきしょっく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dodrio</string>
+		<string>Thunderbolt</string>
 		<key>shortcut</key>
-		<string>どーどりお</string>
+		<string>じゅうまんぼると</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Seel</string>
+		<string>Thunder Wave</string>
 		<key>shortcut</key>
-		<string>ぱうわう</string>
+		<string>でんじは</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dewgong</string>
+		<string>Thunder</string>
 		<key>shortcut</key>
-		<string>じゅごん</string>
+		<string>かみなり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Grimer</string>
+		<string>Rock Throw</string>
 		<key>shortcut</key>
-		<string>べとべたー</string>
+		<string>いわおとし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Muk</string>
+		<string>Earthquake</string>
 		<key>shortcut</key>
-		<string>べとべとん</string>
+		<string>じしん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Shellder</string>
+		<string>Fissure</string>
 		<key>shortcut</key>
-		<string>しぇるだー</string>
+		<string>じわれ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cloyster</string>
+		<string>Dig</string>
 		<key>shortcut</key>
-		<string>ぱるしぇん</string>
+		<string>あなをほる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gastly</string>
+		<string>Toxic</string>
 		<key>shortcut</key>
-		<string>ごーす</string>
+		<string>どくどく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Haunter</string>
+		<string>Confusion</string>
 		<key>shortcut</key>
-		<string>ごーすと</string>
+		<string>ねんりき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gengar</string>
+		<string>Psychic</string>
 		<key>shortcut</key>
-		<string>げんがー</string>
+		<string>さいこきねしす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Onix</string>
+		<string>Hypnosis</string>
 		<key>shortcut</key>
-		<string>いわーく</string>
+		<string>さいみんじゅつ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Drowzee</string>
+		<string>Meditate</string>
 		<key>shortcut</key>
-		<string>すりーぷ</string>
+		<string>よがのぽーず</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hypno</string>
+		<string>Agility</string>
 		<key>shortcut</key>
-		<string>すりーぱー</string>
+		<string>こうそくいどう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Krabby</string>
+		<string>Quick Attack</string>
 		<key>shortcut</key>
-		<string>くらぶ</string>
+		<string>でんこうせっか</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kingler</string>
+		<string>Rage</string>
 		<key>shortcut</key>
-		<string>きんぐらー</string>
+		<string>いかり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Voltorb</string>
+		<string>Teleport</string>
 		<key>shortcut</key>
-		<string>びりりだま</string>
+		<string>てれぽーと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Electrode</string>
+		<string>Night Shade</string>
 		<key>shortcut</key>
-		<string>まるまいん</string>
+		<string>ないとへっど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Exeggcute</string>
+		<string>Mimic</string>
 		<key>shortcut</key>
-		<string>たまたま</string>
+		<string>ものまね</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Exeggutor</string>
+		<string>Screech</string>
 		<key>shortcut</key>
-		<string>なっしー</string>
+		<string>いやなおと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cubone</string>
+		<string>Double Team</string>
 		<key>shortcut</key>
-		<string>からから</string>
+		<string>かげぶんしん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Marowak</string>
+		<string>Recover</string>
 		<key>shortcut</key>
-		<string>がらがら</string>
+		<string>じこさいせい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hitmonlee</string>
+		<string>Harden</string>
 		<key>shortcut</key>
-		<string>さわむらー</string>
+		<string>かたくなる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hitmonchan</string>
+		<string>Minimize</string>
 		<key>shortcut</key>
-		<string>えびわらー</string>
+		<string>ちいさくなる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lickitung</string>
+		<string>Smokescreen</string>
 		<key>shortcut</key>
-		<string>べろりんが</string>
+		<string>えんまく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Koffing</string>
+		<string>Confuse Ray</string>
 		<key>shortcut</key>
-		<string>どがーす</string>
+		<string>あやしいひかり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Weezing</string>
+		<string>Withdraw</string>
 		<key>shortcut</key>
-		<string>またどがす</string>
+		<string>からにこもる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rhyhorn</string>
+		<string>Defense Curl</string>
 		<key>shortcut</key>
-		<string>さいほーん</string>
+		<string>まるくなる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rhydon</string>
+		<string>Barrier</string>
 		<key>shortcut</key>
-		<string>さいどん</string>
+		<string>ばりあー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Chansey</string>
+		<string>Light Screen</string>
 		<key>shortcut</key>
-		<string>らっきー</string>
+		<string>ひかりのかべ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tangela</string>
+		<string>Haze</string>
 		<key>shortcut</key>
-		<string>もんじゃら</string>
+		<string>くろいきり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kangaskhan</string>
+		<string>Reflect</string>
 		<key>shortcut</key>
-		<string>がるーら</string>
+		<string>りふれくたー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Horsea</string>
+		<string>Focus Energy</string>
 		<key>shortcut</key>
-		<string>たっつー</string>
+		<string>きあいだめ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Seadra</string>
+		<string>Bide</string>
 		<key>shortcut</key>
-		<string>しーどら</string>
+		<string>がまん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Goldeen</string>
+		<string>Metronome</string>
 		<key>shortcut</key>
-		<string>とさきんと</string>
+		<string>ゆびをふる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Seaking</string>
+		<string>Mirror Move</string>
 		<key>shortcut</key>
-		<string>あずまおう</string>
+		<string>おうむがえし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Staryu</string>
+		<string>Self-Destruct</string>
 		<key>shortcut</key>
-		<string>ひとでまん</string>
+		<string>じばく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Starmie</string>
+		<string>Egg Bomb</string>
 		<key>shortcut</key>
-		<string>すたーみー</string>
+		<string>たまごばくだん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mr. Mime</string>
+		<string>Lick</string>
 		<key>shortcut</key>
-		<string>ばりやーど</string>
+		<string>したでなめる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Scyther</string>
+		<string>Smog</string>
 		<key>shortcut</key>
-		<string>すとらいく</string>
+		<string>すもっぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Jynx</string>
+		<string>Sludge</string>
 		<key>shortcut</key>
-		<string>るーじゅら</string>
+		<string>へどろこうげき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Electabuzz</string>
+		<string>Bone Club</string>
 		<key>shortcut</key>
-		<string>えれぶー</string>
+		<string>ほねこんぼう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Magmar</string>
+		<string>Fire Blast</string>
 		<key>shortcut</key>
-		<string>ぶーばー</string>
+		<string>だいもんじ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pinsir</string>
+		<string>Waterfall</string>
 		<key>shortcut</key>
-		<string>かいろす</string>
+		<string>たきのぼり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tauros</string>
+		<string>Clamp</string>
 		<key>shortcut</key>
-		<string>けんたろす</string>
+		<string>からではさむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Magikarp</string>
+		<string>Swift</string>
 		<key>shortcut</key>
-		<string>こいきんぐ</string>
+		<string>すぴーどすたー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gyarados</string>
+		<string>Skull Bash</string>
 		<key>shortcut</key>
-		<string>ぎゃらどす</string>
+		<string>ろけっとずつき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lapras</string>
+		<string>Spike Cannon</string>
 		<key>shortcut</key>
-		<string>らぷらす</string>
+		<string>とげきゃのん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ditto</string>
+		<string>Constrict</string>
 		<key>shortcut</key>
-		<string>めたもん</string>
+		<string>からみつく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Eevee</string>
+		<string>Amnesia</string>
 		<key>shortcut</key>
-		<string>いーぶい</string>
+		<string>どわすれ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Vaporeon</string>
+		<string>Kinesis</string>
 		<key>shortcut</key>
-		<string>しゃわーず</string>
+		<string>すぷーんまげ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Jolteon</string>
+		<string>Soft-Boiled</string>
 		<key>shortcut</key>
-		<string>さんだーす</string>
+		<string>たまごうみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Flareon</string>
+		<string>High Jump Kick</string>
 		<key>shortcut</key>
-		<string>ぶーすたー</string>
+		<string>とびひざげり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Porygon</string>
+		<string>Glare</string>
 		<key>shortcut</key>
-		<string>ぽりごん</string>
+		<string>へびにらみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Omanyte</string>
+		<string>Dream Eater</string>
 		<key>shortcut</key>
-		<string>おむないと</string>
+		<string>ゆめくい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Omastar</string>
+		<string>Poison Gas</string>
 		<key>shortcut</key>
-		<string>おむすたー</string>
+		<string>どくがす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kabuto</string>
+		<string>Barrage</string>
 		<key>shortcut</key>
-		<string>かぶと</string>
+		<string>たまなげ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kabutops</string>
+		<string>Leech Life</string>
 		<key>shortcut</key>
-		<string>かぶとぷす</string>
+		<string>きゅうけつ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Aerodactyl</string>
+		<string>Lovely Kiss</string>
 		<key>shortcut</key>
-		<string>ぷてら</string>
+		<string>あくまのきっす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Snorlax</string>
+		<string>Sky Attack</string>
 		<key>shortcut</key>
-		<string>かびごん</string>
+		<string>ごっどばーど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Articuno</string>
+		<string>Transform</string>
 		<key>shortcut</key>
-		<string>ふりーざー</string>
+		<string>へんしん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Zapdos</string>
+		<string>Bubble</string>
 		<key>shortcut</key>
-		<string>さんだー</string>
+		<string>あわ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Moltres</string>
+		<string>Dizzy Punch</string>
 		<key>shortcut</key>
-		<string>ふぁいやー</string>
+		<string>ぴよぴよぱんち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dratini</string>
+		<string>Spore</string>
 		<key>shortcut</key>
-		<string>みにりゅう</string>
+		<string>きのこのほうし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dragonair</string>
+		<string>Flash</string>
 		<key>shortcut</key>
-		<string>はくりゅー</string>
+		<string>ふらっしゅ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dragonite</string>
+		<string>Psywave</string>
 		<key>shortcut</key>
-		<string>かいりゅー</string>
+		<string>さいこうぇーぶ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mewtwo</string>
+		<string>Splash</string>
 		<key>shortcut</key>
-		<string>みゅうつー</string>
+		<string>はねる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mew</string>
+		<string>Acid Armor</string>
 		<key>shortcut</key>
-		<string>みゅう</string>
+		<string>とける</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Chikorita</string>
+		<string>Crabhammer</string>
 		<key>shortcut</key>
-		<string>ちこりーた</string>
+		<string>くらぶはんまー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bayleef</string>
+		<string>Explosion</string>
 		<key>shortcut</key>
-		<string>べいりーふ</string>
+		<string>だいばくはつ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Meganium</string>
+		<string>Fury Swipes</string>
 		<key>shortcut</key>
-		<string>めがにうむ</string>
+		<string>みだれひっかき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cyndaquil</string>
+		<string>Bonemerang</string>
 		<key>shortcut</key>
-		<string>ひのあらし</string>
+		<string>ほねぶーめらん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Quilava</string>
+		<string>Rest</string>
 		<key>shortcut</key>
-		<string>まぐまらし</string>
+		<string>ねむる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Typhlosion</string>
+		<string>Rock Slide</string>
 		<key>shortcut</key>
-		<string>ばくふーん</string>
+		<string>いわなだれ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Totodile</string>
+		<string>Hyper Fang</string>
 		<key>shortcut</key>
-		<string>わにのこ</string>
+		<string>ひっさつまえば</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Croconaw</string>
+		<string>Sharpen</string>
 		<key>shortcut</key>
-		<string>ありげいつ</string>
+		<string>かくばる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Feraligatr</string>
+		<string>Conversion</string>
 		<key>shortcut</key>
-		<string>おーだいる</string>
+		<string>てくすちゃー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sentret</string>
+		<string>Tri Attack</string>
 		<key>shortcut</key>
-		<string>おたち</string>
+		<string>とらいあたっく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Furret</string>
+		<string>Super Fang</string>
 		<key>shortcut</key>
-		<string>おおたち</string>
+		<string>いかりのまえば</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hoothoot</string>
+		<string>Slash</string>
 		<key>shortcut</key>
-		<string>ほーほー</string>
+		<string>きりさく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Noctowl</string>
+		<string>Substitute</string>
 		<key>shortcut</key>
-		<string>よるのずく</string>
+		<string>みがわり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ledyba</string>
+		<string>Struggle</string>
 		<key>shortcut</key>
-		<string>れでぃば</string>
+		<string>わるあがき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ledian</string>
+		<string>Sketch</string>
 		<key>shortcut</key>
-		<string>れでぃあん</string>
+		<string>すけっち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Spinarak</string>
+		<string>Triple Kick</string>
 		<key>shortcut</key>
-		<string>いとまる</string>
+		<string>とりぷるきっく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ariados</string>
+		<string>Thief</string>
 		<key>shortcut</key>
-		<string>ありあどす</string>
+		<string>どろぼう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Crobat</string>
+		<string>Spider Web</string>
 		<key>shortcut</key>
-		<string>くろばっと</string>
+		<string>くものす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Chinchou</string>
+		<string>Mind Reader</string>
 		<key>shortcut</key>
-		<string>ちょんちー</string>
+		<string>こころのめ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lanturn</string>
+		<string>Nightmare</string>
 		<key>shortcut</key>
-		<string>らんたーん</string>
+		<string>あくむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pichu</string>
+		<string>Flame Wheel</string>
 		<key>shortcut</key>
-		<string>ぴちゅー</string>
+		<string>かえんぐるま</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cleffa</string>
+		<string>Snore</string>
 		<key>shortcut</key>
-		<string>ぴぃ</string>
+		<string>いびき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Igglybuff</string>
+		<string>Curse</string>
 		<key>shortcut</key>
-		<string>ぷぷりん</string>
+		<string>のろい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Togepi</string>
+		<string>Flail</string>
 		<key>shortcut</key>
-		<string>とげぴー</string>
+		<string>じたばた</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Togetic</string>
+		<string>Conversion 2</string>
 		<key>shortcut</key>
-		<string>とげちっく</string>
+		<string>てくすちゃーつー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Natu</string>
+		<string>Aeroblast</string>
 		<key>shortcut</key>
-		<string>ねいてぃ</string>
+		<string>えあろぶらすと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Xatu</string>
+		<string>Cotton Spore</string>
 		<key>shortcut</key>
-		<string>ねいてぃお</string>
+		<string>わたほうし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mareep</string>
+		<string>Reversal</string>
 		<key>shortcut</key>
-		<string>めりーぷ</string>
+		<string>きしかいせい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Flaaffy</string>
+		<string>Spite</string>
 		<key>shortcut</key>
-		<string>もここ</string>
+		<string>うらみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ampharos</string>
+		<string>Powder Snow</string>
 		<key>shortcut</key>
-		<string>でんりゅう</string>
+		<string>こなゆき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bellossom</string>
+		<string>Protect</string>
 		<key>shortcut</key>
-		<string>きれいはな</string>
+		<string>まもる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Marill</string>
+		<string>Mach Punch</string>
 		<key>shortcut</key>
-		<string>まりる</string>
+		<string>まっはぱんち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Azumarill</string>
+		<string>Scary Face</string>
 		<key>shortcut</key>
-		<string>まりるり</string>
+		<string>こわいかお</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sudowoodo</string>
+		<string>Feint Attack</string>
 		<key>shortcut</key>
-		<string>うそっきー</string>
+		<string>だましうち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Politoed</string>
+		<string>Sweet Kiss</string>
 		<key>shortcut</key>
-		<string>にょろとの</string>
+		<string>てんしのきっす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hoppip</string>
+		<string>Belly Drum</string>
 		<key>shortcut</key>
-		<string>はねっこ</string>
+		<string>はらだいこ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Skiploom</string>
+		<string>Sludge Bomb</string>
 		<key>shortcut</key>
-		<string>ぽぽっこ</string>
+		<string>へどろばくだん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Jumpluff</string>
+		<string>Mud-Slap</string>
 		<key>shortcut</key>
-		<string>わたっこ</string>
+		<string>どろかけ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Aipom</string>
+		<string>Octazooka</string>
 		<key>shortcut</key>
-		<string>えいぱむ</string>
+		<string>おくたんほう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sunkern</string>
+		<string>Spikes</string>
 		<key>shortcut</key>
-		<string>ひまなっつ</string>
+		<string>まきびし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sunflora</string>
+		<string>Zap Cannon</string>
 		<key>shortcut</key>
-		<string>きまわり</string>
+		<string>でんじほう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Yanma</string>
+		<string>Foresight</string>
 		<key>shortcut</key>
-		<string>やんやんま</string>
+		<string>みやぶる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wooper</string>
+		<string>Destiny Bond</string>
 		<key>shortcut</key>
-		<string>うぱー</string>
+		<string>みちづれ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Quagsire</string>
+		<string>Perish Song</string>
 		<key>shortcut</key>
-		<string>ぬおー</string>
+		<string>ほろびのうた</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Espeon</string>
+		<string>Icy Wind</string>
 		<key>shortcut</key>
-		<string>えーふぃ</string>
+		<string>こごえるかぜ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Umbreon</string>
+		<string>Detect</string>
 		<key>shortcut</key>
-		<string>ぶらっきー</string>
+		<string>みきり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Murkrow</string>
+		<string>Bone Rush</string>
 		<key>shortcut</key>
-		<string>やみからす</string>
+		<string>ぼーんらっしゅ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Slowking</string>
+		<string>Lock-On</string>
 		<key>shortcut</key>
-		<string>やどきんぐ</string>
+		<string>ろっくおん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Misdreavus</string>
+		<string>Outrage</string>
 		<key>shortcut</key>
-		<string>むうま</string>
+		<string>げきりん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Unown</string>
+		<string>Sandstorm</string>
 		<key>shortcut</key>
-		<string>あんのーん</string>
+		<string>すなあらし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wobbuffet</string>
+		<string>Giga Drain</string>
 		<key>shortcut</key>
-		<string>そーなんす</string>
+		<string>ぎがどれいん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Girafarig</string>
+		<string>Endure</string>
 		<key>shortcut</key>
-		<string>きりんりき</string>
+		<string>こらえる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pineco</string>
+		<string>Charm</string>
 		<key>shortcut</key>
-		<string>くぬぎだま</string>
+		<string>あまえる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Forretress</string>
+		<string>Rollout</string>
 		<key>shortcut</key>
-		<string>ふぉれとす</string>
+		<string>ころがる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dunsparce</string>
+		<string>False Swipe</string>
 		<key>shortcut</key>
-		<string>のこっち</string>
+		<string>みねうち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gligar</string>
+		<string>Swagger</string>
 		<key>shortcut</key>
-		<string>ぐらいがー</string>
+		<string>いばる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Steelix</string>
+		<string>Milk Drink</string>
 		<key>shortcut</key>
-		<string>はがねーる</string>
+		<string>みるくのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Snubbull</string>
+		<string>Spark</string>
 		<key>shortcut</key>
-		<string>ぶるー</string>
+		<string>すぱーく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Granbull</string>
+		<string>Fury Cutter</string>
 		<key>shortcut</key>
-		<string>ぐらんぶる</string>
+		<string>れんぞくぎり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Qwilfish</string>
+		<string>Steel Wing</string>
 		<key>shortcut</key>
-		<string>はりーせん</string>
+		<string>はがねのつばさ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Scizor</string>
+		<string>Mean Look</string>
 		<key>shortcut</key>
-		<string>はっさむ</string>
+		<string>くろいまなざし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Shuckle</string>
+		<string>Attract</string>
 		<key>shortcut</key>
-		<string>つぼつぼ</string>
+		<string>めろめろ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Heracross</string>
+		<string>Sleep Talk</string>
 		<key>shortcut</key>
-		<string>へらくろす</string>
+		<string>ねごと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sneasel</string>
+		<string>Heal Bell</string>
 		<key>shortcut</key>
-		<string>にゅーら</string>
+		<string>いやしのすず</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Teddiursa</string>
+		<string>Return</string>
 		<key>shortcut</key>
-		<string>ひめぐま</string>
+		<string>おんがえし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ursaring</string>
+		<string>Present</string>
 		<key>shortcut</key>
-		<string>りんぐま</string>
+		<string>ぷれぜんと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Slugma</string>
+		<string>Frustration</string>
 		<key>shortcut</key>
-		<string>まぐまっぐ</string>
+		<string>やつあたり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Magcargo</string>
+		<string>Safeguard</string>
 		<key>shortcut</key>
-		<string>まぐかるご</string>
+		<string>しんぴのまもり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Swinub</string>
+		<string>Pain Split</string>
 		<key>shortcut</key>
-		<string>うりむー</string>
+		<string>いたみわけ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Piloswine</string>
+		<string>Sacred Fire</string>
 		<key>shortcut</key>
-		<string>いのむー</string>
+		<string>せいなるほのお</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Corsola</string>
+		<string>Magnitude</string>
 		<key>shortcut</key>
-		<string>さにーご</string>
+		<string>まぐにちゅーど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Remoraid</string>
+		<string>Dynamic Punch</string>
 		<key>shortcut</key>
-		<string>てっぽうお</string>
+		<string>ばくれつぱんち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Octillery</string>
+		<string>Megahorn</string>
 		<key>shortcut</key>
-		<string>おくたん</string>
+		<string>めがほーん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Delibird</string>
+		<string>Dragon Breath</string>
 		<key>shortcut</key>
-		<string>でりばーど</string>
+		<string>りゅうのいぶき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mantine</string>
+		<string>Baton Pass</string>
 		<key>shortcut</key>
-		<string>まんたいん</string>
+		<string>ばとんたっち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Skarmory</string>
+		<string>Encore</string>
 		<key>shortcut</key>
-		<string>えあーむど</string>
+		<string>あんこーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Houndour</string>
+		<string>Pursuit</string>
 		<key>shortcut</key>
-		<string>でるびる</string>
+		<string>おいうち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Houndoom</string>
+		<string>Rapid Spin</string>
 		<key>shortcut</key>
-		<string>へるがー</string>
+		<string>こうそくすぴん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kingdra</string>
+		<string>Sweet Scent</string>
 		<key>shortcut</key>
-		<string>きんぐどら</string>
+		<string>あまいかおり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Phanpy</string>
+		<string>Iron Tail</string>
 		<key>shortcut</key>
-		<string>ごまぞう</string>
+		<string>あいあんてーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Donphan</string>
+		<string>Metal Claw</string>
 		<key>shortcut</key>
-		<string>どんふぁん</string>
+		<string>めたるくろー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Porygon2</string>
+		<string>Vital Throw</string>
 		<key>shortcut</key>
-		<string>ぽりごん2</string>
+		<string>あてみなげ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Stantler</string>
+		<string>Morning Sun</string>
 		<key>shortcut</key>
-		<string>おどしし</string>
+		<string>あさのひざし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Smeargle</string>
+		<string>Synthesis</string>
 		<key>shortcut</key>
-		<string>どーぶる</string>
+		<string>こうごうせい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tyrogue</string>
+		<string>Moonlight</string>
 		<key>shortcut</key>
-		<string>ばるきー</string>
+		<string>つきのひかり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hitmontop</string>
+		<string>Hidden Power</string>
 		<key>shortcut</key>
-		<string>かぽえらー</string>
+		<string>めざめるぱわー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Smoochum</string>
+		<string>Cross Chop</string>
 		<key>shortcut</key>
-		<string>むちゅーる</string>
+		<string>くろすちょっぷ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Elekid</string>
+		<string>Twister</string>
 		<key>shortcut</key>
-		<string>えれきっど</string>
+		<string>たつまき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Magby</string>
+		<string>Rain Dance</string>
 		<key>shortcut</key>
-		<string>ぶびぃ</string>
+		<string>あまごい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Miltank</string>
+		<string>Sunny Day</string>
 		<key>shortcut</key>
-		<string>みるたんく</string>
+		<string>にほんばれ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Blissey</string>
+		<string>Crunch</string>
 		<key>shortcut</key>
-		<string>はぴなす</string>
+		<string>かみくだく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Raikou</string>
+		<string>Mirror Coat</string>
 		<key>shortcut</key>
-		<string>らいこう</string>
+		<string>みらーこーと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Entei</string>
+		<string>Psych Up</string>
 		<key>shortcut</key>
-		<string>えんてい</string>
+		<string>じこあんじ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Suicune</string>
+		<string>Extreme Speed</string>
 		<key>shortcut</key>
-		<string>すいくん</string>
+		<string>しんそく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Larvitar</string>
+		<string>Ancient Power</string>
 		<key>shortcut</key>
-		<string>よーぎらす</string>
+		<string>げんしのちから</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pupitar</string>
+		<string>Shadow Ball</string>
 		<key>shortcut</key>
-		<string>さなぎらす</string>
+		<string>しゃどーぼーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tyranitar</string>
+		<string>Future Sight</string>
 		<key>shortcut</key>
-		<string>ばんぎらす</string>
+		<string>みらいよち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lugia</string>
+		<string>Rock Smash</string>
 		<key>shortcut</key>
-		<string>るぎあ</string>
+		<string>いわくだき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ho-Oh</string>
+		<string>Whirlpool</string>
 		<key>shortcut</key>
-		<string>ほうおう</string>
+		<string>うずしお</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Celebi</string>
+		<string>Beat Up</string>
 		<key>shortcut</key>
-		<string>せれびぃ</string>
+		<string>ふくろだたき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Treecko</string>
+		<string>Fake Out</string>
 		<key>shortcut</key>
-		<string>きもり</string>
+		<string>ねこだまし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Grovyle</string>
+		<string>Uproar</string>
 		<key>shortcut</key>
-		<string>じゅぷとる</string>
+		<string>さわぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sceptile</string>
+		<string>Stockpile</string>
 		<key>shortcut</key>
-		<string>じゅかいん</string>
+		<string>たくわえる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Torchic</string>
+		<string>Spit Up</string>
 		<key>shortcut</key>
-		<string>あちゃも</string>
+		<string>はきだす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Combusken</string>
+		<string>Swallow</string>
 		<key>shortcut</key>
-		<string>わかしゃも</string>
+		<string>のみこむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Blaziken</string>
+		<string>Heat Wave</string>
 		<key>shortcut</key>
-		<string>ばしゃーも</string>
+		<string>ねっぷう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mudkip</string>
+		<string>Hail</string>
 		<key>shortcut</key>
-		<string>みずごろう</string>
+		<string>あられ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Marshtomp</string>
+		<string>Torment</string>
 		<key>shortcut</key>
-		<string>ぬまくろー</string>
+		<string>いちゃもん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Swampert</string>
+		<string>Flatter</string>
 		<key>shortcut</key>
-		<string>らぐらーじ</string>
+		<string>おだてる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Poochyena</string>
+		<string>Will-O-Wisp</string>
 		<key>shortcut</key>
-		<string>ぽちえな</string>
+		<string>おにび</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mightyena</string>
+		<string>Memento</string>
 		<key>shortcut</key>
-		<string>ぐらえな</string>
+		<string>おきみやげ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Zigzagoon</string>
+		<string>Facade</string>
 		<key>shortcut</key>
-		<string>じぐざぐま</string>
+		<string>からげんき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Linoone</string>
+		<string>Focus Punch</string>
 		<key>shortcut</key>
-		<string>まっすぐま</string>
+		<string>きあいぱんち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wurmple</string>
+		<string>Smelling Salts</string>
 		<key>shortcut</key>
-		<string>けむっそ</string>
+		<string>きつけ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Silcoon</string>
+		<string>Follow Me</string>
 		<key>shortcut</key>
-		<string>からさりす</string>
+		<string>このゆびとまれ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Beautifly</string>
+		<string>Nature Power</string>
 		<key>shortcut</key>
-		<string>あげはんと</string>
+		<string>しぜんのちから</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cascoon</string>
+		<string>Charge</string>
 		<key>shortcut</key>
-		<string>まゆるど</string>
+		<string>じゅうでん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dustox</string>
+		<string>Taunt</string>
 		<key>shortcut</key>
-		<string>どくけいる</string>
+		<string>ちょうはつ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lotad</string>
+		<string>Helping Hand</string>
 		<key>shortcut</key>
-		<string>はすぼー</string>
+		<string>てだすけ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lombre</string>
+		<string>Trick</string>
 		<key>shortcut</key>
-		<string>はすぶれろ</string>
+		<string>とりっく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ludicolo</string>
+		<string>Role Play</string>
 		<key>shortcut</key>
-		<string>るんぱっぱ</string>
+		<string>なりきり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Seedot</string>
+		<string>Wish</string>
 		<key>shortcut</key>
-		<string>たねぼー</string>
+		<string>ねがいごと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Nuzleaf</string>
+		<string>Assist</string>
 		<key>shortcut</key>
-		<string>このはな</string>
+		<string>ねこのて</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Shiftry</string>
+		<string>Ingrain</string>
 		<key>shortcut</key>
-		<string>だーてんぐ</string>
+		<string>ねをはる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Taillow</string>
+		<string>Superpower</string>
 		<key>shortcut</key>
-		<string>すばめ</string>
+		<string>ばかぢから</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Swellow</string>
+		<string>Magic Coat</string>
 		<key>shortcut</key>
-		<string>おおすばめ</string>
+		<string>まじっくこーと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wingull</string>
+		<string>Recycle</string>
 		<key>shortcut</key>
-		<string>きゃもめ</string>
+		<string>りさいくる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pelipper</string>
+		<string>Revenge</string>
 		<key>shortcut</key>
-		<string>ぺりっぱー</string>
+		<string>りべんじ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ralts</string>
+		<string>Brick Break</string>
 		<key>shortcut</key>
-		<string>らるとす</string>
+		<string>かわらわり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kirlia</string>
+		<string>Yawn</string>
 		<key>shortcut</key>
-		<string>きるりあ</string>
+		<string>あくび</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gardevoir</string>
+		<string>Knock Off</string>
 		<key>shortcut</key>
-		<string>さーないと</string>
+		<string>はたきおとす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Surskit</string>
+		<string>Endeavor</string>
 		<key>shortcut</key>
-		<string>あめたま</string>
+		<string>がむしゃら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Masquerain</string>
+		<string>Eruption</string>
 		<key>shortcut</key>
-		<string>あめもーす</string>
+		<string>ふんか</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Shroomish</string>
+		<string>Skill Swap</string>
 		<key>shortcut</key>
-		<string>きのここ</string>
+		<string>すきるすわっぷ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Breloom</string>
+		<string>Imprison</string>
 		<key>shortcut</key>
-		<string>きのがっさ</string>
+		<string>ふういん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Slakoth</string>
+		<string>Refresh</string>
 		<key>shortcut</key>
-		<string>なまけろ</string>
+		<string>りふれっしゅ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Vigoroth</string>
+		<string>Grudge</string>
 		<key>shortcut</key>
-		<string>やるきもの</string>
+		<string>おんねん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Slaking</string>
+		<string>Snatch</string>
 		<key>shortcut</key>
-		<string>けっきんぐ</string>
+		<string>よこどり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Nincada</string>
+		<string>Secret Power</string>
 		<key>shortcut</key>
-		<string>つちにん</string>
+		<string>ひみつのちから</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ninjask</string>
+		<string>Dive</string>
 		<key>shortcut</key>
-		<string>てっかにん</string>
+		<string>だいびんぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Shedinja</string>
+		<string>Arm Thrust</string>
 		<key>shortcut</key>
-		<string>ぬけにん</string>
+		<string>つっぱり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Whismur</string>
+		<string>Camouflage</string>
 		<key>shortcut</key>
-		<string>ごにょにょ</string>
+		<string>ほごしょく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Loudred</string>
+		<string>Tail Glow</string>
 		<key>shortcut</key>
-		<string>どごーむ</string>
+		<string>ほたるび</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Exploud</string>
+		<string>Luster Purge</string>
 		<key>shortcut</key>
-		<string>ばくおんぐ</string>
+		<string>らすたーぱーじ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Makuhita</string>
+		<string>Mist Ball</string>
 		<key>shortcut</key>
-		<string>まくのした</string>
+		<string>みすとぼーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hariyama</string>
+		<string>Feather Dance</string>
 		<key>shortcut</key>
-		<string>はりてやま</string>
+		<string>ふぇざーだんす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Azurill</string>
+		<string>Teeter Dance</string>
 		<key>shortcut</key>
-		<string>るりり</string>
+		<string>ふらふらだんす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Nosepass</string>
+		<string>Blaze Kick</string>
 		<key>shortcut</key>
-		<string>のずぱす</string>
+		<string>ぶれいずきっく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Skitty</string>
+		<string>Mud Sport</string>
 		<key>shortcut</key>
-		<string>えねこ</string>
+		<string>どろあそび</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Delcatty</string>
+		<string>Ice Ball</string>
 		<key>shortcut</key>
-		<string>えねころろ</string>
+		<string>あいすぼーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sableye</string>
+		<string>Needle Arm</string>
 		<key>shortcut</key>
-		<string>やみらみ</string>
+		<string>にーどるあーむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mawile</string>
+		<string>Slack Off</string>
 		<key>shortcut</key>
-		<string>くちーと</string>
+		<string>なまける</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Aron</string>
+		<string>Hyper Voice</string>
 		<key>shortcut</key>
-		<string>ここどら</string>
+		<string>はいぱーぼいす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lairon</string>
+		<string>Poison Fang</string>
 		<key>shortcut</key>
-		<string>こどら</string>
+		<string>どくどくのきば</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Aggron</string>
+		<string>Crush Claw</string>
 		<key>shortcut</key>
-		<string>ぼすごどら</string>
+		<string>ぶれいくくろー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Meditite</string>
+		<string>Blast Burn</string>
 		<key>shortcut</key>
-		<string>あさなん</string>
+		<string>ぶらすとばーん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Medicham</string>
+		<string>Hydro Cannon</string>
 		<key>shortcut</key>
-		<string>ちゃーれむ</string>
+		<string>はいどろかのん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Electrike</string>
+		<string>Meteor Mash</string>
 		<key>shortcut</key>
-		<string>らくらい</string>
+		<string>こめっとぱんち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Manectric</string>
+		<string>Astonish</string>
 		<key>shortcut</key>
-		<string>らいぼると</string>
+		<string>おどろかす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Plusle</string>
+		<string>Weather Ball</string>
 		<key>shortcut</key>
-		<string>ぷらする</string>
+		<string>うぇざーぼーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Minun</string>
+		<string>Aromatherapy</string>
 		<key>shortcut</key>
-		<string>まいなん</string>
+		<string>あろませらぴー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Volbeat</string>
+		<string>Fake Tears</string>
 		<key>shortcut</key>
-		<string>ばるびーと</string>
+		<string>うそなき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Illumise</string>
+		<string>Air Cutter</string>
 		<key>shortcut</key>
-		<string>いるみーぜ</string>
+		<string>えあかったー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Roselia</string>
+		<string>Overheat</string>
 		<key>shortcut</key>
-		<string>ろぜりあ</string>
+		<string>おーばーひーと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gulpin</string>
+		<string>Odor Sleuth</string>
 		<key>shortcut</key>
-		<string>ごくりん</string>
+		<string>かぎわける</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Swalot</string>
+		<string>Rock Tomb</string>
 		<key>shortcut</key>
-		<string>まるのーむ</string>
+		<string>がんせきふうじ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Carvanha</string>
+		<string>Silver Wind</string>
 		<key>shortcut</key>
-		<string>きばにあ</string>
+		<string>ぎんいろのかぜ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sharpedo</string>
+		<string>Metal Sound</string>
 		<key>shortcut</key>
-		<string>さめはだー</string>
+		<string>きんぞくおん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wailmer</string>
+		<string>Grass Whistle</string>
 		<key>shortcut</key>
-		<string>ほえるこ</string>
+		<string>くさぶえ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wailord</string>
+		<string>Tickle</string>
 		<key>shortcut</key>
-		<string>ほえるおー</string>
+		<string>くすぐる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Numel</string>
+		<string>Cosmic Power</string>
 		<key>shortcut</key>
-		<string>どんめる</string>
+		<string>こすもぱわー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Camerupt</string>
+		<string>Water Spout</string>
 		<key>shortcut</key>
-		<string>ばくーだ</string>
+		<string>しおふき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Torkoal</string>
+		<string>Signal Beam</string>
 		<key>shortcut</key>
-		<string>こーたす</string>
+		<string>しぐなるびーむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Spoink</string>
+		<string>Shadow Punch</string>
 		<key>shortcut</key>
-		<string>ばねぶー</string>
+		<string>しゃどーぱんち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Grumpig</string>
+		<string>Extrasensory</string>
 		<key>shortcut</key>
-		<string>ぶーぴっぐ</string>
+		<string>じんつうりき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Spinda</string>
+		<string>Sky Uppercut</string>
 		<key>shortcut</key>
-		<string>ぱっちーる</string>
+		<string>すかいあっぱー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Trapinch</string>
+		<string>Sand Tomb</string>
 		<key>shortcut</key>
-		<string>なっくらー</string>
+		<string>すなじごく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Vibrava</string>
+		<string>Sheer Cold</string>
 		<key>shortcut</key>
-		<string>びぶらーば</string>
+		<string>ぜったいれいど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Flygon</string>
+		<string>Muddy Water</string>
 		<key>shortcut</key>
-		<string>ふらいごん</string>
+		<string>だくりゅう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cacnea</string>
+		<string>Bullet Seed</string>
 		<key>shortcut</key>
-		<string>さぼねあ</string>
+		<string>たねましんがん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cacturne</string>
+		<string>Aerial Ace</string>
 		<key>shortcut</key>
-		<string>のくたす</string>
+		<string>つばめがえし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Swablu</string>
+		<string>Icicle Spear</string>
 		<key>shortcut</key>
-		<string>ちるっと</string>
+		<string>つららばり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Altaria</string>
+		<string>Iron Defense</string>
 		<key>shortcut</key>
-		<string>ちるたりす</string>
+		<string>てっぺき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Zangoose</string>
+		<string>Block</string>
 		<key>shortcut</key>
-		<string>ざんぐーす</string>
+		<string>とおせんぼう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Seviper</string>
+		<string>Howl</string>
 		<key>shortcut</key>
-		<string>はぶねーく</string>
+		<string>とおぼえ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lunatone</string>
+		<string>Dragon Claw</string>
 		<key>shortcut</key>
-		<string>るなとーん</string>
+		<string>どらごんくろー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Solrock</string>
+		<string>Frenzy Plant</string>
 		<key>shortcut</key>
-		<string>そるろっく</string>
+		<string>はーどぷらんと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Barboach</string>
+		<string>Bulk Up</string>
 		<key>shortcut</key>
-		<string>どじょっち</string>
+		<string>びるどあっぷ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Whiscash</string>
+		<string>Bounce</string>
 		<key>shortcut</key>
-		<string>なまずん</string>
+		<string>とびはねる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Corphish</string>
+		<string>Mud Shot</string>
 		<key>shortcut</key>
-		<string>へいがに</string>
+		<string>まっどしょっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Crawdaunt</string>
+		<string>Poison Tail</string>
 		<key>shortcut</key>
-		<string>しざりがー</string>
+		<string>ぽいずんてーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Baltoy</string>
+		<string>Covet</string>
 		<key>shortcut</key>
-		<string>やじろん</string>
+		<string>ほしがる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Claydol</string>
+		<string>Volt Tackle</string>
 		<key>shortcut</key>
-		<string>ねんどーる</string>
+		<string>ぼるてっかー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lileep</string>
+		<string>Magical Leaf</string>
 		<key>shortcut</key>
-		<string>りりーら</string>
+		<string>まじかるりーふ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cradily</string>
+		<string>Water Sport</string>
 		<key>shortcut</key>
-		<string>ゆれいどる</string>
+		<string>みずあそび</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Anorith</string>
+		<string>Calm Mind</string>
 		<key>shortcut</key>
-		<string>あのぷす</string>
+		<string>めいそう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Armaldo</string>
+		<string>Leaf Blade</string>
 		<key>shortcut</key>
-		<string>あーまるど</string>
+		<string>りーふぶれーど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Feebas</string>
+		<string>Dragon Dance</string>
 		<key>shortcut</key>
-		<string>ひんばす</string>
+		<string>りゅうのまい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Milotic</string>
+		<string>Rock Blast</string>
 		<key>shortcut</key>
-		<string>みろかろす</string>
+		<string>ろっくぶらすと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Castform</string>
+		<string>Shock Wave</string>
 		<key>shortcut</key>
-		<string>ぽわるん</string>
+		<string>でんげきは</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kecleon</string>
+		<string>Water Pulse</string>
 		<key>shortcut</key>
-		<string>かくれおん</string>
+		<string>みずのはどう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Shuppet</string>
+		<string>Doom Desire</string>
 		<key>shortcut</key>
-		<string>かげぼうず</string>
+		<string>はめつのねがい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Banette</string>
+		<string>Psycho Boost</string>
 		<key>shortcut</key>
-		<string>じゅぺった</string>
+		<string>さいこぶーすと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Duskull</string>
+		<string>Roost</string>
 		<key>shortcut</key>
-		<string>よまわる</string>
+		<string>はねやすめ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dusclops</string>
+		<string>Gravity</string>
 		<key>shortcut</key>
-		<string>さまよーる</string>
+		<string>じゅうりょく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tropius</string>
+		<string>Miracle Eye</string>
 		<key>shortcut</key>
-		<string>とろぴうす</string>
+		<string>みらくるあい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Chimecho</string>
+		<string>Wake-Up Slap</string>
 		<key>shortcut</key>
-		<string>ちりーん</string>
+		<string>めざましびんた</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Absol</string>
+		<string>Hammer Arm</string>
 		<key>shortcut</key>
-		<string>あぶそる</string>
+		<string>あーむはんまー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wynaut</string>
+		<string>Gyro Ball</string>
 		<key>shortcut</key>
-		<string>そーなの</string>
+		<string>じゃいろぼーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Snorunt</string>
+		<string>Healing Wish</string>
 		<key>shortcut</key>
-		<string>ゆきわらし</string>
+		<string>いやしのねがい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Glalie</string>
+		<string>Brine</string>
 		<key>shortcut</key>
-		<string>おにごーり</string>
+		<string>しおみず</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Spheal</string>
+		<string>Natural Gift</string>
 		<key>shortcut</key>
-		<string>たまざらし</string>
+		<string>しぜんのめぐみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sealeo</string>
+		<string>Feint</string>
 		<key>shortcut</key>
-		<string>とどぐらー</string>
+		<string>ふぇいんと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Walrein</string>
+		<string>Pluck</string>
 		<key>shortcut</key>
-		<string>とどぜるが</string>
+		<string>ついばむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Clamperl</string>
+		<string>Tailwind</string>
 		<key>shortcut</key>
-		<string>ぱーるる</string>
+		<string>おいかぜ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Huntail</string>
+		<string>Acupressure</string>
 		<key>shortcut</key>
-		<string>はんてーる</string>
+		<string>つぼをつく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gorebyss</string>
+		<string>Metal Burst</string>
 		<key>shortcut</key>
-		<string>さくらびす</string>
+		<string>めたるばーすと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Relicanth</string>
+		<string>U-turn</string>
 		<key>shortcut</key>
-		<string>じーらんす</string>
+		<string>とんぼがえり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Luvdisc</string>
+		<string>Close Combat</string>
 		<key>shortcut</key>
-		<string>らぶかす</string>
+		<string>いんふぁいと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bagon</string>
+		<string>Payback</string>
 		<key>shortcut</key>
-		<string>たつべい</string>
+		<string>しっぺがえし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Shelgon</string>
+		<string>Assurance</string>
 		<key>shortcut</key>
-		<string>こもるー</string>
+		<string>だめおし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Salamence</string>
+		<string>Embargo</string>
 		<key>shortcut</key>
-		<string>ぼーまんだ</string>
+		<string>さしおさえ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Beldum</string>
+		<string>Fling</string>
 		<key>shortcut</key>
-		<string>だんばる</string>
+		<string>なげつける</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Metang</string>
+		<string>Psycho Shift</string>
 		<key>shortcut</key>
-		<string>めたんぐ</string>
+		<string>さいこしふと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Metagross</string>
+		<string>Trump Card</string>
 		<key>shortcut</key>
-		<string>めたぐろす</string>
+		<string>きりふだ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Regirock</string>
+		<string>Heal Block</string>
 		<key>shortcut</key>
-		<string>れじろっく</string>
+		<string>かいふくふうじ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Regice</string>
+		<string>Wring Out</string>
 		<key>shortcut</key>
-		<string>れじあいす</string>
+		<string>しぼりとる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Registeel</string>
+		<string>Power Trick</string>
 		<key>shortcut</key>
-		<string>れじすちる</string>
+		<string>ぱわーとりっく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Latias</string>
+		<string>Gastro Acid</string>
 		<key>shortcut</key>
-		<string>らてぃあす</string>
+		<string>いえき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Latios</string>
+		<string>Lucky Chant</string>
 		<key>shortcut</key>
-		<string>らてぃおす</string>
+		<string>おまじない</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kyogre</string>
+		<string>Me First</string>
 		<key>shortcut</key>
-		<string>かいおーが</string>
+		<string>さきどり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Groudon</string>
+		<string>Copycat</string>
 		<key>shortcut</key>
-		<string>ぐらーどん</string>
+		<string>まねっこ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rayquaza</string>
+		<string>Power Swap</string>
 		<key>shortcut</key>
-		<string>れっくうざ</string>
+		<string>ぱわーすわっぷ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Jirachi</string>
+		<string>Guard Swap</string>
 		<key>shortcut</key>
-		<string>じらーち</string>
+		<string>がーどすわっぷ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Deoxys</string>
+		<string>Punishment</string>
 		<key>shortcut</key>
-		<string>でおきしす</string>
+		<string>おしおき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Turtwig</string>
+		<string>Last Resort</string>
 		<key>shortcut</key>
-		<string>なえとる</string>
+		<string>とっておき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Grotle</string>
+		<string>Worry Seed</string>
 		<key>shortcut</key>
-		<string>はやしがめ</string>
+		<string>なやみのたね</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Torterra</string>
+		<string>Sucker Punch</string>
 		<key>shortcut</key>
-		<string>どだいとす</string>
+		<string>ふいうち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Chimchar</string>
+		<string>Toxic Spikes</string>
 		<key>shortcut</key>
-		<string>ひこざる</string>
+		<string>どくびし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Monferno</string>
+		<string>Heart Swap</string>
 		<key>shortcut</key>
-		<string>もうかざる</string>
+		<string>はーとすわっぷ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Infernape</string>
+		<string>Aqua Ring</string>
 		<key>shortcut</key>
-		<string>ごうかざる</string>
+		<string>あくありんぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Piplup</string>
+		<string>Magnet Rise</string>
 		<key>shortcut</key>
-		<string>ぽっちゃま</string>
+		<string>でんじふゆう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Prinplup</string>
+		<string>Flare Blitz</string>
 		<key>shortcut</key>
-		<string>ぽったいし</string>
+		<string>ふれあどらいぶ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Empoleon</string>
+		<string>Force Palm</string>
 		<key>shortcut</key>
-		<string>えんぺると</string>
+		<string>はっけい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Starly</string>
+		<string>Aura Sphere</string>
 		<key>shortcut</key>
-		<string>むっくる</string>
+		<string>はどうだん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Staravia</string>
+		<string>Rock Polish</string>
 		<key>shortcut</key>
-		<string>むくばーど</string>
+		<string>ろっくかっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Staraptor</string>
+		<string>Poison Jab</string>
 		<key>shortcut</key>
-		<string>むくほーく</string>
+		<string>どくづき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bidoof</string>
+		<string>Dark Pulse</string>
 		<key>shortcut</key>
-		<string>びっぱ</string>
+		<string>あくのはどう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bibarel</string>
+		<string>Night Slash</string>
 		<key>shortcut</key>
-		<string>びーだる</string>
+		<string>つじぎり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kricketot</string>
+		<string>Aqua Tail</string>
 		<key>shortcut</key>
-		<string>ころぼーし</string>
+		<string>あくあてーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kricketune</string>
+		<string>Seed Bomb</string>
 		<key>shortcut</key>
-		<string>ころとっく</string>
+		<string>たねばくだん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Shinx</string>
+		<string>Air Slash</string>
 		<key>shortcut</key>
-		<string>こりんく</string>
+		<string>えあすらっしゅ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Luxio</string>
+		<string>X-Scissor</string>
 		<key>shortcut</key>
-		<string>るくしお</string>
+		<string>しざーくろす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Luxray</string>
+		<string>Bug Buzz</string>
 		<key>shortcut</key>
-		<string>れんとらー</string>
+		<string>むしのさざめき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Budew</string>
+		<string>Dragon Pulse</string>
 		<key>shortcut</key>
-		<string>すぼみー</string>
+		<string>りゅうのはどう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Roserade</string>
+		<string>Dragon Rush</string>
 		<key>shortcut</key>
-		<string>ろずれいど</string>
+		<string>どらごんだいぶ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cranidos</string>
+		<string>Power Gem</string>
 		<key>shortcut</key>
-		<string>ずがいどす</string>
+		<string>ぱわーじぇむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rampardos</string>
+		<string>Drain Punch</string>
 		<key>shortcut</key>
-		<string>らむぱるど</string>
+		<string>どれいんぱんち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Shieldon</string>
+		<string>Vacuum Wave</string>
 		<key>shortcut</key>
-		<string>たてとぷす</string>
+		<string>しんくうは</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bastiodon</string>
+		<string>Focus Blast</string>
 		<key>shortcut</key>
-		<string>とりでぷす</string>
+		<string>きあいだま</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Burmy</string>
+		<string>Energy Ball</string>
 		<key>shortcut</key>
-		<string>みのむっち</string>
+		<string>えなじーぼーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wormadam</string>
+		<string>Brave Bird</string>
 		<key>shortcut</key>
-		<string>みのまだむ</string>
+		<string>ぶれいぶばーど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mothim</string>
+		<string>Earth Power</string>
 		<key>shortcut</key>
-		<string>がーめいる</string>
+		<string>だいちのちから</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Combee</string>
+		<string>Switcheroo</string>
 		<key>shortcut</key>
-		<string>みつはにー</string>
+		<string>すりかえ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Vespiquen</string>
+		<string>Giga Impact</string>
 		<key>shortcut</key>
-		<string>びーくいん</string>
+		<string>ぎがいんぱくと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pachirisu</string>
+		<string>Nasty Plot</string>
 		<key>shortcut</key>
-		<string>ぱちりす</string>
+		<string>わるだくみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Buizel</string>
+		<string>Bullet Punch</string>
 		<key>shortcut</key>
-		<string>ぶいぜる</string>
+		<string>ばれっとぱんち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Floatzel</string>
+		<string>Avalanche</string>
 		<key>shortcut</key>
-		<string>ふろーぜる</string>
+		<string>ゆきなだれ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cherubi</string>
+		<string>Ice Shard</string>
 		<key>shortcut</key>
-		<string>ちぇりんぼ</string>
+		<string>こおりのつぶて</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cherrim</string>
+		<string>Shadow Claw</string>
 		<key>shortcut</key>
-		<string>ちぇりむ</string>
+		<string>しゃどーくろー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Shellos</string>
+		<string>Thunder Fang</string>
 		<key>shortcut</key>
-		<string>からなくし</string>
+		<string>かみなりのきば</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gastrodon</string>
+		<string>Ice Fang</string>
 		<key>shortcut</key>
-		<string>とりとどん</string>
+		<string>こおりのきば</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ambipom</string>
+		<string>Fire Fang</string>
 		<key>shortcut</key>
-		<string>えてぼーす</string>
+		<string>ほのおのきば</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Drifloon</string>
+		<string>Shadow Sneak</string>
 		<key>shortcut</key>
-		<string>ふわんて</string>
+		<string>かげうち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Drifblim</string>
+		<string>Mud Bomb</string>
 		<key>shortcut</key>
-		<string>ふわらいど</string>
+		<string>どろばくだん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Buneary</string>
+		<string>Psycho Cut</string>
 		<key>shortcut</key>
-		<string>みみろる</string>
+		<string>さいこかったー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lopunny</string>
+		<string>Zen Headbutt</string>
 		<key>shortcut</key>
-		<string>みみろっぷ</string>
+		<string>しねんのずつき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mismagius</string>
+		<string>Mirror Shot</string>
 		<key>shortcut</key>
-		<string>むうまーじ</string>
+		<string>みらーしょっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Honchkrow</string>
+		<string>Flash Cannon</string>
 		<key>shortcut</key>
-		<string>どんからす</string>
+		<string>らすたーかのん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Glameow</string>
+		<string>Rock Climb</string>
 		<key>shortcut</key>
-		<string>にゃるまー</string>
+		<string>ろっくくらいむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Purugly</string>
+		<string>Defog</string>
 		<key>shortcut</key>
-		<string>ぶにゃっと</string>
+		<string>きりばらい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Chingling</string>
+		<string>Trick Room</string>
 		<key>shortcut</key>
-		<string>りーしゃん</string>
+		<string>とりっくるーむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Stunky</string>
+		<string>Draco Meteor</string>
 		<key>shortcut</key>
-		<string>すかんぷー</string>
+		<string>りゅうせいぐん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Skuntank</string>
+		<string>Discharge</string>
 		<key>shortcut</key>
-		<string>すかたんく</string>
+		<string>ほうでん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bronzor</string>
+		<string>Lava Plume</string>
 		<key>shortcut</key>
-		<string>どーみらー</string>
+		<string>ふんえん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bronzong</string>
+		<string>Leaf Storm</string>
 		<key>shortcut</key>
-		<string>どーたくん</string>
+		<string>りーふすとーむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bonsly</string>
+		<string>Power Whip</string>
 		<key>shortcut</key>
-		<string>うそはち</string>
+		<string>ぱわーうぃっぷ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mime Jr.</string>
+		<string>Rock Wrecker</string>
 		<key>shortcut</key>
-		<string>まねね</string>
+		<string>がんせきほう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Happiny</string>
+		<string>Cross Poison</string>
 		<key>shortcut</key>
-		<string>ぴんぷく</string>
+		<string>くろすぽいずん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Chatot</string>
+		<string>Gunk Shot</string>
 		<key>shortcut</key>
-		<string>ぺらっぷ</string>
+		<string>だすとしゅーと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Spiritomb</string>
+		<string>Iron Head</string>
 		<key>shortcut</key>
-		<string>みかるげ</string>
+		<string>あいあんへっど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gible</string>
+		<string>Magnet Bomb</string>
 		<key>shortcut</key>
-		<string>ふかまる</string>
+		<string>まぐねっとぼむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gabite</string>
+		<string>Stone Edge</string>
 		<key>shortcut</key>
-		<string>がばいと</string>
+		<string>すとーんえっじ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Garchomp</string>
+		<string>Captivate</string>
 		<key>shortcut</key>
-		<string>がぶりあす</string>
+		<string>ゆうわく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Munchlax</string>
+		<string>Stealth Rock</string>
 		<key>shortcut</key>
-		<string>ごんべ</string>
+		<string>すてるすろっく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Riolu</string>
+		<string>Grass Knot</string>
 		<key>shortcut</key>
-		<string>りおる</string>
+		<string>くさむすび</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lucario</string>
+		<string>Chatter</string>
 		<key>shortcut</key>
-		<string>るかりお</string>
+		<string>おしゃべり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hippopotas</string>
+		<string>Judgment</string>
 		<key>shortcut</key>
-		<string>ひぽぽたす</string>
+		<string>さばきのつぶて</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hippowdon</string>
+		<string>Bug Bite</string>
 		<key>shortcut</key>
-		<string>かばるどん</string>
+		<string>むしくい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Skorupi</string>
+		<string>Charge Beam</string>
 		<key>shortcut</key>
-		<string>すこるぴ</string>
+		<string>ちゃーじびーむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Drapion</string>
+		<string>Wood Hammer</string>
 		<key>shortcut</key>
-		<string>どらぴおん</string>
+		<string>うっどはんまー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Croagunk</string>
+		<string>Aqua Jet</string>
 		<key>shortcut</key>
-		<string>ぐれっぐる</string>
+		<string>あくあじぇっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Toxicroak</string>
+		<string>Attack Order</string>
 		<key>shortcut</key>
-		<string>どくろっぐ</string>
+		<string>こうげきしれい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Carnivine</string>
+		<string>Defend Order</string>
 		<key>shortcut</key>
-		<string>ますきっぱ</string>
+		<string>ぼうぎょしれい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Finneon</string>
+		<string>Heal Order</string>
 		<key>shortcut</key>
-		<string>けいこうお</string>
+		<string>かいふくしれい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lumineon</string>
+		<string>Head Smash</string>
 		<key>shortcut</key>
-		<string>ねおらんと</string>
+		<string>もろはのずつき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mantyke</string>
+		<string>Double Hit</string>
 		<key>shortcut</key>
-		<string>たまんた</string>
+		<string>だぶるあたっく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Snover</string>
+		<string>Roar of Time</string>
 		<key>shortcut</key>
-		<string>ゆきかぶり</string>
+		<string>ときのほうこう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Abomasnow</string>
+		<string>Spacial Rend</string>
 		<key>shortcut</key>
-		<string>ゆきのおー</string>
+		<string>あくうせつだん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Weavile</string>
+		<string>Lunar Dance</string>
 		<key>shortcut</key>
-		<string>まにゅーら</string>
+		<string>みかづきのまい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Magnezone</string>
+		<string>Crush Grip</string>
 		<key>shortcut</key>
-		<string>じばこいる</string>
+		<string>にぎりつぶす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lickilicky</string>
+		<string>Magma Storm</string>
 		<key>shortcut</key>
-		<string>べろべると</string>
+		<string>まぐますとーむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rhyperior</string>
+		<string>Dark Void</string>
 		<key>shortcut</key>
-		<string>どさいどん</string>
+		<string>だーくほーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tangrowth</string>
+		<string>Seed Flare</string>
 		<key>shortcut</key>
-		<string>もじゃんぼ</string>
+		<string>しーどふれあ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Electivire</string>
+		<string>Ominous Wind</string>
 		<key>shortcut</key>
-		<string>えれきぶる</string>
+		<string>あやしいかぜ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Magmortar</string>
+		<string>Shadow Force</string>
 		<key>shortcut</key>
-		<string>ぶーばーん</string>
+		<string>しゃどーだいぶ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Togekiss</string>
+		<string>Hone Claws</string>
 		<key>shortcut</key>
-		<string>とげきっす</string>
+		<string>つめとぎ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Yanmega</string>
+		<string>Wide Guard</string>
 		<key>shortcut</key>
-		<string>めがやんま</string>
+		<string>わいどがーど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Leafeon</string>
+		<string>Guard Split</string>
 		<key>shortcut</key>
-		<string>りーふぃあ</string>
+		<string>がーどしぇあ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Glaceon</string>
+		<string>Power Split</string>
 		<key>shortcut</key>
-		<string>ぐれいしあ</string>
+		<string>ぱわーしぇあ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gliscor</string>
+		<string>Wonder Room</string>
 		<key>shortcut</key>
-		<string>ぐらいおん</string>
+		<string>わんだーるーむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mamoswine</string>
+		<string>Psyshock</string>
 		<key>shortcut</key>
-		<string>まんむー</string>
+		<string>さいこしょっく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Porygon-Z</string>
+		<string>Venoshock</string>
 		<key>shortcut</key>
-		<string>ぽりごんZ</string>
+		<string>べのむしょっく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gallade</string>
+		<string>Autotomize</string>
 		<key>shortcut</key>
-		<string>えるれいど</string>
+		<string>ぼでぃぱーじ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Probopass</string>
+		<string>Rage Powder</string>
 		<key>shortcut</key>
-		<string>だいのーず</string>
+		<string>いかりのこな</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dusknoir</string>
+		<string>Telekinesis</string>
 		<key>shortcut</key>
-		<string>よのわーる</string>
+		<string>てれきねしす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Froslass</string>
+		<string>Magic Room</string>
 		<key>shortcut</key>
-		<string>ゆきめのこ</string>
+		<string>まじっくるーむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rotom</string>
+		<string>Smack Down</string>
 		<key>shortcut</key>
-		<string>ろとむ</string>
+		<string>うちおとす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Uxie</string>
+		<string>Storm Throw</string>
 		<key>shortcut</key>
-		<string>ゆくしー</string>
+		<string>やまあらし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mesprit</string>
+		<string>Flame Burst</string>
 		<key>shortcut</key>
-		<string>えむりっと</string>
+		<string>はじけるほのお</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Azelf</string>
+		<string>Sludge Wave</string>
 		<key>shortcut</key>
-		<string>あぐのむ</string>
+		<string>へどろうぇーぶ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dialga</string>
+		<string>Quiver Dance</string>
 		<key>shortcut</key>
-		<string>でぃあるが</string>
+		<string>ちょうのまい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Palkia</string>
+		<string>Heavy Slam</string>
 		<key>shortcut</key>
-		<string>ぱるきあ</string>
+		<string>へびーぼんばー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Heatran</string>
+		<string>Synchronoise</string>
 		<key>shortcut</key>
-		<string>ひーどらん</string>
+		<string>しんくろのいず</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Regigigas</string>
+		<string>Electro Ball</string>
 		<key>shortcut</key>
-		<string>れじぎがす</string>
+		<string>えれきぼーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Giratina</string>
+		<string>Soak</string>
 		<key>shortcut</key>
-		<string>ぎらてぃな</string>
+		<string>みずびたし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cresselia</string>
+		<string>Flame Charge</string>
 		<key>shortcut</key>
-		<string>くれせりあ</string>
+		<string>にとろちゃーじ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Phione</string>
+		<string>Coil</string>
 		<key>shortcut</key>
-		<string>ふぃおね</string>
+		<string>とぐろをまく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Manaphy</string>
+		<string>Low Sweep</string>
 		<key>shortcut</key>
-		<string>まなふぃ</string>
+		<string>ろーきっく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Darkrai</string>
+		<string>Acid Spray</string>
 		<key>shortcut</key>
-		<string>だーくらい</string>
+		<string>あしっどぼむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Shaymin</string>
+		<string>Foul Play</string>
 		<key>shortcut</key>
-		<string>しぇいみ</string>
+		<string>いかさま</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Arceus</string>
+		<string>Simple Beam</string>
 		<key>shortcut</key>
-		<string>あるせうす</string>
+		<string>しんぷるびーむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Victini</string>
+		<string>Entrainment</string>
 		<key>shortcut</key>
-		<string>びくてぃに</string>
+		<string>なかまづくり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Snivy</string>
+		<string>After You</string>
 		<key>shortcut</key>
-		<string>つたーじゃ</string>
+		<string>おさきにどうぞ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Servine</string>
+		<string>Round</string>
 		<key>shortcut</key>
-		<string>じゃのびー</string>
+		<string>りんしょう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Serperior</string>
+		<string>Echoed Voice</string>
 		<key>shortcut</key>
-		<string>じゃろーだ</string>
+		<string>えこーぼいす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tepig</string>
+		<string>Chip Away</string>
 		<key>shortcut</key>
-		<string>ぽかぶ</string>
+		<string>なしくずし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pignite</string>
+		<string>Clear Smog</string>
 		<key>shortcut</key>
-		<string>ちゃおぶー</string>
+		<string>くりあすもっぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Emboar</string>
+		<string>Stored Power</string>
 		<key>shortcut</key>
-		<string>えんぶおー</string>
+		<string>あしすとぱわー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Oshawott</string>
+		<string>Quick Guard</string>
 		<key>shortcut</key>
-		<string>みじゅまる</string>
+		<string>ふぁすとがーど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dewott</string>
+		<string>Ally Switch</string>
 		<key>shortcut</key>
-		<string>ふたちまる</string>
+		<string>さいどちぇんじ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Samurott</string>
+		<string>Scald</string>
 		<key>shortcut</key>
-		<string>だいけんき</string>
+		<string>ねっとう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Patrat</string>
+		<string>Shell Smash</string>
 		<key>shortcut</key>
-		<string>みねずみ</string>
+		<string>からをやぶる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Watchog</string>
+		<string>Heal Pulse</string>
 		<key>shortcut</key>
-		<string>みるほっぐ</string>
+		<string>いやしのはどう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lillipup</string>
+		<string>Hex</string>
 		<key>shortcut</key>
-		<string>よーてりー</string>
+		<string>たたりめ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Herdier</string>
+		<string>Sky Drop</string>
 		<key>shortcut</key>
-		<string>はーでりあ</string>
+		<string>ふりーふぉーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Stoutland</string>
+		<string>Shift Gear</string>
 		<key>shortcut</key>
-		<string>むーらんど</string>
+		<string>ぎあちぇんじ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Purrloin</string>
+		<string>Circle Throw</string>
 		<key>shortcut</key>
-		<string>ちょろねこ</string>
+		<string>ともえなげ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Liepard</string>
+		<string>Incinerate</string>
 		<key>shortcut</key>
-		<string>れぱるだす</string>
+		<string>やきつくす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pansage</string>
+		<string>Quash</string>
 		<key>shortcut</key>
-		<string>やなっぷ</string>
+		<string>さきおくり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Simisage</string>
+		<string>Acrobatics</string>
 		<key>shortcut</key>
-		<string>やなっきー</string>
+		<string>あくろばっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pansear</string>
+		<string>Reflect Type</string>
 		<key>shortcut</key>
-		<string>ばおっぷ</string>
+		<string>みらーたいぷ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Simisear</string>
+		<string>Retaliate</string>
 		<key>shortcut</key>
-		<string>ばおっきー</string>
+		<string>かたきうち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Panpour</string>
+		<string>Final Gambit</string>
 		<key>shortcut</key>
-		<string>ひやっぷ</string>
+		<string>いのちがけ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Simipour</string>
+		<string>Bestow</string>
 		<key>shortcut</key>
-		<string>ひやっきー</string>
+		<string>ぎふとぱす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Munna</string>
+		<string>Inferno</string>
 		<key>shortcut</key>
-		<string>むんな</string>
+		<string>れんごく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Musharna</string>
+		<string>Water Pledge</string>
 		<key>shortcut</key>
-		<string>むしゃーな</string>
+		<string>みずのちかい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pidove</string>
+		<string>Fire Pledge</string>
 		<key>shortcut</key>
-		<string>まめぱと</string>
+		<string>ほのおのちかい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tranquill</string>
+		<string>Grass Pledge</string>
 		<key>shortcut</key>
-		<string>はとーぼー</string>
+		<string>くさのちかい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Unfezant</string>
+		<string>Volt Switch</string>
 		<key>shortcut</key>
-		<string>けんほろう</string>
+		<string>ぼるとちぇんじ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Blitzle</string>
+		<string>Struggle Bug</string>
 		<key>shortcut</key>
-		<string>しまま</string>
+		<string>むしのていこう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Zebstrika</string>
+		<string>Bulldoze</string>
 		<key>shortcut</key>
-		<string>ぜぶらいか</string>
+		<string>じならし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Roggenrola</string>
+		<string>Frost Breath</string>
 		<key>shortcut</key>
-		<string>だんごろ</string>
+		<string>こおりのいぶき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Boldore</string>
+		<string>Dragon Tail</string>
 		<key>shortcut</key>
-		<string>がんとる</string>
+		<string>どらごんてーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gigalith</string>
+		<string>Work Up</string>
 		<key>shortcut</key>
-		<string>ぎがいあす</string>
+		<string>ふるいたてる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Woobat</string>
+		<string>Electroweb</string>
 		<key>shortcut</key>
-		<string>ころもり</string>
+		<string>えれきねっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Swoobat</string>
+		<string>Wild Charge</string>
 		<key>shortcut</key>
-		<string>こころもり</string>
+		<string>わいるどぼると</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Drilbur</string>
+		<string>Drill Run</string>
 		<key>shortcut</key>
-		<string>もぐりゅー</string>
+		<string>どりるらいなー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Excadrill</string>
+		<string>Dual Chop</string>
 		<key>shortcut</key>
-		<string>どりゅうず</string>
+		<string>だぶるちょっぷ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Audino</string>
+		<string>Heart Stamp</string>
 		<key>shortcut</key>
-		<string>たぶんね</string>
+		<string>はーとすたんぷ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Timburr</string>
+		<string>Horn Leech</string>
 		<key>shortcut</key>
-		<string>どっこらー</string>
+		<string>うっどほーん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gurdurr</string>
+		<string>Sacred Sword</string>
 		<key>shortcut</key>
-		<string>どてっこつ</string>
+		<string>せいなるつるぎ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Conkeldurr</string>
+		<string>Razor Shell</string>
 		<key>shortcut</key>
-		<string>ろーぶしん</string>
+		<string>しぇるぶれーど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tympole</string>
+		<string>Heat Crash</string>
 		<key>shortcut</key>
-		<string>おたまろ</string>
+		<string>ひーとすたんぷ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Palpitoad</string>
+		<string>Leaf Tornado</string>
 		<key>shortcut</key>
-		<string>がまがる</string>
+		<string>ぐらすみきさー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Seismitoad</string>
+		<string>Steamroller</string>
 		<key>shortcut</key>
-		<string>がまげろげ</string>
+		<string>はーどろーらー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Throh</string>
+		<string>Cotton Guard</string>
 		<key>shortcut</key>
-		<string>なげき</string>
+		<string>こっとんがーど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sawk</string>
+		<string>Night Daze</string>
 		<key>shortcut</key>
-		<string>だげき</string>
+		<string>ないとばーすと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sewaddle</string>
+		<string>Psystrike</string>
 		<key>shortcut</key>
-		<string>くるみる</string>
+		<string>さいこぶれいく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Swadloon</string>
+		<string>Tail Slap</string>
 		<key>shortcut</key>
-		<string>くるまゆ</string>
+		<string>すいーぷびんた</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Leavanny</string>
+		<string>Hurricane</string>
 		<key>shortcut</key>
-		<string>ははこもり</string>
+		<string>ぼうふう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Venipede</string>
+		<string>Head Charge</string>
 		<key>shortcut</key>
-		<string>ふしで</string>
+		<string>あふろぶれいく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Whirlipede</string>
+		<string>Gear Grind</string>
 		<key>shortcut</key>
-		<string>ほいーが</string>
+		<string>ぎあそーさー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Scolipede</string>
+		<string>Searing Shot</string>
 		<key>shortcut</key>
-		<string>ぺんどらー</string>
+		<string>かえんだん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cottonee</string>
+		<string>Techno Blast</string>
 		<key>shortcut</key>
-		<string>もんめん</string>
+		<string>てくのばすたー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Whimsicott</string>
+		<string>Relic Song</string>
 		<key>shortcut</key>
-		<string>えるふーん</string>
+		<string>いにしえのうた</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Petilil</string>
+		<string>Secret Sword</string>
 		<key>shortcut</key>
-		<string>ちゅりね</string>
+		<string>しんぴのつるぎ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lilligant</string>
+		<string>Glaciate</string>
 		<key>shortcut</key>
-		<string>どれでぃあ</string>
+		<string>こごえるせかい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Basculin</string>
+		<string>Bolt Strike</string>
 		<key>shortcut</key>
-		<string>ばすらお</string>
+		<string>らいげき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sandile</string>
+		<string>Blue Flare</string>
 		<key>shortcut</key>
-		<string>めぐろこ</string>
+		<string>あおいほのお</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Krokorok</string>
+		<string>Fiery Dance</string>
 		<key>shortcut</key>
-		<string>わるびる</string>
+		<string>ほのおのまい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Krookodile</string>
+		<string>Freeze Shock</string>
 		<key>shortcut</key>
-		<string>わるびある</string>
+		<string>ふりーずぼると</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Darumaka</string>
+		<string>Ice Burn</string>
 		<key>shortcut</key>
-		<string>だるまっか</string>
+		<string>こーるどふれあ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Darmanitan</string>
+		<string>Snarl</string>
 		<key>shortcut</key>
-		<string>ひひだるま</string>
+		<string>ばーくあうと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Maractus</string>
+		<string>Icicle Crash</string>
 		<key>shortcut</key>
-		<string>まらかっち</string>
+		<string>つららおとし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dwebble</string>
+		<string>V-create</string>
 		<key>shortcut</key>
-		<string>いしずまい</string>
+		<string>ぶいじぇねれーと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Crustle</string>
+		<string>Fusion Flare</string>
 		<key>shortcut</key>
-		<string>いわぱれす</string>
+		<string>くろすふれいむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Scraggy</string>
+		<string>Fusion Bolt</string>
 		<key>shortcut</key>
-		<string>ずるっぐ</string>
+		<string>くろすさんだー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Scrafty</string>
+		<string>Flying Press</string>
 		<key>shortcut</key>
-		<string>ずるずきん</string>
+		<string>ふらいんぐぷれす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sigilyph</string>
+		<string>Mat Block</string>
 		<key>shortcut</key>
-		<string>しんぼらー</string>
+		<string>たたみがえし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Yamask</string>
+		<string>Belch</string>
 		<key>shortcut</key>
-		<string>ですます</string>
+		<string>げっぷ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cofagrigus</string>
+		<string>Rototiller</string>
 		<key>shortcut</key>
-		<string>ですかーん</string>
+		<string>たがやす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tirtouga</string>
+		<string>Sticky Web</string>
 		<key>shortcut</key>
-		<string>ぷろとーが</string>
+		<string>ねばねばねっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Carracosta</string>
+		<string>Fell Stinger</string>
 		<key>shortcut</key>
-		<string>あばごーら</string>
+		<string>とどめばり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Archen</string>
+		<string>Phantom Force</string>
 		<key>shortcut</key>
-		<string>あーけん</string>
+		<string>ごーすとだいぶ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Archeops</string>
+		<string>Trick-or-Treat</string>
 		<key>shortcut</key>
-		<string>あーけおす</string>
+		<string>はろうぃん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Trubbish</string>
+		<string>Noble Roar</string>
 		<key>shortcut</key>
-		<string>やぶくろん</string>
+		<string>おたけび</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Garbodor</string>
+		<string>Ion Deluge</string>
 		<key>shortcut</key>
-		<string>だすとだす</string>
+		<string>ぷらずましゃわー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Zorua</string>
+		<string>Parabolic Charge</string>
 		<key>shortcut</key>
-		<string>ぞろあ</string>
+		<string>ぱらぼらちゃーじ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Zoroark</string>
+		<string>Forest’s Curse</string>
 		<key>shortcut</key>
-		<string>ぞろあーく</string>
+		<string>もりののろい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Minccino</string>
+		<string>Petal Blizzard</string>
 		<key>shortcut</key>
-		<string>ちらーみぃ</string>
+		<string>はなふぶき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cinccino</string>
+		<string>Freeze-Dry</string>
 		<key>shortcut</key>
-		<string>ちらちーの</string>
+		<string>ふりーずどらい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gothita</string>
+		<string>Disarming Voice</string>
 		<key>shortcut</key>
-		<string>ごちむ</string>
+		<string>ちゃーむぼいす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gothorita</string>
+		<string>Parting Shot</string>
 		<key>shortcut</key>
-		<string>ごちみる</string>
+		<string>すてぜりふ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gothitelle</string>
+		<string>Topsy-Turvy</string>
 		<key>shortcut</key>
-		<string>ごちるぜる</string>
+		<string>ひっくりかえす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Solosis</string>
+		<string>Draining Kiss</string>
 		<key>shortcut</key>
-		<string>ゆにらん</string>
+		<string>どれいんきっす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Duosion</string>
+		<string>Crafty Shield</string>
 		<key>shortcut</key>
-		<string>だぶらん</string>
+		<string>とりっくがーど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Reuniclus</string>
+		<string>Flower Shield</string>
 		<key>shortcut</key>
-		<string>らんくるす</string>
+		<string>ふらわーがーど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ducklett</string>
+		<string>Grassy Terrain</string>
 		<key>shortcut</key>
-		<string>こあるひー</string>
+		<string>ぐらすふぃーるど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Swanna</string>
+		<string>Misty Terrain</string>
 		<key>shortcut</key>
-		<string>すわんな</string>
+		<string>みすとふぃーるど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Vanillite</string>
+		<string>Electrify</string>
 		<key>shortcut</key>
-		<string>ばにぷっち</string>
+		<string>そうでん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Vanillish</string>
+		<string>Play Rough</string>
 		<key>shortcut</key>
-		<string>ばにりっち</string>
+		<string>じゃれつく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Vanilluxe</string>
+		<string>Fairy Wind</string>
 		<key>shortcut</key>
-		<string>ばいばにら</string>
+		<string>ようせいのかぜ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Deerling</string>
+		<string>Moonblast</string>
 		<key>shortcut</key>
-		<string>しきじか</string>
+		<string>むーんふぉーす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sawsbuck</string>
+		<string>Boomburst</string>
 		<key>shortcut</key>
-		<string>めぶきじか</string>
+		<string>ばくおんぱ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Emolga</string>
+		<string>Fairy Lock</string>
 		<key>shortcut</key>
-		<string>えもんが</string>
+		<string>ふぇありーろっく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Karrablast</string>
+		<string>King’s Shield</string>
 		<key>shortcut</key>
-		<string>かぶるも</string>
+		<string>きんぐしーるど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Escavalier</string>
+		<string>Play Nice</string>
 		<key>shortcut</key>
-		<string>しゅばるご</string>
+		<string>なかよくする</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Foongus</string>
+		<string>Confide</string>
 		<key>shortcut</key>
-		<string>たまげたけ</string>
+		<string>ないしょばなし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Amoonguss</string>
+		<string>Diamond Storm</string>
 		<key>shortcut</key>
-		<string>もろばれる</string>
+		<string>だいやすとーむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Frillish</string>
+		<string>Steam Eruption</string>
 		<key>shortcut</key>
-		<string>ぷるりる</string>
+		<string>すちーむばーすと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Jellicent</string>
+		<string>Hyperspace Hole</string>
 		<key>shortcut</key>
-		<string>ぶるんげる</string>
+		<string>いじげんほーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Alomomola</string>
+		<string>Water Shuriken</string>
 		<key>shortcut</key>
-		<string>ままんぼう</string>
+		<string>みずしゅりけん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Joltik</string>
+		<string>Mystical Fire</string>
 		<key>shortcut</key>
-		<string>ばちゅる</string>
+		<string>まじかるふれいむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Galvantula</string>
+		<string>Spiky Shield</string>
 		<key>shortcut</key>
-		<string>でんちゅら</string>
+		<string>にーどるがーど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ferroseed</string>
+		<string>Aromatic Mist</string>
 		<key>shortcut</key>
-		<string>てっしーど</string>
+		<string>あろまみすと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ferrothorn</string>
+		<string>Eerie Impulse</string>
 		<key>shortcut</key>
-		<string>なっとれい</string>
+		<string>かいでんぱ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Klink</string>
+		<string>Venom Drench</string>
 		<key>shortcut</key>
-		<string>ぎある</string>
+		<string>べのむとらっぷ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Klang</string>
+		<string>Powder</string>
 		<key>shortcut</key>
-		<string>ぎぎある</string>
+		<string>ふんじん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Klinklang</string>
+		<string>Geomancy</string>
 		<key>shortcut</key>
-		<string>ぎぎぎある</string>
+		<string>じおこんとろーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tynamo</string>
+		<string>Magnetic Flux</string>
 		<key>shortcut</key>
-		<string>しびしらす</string>
+		<string>じばそうさ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Eelektrik</string>
+		<string>Happy Hour</string>
 		<key>shortcut</key>
-		<string>しびびーる</string>
+		<string>はっぴーたいむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Eelektross</string>
+		<string>Electric Terrain</string>
 		<key>shortcut</key>
-		<string>しびるどん</string>
+		<string>えれきふぃーるど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Elgyem</string>
+		<string>Dazzling Gleam</string>
 		<key>shortcut</key>
-		<string>りぐれー</string>
+		<string>まじかるしゃいん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Beheeyem</string>
+		<string>Celebrate</string>
 		<key>shortcut</key>
-		<string>おーべむ</string>
+		<string>おいわい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Litwick</string>
+		<string>Hold Hands</string>
 		<key>shortcut</key>
-		<string>ひともし</string>
+		<string>てをつなぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lampent</string>
+		<string>Baby-Doll Eyes</string>
 		<key>shortcut</key>
-		<string>らんぷらー</string>
+		<string>つぶらなひとみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Chandelure</string>
+		<string>Nuzzle</string>
 		<key>shortcut</key>
-		<string>しゃんでら</string>
+		<string>ほっぺすりすり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Axew</string>
+		<string>Hold Back</string>
 		<key>shortcut</key>
-		<string>きばご</string>
+		<string>てかげん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Fraxure</string>
+		<string>Infestation</string>
 		<key>shortcut</key>
-		<string>おのんど</string>
+		<string>まとわりつく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Haxorus</string>
+		<string>Power-Up Punch</string>
 		<key>shortcut</key>
-		<string>おののくす</string>
+		<string>ぐろうぱんち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cubchoo</string>
+		<string>Oblivion Wing</string>
 		<key>shortcut</key>
-		<string>くましゅん</string>
+		<string>ですういんぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Beartic</string>
+		<string>Thousand Arrows</string>
 		<key>shortcut</key>
-		<string>つんべあー</string>
+		<string>さうざんあろー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cryogonal</string>
+		<string>Thousand Waves</string>
 		<key>shortcut</key>
-		<string>ふりーじお</string>
+		<string>さうざんうぇーぶ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Shelmet</string>
+		<string>Land’s Wrath</string>
 		<key>shortcut</key>
-		<string>ちょぼまき</string>
+		<string>ぐらんどふぉーす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Accelgor</string>
+		<string>Light of Ruin</string>
 		<key>shortcut</key>
-		<string>あぎるだー</string>
+		<string>はめつのひかり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Stunfisk</string>
+		<string>Origin Pulse</string>
 		<key>shortcut</key>
-		<string>まっぎょ</string>
+		<string>こんげんのはどう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mienfoo</string>
+		<string>Precipice Blades</string>
 		<key>shortcut</key>
-		<string>こじょふー</string>
+		<string>だんがいのつるぎ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mienshao</string>
+		<string>Dragon Ascent</string>
 		<key>shortcut</key>
-		<string>こじょんど</string>
+		<string>がりょうてんせい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Druddigon</string>
+		<string>Hyperspace Fury</string>
 		<key>shortcut</key>
-		<string>くりむがん</string>
+		<string>いじげんらっしゅ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Golett</string>
+		<string>Breakneck Blitz</string>
 		<key>shortcut</key>
-		<string>ごびっと</string>
+		<string>うるとらだっしゅあたっく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Golurk</string>
+		<string>All-Out Pummeling</string>
 		<key>shortcut</key>
-		<string>ごるーぐ</string>
+		<string>ぜんりょくむそうげきれつけん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pawniard</string>
+		<string>Supersonic Skystrike</string>
 		<key>shortcut</key>
-		<string>こまたな</string>
+		<string>ふぁいなるだいぶくらっしゅ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bisharp</string>
+		<string>Acid Downpour</string>
 		<key>shortcut</key>
-		<string>きりきざん</string>
+		<string>あしっどぽいずんでりーと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bouffalant</string>
+		<string>Tectonic Rage</string>
 		<key>shortcut</key>
-		<string>ばっふろん</string>
+		<string>らいじんぐらんどおーばー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rufflet</string>
+		<string>Continental Crush</string>
 		<key>shortcut</key>
-		<string>わしぼん</string>
+		<string>わーるずえんどふぉーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Braviary</string>
+		<string>Savage Spin-Out</string>
 		<key>shortcut</key>
-		<string>うぉーぐる</string>
+		<string>ぜったいほしょくかいてんざん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Vullaby</string>
+		<string>Never-Ending Nightmare</string>
 		<key>shortcut</key>
-		<string>ばるちゃい</string>
+		<string>むげんあんやへのいざない</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mandibuzz</string>
+		<string>Corkscrew Crash</string>
 		<key>shortcut</key>
-		<string>ばるじーな</string>
+		<string>ちょうぜつらせんれんげき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Heatmor</string>
+		<string>Inferno Overdrive</string>
 		<key>shortcut</key>
-		<string>くいたらん</string>
+		<string>だいなみっくふるふれいむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Durant</string>
+		<string>Hydro Vortex</string>
 		<key>shortcut</key>
-		<string>あいあんと</string>
+		<string>すーぱーあくあとるねーど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Deino</string>
+		<string>Bloom Doom</string>
 		<key>shortcut</key>
-		<string>ものず</string>
+		<string>ぶるーむしゃいんえくすとら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Zweilous</string>
+		<string>Gigavolt Havoc</string>
 		<key>shortcut</key>
-		<string>じへっど</string>
+		<string>すぱーきんぐぎがぼると</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hydreigon</string>
+		<string>Shattered Psyche</string>
 		<key>shortcut</key>
-		<string>さざんどら</string>
+		<string>まきしまむさいぶれいかー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Larvesta</string>
+		<string>Subzero Slammer</string>
 		<key>shortcut</key>
-		<string>めらるば</string>
+		<string>れいじんぐじおふりーず</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Volcarona</string>
+		<string>Devastating Drake</string>
 		<key>shortcut</key>
-		<string>うるがもす</string>
+		<string>あるてぃめっとどらごんばーん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cobalion</string>
+		<string>Black Hole Eclipse</string>
 		<key>shortcut</key>
-		<string>こばるおん</string>
+		<string>ぶらっくほーるいくりぷす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Terrakion</string>
+		<string>Twinkle Tackle</string>
 		<key>shortcut</key>
-		<string>てらきおん</string>
+		<string>らぶりーすたーいんぱくと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Virizion</string>
+		<string>Catastropika</string>
 		<key>shortcut</key>
-		<string>びりじおん</string>
+		<string>ひっさつのぴかちゅーと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tornadus</string>
+		<string>Shore Up</string>
 		<key>shortcut</key>
-		<string>とるねろす</string>
+		<string>すなあつめ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Thundurus</string>
+		<string>First Impression</string>
 		<key>shortcut</key>
-		<string>ぼるとろす</string>
+		<string>であいがしら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Reshiram</string>
+		<string>Baneful Bunker</string>
 		<key>shortcut</key>
-		<string>れしらむ</string>
+		<string>とーちか</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Zekrom</string>
+		<string>Spirit Shackle</string>
 		<key>shortcut</key>
-		<string>ぜくろむ</string>
+		<string>かげぬい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Landorus</string>
+		<string>Darkest Lariat</string>
 		<key>shortcut</key>
-		<string>らんどろす</string>
+		<string>でぃーでぃーらりあっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kyurem</string>
+		<string>Sparkling Aria</string>
 		<key>shortcut</key>
-		<string>きゅれむ</string>
+		<string>うたかたのありあ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Keldeo</string>
+		<string>Ice Hammer</string>
 		<key>shortcut</key>
-		<string>けるでぃお</string>
+		<string>あいすはんまー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Meloetta</string>
+		<string>Floral Healing</string>
 		<key>shortcut</key>
-		<string>めろえった</string>
+		<string>ふらわーひーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Genesect</string>
+		<string>High Horsepower</string>
 		<key>shortcut</key>
-		<string>げのせくと</string>
+		<string>じゅうまんばりき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Chespin</string>
+		<string>Strength Sap</string>
 		<key>shortcut</key>
-		<string>はりまろん</string>
+		<string>ちからをすいとる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Quilladin</string>
+		<string>Solar Blade</string>
 		<key>shortcut</key>
-		<string>はりぼーぐ</string>
+		<string>そーらーぶれーど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Chesnaught</string>
+		<string>Leafage</string>
 		<key>shortcut</key>
-		<string>ぶりがろん</string>
+		<string>このは</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Fennekin</string>
+		<string>Spotlight</string>
 		<key>shortcut</key>
-		<string>ふぉっこ</string>
+		<string>すぽっとらいと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Braixen</string>
+		<string>Toxic Thread</string>
 		<key>shortcut</key>
-		<string>てーるなー</string>
+		<string>どくのいと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Delphox</string>
+		<string>Laser Focus</string>
 		<key>shortcut</key>
-		<string>まふぉくしー</string>
+		<string>とぎすます</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Froakie</string>
+		<string>Gear Up</string>
 		<key>shortcut</key>
-		<string>けろまつ</string>
+		<string>あしすとぎあ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Frogadier</string>
+		<string>Throat Chop</string>
 		<key>shortcut</key>
-		<string>げこがしら</string>
+		<string>じごくづき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Greninja</string>
+		<string>Pollen Puff</string>
 		<key>shortcut</key>
-		<string>げっこうが</string>
+		<string>かふんだんご</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bunnelby</string>
+		<string>Anchor Shot</string>
 		<key>shortcut</key>
-		<string>ほるびー</string>
+		<string>あんかーしょっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Diggersby</string>
+		<string>Psychic Terrain</string>
 		<key>shortcut</key>
-		<string>ほるーど</string>
+		<string>さいこふぃーるど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Fletchling</string>
+		<string>Lunge</string>
 		<key>shortcut</key>
-		<string>ややこま</string>
+		<string>とびかかる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Fletchinder</string>
+		<string>Fire Lash</string>
 		<key>shortcut</key>
-		<string>ひのやこま</string>
+		<string>ほのおのむち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Talonflame</string>
+		<string>Power Trip</string>
 		<key>shortcut</key>
-		<string>ふぁいあろー</string>
+		<string>つけあがる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Scatterbug</string>
+		<string>Burn Up</string>
 		<key>shortcut</key>
-		<string>こふきむし</string>
+		<string>もえつきる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Spewpa</string>
+		<string>Speed Swap</string>
 		<key>shortcut</key>
-		<string>こふーらい</string>
+		<string>すぴーどすわっぷ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Vivillon</string>
+		<string>Smart Strike</string>
 		<key>shortcut</key>
-		<string>びびよん</string>
+		<string>すまーとほーん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Litleo</string>
+		<string>Purify</string>
 		<key>shortcut</key>
-		<string>ししこ</string>
+		<string>じょうか</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pyroar</string>
+		<string>Revelation Dance</string>
 		<key>shortcut</key>
-		<string>かえんじし</string>
+		<string>めざめるだんす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Flabébé</string>
+		<string>Core Enforcer</string>
 		<key>shortcut</key>
-		<string>ふらべべ</string>
+		<string>こあぱにっしゃー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Floette</string>
+		<string>Trop Kick</string>
 		<key>shortcut</key>
-		<string>ふらえって</string>
+		<string>とろぴかるきっく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Florges</string>
+		<string>Instruct</string>
 		<key>shortcut</key>
-		<string>ふらーじぇす</string>
+		<string>さいはい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Skiddo</string>
+		<string>Beak Blast</string>
 		<key>shortcut</key>
-		<string>めぇーくる</string>
+		<string>くちばしきゃのん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gogoat</string>
+		<string>Clanging Scales</string>
 		<key>shortcut</key>
-		<string>ごーごーと</string>
+		<string>すけいるのいず</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pancham</string>
+		<string>Dragon Hammer</string>
 		<key>shortcut</key>
-		<string>やんちゃむ</string>
+		<string>どらごんはんまー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pangoro</string>
+		<string>Brutal Swing</string>
 		<key>shortcut</key>
-		<string>ごろんだ</string>
+		<string>ぶんまわす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Furfrou</string>
+		<string>Aurora Veil</string>
 		<key>shortcut</key>
-		<string>とりみあん</string>
+		<string>おーろらべーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Espurr</string>
+		<string>Sinister Arrow Raid</string>
 		<key>shortcut</key>
-		<string>にゃすぱー</string>
+		<string>しゃどーあろーずすとらいく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Meowstic</string>
+		<string>Malicious Moonsault</string>
 		<key>shortcut</key>
-		<string>にゃおにくす</string>
+		<string>はいぱーだーくくらっしゃー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Honedge</string>
+		<string>Oceanic Operetta</string>
 		<key>shortcut</key>
-		<string>ひとつき</string>
+		<string>わだつみのしんふぉにあ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Doublade</string>
+		<string>Guardian of Alola</string>
 		<key>shortcut</key>
-		<string>にだんぎる</string>
+		<string>がーでぃあん・で・あろーら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Aegislash</string>
+		<string>Soul-Stealing 7-Star Strike</string>
 		<key>shortcut</key>
-		<string>ぎるがるど</string>
+		<string>しちせいだっこんたい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Spritzee</string>
+		<string>Stoked Sparksurfer</string>
 		<key>shortcut</key>
-		<string>しゅしゅぷ</string>
+		<string>らいとにんぐさーふらいど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Aromatisse</string>
+		<string>Pulverizing Pancake</string>
 		<key>shortcut</key>
-		<string>ふれふわん</string>
+		<string>ほんきをだす こうげき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Swirlix</string>
+		<string>Extreme Evoboost</string>
 		<key>shortcut</key>
-		<string>ぺろっぱふ</string>
+		<string>ないんえぼるぶーすと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Slurpuff</string>
+		<string>Genesis Supernova</string>
 		<key>shortcut</key>
-		<string>ぺろりーむ</string>
+		<string>おりじんずすーぱーのヴぁ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Inkay</string>
+		<string>Shell Trap</string>
 		<key>shortcut</key>
-		<string>まーいーか</string>
+		<string>とらっぷしぇる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Malamar</string>
+		<string>Fleur Cannon</string>
 		<key>shortcut</key>
-		<string>からまねろ</string>
+		<string>ふるーるかのん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Binacle</string>
+		<string>Psychic Fangs</string>
 		<key>shortcut</key>
-		<string>かめてて</string>
+		<string>さいこふぁんぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Barbaracle</string>
+		<string>Stomping Tantrum</string>
 		<key>shortcut</key>
-		<string>がめのです</string>
+		<string>じだんだ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Skrelp</string>
+		<string>Shadow Bone</string>
 		<key>shortcut</key>
-		<string>くずもー</string>
+		<string>しゃどーぼーん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dragalge</string>
+		<string>Accelerock</string>
 		<key>shortcut</key>
-		<string>どらみどろ</string>
+		<string>あくせるろっく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Clauncher</string>
+		<string>Liquidation</string>
 		<key>shortcut</key>
-		<string>うでっぽう</string>
+		<string>あくあぶれいく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Clawitzer</string>
+		<string>Prismatic Laser</string>
 		<key>shortcut</key>
-		<string>ぶろすたー</string>
+		<string>ぷりずむれーざー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Helioptile</string>
+		<string>Spectral Thief</string>
 		<key>shortcut</key>
-		<string>えりきてる</string>
+		<string>しゃどーすちーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Heliolisk</string>
+		<string>Sunsteel Strike</string>
 		<key>shortcut</key>
-		<string>えれざーど</string>
+		<string>めておどらいぶ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tyrunt</string>
+		<string>Moongeist Beam</string>
 		<key>shortcut</key>
-		<string>ちごらす</string>
+		<string>しゃどーれい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tyrantrum</string>
+		<string>Tearful Look</string>
 		<key>shortcut</key>
-		<string>がちごらす</string>
+		<string>なみだめ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Amaura</string>
+		<string>Zing Zap</string>
 		<key>shortcut</key>
-		<string>あまるす</string>
+		<string>びりびりちくちく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Aurorus</string>
+		<string>Nature’s Madness</string>
 		<key>shortcut</key>
-		<string>あまるるが</string>
+		<string>しぜんのいかり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sylveon</string>
+		<string>Multi-Attack</string>
 		<key>shortcut</key>
-		<string>にんふぃあ</string>
+		<string>まるちあたっく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hawlucha</string>
+		<string>10,000,000 Volt Thunderbolt</string>
 		<key>shortcut</key>
-		<string>るちゃぶる</string>
+		<string>せんまんぼると</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dedenne</string>
+		<string>Photon Geyser</string>
 		<key>shortcut</key>
-		<string>ででんね</string>
+		<string>ふぉとんげいざー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Carbink</string>
+		<string>Mind Blown</string>
 		<key>shortcut</key>
-		<string>めれしー</string>
+		<string>びっくりへっど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Goomy</string>
+		<string>Plasma Fists</string>
 		<key>shortcut</key>
-		<string>ぬめら</string>
+		<string>ぷらずまふぃすと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sliggoo</string>
+		<string>Clangorous Soulblaze</string>
 		<key>shortcut</key>
-		<string>ぬめいる</string>
+		<string>ぶれいじんぐそうるびーと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Goodra</string>
+		<string>Splintered Stormshards</string>
 		<key>shortcut</key>
-		<string>ぬめるごん</string>
+		<string>らじあるえっじすとーむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Klefki</string>
+		<string>Searing Sunraze Smash</string>
 		<key>shortcut</key>
-		<string>くれっふぃ</string>
+		<string>さんしゃいんすまっしゃー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Phantump</string>
+		<string>Menacing Moonraze Maelstrom</string>
 		<key>shortcut</key>
-		<string>ぼくれー</string>
+		<string>むーんらいとぶらすたー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Trevenant</string>
+		<string>Light That Burns The Sky</string>
 		<key>shortcut</key>
-		<string>おーろっと</string>
+		<string>てんこがすめつぼうのひかり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pumpkaboo</string>
+		<string>Let's Snuggle Forever</string>
 		<key>shortcut</key>
-		<string>ばけっちゃ</string>
+		<string>ぽかぼかふれんどたいむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gourgeist</string>
+		<string>Zippy Zap</string>
 		<key>shortcut</key>
-		<string>ぱんぷじん</string>
+		<string>ばちばちあくせる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bergmite</string>
+		<string>Splishy Splash</string>
 		<key>shortcut</key>
-		<string>かちこーる</string>
+		<string>ざぶざぶさーふ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Avalugg</string>
+		<string>Floaty Fall</string>
 		<key>shortcut</key>
-		<string>くれべーす</string>
+		<string>ふわふわふぉーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Noibat</string>
+		<string>Pika Papow</string>
 		<key>shortcut</key>
-		<string>おんばっと</string>
+		<string>ぴかぴかさんだー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Noivern</string>
+		<string>Bouncy Bubble</string>
 		<key>shortcut</key>
-		<string>おんばーん</string>
+		<string>いきいきばぶる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Xerneas</string>
+		<string>Buzzy Buzz</string>
 		<key>shortcut</key>
-		<string>ぜるねあす</string>
+		<string>びりびりえれき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Yveltal</string>
+		<string>Sizzly Slide</string>
 		<key>shortcut</key>
-		<string>いべるたる</string>
+		<string>めらめらばーん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Zygarde</string>
+		<string>Glitzy Glow</string>
 		<key>shortcut</key>
-		<string>じがるで</string>
+		<string>どばどばおーら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Diancie</string>
+		<string>Baddy Bad</string>
 		<key>shortcut</key>
-		<string>でぃあんしー</string>
+		<string>わるわるぞーん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hoopa</string>
+		<string>Sappy Seed</string>
 		<key>shortcut</key>
-		<string>ふーぱ</string>
+		<string>すくすくぼんばー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Volcanion</string>
+		<string>Freezy Frost</string>
 		<key>shortcut</key>
-		<string>ぼるけにおん</string>
+		<string>こちこちふろすと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rowlet</string>
+		<string>Sparkly Swirl</string>
 		<key>shortcut</key>
-		<string>もくろー</string>
+		<string>きらきらすとーむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dartrix</string>
+		<string>Veevee Volley</string>
 		<key>shortcut</key>
-		<string>ふくすろー</string>
+		<string>ぶいぶいぶれいく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Decidueye</string>
+		<string>Double Iron Bash</string>
 		<key>shortcut</key>
-		<string>じゅないぱー</string>
+		<string>だぶるぱんつぁー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Litten</string>
+		<string>Max Strike</string>
 		<key>shortcut</key>
-		<string>にゃびー</string>
+		<string>だいあたっく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Torracat</string>
+		<string>Max Knuckle</string>
 		<key>shortcut</key>
-		<string>にゃひーと</string>
+		<string>だいなっくる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Incineroar</string>
+		<string>Max Airstream</string>
 		<key>shortcut</key>
-		<string>がおがえん</string>
+		<string>だいじぇっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Popplio</string>
+		<string>Max Ooze</string>
 		<key>shortcut</key>
-		<string>あしまり</string>
+		<string>だいあしっど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Brionne</string>
+		<string>Max Quake</string>
 		<key>shortcut</key>
-		<string>おしゃまり</string>
+		<string>だいあーす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Primarina</string>
+		<string>Max Rockfall</string>
 		<key>shortcut</key>
-		<string>あしれーぬ</string>
+		<string>だいろっく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pikipek</string>
+		<string>Max Flutterby</string>
 		<key>shortcut</key>
-		<string>つつけら</string>
+		<string>だいわーむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Trumbeak</string>
+		<string>Max Phantasm</string>
 		<key>shortcut</key>
-		<string>けららっぱ</string>
+		<string>だいほろう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Toucannon</string>
+		<string>Max Steelspike</string>
 		<key>shortcut</key>
-		<string>どでかばし</string>
+		<string>だいすちる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Yungoos</string>
+		<string>Max Flare</string>
 		<key>shortcut</key>
-		<string>やんぐーす</string>
+		<string>だいばーん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gumshoos</string>
+		<string>Max Geyser</string>
 		<key>shortcut</key>
-		<string>でかぐーす</string>
+		<string>だいすとりーむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Grubbin</string>
+		<string>Max Overgrowth</string>
 		<key>shortcut</key>
-		<string>あごじむし</string>
+		<string>だいそうげん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Charjabug</string>
+		<string>Max Lightning</string>
 		<key>shortcut</key>
-		<string>でんぢむし</string>
+		<string>だいさんだー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Vikavolt</string>
+		<string>Max Mindstorm</string>
 		<key>shortcut</key>
-		<string>くわがのん</string>
+		<string>だいさいこ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Crabrawler</string>
+		<string>Max Hailstorm</string>
 		<key>shortcut</key>
-		<string>まけんかに</string>
+		<string>だいあいす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Crabominable</string>
+		<string>Max Wyrmwind</string>
 		<key>shortcut</key>
-		<string>けけんかに</string>
+		<string>だいどらぐーん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Oricorio</string>
+		<string>Max Darkness</string>
 		<key>shortcut</key>
-		<string>おどりどり</string>
+		<string>だいあーく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cutiefly</string>
+		<string>Max Starfall</string>
 		<key>shortcut</key>
-		<string>あぶりー</string>
+		<string>だいふぇありー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ribombee</string>
+		<string>Max Guard</string>
 		<key>shortcut</key>
-		<string>あぶりぼん</string>
+		<string>だいうぉーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rockruff</string>
+		<string>G-Max Vine Lash</string>
 		<key>shortcut</key>
-		<string>いわんこ</string>
+		<string>きょだいべんたつ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lycanroc</string>
+		<string>G-Max Wildfire</string>
 		<key>shortcut</key>
-		<string>るがるがん</string>
+		<string>きょだいごくえん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wishiwashi</string>
+		<string>G-Max Cannonade</string>
 		<key>shortcut</key>
-		<string>よわし</string>
+		<string>きょだいほうげき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mareanie</string>
+		<string>G-Max Befuddle</string>
 		<key>shortcut</key>
-		<string>ひどいで</string>
+		<string>きょだいこわく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Toxapex</string>
+		<string>G-Max Volt Crash</string>
 		<key>shortcut</key>
-		<string>どひどいで</string>
+		<string>きょだいばんらい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mudbray</string>
+		<string>G-Max Gold Rush</string>
 		<key>shortcut</key>
-		<string>どろばんこ</string>
+		<string>きょだいこばん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mudsdale</string>
+		<string>G-Max Chi Strike</string>
 		<key>shortcut</key>
-		<string>ばんばどろ</string>
+		<string>きょだいしんげき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dewpider</string>
+		<string>G-Max Terror</string>
 		<key>shortcut</key>
-		<string>しずくも</string>
+		<string>きょだいげんえい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Araquanid</string>
+		<string>G-Max Foam Burst</string>
 		<key>shortcut</key>
-		<string>おにしずくも</string>
+		<string>きょだいほうまつ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Fomantis</string>
+		<string>G-Max Resonance</string>
 		<key>shortcut</key>
-		<string>かりきり</string>
+		<string>きょだいせんりつ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lurantis</string>
+		<string>G-Max Cuddle</string>
 		<key>shortcut</key>
-		<string>ららんてす</string>
+		<string>きょだいほーよー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Morelull</string>
+		<string>G-Max Replenish</string>
 		<key>shortcut</key>
-		<string>ねましゅ</string>
+		<string>きょだいさいせい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Shiinotic</string>
+		<string>G-Max Malodor</string>
 		<key>shortcut</key>
-		<string>ましぇーど</string>
+		<string>きょだいしゅうき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Salandit</string>
+		<string>G-Max Meltdown</string>
 		<key>shortcut</key>
-		<string>やとうもり</string>
+		<string>きょだいゆうげき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Salazzle</string>
+		<string>G-Max Drum Solo</string>
 		<key>shortcut</key>
-		<string>えんにゅーと</string>
+		<string>きょだいこらんだ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Stufful</string>
+		<string>G-Max Fireball</string>
 		<key>shortcut</key>
-		<string>ぬいこぐま</string>
+		<string>きょだいかきゅう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bewear</string>
+		<string>G-Max Hydrosnipe</string>
 		<key>shortcut</key>
-		<string>きてるぐま</string>
+		<string>きょだいそげき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bounsweet</string>
+		<string>G-Max Wind Rage</string>
 		<key>shortcut</key>
-		<string>あまかじ</string>
+		<string>きょだいふうげき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Steenee</string>
+		<string>G-Max Gravitas</string>
 		<key>shortcut</key>
-		<string>あままいこ</string>
+		<string>きょだいてんどう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tsareena</string>
+		<string>G-Max Stonesurge</string>
 		<key>shortcut</key>
-		<string>あまーじょ</string>
+		<string>きょだいがんじん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Comfey</string>
+		<string>G-Max Volcalith</string>
 		<key>shortcut</key>
-		<string>きゅわわー</string>
+		<string>きょだいふんせき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Oranguru</string>
+		<string>G-Max Tartness</string>
 		<key>shortcut</key>
-		<string>やれゆーたん</string>
+		<string>きょだいさんげき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Passimian</string>
+		<string>G-Max Sweetness</string>
 		<key>shortcut</key>
-		<string>なげつけさる</string>
+		<string>きょだいかんろ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wimpod</string>
+		<string>G-Max Sandblast</string>
 		<key>shortcut</key>
-		<string>こそくむし</string>
+		<string>きょだいさじん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Golisopod</string>
+		<string>G-Max Stun Shock</string>
 		<key>shortcut</key>
-		<string>ぐそくむしゃ</string>
+		<string>きょだいかんでん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sandygast</string>
+		<string>G-Max Centiferno</string>
 		<key>shortcut</key>
-		<string>すなばぁ</string>
+		<string>きょだいひゃっか</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Palossand</string>
+		<string>G-Max Smite</string>
 		<key>shortcut</key>
-		<string>しろですな</string>
+		<string>きょだいてんばつ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pyukumuku</string>
+		<string>G-Max Snooze</string>
 		<key>shortcut</key>
-		<string>なまこぶし</string>
+		<string>きょだいすいま</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Type: Null</string>
+		<string>G-Max Finale</string>
 		<key>shortcut</key>
-		<string>たいぷ:ぬる</string>
+		<string>きょだいだんえん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Silvally</string>
+		<string>G-Max Steelsurge</string>
 		<key>shortcut</key>
-		<string>しるヴぁでぃ</string>
+		<string>きょだいこうじん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Minior</string>
+		<string>G-Max Depletion</string>
 		<key>shortcut</key>
-		<string>めての</string>
+		<string>きょだいげんすい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Komala</string>
+		<string>G-Max One Blow</string>
 		<key>shortcut</key>
-		<string>ねっこあら</string>
+		<string>きょだいいちげき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Turtonator</string>
+		<string>G-Max Rapid Flow</string>
 		<key>shortcut</key>
-		<string>ばくがめす</string>
+		<string>きょだいれんげき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Togedemaru</string>
+		<string>Grav Apple</string>
 		<key>shortcut</key>
-		<string>とげでまる</string>
+		<string>じーのちから</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mimikyu</string>
+		<string>Steel Roller</string>
 		<key>shortcut</key>
-		<string>みみっきゅ</string>
+		<string>あいあんろーらー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bruxish</string>
+		<string>Astral Barrage</string>
 		<key>shortcut</key>
-		<string>はぎぎしり</string>
+		<string>あすとらるびっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Drampa</string>
+		<string>Wicked Blow</string>
 		<key>shortcut</key>
-		<string>じじーろん</string>
+		<string>あんこくきょうだ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dhelmise</string>
+		<string>Freezing Glare</string>
 		<key>shortcut</key>
-		<string>だだりん</string>
+		<string>いてつくしせん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Jangmo-o</string>
+		<string>Life Dew</string>
 		<key>shortcut</key>
-		<string>じゃらこ</string>
+		<string>いのちのしずく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hakamo-o</string>
+		<string>Lash Out</string>
 		<key>shortcut</key>
-		<string>じゃらんご</string>
+		<string>うっぷんばらし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kommo-o</string>
+		<string>Branch Poke</string>
 		<key>shortcut</key>
-		<string>じゃららんが</string>
+		<string>えだづき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tapu Koko</string>
+		<string>Fishious Rend</string>
 		<key>shortcut</key>
-		<string>かぷ・こけこ</string>
+		<string>えらがみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tapu Lele</string>
+		<string>Overdrive</string>
 		<key>shortcut</key>
-		<string>かぷ・ててふ</string>
+		<string>おーばーどらいぶ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tapu Bulu</string>
+		<string>Aura Wheel</string>
 		<key>shortcut</key>
-		<string>かぷ・ぶるる</string>
+		<string>おーらぐるま</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tapu Fini</string>
+		<string>Teatime</string>
 		<key>shortcut</key>
-		<string>かぷ・れひれ</string>
+		<string>おちゃかい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cosmog</string>
+		<string>Pyro Ball</string>
 		<key>shortcut</key>
-		<string>こすもっぐ</string>
+		<string>かえんぼーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cosmoem</string>
+		<string>Behemoth Blade</string>
 		<key>shortcut</key>
-		<string>こすもうむ</string>
+		<string>きょじゅうざん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Solgaleo</string>
+		<string>Behemoth Bash</string>
 		<key>shortcut</key>
-		<string>そるがれお</string>
+		<string>きょじゅうだん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lunala</string>
+		<string>Flip Turn</string>
 		<key>shortcut</key>
-		<string>るなあーら</string>
+		<string>くいっくたーん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Nihilego</string>
+		<string>Jaw Lock</string>
 		<key>shortcut</key>
-		<string>うつろいど</string>
+		<string>くらいつく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Buzzwole</string>
+		<string>Grassy Glide</string>
 		<key>shortcut</key>
-		<string>まっしぶーん</string>
+		<string>ぐらすすらいだー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pheromosa</string>
+		<string>Coaching</string>
 		<key>shortcut</key>
-		<string>ふぇろーちぇ</string>
+		<string>こーちんぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Xurkitree</string>
+		<string>Court Change</string>
 		<key>shortcut</key>
-		<string>でんじゅもく</string>
+		<string>こーとちぇんじ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Celesteela</string>
+		<string>Thunder Cage</string>
 		<key>shortcut</key>
-		<string>てっかぐや</string>
+		<string>さんだーぷりずん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kartana</string>
+		<string>Shell Side Arm</string>
 		<key>shortcut</key>
-		<string>かみつるぎ</string>
+		<string>しぇるあーむず</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Guzzlord</string>
+		<string>Burning Jealousy</string>
 		<key>shortcut</key>
-		<string>あくじきんぐ</string>
+		<string>しっとのほのお</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Necrozma</string>
+		<string>Jungle Healing</string>
 		<key>shortcut</key>
-		<string>ねくろずま</string>
+		<string>じゃんぐるひーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Magearna</string>
+		<string>Surging Strikes</string>
 		<key>shortcut</key>
-		<string>まぎあな</string>
+		<string>すいりゅうれんだ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Marshadow</string>
+		<string>Scale Shot</string>
 		<key>shortcut</key>
-		<string>まーしゃどー</string>
+		<string>すけいるしょっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Poipole</string>
+		<string>Meteor Assault</string>
 		<key>shortcut</key>
-		<string>べべのむ</string>
+		<string>すたーあさると</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Naganadel</string>
+		<string>Spirit Break</string>
 		<key>shortcut</key>
-		<string>あーごよん</string>
+		<string>そうるくらっしゅ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Stakataka</string>
+		<string>Clangorous Soul</string>
 		<key>shortcut</key>
-		<string>つんでつんで</string>
+		<string>そうるびーと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Blacephalon</string>
+		<string>Tar Shot</string>
 		<key>shortcut</key>
-		<string>ずがどーん</string>
+		<string>たーるしょっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Zeraora</string>
+		<string>Terrain Pulse</string>
 		<key>shortcut</key>
-		<string>ぜらおら</string>
+		<string>だいちのはどう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Meltan</string>
+		<string>Dynamax Cannon</string>
 		<key>shortcut</key>
-		<string>めるたん</string>
+		<string>だいまっくすほう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Melmetal</string>
+		<string>Octolock</string>
 		<key>shortcut</key>
-		<string>めるめたる</string>
+		<string>たこがため</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Grookey</string>
+		<string>Dual Wingbeat</string>
 		<key>shortcut</key>
-		<string>さるのり</string>
+		<string>だぶるういんぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Thwackey</string>
+		<string>Decorate</string>
 		<key>shortcut</key>
-		<string>ばちんきー</string>
+		<string>でこれーしょん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rillaboom</string>
+		<string>Steel Beam</string>
 		<key>shortcut</key>
-		<string>ごりらんだー</string>
+		<string>てっていこうせん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Scorbunny</string>
+		<string>Bolt Beak</string>
 		<key>shortcut</key>
-		<string>ひばにー</string>
+		<string>でんげきくちばし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Raboot</string>
+		<string>False Surrender</string>
 		<key>shortcut</key>
-		<string>らびふっと</string>
+		<string>どげざつき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cinderace</string>
+		<string>Dragon Darts</string>
 		<key>shortcut</key>
-		<string>えーすばーん</string>
+		<string>どらごんあろー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sobble</string>
+		<string>Dragon Energy</string>
 		<key>shortcut</key>
-		<string>めっそん</string>
+		<string>どらごんえなじー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Drizzile</string>
+		<string>Snap Trap</string>
 		<key>shortcut</key>
-		<string>じめれおん</string>
+		<string>とらばさみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Inteleon</string>
+		<string>Drum Beating</string>
 		<key>shortcut</key>
-		<string>いんてれおん</string>
+		<string>どらむあたっく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Skwovet</string>
+		<string>Triple Axel</string>
 		<key>shortcut</key>
-		<string>ほしがりす</string>
+		<string>とりぷるあくせる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Greedent</string>
+		<string>Scorching Sands</string>
 		<key>shortcut</key>
-		<string>よくばりす</string>
+		<string>ねっさのだいち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rookidee</string>
+		<string>Snipe Shot</string>
 		<key>shortcut</key>
-		<string>ここがら</string>
+		<string>ねらいうち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Corvisquire</string>
+		<string>No Retreat</string>
 		<key>shortcut</key>
-		<string>あおがらす</string>
+		<string>はいすいのじん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Corviknight</string>
+		<string>Skitter Smack</string>
 		<key>shortcut</key>
-		<string>あーまーがあ</string>
+		<string>はいよるいちげき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Blipbug</string>
+		<string>Eerie Spell</string>
 		<key>shortcut</key>
-		<string>さっちむし</string>
+		<string>ぶきみなじゅもん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dottler</string>
+		<string>Corrosive Gas</string>
 		<key>shortcut</key>
-		<string>れどーむし</string>
+		<string>ふしょくがす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Orbeetle</string>
+		<string>Glacial Lance</string>
 		<key>shortcut</key>
-		<string>いおるぶ</string>
+		<string>ぶりざーどらんす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Nickit</string>
+		<string>Obstruct</string>
 		<key>shortcut</key>
-		<string>くすね</string>
+		<string>ぶろっきんぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Thievul</string>
+		<string>Stuff Cheeks</string>
 		<key>shortcut</key>
-		<string>ふぉくすらい</string>
+		<string>ほおばる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gossifleur</string>
+		<string>Body Press</string>
 		<key>shortcut</key>
-		<string>ひめんか</string>
+		<string>ぼでぃぷれす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Eldegoss</string>
+		<string>Poltergeist</string>
 		<key>shortcut</key>
-		<string>わたしらが</string>
+		<string>ぽるたーがいすと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wooloo</string>
+		<string>Magic Powder</string>
 		<key>shortcut</key>
-		<string>うーるー</string>
+		<string>まほうのこな</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dubwool</string>
+		<string>Misty Explosion</string>
 		<key>shortcut</key>
-		<string>ばいうーるー</string>
+		<string>みすとばーすと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Chewtle</string>
+		<string>Eternabeam</string>
 		<key>shortcut</key>
-		<string>かむかめ</string>
+		<string>むげんだいびーむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Drednaw</string>
+		<string>Meteor Beam</string>
 		<key>shortcut</key>
-		<string>かじりがめ</string>
+		<string>めておびーむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Yamper</string>
+		<string>Fiery Wrath</string>
 		<key>shortcut</key>
-		<string>わんぱち</string>
+		<string>もえあがるいかり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Boltund</string>
+		<string>Rising Voltage</string>
 		<key>shortcut</key>
-		<string>ぱるすわん</string>
+		<string>らいじんぐぼると</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rolycoly</string>
+		<string>Thunderous Kick</string>
 		<key>shortcut</key>
-		<string>たんどん</string>
+		<string>らいめいげり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Carkol</string>
+		<string>Apple Acid</string>
 		<key>shortcut</key>
-		<string>とろっごん</string>
+		<string>りんごさん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Coalossal</string>
+		<string>Expanding Force</string>
 		<key>shortcut</key>
-		<string>せきたんざん</string>
+		<string>わいどふぉーす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Applin</string>
+		<string>Breaking Swipe</string>
 		<key>shortcut</key>
-		<string>かじっちゅ</string>
+		<string>わいどぶれいかー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Flapple</string>
+		<string>Strange Steam</string>
 		<key>shortcut</key>
-		<string>あっぷりゅー</string>
+		<string>わんだーすちーむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Appletun</string>
+		<string>Dire Claw</string>
 		<key>shortcut</key>
-		<string>たるっぷる</string>
+		<string>ふぇいたるくろー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Silicobra</string>
+		<string>Psyshield Bash</string>
 		<key>shortcut</key>
-		<string>すなへび</string>
+		<string>ばりあーらっしゅ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sandaconda</string>
+		<string>Power Shift</string>
 		<key>shortcut</key>
-		<string>さだいじゃ</string>
+		<string>ぱわーしふと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cramorant</string>
+		<string>Stone Axe</string>
 		<key>shortcut</key>
-		<string>うっう</string>
+		<string>がんせきあっくす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Arrokuda</string>
+		<string>Springtide Storm</string>
 		<key>shortcut</key>
-		<string>さしかます</string>
+		<string>はるのあらし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Barraskewda</string>
+		<string>Mystical Power</string>
 		<key>shortcut</key>
-		<string>かますじょー</string>
+		<string>しんぴのちから</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Toxel</string>
+		<string>Raging Fury</string>
 		<key>shortcut</key>
-		<string>えれずん</string>
+		<string>だいふんげき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Toxtricity</string>
+		<string>Wave Crash</string>
 		<key>shortcut</key>
-		<string>すとりんだー</string>
+		<string>うぇーぶたっくる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sizzlipede</string>
+		<string>Chloroblast</string>
 		<key>shortcut</key>
-		<string>やくで</string>
+		<string>くろろぶらすと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Centiskorch</string>
+		<string>Mountain Gale</string>
 		<key>shortcut</key>
-		<string>まるやくで</string>
+		<string>ひょうざんおろし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Clobbopus</string>
+		<string>Victory Dance</string>
 		<key>shortcut</key>
-		<string>たたっこ</string>
+		<string>しょうりのまい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Grapploct</string>
+		<string>Headlong Rush</string>
 		<key>shortcut</key>
-		<string>おとすぱす</string>
+		<string>ぶちかまし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sinistea</string>
+		<string>Barb Barrage</string>
 		<key>shortcut</key>
-		<string>やばちゃ</string>
+		<string>どくばりせんぼん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Polteageist</string>
+		<string>Esper Wing</string>
 		<key>shortcut</key>
-		<string>ぽっとです</string>
+		<string>おーらういんぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hatenna</string>
+		<string>Bitter Malice</string>
 		<key>shortcut</key>
-		<string>みぶりむ</string>
+		<string>うらみつらみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hattrem</string>
+		<string>Shelter</string>
 		<key>shortcut</key>
-		<string>てぶりむ</string>
+		<string>たてこもる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hatterene</string>
+		<string>Triple Arrows</string>
 		<key>shortcut</key>
-		<string>ぶりむおん</string>
+		<string>さんぼんのや</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Impidimp</string>
+		<string>Infernal Parade</string>
 		<key>shortcut</key>
-		<string>べろばー</string>
+		<string>ひゃっきやこう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Morgrem</string>
+		<string>Ceaseless Edge</string>
 		<key>shortcut</key>
-		<string>ぎもー</string>
+		<string>ひけん・ちえなみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Grimmsnarl</string>
+		<string>Bleakwind Storm</string>
 		<key>shortcut</key>
-		<string>おーろんげ</string>
+		<string>こがらしあらし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Obstagoon</string>
+		<string>Wildbolt Storm</string>
 		<key>shortcut</key>
-		<string>たちふさぐま</string>
+		<string>かみなりあらし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Perrserker</string>
+		<string>Sandsear Storm</string>
 		<key>shortcut</key>
-		<string>にゃいきんぐ</string>
+		<string>ねっさのあらし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cursola</string>
+		<string>Lunar Blessing</string>
 		<key>shortcut</key>
-		<string>さにごーん</string>
+		<string>みかづきのいのり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sirfetch'd</string>
+		<string>Take Heart</string>
 		<key>shortcut</key>
-		<string>ねぎがないと</string>
+		<string>ぶれいぶちゃーじ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mr. Rime</string>
+		<string>Armor Cannon</string>
 		<key>shortcut</key>
-		<string>ばりこおる</string>
+		<string>あーまーきゃのん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Runerigus</string>
+		<string>Ice Spinner</string>
 		<key>shortcut</key>
-		<string>ですばーん</string>
+		<string>あいすすぴなー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Milcery</string>
+		<string>Aqua Cutter</string>
 		<key>shortcut</key>
-		<string>まほみる</string>
+		<string>あくあかったー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Alcremie</string>
+		<string>Aqua Step</string>
 		<key>shortcut</key>
-		<string>まほいっぷ</string>
+		<string>あくあすてっぷ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Falinks</string>
+		<string>Collision Course</string>
 		<key>shortcut</key>
-		<string>たいれーつ</string>
+		<string>あくせるぶれいく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pincurchin</string>
+		<string>Order Up</string>
 		<key>shortcut</key>
-		<string>ばちんうに</string>
+		<string>いっちょうあがり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Snom</string>
+		<string>Electro Drift</string>
 		<key>shortcut</key>
-		<string>ゆきはみ</string>
+		<string>いなずまどらいぶ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Frosmoth</string>
+		<string>Doodle</string>
 		<key>shortcut</key>
-		<string>もすのう</string>
+		<string>うつしえ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Stonjourner</string>
+		<string>Electro Shot</string>
 		<key>shortcut</key>
-		<string>いしへんじん</string>
+		<string>えれくとろびーむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Eiscue</string>
+		<string>Tidy Up</string>
 		<key>shortcut</key>
-		<string>こおりっぽ</string>
+		<string>おかたづけ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Indeedee</string>
+		<string>Last Respects</string>
 		<key>shortcut</key>
-		<string>いえっさん</string>
+		<string>おはかまいり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Morpeko</string>
+		<string>Burning Bulwark</string>
 		<key>shortcut</key>
-		<string>もるぺこ</string>
+		<string>かえんのまもり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cufant</string>
+		<string>Axe Kick</string>
 		<key>shortcut</key>
-		<string>ぞうどう</string>
+		<string>かかとおとし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Copperajah</string>
+		<string>Ruination</string>
 		<key>shortcut</key>
-		<string>だいおうどう</string>
+		<string>かたすとろふぃ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dracozolt</string>
+		<string>Fickle Beam</string>
 		<key>shortcut</key>
-		<string>ぱっちらごん</string>
+		<string>きまぐれーざー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Arctozolt</string>
+		<string>Glaive Rush</string>
 		<key>shortcut</key>
-		<string>ぱっちるどん</string>
+		<string>きょけんとつげき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dracovish</string>
+		<string>Mortal Spin</string>
 		<key>shortcut</key>
-		<string>うおのらごん</string>
+		<string>きらーすぴん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Arctovish</string>
+		<string>Trailblaze</string>
 		<key>shortcut</key>
-		<string>うおちるどん</string>
+		<string>くさわけ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Duraludon</string>
+		<string>Make It Rain</string>
 		<key>shortcut</key>
-		<string>じゅらるどん</string>
+		<string>ごーるどらっしゅ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dreepy</string>
+		<string>Revival Blessing</string>
 		<key>shortcut</key>
-		<string>どらめしや</string>
+		<string>さいきのいのり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Drakloak</string>
+		<string>Psychic Noise</string>
 		<key>shortcut</key>
-		<string>どろんち</string>
+		<string>さいこのいず</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dragapult</string>
+		<string>Psyblade</string>
 		<key>shortcut</key>
-		<string>どらぱると</string>
+		<string>さいこぶれいど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Zacian</string>
+		<string>Chilly Reception</string>
 		<key>shortcut</key>
-		<string>ざしあん</string>
+		<string>さむいぎゃぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Zamazenta</string>
+		<string>Supercell Slam</string>
 		<key>shortcut</key>
-		<string>ざまぜんた</string>
+		<string>さんだーだいぶ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Eternatus</string>
+		<string>Jet Punch</string>
 		<key>shortcut</key>
-		<string>むげんだいな</string>
+		<string>じぇっとぱんち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kubfu</string>
+		<string>Salt Cure</string>
 		<key>shortcut</key>
-		<string>だくま</string>
+		<string>しおづけ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Urshifu</string>
+		<string>Shed Tail</string>
 		<key>shortcut</key>
-		<string>うーらおす</string>
+		<string>しっぽきり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Zarude</string>
+		<string>Matcha Gotcha</string>
 		<key>shortcut</key>
-		<string>ざるーど</string>
+		<string>しゃかしゃかほう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Regieleki</string>
+		<string>Malignant Chain</string>
 		<key>shortcut</key>
-		<string>れじえれき</string>
+		<string>じゃどくのくさり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Regidrago</string>
+		<string>Thunderclap</string>
 		<key>shortcut</key>
-		<string>れじどらご</string>
+		<string>じんらい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Glastrier</string>
+		<string>Silk Trap</string>
 		<key>shortcut</key>
-		<string>ぶりざぽす</string>
+		<string>すれっどとらっぷ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Spectrier</string>
+		<string>Tachyon Cutter</string>
 		<key>shortcut</key>
-		<string>れいすぽす</string>
+		<string>たきおんかったー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Calyrex</string>
+		<string>Twin Beam</string>
 		<key>shortcut</key>
-		<string>ばどれっくす</string>
+		<string>ついんびーむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wyrdeer</string>
+		<string>Ivy Cudgel</string>
 		<key>shortcut</key>
-		<string>あやしし</string>
+		<string>つたこんぼう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kleavor</string>
+		<string>Gigaton Hammer</string>
 		<key>shortcut</key>
-		<string>ばさぎり</string>
+		<string>でかはんまー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ursaluna</string>
+		<string>Tera Starstorm</string>
 		<key>shortcut</key>
-		<string>がちぐま</string>
+		<string>てらくらすたー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Basculegion</string>
+		<string>Tera Blast</string>
 		<key>shortcut</key>
-		<string>いだいとう</string>
+		<string>てらばーすと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sneasler</string>
+		<string>Double Shock</string>
 		<key>shortcut</key>
-		<string>おおにゅーら</string>
+		<string>でんこうそうげき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Overqwil</string>
+		<string>Kowtow Cleave</string>
 		<key>shortcut</key>
-		<string>はりーまん</string>
+		<string>どげざん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Enamorus</string>
+		<string>Pounce</string>
 		<key>shortcut</key>
-		<string>らぶとろす</string>
+		<string>とびつく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sprigatito</string>
+		<string>Dragon Cheer</string>
 		<key>shortcut</key>
-		<string>にゃおは</string>
+		<string>どらごんえーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Floragato</string>
+		<string>Flower Trick</string>
 		<key>shortcut</key>
-		<string>にゃろーて</string>
+		<string>とりっくふらわー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Meowscarada</string>
+		<string>Triple Dive</string>
 		<key>shortcut</key>
-		<string>ますかーにゃ</string>
+		<string>とりぷるだいぶ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Fuecoco</string>
+		<string>Population Bomb</string>
 		<key>shortcut</key>
-		<string>ほげーた</string>
+		<string>ねずみざん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Crocalor</string>
+		<string>Hard Press</string>
 		<key>shortcut</key>
-		<string>あちげーた</string>
+		<string>はーどぷれす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Skeledirge</string>
+		<string>Hydro Steam</string>
 		<key>shortcut</key>
-		<string>らうどぼーん</string>
+		<string>はいどろすちーむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Quaxly</string>
+		<string>Hyper Drill</string>
 		<key>shortcut</key>
-		<string>くわっす</string>
+		<string>はいぱーどりる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Quaxwell</string>
+		<string>Spicy Extract</string>
 		<key>shortcut</key>
-		<string>うぇるかも</string>
+		<string>はばねろえきす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Quaquaval</string>
+		<string>Upper Hand</string>
 		<key>shortcut</key>
-		<string>うぇーにばる</string>
+		<string>はやてがえし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lechonk</string>
+		<string>Mighty Cleave</string>
 		<key>shortcut</key>
-		<string>ぐるとん</string>
+		<string>ぱわふるえっじ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Oinkologne</string>
+		<string>Chilling Water</string>
 		<key>shortcut</key>
-		<string>ぱふゅーとん</string>
+		<string>ひやみず</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tarountula</string>
+		<string>Blood Moon</string>
 		<key>shortcut</key>
-		<string>たまんちゅら</string>
+		<string>ぶらっどむーん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Spidops</string>
+		<string>Torch Song</string>
 		<key>shortcut</key>
-		<string>わないだー</string>
+		<string>ふれあそんぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Nymble</string>
+		<string>Rage Fist</string>
 		<key>shortcut</key>
-		<string>まめばった</string>
+		<string>ふんどのこぶし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lokix</string>
+		<string>Spin Out</string>
 		<key>shortcut</key>
-		<string>えくすれっぐ</string>
+		<string>ほいーるすぴん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pawmi</string>
+		<string>Comeuppance</string>
 		<key>shortcut</key>
-		<string>ぱも</string>
+		<string>ほうふく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pawmo</string>
+		<string>Syrup Bomb</string>
 		<key>shortcut</key>
-		<string>ぱもっと</string>
+		<string>みずあめぼむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pawmot</string>
+		<string>Alluring Voice</string>
 		<key>shortcut</key>
-		<string>ぱーもっと</string>
+		<string>みわくのぼいす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tandemaus</string>
+		<string>Fillet Away</string>
 		<key>shortcut</key>
-		<string>わっかねずみ</string>
+		<string>みをけずる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Maushold</string>
+		<string>Bitter Blade</string>
 		<key>shortcut</key>
-		<string>いっかねずみ</string>
+		<string>むねんのつるぎ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Fidough</string>
+		<string>Temper Flare</string>
 		<key>shortcut</key>
-		<string>ぱぴもっち</string>
+		<string>やけっぱち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dachsbun</string>
+		<string>Snowscape</string>
 		<key>shortcut</key>
-		<string>ばうっつぇる</string>
+		<string>ゆきげしき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Smoliv</string>
+		<string>Lumina Crash</string>
 		<key>shortcut</key>
-		<string>みにーぶ</string>
+		<string>るみなこりじょん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dolliv</string>
+		<string>Raging Bull</string>
 		<key>shortcut</key>
-		<string>おりーにょ</string>
+		<string>れいじんぐぶる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Arboliva</string>
+		<string>Wicked Torque</string>
 		<key>shortcut</key>
-		<string>おりーヴぁ</string>
+		<string>だーくあくせる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Squawkabilly</string>
+		<string>Blazing Torque</string>
 		<key>shortcut</key>
-		<string>いきりんこ</string>
+		<string>ばーんあくせる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Nacli</string>
+		<string>Noxious Torque</string>
 		<key>shortcut</key>
-		<string>こじお</string>
+		<string>ぽいずんあくせる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Naclstack</string>
+		<string>Magical Torque</string>
 		<key>shortcut</key>
-		<string>じおづむ</string>
+		<string>まじかるあくせる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Garganacl</string>
+		<string>Combat Torque</string>
 		<key>shortcut</key>
-		<string>きょじおーん</string>
+		<string>ふぁいとあくせる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Charcadet</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>かるぼう</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Armarouge</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>ぐれんあるま</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ceruledge</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>そうぶれいず</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tadbulb</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>ずぴか</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bellibolt</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>はらばりー</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wattrel</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>かいでん</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kilowattrel</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>たいかいでん</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Maschiff</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>おらちふ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mabosstiff</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>まふぃてぃふ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Shroodle</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>しるしゅるー</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Grafaiai</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>たぎんぐる</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bramblin</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>あのくさ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Brambleghast</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>あのほらぐさ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Toedscool</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>ののくらげ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Toedscruel</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>りくくらげ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Klawf</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>がけがに</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Capsakid</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>かぷさいじ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Scovillain</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>すこヴぃらん</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rellor</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>しがろこ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rabsca</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>べらかす</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Flittle</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>ひらひな</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Espathra</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>くえすぱとら</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tinkatink</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>かぬちゃん</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tinkatuff</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>なかぬちゃん</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tinkaton</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>でかぬちゃん</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wiglett</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>うみでぃぐだ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wugtrio</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>うみとりお</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bombirdier</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>おとしどり</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Finizen</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>なみいるか</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Palafin</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>いるかまん</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Varoom</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>ぶろろん</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Revavroom</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>ぶろろろーむ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cyclizar</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>もととかげ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Orthworm</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>みみずず</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Glimmet</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>きらーめ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Glimmora</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>きらふろる</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Greavard</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>ぼち</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Houndstone</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>はかどっぐ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Flamigo</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>からみんご</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cetoddle</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>あるくじら</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cetitan</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>はるくじら</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Veluza</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>みがるーさ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dondozo</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>へいらっしゃ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tatsugiri</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>しゃりたつ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Annihilape</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>このよざる</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Clodsire</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>どおー</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Farigiraf</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>りききりん</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dudunsparce</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>のここっち</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kingambit</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>どどげざん</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Great Tusk</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>いだいなきば</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Scream Tail</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>さけぶしっぽ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Brute Bonnet</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>あらぶるたけ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Flutter Mane</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>はばたくかみ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Slither Wing</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>ちをはうはね</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sandy Shocks</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>すなのけがわ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Iron Treads</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>てつのわだち</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Iron Bundle</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>てつのつつみ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Iron Hands</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>てつのかいな</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Iron Jugulis</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>てつのこうべ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Iron Moth</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>てつのどくが</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Iron Thorns</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>てつのいばら</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Frigibax</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>せびえ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Arctibax</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>せごーる</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Baxcalibur</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>せぐれいぶ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gimmighoul</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>これくれー</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gholdengo</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>さーふごー</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wo-Chien</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>ちおんじぇん</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Chien-Pao</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>ぱおじあん</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ting-Lu</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>でぃんるー</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Chi-Yu</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>いーゆい</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Roaring Moon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>とどろくつき</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Iron Valiant</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>てつのぶじん</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Koraidon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>こらいどん</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Miraidon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>みらいどん</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Walking Wake</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>うねるみなも</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Iron Leaves</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>てつのいさは</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dipplin</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>かみっちゅ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Poltchageist</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>ちゃです</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sinistcha</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>やばそちゃ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Okidogi</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>いいねいぬ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Munkidori</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>ましましら</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Fezandipiti</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>きちきぎす</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ogerpon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>おーがぽん</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Archaludon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>ぶりじゅらす</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hydrapple</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>かみつおろち</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gouging Fire</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>うがつほむら</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Raging Bolt</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>たけるらいこ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Iron Boulder</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>てつのいわお</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Iron Crown</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>てつのかしら</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Terapagos</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>てらぱごす</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pecharunt</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>ももわろう</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>

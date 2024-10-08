@@ -1,6156 +1,6156 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
+<?xml version=1.0 encoding=UTF-8?>
+<!DOCTYPE plist PUBLIC -//Apple//DTD PLIST 1.0//EN http://www.apple.com/DTDs/PropertyList-1.0.dtd>
+<plist version=1.0>
 <array>
 	<dict>
 		<key>phrase</key>
-		<string>Bulbasaur</string>
+		<string>きのみ</string>
 		<key>shortcut</key>
-		<string>1p</string>
+		<string>きのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ivysaur</string>
+		<string>おうごんのみ</string>
 		<key>shortcut</key>
-		<string>2p</string>
+		<string>おうごんのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Venusaur</string>
+		<string>どくけしのみ</string>
 		<key>shortcut</key>
-		<string>3p</string>
+		<string>どくけしのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Charmander</string>
+		<string>まひなおしのみ</string>
 		<key>shortcut</key>
-		<string>4p</string>
+		<string>まひなおしのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Charmeleon</string>
+		<string>はっかのみ</string>
 		<key>shortcut</key>
-		<string>5p</string>
+		<string>はっかのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Charizard</string>
+		<string>やけたきのみ</string>
 		<key>shortcut</key>
-		<string>6p</string>
+		<string>やけたきのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Squirtle</string>
+		<string>こおったきのみ</string>
 		<key>shortcut</key>
-		<string>7p</string>
+		<string>こおったきのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wartortle</string>
+		<string>にがいきのみ</string>
 		<key>shortcut</key>
-		<string>8p</string>
+		<string>にがいきのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Blastoise</string>
+		<string>ふしぎなきのみ</string>
 		<key>shortcut</key>
-		<string>9p</string>
+		<string>ふしぎなきのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Caterpie</string>
+		<string>きせきのみ</string>
 		<key>shortcut</key>
-		<string>10p</string>
+		<string>きせきのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Metapod</string>
+		<string>クラボのみ</string>
 		<key>shortcut</key>
-		<string>11p</string>
+		<string>くらぼのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Butterfree</string>
+		<string>カゴのみ</string>
 		<key>shortcut</key>
-		<string>12p</string>
+		<string>かごのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Weedle</string>
+		<string>モモンのみ</string>
 		<key>shortcut</key>
-		<string>13p</string>
+		<string>ももんのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kakuna</string>
+		<string>チーゴのみ</string>
 		<key>shortcut</key>
-		<string>14p</string>
+		<string>ちーごのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Beedrill</string>
+		<string>ナナシのみ</string>
 		<key>shortcut</key>
-		<string>15p</string>
+		<string>ななしのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pidgey</string>
+		<string>ヒメリのみ</string>
 		<key>shortcut</key>
-		<string>16p</string>
+		<string>ひめりのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pidgeotto</string>
+		<string>オレンのみ</string>
 		<key>shortcut</key>
-		<string>17p</string>
+		<string>おれんのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pidgeot</string>
+		<string>キーのみ</string>
 		<key>shortcut</key>
-		<string>18p</string>
+		<string>きーのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rattata</string>
+		<string>ラムのみ</string>
 		<key>shortcut</key>
-		<string>19p</string>
+		<string>らむのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Raticate</string>
+		<string>オボンのみ</string>
 		<key>shortcut</key>
-		<string>20p</string>
+		<string>おぼんのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Spearow</string>
+		<string>フィラのみ</string>
 		<key>shortcut</key>
-		<string>21p</string>
+		<string>ふぃらのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Fearow</string>
+		<string>ウイのみ</string>
 		<key>shortcut</key>
-		<string>22p</string>
+		<string>ういのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ekans</string>
+		<string>マゴのみ</string>
 		<key>shortcut</key>
-		<string>23p</string>
+		<string>まごのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Arbok</string>
+		<string>バンジのみ</string>
 		<key>shortcut</key>
-		<string>24p</string>
+		<string>ばんじのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pikachu</string>
+		<string>イアのみ</string>
 		<key>shortcut</key>
-		<string>25p</string>
+		<string>いあのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Raichu</string>
+		<string>ズリのみ</string>
 		<key>shortcut</key>
-		<string>26p</string>
+		<string>ずりのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sandshrew</string>
+		<string>ブリーのみ</string>
 		<key>shortcut</key>
-		<string>27p</string>
+		<string>ぶりーのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sandslash</string>
+		<string>ナナのみ</string>
 		<key>shortcut</key>
-		<string>28p</string>
+		<string>ななのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Nidoran♀</string>
+		<string>セシナのみ</string>
 		<key>shortcut</key>
-		<string>29p</string>
+		<string>せしなのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Nidorina</string>
+		<string>パイルのみ</string>
 		<key>shortcut</key>
-		<string>30p</string>
+		<string>ぱいるのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Nidoqueen</string>
+		<string>ザロクのみ</string>
 		<key>shortcut</key>
-		<string>31p</string>
+		<string>ざろくのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Nidoran♂</string>
+		<string>ネコブのみ</string>
 		<key>shortcut</key>
-		<string>32p</string>
+		<string>ねこぶのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Nidorino</string>
+		<string>タポルのみ</string>
 		<key>shortcut</key>
-		<string>33p</string>
+		<string>たぽるのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Nidoking</string>
+		<string>ロメのみ</string>
 		<key>shortcut</key>
-		<string>34p</string>
+		<string>ろめのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Clefairy</string>
+		<string>ウブのみ</string>
 		<key>shortcut</key>
-		<string>35p</string>
+		<string>うぶのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Clefable</string>
+		<string>マトマのみ</string>
 		<key>shortcut</key>
-		<string>36p</string>
+		<string>まとまのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Vulpix</string>
+		<string>モコシのみ</string>
 		<key>shortcut</key>
-		<string>37p</string>
+		<string>もこしのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ninetales</string>
+		<string>ゴスのみ</string>
 		<key>shortcut</key>
-		<string>38p</string>
+		<string>ごすのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Jigglypuff</string>
+		<string>ラブタのみ</string>
 		<key>shortcut</key>
-		<string>39p</string>
+		<string>らぶたのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wigglytuff</string>
+		<string>ノメルのみ</string>
 		<key>shortcut</key>
-		<string>40p</string>
+		<string>のめるのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Zubat</string>
+		<string>ノワキのみ</string>
 		<key>shortcut</key>
-		<string>41p</string>
+		<string>のわきのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Golbat</string>
+		<string>シーヤのみ</string>
 		<key>shortcut</key>
-		<string>42p</string>
+		<string>しーやのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Oddish</string>
+		<string>カイスのみ</string>
 		<key>shortcut</key>
-		<string>43p</string>
+		<string>かいすのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gloom</string>
+		<string>ドリのみ</string>
 		<key>shortcut</key>
-		<string>44p</string>
+		<string>どりのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Vileplume</string>
+		<string>ベリブのみ</string>
 		<key>shortcut</key>
-		<string>45p</string>
+		<string>べりぶのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Paras</string>
+		<string>チイラのみ</string>
 		<key>shortcut</key>
-		<string>46p</string>
+		<string>ちいらのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Parasect</string>
+		<string>リュガのみ</string>
 		<key>shortcut</key>
-		<string>47p</string>
+		<string>りゅがのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Venonat</string>
+		<string>カムラのみ</string>
 		<key>shortcut</key>
-		<string>48p</string>
+		<string>かむらのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Venomoth</string>
+		<string>ヤタピのみ</string>
 		<key>shortcut</key>
-		<string>49p</string>
+		<string>やたぴのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Diglett</string>
+		<string>ズアのみ</string>
 		<key>shortcut</key>
-		<string>50p</string>
+		<string>ずあのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dugtrio</string>
+		<string>サンのみ</string>
 		<key>shortcut</key>
-		<string>51p</string>
+		<string>さんのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Meowth</string>
+		<string>スターのみ</string>
 		<key>shortcut</key>
-		<string>52p</string>
+		<string>すたーのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Persian</string>
+		<string>ナゾのみ</string>
 		<key>shortcut</key>
-		<string>53p</string>
+		<string>なぞのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Psyduck</string>
+		<string>オッカのみ</string>
 		<key>shortcut</key>
-		<string>54p</string>
+		<string>おっかのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Golduck</string>
+		<string>イトケのみ</string>
 		<key>shortcut</key>
-		<string>55p</string>
+		<string>いとけのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mankey</string>
+		<string>ソクノのみ</string>
 		<key>shortcut</key>
-		<string>56p</string>
+		<string>そくののみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Primeape</string>
+		<string>リンドのみ</string>
 		<key>shortcut</key>
-		<string>57p</string>
+		<string>りんどのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Growlithe</string>
+		<string>ヤチェのみ</string>
 		<key>shortcut</key>
-		<string>58p</string>
+		<string>やちぇのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Arcanine</string>
+		<string>ヨプのみ</string>
 		<key>shortcut</key>
-		<string>59p</string>
+		<string>よぷのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Poliwag</string>
+		<string>ビアーのみ</string>
 		<key>shortcut</key>
-		<string>60p</string>
+		<string>びあーのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Poliwhirl</string>
+		<string>シュカのみ</string>
 		<key>shortcut</key>
-		<string>61p</string>
+		<string>しゅかのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Poliwrath</string>
+		<string>バコウのみ</string>
 		<key>shortcut</key>
-		<string>62p</string>
+		<string>ばこうのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Abra</string>
+		<string>ウタンのみ</string>
 		<key>shortcut</key>
-		<string>63p</string>
+		<string>うたんのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kadabra</string>
+		<string>タンガのみ</string>
 		<key>shortcut</key>
-		<string>64p</string>
+		<string>たんがのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Alakazam</string>
+		<string>ヨロギのみ</string>
 		<key>shortcut</key>
-		<string>65p</string>
+		<string>よろぎのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Machop</string>
+		<string>カシブのみ</string>
 		<key>shortcut</key>
-		<string>66p</string>
+		<string>かしぶのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Machoke</string>
+		<string>ハバンのみ</string>
 		<key>shortcut</key>
-		<string>67p</string>
+		<string>はばんのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Machamp</string>
+		<string>ナモのみ</string>
 		<key>shortcut</key>
-		<string>68p</string>
+		<string>なものみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bellsprout</string>
+		<string>リリバのみ</string>
 		<key>shortcut</key>
-		<string>69p</string>
+		<string>りりばのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Weepinbell</string>
+		<string>ホズのみ</string>
 		<key>shortcut</key>
-		<string>70p</string>
+		<string>ほずのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Victreebel</string>
+		<string>ミクルのみ</string>
 		<key>shortcut</key>
-		<string>71p</string>
+		<string>みくるのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tentacool</string>
+		<string>イバンのみ</string>
 		<key>shortcut</key>
-		<string>72p</string>
+		<string>いばんのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tentacruel</string>
+		<string>ジャポのみ</string>
 		<key>shortcut</key>
-		<string>73p</string>
+		<string>じゃぽのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Geodude</string>
+		<string>レンブのみ</string>
 		<key>shortcut</key>
-		<string>74p</string>
+		<string>れんぶのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Graveler</string>
+		<string>ロゼルのみ</string>
 		<key>shortcut</key>
-		<string>75p</string>
+		<string>ろぜるのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Golem</string>
+		<string>アッキのみ</string>
 		<key>shortcut</key>
-		<string>76p</string>
+		<string>あっきのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ponyta</string>
+		<string>タラプのみ</string>
 		<key>shortcut</key>
-		<string>77p</string>
+		<string>たらぷのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rapidash</string>
+		<string>ポフのみ</string>
 		<key>shortcut</key>
-		<string>78p</string>
+		<string>ぽふのみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Slowpoke</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>79p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Slowbro</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>80p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Magnemite</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>81p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Magneton</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>82p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Farfetch'd</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>83p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Doduo</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>84p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dodrio</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>85p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Seel</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>86p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dewgong</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>87p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Grimer</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>88p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Muk</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>89p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Shellder</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>90p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cloyster</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>91p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gastly</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>92p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Haunter</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>93p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gengar</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>94p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Onix</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>95p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Drowzee</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>96p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hypno</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>97p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Krabby</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>98p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kingler</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>99p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Voltorb</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>100p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Electrode</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>101p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Exeggcute</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>102p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Exeggutor</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>103p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cubone</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>104p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Marowak</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>105p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hitmonlee</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>106p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hitmonchan</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>107p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lickitung</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>108p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Koffing</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>109p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Weezing</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>110p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rhyhorn</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>111p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rhydon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>112p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Chansey</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>113p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tangela</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>114p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kangaskhan</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>115p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Horsea</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>116p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Seadra</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>117p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Goldeen</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>118p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Seaking</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>119p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Staryu</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>120p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Starmie</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>121p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mr. Mime</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>122p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Scyther</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>123p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Jynx</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>124p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Electabuzz</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>125p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Magmar</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>126p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pinsir</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>127p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tauros</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>128p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Magikarp</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>129p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gyarados</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>130p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lapras</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>131p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ditto</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>132p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Eevee</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>133p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Vaporeon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>134p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Jolteon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>135p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Flareon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>136p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Porygon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>137p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Omanyte</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>138p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Omastar</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>139p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kabuto</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>140p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kabutops</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>141p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Aerodactyl</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>142p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Snorlax</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>143p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Articuno</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>144p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Zapdos</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>145p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Moltres</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>146p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dratini</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>147p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dragonair</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>148p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dragonite</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>149p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mewtwo</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>150p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mew</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>151p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Chikorita</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>152p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bayleef</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>153p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Meganium</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>154p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cyndaquil</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>155p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Quilava</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>156p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Typhlosion</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>157p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Totodile</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>158p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Croconaw</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>159p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Feraligatr</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>160p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sentret</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>161p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Furret</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>162p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hoothoot</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>163p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Noctowl</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>164p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ledyba</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>165p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ledian</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>166p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Spinarak</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>167p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ariados</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>168p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Crobat</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>169p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Chinchou</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>170p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lanturn</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>171p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pichu</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>172p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cleffa</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>173p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Igglybuff</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>174p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Togepi</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>175p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Togetic</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>176p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Natu</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>177p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Xatu</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>178p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mareep</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>179p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Flaaffy</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>180p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ampharos</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>181p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bellossom</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>182p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Marill</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>183p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Azumarill</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>184p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sudowoodo</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>185p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Politoed</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>186p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hoppip</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>187p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Skiploom</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>188p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Jumpluff</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>189p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Aipom</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>190p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sunkern</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>191p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sunflora</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>192p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Yanma</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>193p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wooper</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>194p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Quagsire</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>195p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Espeon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>196p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Umbreon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>197p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Murkrow</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>198p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Slowking</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>199p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Misdreavus</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>200p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Unown</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>201p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wobbuffet</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>202p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Girafarig</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>203p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pineco</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>204p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Forretress</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>205p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dunsparce</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>206p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gligar</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>207p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Steelix</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>208p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Snubbull</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>209p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Granbull</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>210p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Qwilfish</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>211p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Scizor</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>212p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Shuckle</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>213p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Heracross</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>214p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sneasel</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>215p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Teddiursa</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>216p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ursaring</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>217p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Slugma</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>218p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Magcargo</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>219p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Swinub</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>220p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Piloswine</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>221p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Corsola</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>222p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Remoraid</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>223p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Octillery</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>224p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Delibird</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>225p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mantine</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>226p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Skarmory</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>227p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Houndour</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>228p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Houndoom</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>229p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kingdra</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>230p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Phanpy</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>231p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Donphan</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>232p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Porygon2</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>233p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Stantler</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>234p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Smeargle</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>235p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tyrogue</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>236p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hitmontop</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>237p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Smoochum</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>238p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Elekid</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>239p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Magby</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>240p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Miltank</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>241p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Blissey</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>242p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Raikou</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>243p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Entei</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>244p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Suicune</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>245p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Larvitar</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>246p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pupitar</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>247p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tyranitar</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>248p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lugia</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>249p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ho-Oh</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>250p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Celebi</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>251p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Treecko</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>252p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Grovyle</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>253p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sceptile</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>254p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Torchic</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>255p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Combusken</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>256p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Blaziken</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>257p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mudkip</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>258p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Marshtomp</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>259p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Swampert</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>260p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Poochyena</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>261p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mightyena</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>262p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Zigzagoon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>263p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Linoone</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>264p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wurmple</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>265p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Silcoon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>266p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Beautifly</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>267p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cascoon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>268p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dustox</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>269p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lotad</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>270p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lombre</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>271p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ludicolo</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>272p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Seedot</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>273p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Nuzleaf</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>274p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Shiftry</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>275p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Taillow</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>276p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Swellow</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>277p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wingull</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>278p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pelipper</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>279p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ralts</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>280p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kirlia</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>281p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gardevoir</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>282p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Surskit</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>283p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Masquerain</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>284p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Shroomish</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>285p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Breloom</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>286p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Slakoth</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>287p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Vigoroth</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>288p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Slaking</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>289p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Nincada</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>290p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ninjask</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>291p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Shedinja</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>292p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Whismur</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>293p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Loudred</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>294p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Exploud</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>295p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Makuhita</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>296p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hariyama</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>297p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Azurill</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>298p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Nosepass</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>299p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Skitty</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>300p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Delcatty</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>301p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sableye</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>302p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mawile</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>303p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Aron</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>304p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lairon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>305p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Aggron</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>306p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Meditite</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>307p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Medicham</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>308p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Electrike</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>309p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Manectric</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>310p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Plusle</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>311p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Minun</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>312p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Volbeat</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>313p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Illumise</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>314p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Roselia</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>315p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gulpin</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>316p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Swalot</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>317p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Carvanha</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>318p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sharpedo</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>319p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wailmer</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>320p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wailord</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>321p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Numel</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>322p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Camerupt</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>323p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Torkoal</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>324p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Spoink</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>325p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Grumpig</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>326p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Spinda</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>327p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Trapinch</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>328p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Vibrava</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>329p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Flygon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>330p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cacnea</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>331p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cacturne</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>332p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Swablu</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>333p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Altaria</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>334p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Zangoose</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>335p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Seviper</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>336p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lunatone</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>337p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Solrock</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>338p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Barboach</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>339p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Whiscash</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>340p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Corphish</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>341p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Crawdaunt</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>342p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Baltoy</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>343p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Claydol</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>344p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lileep</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>345p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cradily</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>346p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Anorith</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>347p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Armaldo</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>348p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Feebas</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>349p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Milotic</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>350p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Castform</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>351p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kecleon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>352p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Shuppet</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>353p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Banette</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>354p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Duskull</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>355p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dusclops</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>356p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tropius</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>357p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Chimecho</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>358p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Absol</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>359p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wynaut</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>360p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Snorunt</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>361p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Glalie</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>362p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Spheal</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>363p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sealeo</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>364p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Walrein</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>365p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Clamperl</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>366p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Huntail</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>367p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gorebyss</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>368p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Relicanth</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>369p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Luvdisc</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>370p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bagon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>371p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Shelgon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>372p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Salamence</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>373p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Beldum</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>374p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Metang</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>375p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Metagross</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>376p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Regirock</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>377p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Regice</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>378p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Registeel</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>379p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Latias</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>380p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Latios</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>381p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kyogre</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>382p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Groudon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>383p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rayquaza</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>384p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Jirachi</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>385p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Deoxys</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>386p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Turtwig</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>387p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Grotle</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>388p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Torterra</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>389p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Chimchar</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>390p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Monferno</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>391p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Infernape</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>392p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Piplup</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>393p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Prinplup</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>394p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Empoleon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>395p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Starly</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>396p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Staravia</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>397p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Staraptor</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>398p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bidoof</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>399p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bibarel</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>400p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kricketot</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>401p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kricketune</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>402p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Shinx</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>403p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Luxio</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>404p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Luxray</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>405p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Budew</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>406p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Roserade</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>407p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cranidos</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>408p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rampardos</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>409p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Shieldon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>410p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bastiodon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>411p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Burmy</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>412p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wormadam</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>413p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mothim</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>414p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Combee</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>415p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Vespiquen</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>416p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pachirisu</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>417p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Buizel</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>418p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Floatzel</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>419p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cherubi</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>420p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cherrim</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>421p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Shellos</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>422p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gastrodon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>423p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ambipom</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>424p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Drifloon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>425p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Drifblim</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>426p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Buneary</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>427p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lopunny</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>428p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mismagius</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>429p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Honchkrow</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>430p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Glameow</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>431p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Purugly</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>432p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Chingling</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>433p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Stunky</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>434p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Skuntank</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>435p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bronzor</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>436p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bronzong</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>437p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bonsly</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>438p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mime Jr.</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>439p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Happiny</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>440p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Chatot</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>441p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Spiritomb</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>442p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gible</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>443p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gabite</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>444p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Garchomp</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>445p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Munchlax</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>446p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Riolu</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>447p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lucario</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>448p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hippopotas</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>449p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hippowdon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>450p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Skorupi</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>451p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Drapion</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>452p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Croagunk</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>453p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Toxicroak</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>454p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Carnivine</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>455p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Finneon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>456p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lumineon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>457p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mantyke</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>458p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Snover</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>459p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Abomasnow</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>460p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Weavile</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>461p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Magnezone</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>462p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lickilicky</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>463p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rhyperior</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>464p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tangrowth</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>465p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Electivire</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>466p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Magmortar</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>467p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Togekiss</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>468p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Yanmega</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>469p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Leafeon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>470p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Glaceon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>471p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gliscor</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>472p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mamoswine</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>473p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Porygon-Z</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>474p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gallade</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>475p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Probopass</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>476p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dusknoir</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>477p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Froslass</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>478p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rotom</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>479p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Uxie</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>480p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mesprit</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>481p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Azelf</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>482p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dialga</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>483p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Palkia</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>484p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Heatran</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>485p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Regigigas</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>486p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Giratina</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>487p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cresselia</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>488p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Phione</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>489p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Manaphy</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>490p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Darkrai</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>491p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Shaymin</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>492p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Arceus</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>493p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Victini</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>494p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Snivy</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>495p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Servine</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>496p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Serperior</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>497p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tepig</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>498p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pignite</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>499p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Emboar</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>500p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Oshawott</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>501p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dewott</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>502p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Samurott</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>503p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Patrat</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>504p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Watchog</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>505p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lillipup</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>506p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Herdier</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>507p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Stoutland</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>508p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Purrloin</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>509p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Liepard</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>510p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pansage</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>511p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Simisage</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>512p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pansear</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>513p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Simisear</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>514p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Panpour</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>515p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Simipour</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>516p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Munna</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>517p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Musharna</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>518p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pidove</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>519p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tranquill</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>520p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Unfezant</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>521p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Blitzle</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>522p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Zebstrika</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>523p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Roggenrola</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>524p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Boldore</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>525p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gigalith</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>526p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Woobat</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>527p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Swoobat</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>528p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Drilbur</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>529p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Excadrill</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>530p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Audino</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>531p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Timburr</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>532p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gurdurr</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>533p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Conkeldurr</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>534p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tympole</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>535p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Palpitoad</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>536p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Seismitoad</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>537p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Throh</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>538p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sawk</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>539p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sewaddle</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>540p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Swadloon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>541p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Leavanny</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>542p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Venipede</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>543p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Whirlipede</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>544p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Scolipede</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>545p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cottonee</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>546p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Whimsicott</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>547p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Petilil</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>548p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lilligant</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>549p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Basculin</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>550p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sandile</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>551p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Krokorok</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>552p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Krookodile</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>553p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Darumaka</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>554p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Darmanitan</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>555p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Maractus</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>556p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dwebble</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>557p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Crustle</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>558p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Scraggy</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>559p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Scrafty</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>560p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sigilyph</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>561p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Yamask</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>562p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cofagrigus</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>563p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tirtouga</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>564p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Carracosta</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>565p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Archen</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>566p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Archeops</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>567p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Trubbish</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>568p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Garbodor</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>569p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Zorua</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>570p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Zoroark</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>571p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Minccino</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>572p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cinccino</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>573p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gothita</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>574p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gothorita</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>575p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gothitelle</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>576p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Solosis</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>577p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Duosion</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>578p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Reuniclus</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>579p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ducklett</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>580p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Swanna</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>581p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Vanillite</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>582p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Vanillish</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>583p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Vanilluxe</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>584p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Deerling</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>585p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sawsbuck</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>586p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Emolga</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>587p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Karrablast</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>588p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Escavalier</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>589p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Foongus</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>590p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Amoonguss</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>591p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Frillish</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>592p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Jellicent</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>593p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Alomomola</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>594p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Joltik</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>595p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Galvantula</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>596p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ferroseed</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>597p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ferrothorn</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>598p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Klink</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>599p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Klang</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>600p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Klinklang</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>601p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tynamo</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>602p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Eelektrik</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>603p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Eelektross</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>604p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Elgyem</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>605p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Beheeyem</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>606p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Litwick</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>607p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lampent</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>608p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Chandelure</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>609p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Axew</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>610p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Fraxure</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>611p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Haxorus</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>612p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cubchoo</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>613p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Beartic</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>614p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cryogonal</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>615p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Shelmet</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>616p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Accelgor</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>617p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Stunfisk</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>618p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mienfoo</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>619p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mienshao</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>620p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Druddigon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>621p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Golett</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>622p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Golurk</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>623p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pawniard</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>624p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bisharp</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>625p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bouffalant</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>626p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rufflet</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>627p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Braviary</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>628p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Vullaby</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>629p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mandibuzz</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>630p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Heatmor</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>631p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Durant</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>632p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Deino</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>633p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Zweilous</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>634p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hydreigon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>635p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Larvesta</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>636p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Volcarona</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>637p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cobalion</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>638p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Terrakion</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>639p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Virizion</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>640p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tornadus</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>641p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Thundurus</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>642p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Reshiram</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>643p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Zekrom</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>644p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Landorus</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>645p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kyurem</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>646p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Keldeo</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>647p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Meloetta</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>648p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Genesect</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>649p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Chespin</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>650p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Quilladin</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>651p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Chesnaught</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>652p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Fennekin</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>653p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Braixen</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>654p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Delphox</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>655p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Froakie</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>656p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Frogadier</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>657p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Greninja</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>658p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bunnelby</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>659p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Diggersby</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>660p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Fletchling</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>661p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Fletchinder</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>662p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Talonflame</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>663p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Scatterbug</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>664p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Spewpa</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>665p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Vivillon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>666p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Litleo</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>667p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pyroar</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>668p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Flabébé</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>669p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Floette</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>670p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Florges</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>671p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Skiddo</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>672p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gogoat</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>673p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pancham</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>674p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pangoro</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>675p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Furfrou</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>676p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Espurr</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>677p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Meowstic</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>678p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Honedge</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>679p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Doublade</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>680p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Aegislash</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>681p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Spritzee</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>682p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Aromatisse</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>683p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Swirlix</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>684p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Slurpuff</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>685p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Inkay</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>686p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Malamar</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>687p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Binacle</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>688p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Barbaracle</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>689p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Skrelp</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>690p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dragalge</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>691p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Clauncher</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>692p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Clawitzer</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>693p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Helioptile</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>694p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Heliolisk</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>695p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tyrunt</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>696p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tyrantrum</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>697p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Amaura</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>698p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Aurorus</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>699p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sylveon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>700p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hawlucha</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>701p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dedenne</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>702p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Carbink</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>703p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Goomy</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>704p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sliggoo</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>705p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Goodra</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>706p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Klefki</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>707p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Phantump</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>708p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Trevenant</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>709p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pumpkaboo</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>710p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gourgeist</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>711p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bergmite</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>712p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Avalugg</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>713p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Noibat</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>714p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Noivern</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>715p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Xerneas</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>716p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Yveltal</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>717p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Zygarde</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>718p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Diancie</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>719p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hoopa</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>720p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Volcanion</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>721p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rowlet</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>722p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dartrix</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>723p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Decidueye</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>724p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Litten</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>725p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Torracat</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>726p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Incineroar</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>727p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Popplio</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>728p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Brionne</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>729p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Primarina</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>730p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pikipek</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>731p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Trumbeak</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>732p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Toucannon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>733p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Yungoos</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>734p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gumshoos</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>735p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Grubbin</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>736p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Charjabug</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>737p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Vikavolt</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>738p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Crabrawler</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>739p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Crabominable</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>740p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Oricorio</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>741p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cutiefly</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>742p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ribombee</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>743p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rockruff</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>744p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lycanroc</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>745p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wishiwashi</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>746p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mareanie</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>747p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Toxapex</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>748p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mudbray</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>749p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mudsdale</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>750p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dewpider</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>751p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Araquanid</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>752p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Fomantis</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>753p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lurantis</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>754p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Morelull</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>755p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Shiinotic</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>756p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Salandit</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>757p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Salazzle</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>758p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Stufful</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>759p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bewear</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>760p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bounsweet</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>761p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Steenee</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>762p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tsareena</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>763p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Comfey</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>764p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Oranguru</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>765p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Passimian</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>766p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wimpod</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>767p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Golisopod</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>768p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sandygast</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>769p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Palossand</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>770p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pyukumuku</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>771p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Type: Null</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>772p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Silvally</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>773p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Minior</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>774p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Komala</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>775p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Turtonator</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>776p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Togedemaru</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>777p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mimikyu</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>778p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bruxish</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>779p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Drampa</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>780p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dhelmise</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>781p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Jangmo-o</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>782p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hakamo-o</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>783p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kommo-o</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>784p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tapu Koko</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>785p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tapu Lele</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>786p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tapu Bulu</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>787p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tapu Fini</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>788p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cosmog</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>789p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cosmoem</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>790p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Solgaleo</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>791p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lunala</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>792p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Nihilego</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>793p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Buzzwole</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>794p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pheromosa</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>795p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Xurkitree</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>796p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Celesteela</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>797p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kartana</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>798p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Guzzlord</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>799p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Necrozma</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>800p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Magearna</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>801p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Marshadow</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>802p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Poipole</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>803p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Naganadel</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>804p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Stakataka</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>805p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Blacephalon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>806p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Zeraora</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>807p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Meltan</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>808p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Melmetal</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>809p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Grookey</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>810p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Thwackey</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>811p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rillaboom</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>812p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Scorbunny</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>813p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Raboot</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>814p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cinderace</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>815p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sobble</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>816p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Drizzile</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>817p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Inteleon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>818p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Skwovet</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>819p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Greedent</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>820p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rookidee</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>821p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Corvisquire</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>822p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Corviknight</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>823p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Blipbug</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>824p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dottler</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>825p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Orbeetle</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>826p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Nickit</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>827p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Thievul</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>828p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gossifleur</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>829p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Eldegoss</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>830p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wooloo</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>831p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dubwool</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>832p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Chewtle</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>833p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Drednaw</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>834p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Yamper</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>835p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Boltund</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>836p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rolycoly</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>837p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Carkol</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>838p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Coalossal</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>839p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Applin</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>840p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Flapple</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>841p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Appletun</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>842p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Silicobra</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>843p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sandaconda</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>844p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cramorant</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>845p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Arrokuda</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>846p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Barraskewda</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>847p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Toxel</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>848p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Toxtricity</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>849p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sizzlipede</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>850p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Centiskorch</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>851p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Clobbopus</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>852p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Grapploct</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>853p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sinistea</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>854p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Polteageist</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>855p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hatenna</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>856p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hattrem</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>857p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hatterene</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>858p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Impidimp</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>859p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Morgrem</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>860p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Grimmsnarl</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>861p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Obstagoon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>862p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Perrserker</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>863p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cursola</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>864p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sirfetch'd</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>865p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mr. Rime</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>866p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Runerigus</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>867p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Milcery</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>868p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Alcremie</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>869p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Falinks</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>870p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pincurchin</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>871p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Snom</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>872p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Frosmoth</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>873p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Stonjourner</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>874p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Eiscue</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>875p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Indeedee</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>876p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Morpeko</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>877p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cufant</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>878p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Copperajah</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>879p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dracozolt</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>880p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Arctozolt</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>881p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dracovish</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>882p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Arctovish</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>883p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Duraludon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>884p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dreepy</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>885p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Drakloak</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>886p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dragapult</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>887p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Zacian</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>888p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Zamazenta</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>889p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Eternatus</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>890p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kubfu</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>891p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Urshifu</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>892p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Zarude</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>893p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Regieleki</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>894p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Regidrago</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>895p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Glastrier</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>896p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Spectrier</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>897p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Calyrex</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>898p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wyrdeer</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>899p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kleavor</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>900p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ursaluna</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>901p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Basculegion</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>902p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sneasler</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>903p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Overqwil</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>904p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Enamorus</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>905p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sprigatito</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>906p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Floragato</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>907p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Meowscarada</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>908p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Fuecoco</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>909p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Crocalor</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>910p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Skeledirge</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>911p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Quaxly</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>912p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Quaxwell</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>913p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Quaquaval</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>914p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lechonk</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>915p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Oinkologne</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>916p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tarountula</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>917p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Spidops</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>918p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Nymble</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>919p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Lokix</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>920p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pawmi</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>921p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pawmo</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>922p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pawmot</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>923p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tandemaus</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>924p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Maushold</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>925p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Fidough</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>926p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dachsbun</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>927p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Smoliv</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>928p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dolliv</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>929p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Arboliva</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>930p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Squawkabilly</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>931p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Nacli</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>932p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Naclstack</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>933p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Garganacl</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>934p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Charcadet</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>935p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Armarouge</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>936p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ceruledge</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>937p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tadbulb</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>938p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bellibolt</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>939p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wattrel</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>940p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kilowattrel</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>941p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Maschiff</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>942p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Mabosstiff</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>943p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Shroodle</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>944p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Grafaiai</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>945p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bramblin</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>946p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Brambleghast</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>947p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Toedscool</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>948p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Toedscruel</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>949p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Klawf</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>950p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Capsakid</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>951p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Scovillain</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>952p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rellor</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>953p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Rabsca</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>954p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Flittle</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>955p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Espathra</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>956p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tinkatink</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>957p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tinkatuff</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>958p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tinkaton</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>959p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wiglett</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>960p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wugtrio</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>961p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Bombirdier</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>962p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Finizen</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>963p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Palafin</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>964p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Varoom</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>965p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Revavroom</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>966p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cyclizar</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>967p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Orthworm</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>968p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Glimmet</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>969p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Glimmora</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>970p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Greavard</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>971p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Houndstone</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>972p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Flamigo</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>973p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cetoddle</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>974p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Cetitan</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>975p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Veluza</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>976p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dondozo</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>977p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Tatsugiri</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>978p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Annihilape</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>979p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Clodsire</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>980p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Farigiraf</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>981p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dudunsparce</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>982p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Kingambit</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>983p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Great Tusk</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>984p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Scream Tail</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>985p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Brute Bonnet</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>986p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Flutter Mane</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>987p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Slither Wing</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>988p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sandy Shocks</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>989p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Iron Treads</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>990p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Iron Bundle</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>991p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Iron Hands</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>992p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Iron Jugulis</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>993p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Iron Moth</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>994p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Iron Thorns</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>995p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Frigibax</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>996p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Arctibax</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>997p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Baxcalibur</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>998p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gimmighoul</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>999p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gholdengo</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>1000p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Wo-Chien</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>1001p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Chien-Pao</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>1002p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ting-Lu</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>1003p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Chi-Yu</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>1004p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Roaring Moon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>1005p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Iron Valiant</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>1006p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Koraidon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>1007p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Miraidon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>1008p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Walking Wake</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>1009p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Iron Leaves</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>1010p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Dipplin</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>1011p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Poltchageist</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>1012p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sinistcha</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>1013p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Okidogi</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>1014p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Munkidori</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>1015p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Fezandipiti</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>1016p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Ogerpon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>1017p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Archaludon</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>1018p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Hydrapple</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>1019p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gouging Fire</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>1020p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Raging Bolt</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>1021p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Iron Boulder</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>1022p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Iron Crown</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>1023p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Terapagos</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>1024p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Pecharunt</string>
+		<string></string>
 		<key>shortcut</key>
-		<string>1025p</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>phrase</key>
