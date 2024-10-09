@@ -17,6 +17,8 @@ pip install requests beautifulsoup4
 1. <https://github.com/Ogurana17/pokemonIMEDictionary/archive/refs/heads/main.zip>からダウンロード
 2. ダウンロードしたファイルを解凍します。
 
+### 略称説明
+
 略称|意味
 ---|---
 Ability|特性
