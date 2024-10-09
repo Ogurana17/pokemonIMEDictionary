@@ -1,0 +1,306 @@
+あくしゅう	Stench	固有名詞	
+あめふらし	Drizzle	固有名詞	
+かそく	Speed Boost	固有名詞	
+かぶとあーまー	Battle Armor	固有名詞	
+がんじょう	Sturdy	固有名詞	
+しめりけ	Damp	固有名詞	
+じゅうなん	Limber	固有名詞	
+すながくれ	Sand Veil	固有名詞	
+せいでんき	Static	固有名詞	
+ちくでん	Volt Absorb	固有名詞	
+ちょすい	Water Absorb	固有名詞	
+どんかん	Oblivious	固有名詞	
+のーてんき	Cloud Nine	固有名詞	
+ふくがん	Compound Eyes	固有名詞	
+ふみん	Insomnia	固有名詞	
+へんしょく	Color Change	固有名詞	
+めんえき	Immunity	固有名詞	
+もらいび	Flash Fire	固有名詞	
+りんぷん	Shield Dust	固有名詞	
+まいぺーす	Own Tempo	固有名詞	
+きゅうばん	Suction Cups	固有名詞	
+いかく	Intimidate	固有名詞	
+かげふみ	Shadow Tag	固有名詞	
+さめはだ	Rough Skin	固有名詞	
+ふしぎなまもり	Wonder Guard	固有名詞	
+ふゆう	Levitate	固有名詞	
+ほうし	Effect Spore	固有名詞	
+しんくろ	Synchronize	固有名詞	
+くりあぼでぃ	Clear Body	固有名詞	
+しぜんかいふく	Natural Cure	固有名詞	
+ひらいしん	Lightning Rod	固有名詞	
+てんのめぐみ	Serene Grace	固有名詞	
+すいすい	Swift Swim	固有名詞	
+ようりょくそ	Chlorophyll	固有名詞	
+はっこう	Illuminate	固有名詞	
+とれーす	Trace	固有名詞	
+ちからもち	Huge Power	固有名詞	
+どくのとげ	Poison Point	固有名詞	
+せいしんりょく	Inner Focus	固有名詞	
+まぐまのよろい	Magma Armor	固有名詞	
+みずのべーる	Water Veil	固有名詞	
+じりょく	Magnet Pull	固有名詞	
+ぼうおん	Soundproof	固有名詞	
+あめうけざら	Rain Dish	固有名詞	
+すなおこし	Sand Stream	固有名詞	
+ぷれっしゃー	Pressure	固有名詞	
+あついしぼう	Thick Fat	固有名詞	
+はやおき	Early Bird	固有名詞	
+ほのおのからだ	Flame Body	固有名詞	
+にげあし	Run Away	固有名詞	
+するどいめ	Keen Eye	固有名詞	
+かいりきばさみ	Hyper Cutter	固有名詞	
+ものひろい	Pickup	固有名詞	
+なまけ	Truant	固有名詞	
+はりきり	Hustle	固有名詞	
+めろめろぼでぃ	Cute Charm	固有名詞	
+ぷらす	Plus	固有名詞	
+まいなす	Minus	固有名詞	
+てんきや	Forecast	固有名詞	
+ねんちゃく	Sticky Hold	固有名詞	
+だっぴ	Shed Skin	固有名詞	
+こんじょう	Guts	固有名詞	
+ふしぎなうろこ	Marvel Scale	固有名詞	
+へどろえき	Liquid Ooze	固有名詞	
+しんりょく	Overgrow	固有名詞	
+もうか	Blaze	固有名詞	
+げきりゅう	Torrent	固有名詞	
+むしのしらせ	Swarm	固有名詞	
+いしあたま	Rock Head	固有名詞	
+ひでり	Drought	固有名詞	
+ありじごく	Arena Trap	固有名詞	
+やるき	Vital Spirit	固有名詞	
+しろいけむり	White Smoke	固有名詞	
+よがぱわー	Pure Power	固有名詞	
+しぇるあーまー	Shell Armor	固有名詞	
+えあろっく	Air Lock	固有名詞	
+ちどりあし	Tangled Feet	固有名詞	
+でんきえんじん	Motor Drive	固有名詞	
+とうそうしん	Rivalry	固有名詞	
+ふくつのこころ	Steadfast	固有名詞	
+ゆきがくれ	Snow Cloak	固有名詞	
+くいしんぼう	Gluttony	固有名詞	
+いかりのつぼ	Anger Point	固有名詞	
+かるわざ	Unburden	固有名詞	
+たいねつ	Heatproof	固有名詞	
+たんじゅん	Simple	固有名詞	
+かんそうはだ	Dry Skin	固有名詞	
+だうんろーど	Download	固有名詞	
+てつのこぶし	Iron Fist	固有名詞	
+ぽいずんひーる	Poison Heal	固有名詞	
+てきおうりょく	Adaptability	固有名詞	
+すきるりんく	Skill Link	固有名詞	
+うるおいぼでぃ	Hydration	固有名詞	
+さんぱわー	Solar Power	固有名詞	
+はやあし	Quick Feet	固有名詞	
+のーまるすきん	Normalize	固有名詞	
+すないぱー	Sniper	固有名詞	
+まじっくがーど	Magic Guard	固有名詞	
+のーがーど	No Guard	固有名詞	
+あとだし	Stall	固有名詞	
+てくにしゃん	Technician	固有名詞	
+りーふがーど	Leaf Guard	固有名詞	
+ぶきよう	Klutz	固有名詞	
+かたやぶり	Mold Breaker	固有名詞	
+きょううん	Super Luck	固有名詞	
+ゆうばく	Aftermath	固有名詞	
+きけんよち	Anticipation	固有名詞	
+よちむ	Forewarn	固有名詞	
+てんねん	Unaware	固有名詞	
+いろめがね	Tinted Lens	固有名詞	
+ふぃるたー	Filter	固有名詞	
+すろーすたーと	Slow Start	固有名詞	
+きもったま	Scrappy	固有名詞	
+よびみず	Storm Drain	固有名詞	
+あいすぼでぃ	Ice Body	固有名詞	
+はーどろっく	Solid Rock	固有名詞	
+ゆきふらし	Snow Warning	固有名詞	
+みつあつめ	Honey Gather	固有名詞	
+おみとおし	Frisk	固有名詞	
+すてみ	Reckless	固有名詞	
+まるちたいぷ	Multitype	固有名詞	
+ふらわーぎふと	Flower Gift	固有名詞	
+ないとめあ	Bad Dreams	固有名詞	
+わるいてぐせ	Pickpocket	固有名詞	
+ちからずく	Sheer Force	固有名詞	
+あまのじゃく	Contrary	固有名詞	
+きんちょうかん	Unnerve	固有名詞	
+まけんき	Defiant	固有名詞	
+よわき	Defeatist	固有名詞	
+のろわれぼでぃ	Cursed Body	固有名詞	
+いやしのこころ	Healer	固有名詞	
+ふれんどがーど	Friend Guard	固有名詞	
+くだけるよろい	Weak Armor	固有名詞	
+へぶぃめたる	Heavy Metal	固有名詞	
+らいとめたる	Light Metal	固有名詞	
+まるちすけいる	Multiscale	固有名詞	
+どくぼうそう	Toxic Boost	固有名詞	
+ねつぼうそう	Flare Boost	固有名詞	
+しゅうかく	Harvest	固有名詞	
+てれぱしー	Telepathy	固有名詞	
+むらっけ	Moody	固有名詞	
+ぼうじん	Overcoat	固有名詞	
+どくしゅ	Poison Touch	固有名詞	
+さいせいりょく	Regenerator	固有名詞	
+はとむね	Big Pecks	固有名詞	
+すなかき	Sand Rush	固有名詞	
+みらくるすきん	Wonder Skin	固有名詞	
+あならいず	Analytic	固有名詞	
+いりゅーじょん	Illusion	固有名詞	
+かわりもの	Imposter	固有名詞	
+すりぬけ	Infiltrator	固有名詞	
+みいら	Mummy	固有名詞	
+じしんかじょう	Moxie	固有名詞	
+せいぎのこころ	Justified	固有名詞	
+びびり	Rattled	固有名詞	
+まじっくみらー	Magic Bounce	固有名詞	
+そうしょく	Sap Sipper	固有名詞	
+いたずらごころ	Prankster	固有名詞	
+すなのちから	Sand Force	固有名詞	
+てつのとげ	Iron Barbs	固有名詞	
+だるまもーど	Zen Mode	固有名詞	
+しょうりのほし	Victory Star	固有名詞	
+たーぼぶれいず	Turboblaze	固有名詞	
+てらぼるてーじ	Teravolt	固有名詞	
+あろまべーる	Aroma Veil	固有名詞	
+ふらわーべーる	Flower Veil	固有名詞	
+ほおぶくろ	Cheek Pouch	固有名詞	
+へんげんじざい	Protean	固有名詞	
+ふぁーこーと	Fur Coat	固有名詞	
+まじしゃん	Magician	固有名詞	
+ぼうだん	Bulletproof	固有名詞	
+かちき	Competitive	固有名詞	
+がんじょうあご	Strong Jaw	固有名詞	
+ふりーずすきん	Refrigerate	固有名詞	
+すいーとべーる	Sweet Veil	固有名詞	
+ばとるすいっち	Stance Change	固有名詞	
+はやてのつばさ	Gale Wings	固有名詞	
+めがらんちゃー	Mega Launcher	固有名詞	
+くさのけがわ	Grass Pelt	固有名詞	
+きょうせい	Symbiosis	固有名詞	
+かたいつめ	Tough Claws	固有名詞	
+ふぇありーすきん	Pixilate	固有名詞	
+ぬめぬめ	Gooey	固有名詞	
+すかいすきん	Aerilate	固有名詞	
+おやこあい	Parental Bond	固有名詞	
+だーくおーら	Dark Aura	固有名詞	
+ふぇありーおーら	Fairy Aura	固有名詞	
+おーらぶれいく	Aura Break	固有名詞	
+はじまりのうみ	Primordial Sea	固有名詞	
+おわりのだいち	Desolate Land	固有名詞	
+でるたすとりーむ	Delta Stream	固有名詞	
+じきゅうりょく	Stamina	固有名詞	
+にげごし	Wimp Out	固有名詞	
+ききかいひ	Emergency Exit	固有名詞	
+みずがため	Water Compaction	固有名詞	
+ひとでなし	Merciless	固有名詞	
+りみっとしーるど	Shields Down	固有名詞	
+はりこみ	Stakeout	固有名詞	
+すいほう	Water Bubble	固有名詞	
+はがねつかい	Steelworker	固有名詞	
+ぎゃくじょう	Berserk	固有名詞	
+ゆきかき	Slush Rush	固有名詞	
+えんかく	Long Reach	固有名詞	
+うるおいぼいす	Liquid Voice	固有名詞	
+ひーりんぐしふと	Triage	固有名詞	
+えれきすきん	Galvanize	固有名詞	
+さーふてーる	Surge Surfer	固有名詞	
+ぎょぐん	Schooling	固有名詞	
+ばけのかわ	Disguise	固有名詞	
+きずなへんげ	Battle Bond	固有名詞	
+すわーむちぇんじ	Power Construct	固有名詞	
+ふしょく	Corrosion	固有名詞	
+ぜったいねむり	Comatose	固有名詞	
+じょおうのいげん	Queenly Majesty	固有名詞	
+とびだすなかみ	Innards Out	固有名詞	
+おどりこ	Dancer	固有名詞	
+ばってりー	Battery	固有名詞	
+もふもふ	Fluffy	固有名詞	
+びびっどぼでぃ	Dazzling	固有名詞	
+そうるはーと	Soul-Heart	固有名詞	
+かーりーへあー	Tangling Hair	固有名詞	
+れしーばー	Receiver	固有名詞	
+かがくのちから	Power of Alchemy	固有名詞	
+びーすとぶーすと	Beast Boost	固有名詞	
+えーあーるしすてむ	RKS System	固有名詞	
+えれきめいかー	Electric Surge	固有名詞	
+さいこめいかー	Psychic Surge	固有名詞	
+みすとめいかー	Misty Surge	固有名詞	
+ぐらすめいかー	Grassy Surge	固有名詞	
+めたるぷろてくと	Full Metal Body	固有名詞	
+ふぁんとむがーど	Shadow Shield	固有名詞	
+ぷりずむあーまー	Prism Armor	固有名詞	
+ぶれいんふぉーす	Neuroforce	固有名詞	
+ふとうのけん	Intrepid Sword	固有名詞	
+ふくつのたて	Dauntless Shield	固有名詞	
+りべろ	Libero	固有名詞	
+たまひろい	Ball Fetch	固有名詞	
+わたげ	Cotton Down	固有名詞	
+すくりゅーおびれ	Propeller Tail	固有名詞	
+みらーあーまー	Mirror Armor	固有名詞	
+うのみさいる	Gulp Missile	固有名詞	
+すじがねいり	Stalwart	固有名詞	
+じょうききかん	Steam Engine	固有名詞	
+ぱんくろっく	Punk Rock	固有名詞	
+すなはき	Sand Spit	固有名詞	
+こおりのりんぷん	Ice Scales	固有名詞	
+じゅくせい	Ripen	固有名詞	
+あいすふぇいす	Ice Face	固有名詞	
+ぱわーすぽっと	Power Spot	固有名詞	
+ぎたい	Mimicry	固有名詞	
+ばりあふりー	Screen Cleaner	固有名詞	
+はがねのせいしん	Steely Spirit	固有名詞	
+ほろびのぼでぃ	Perish Body	固有名詞	
+さまようたましい	Wandering Spirit	固有名詞	
+ごりむちゅう	Gorilla Tactics	固有名詞	
+かがくへんかがす	Neutralizing Gas	固有名詞	
+ぱすてるべーる	Pastel Veil	固有名詞	
+はらぺこすいっち	Hunger Switch	固有名詞	
+くいっくどろう	Quick Draw	固有名詞	
+ふかしのこぶし	Unseen Fist	固有名詞	
+とらんじすた	Transistor	固有名詞	
+りゅうのあぎと	Dragon's Maw	固有名詞	
+きみょうなくすり	Curious Medicine	固有名詞	
+しろのいななき	Chilling Neigh	固有名詞	
+くろのいななき	Grim Neigh	固有名詞	
+じんばいったい	As One	固有名詞	
+いかりのこうら	Anger Shell	固有名詞	
+いわはこび	Rocky Payload	固有名詞	
+おうごんのからだ	Good as Gold	固有名詞	
+おもかげやどし	Embody Aspect	固有名詞	
+おもてなし	Hospitality	固有名詞	
+かぜのり	Wind Rider	固有名詞	
+かんろなみつ	Supersweet Syrup	固有名詞	
+きょうえん	Costar	固有名詞	
+きよめのしお	Purifying Salt	固有名詞	
+きれあじ	Sharpness	固有名詞	
+きんしのちから	Mycelium Might	固有名詞	
+くぉーくちゃーじ	Quark Drive	固有名詞	
+こだいかっせい	Protosynthesis	固有名詞	
+こぼれだね	Seed Sower	固有名詞	
+こんがりぼでぃ	Well-Baked Body	固有名詞	
+しれいとう	Commander	固有名詞	
+しんがん	Mind's Eye	固有名詞	
+ぜろふぉーみんぐ	Teraform Zero	固有名詞	
+そうだいしょう	Supreme Overlord	固有名詞	
+ているあーまー	Armor Tail	固有名詞	
+てらすしぇる	Tera Shell	固有名詞	
+てらすちぇんじ	Tera Shift	固有名詞	
+でんきにかえる	Electromorphosis	固有名詞	
+どくくぐつ	Poison Puppeteer	固有名詞	
+どくげしょう	Toxic Debris	固有名詞	
+どくのくさり	Toxic Chain	固有名詞	
+どしょく	Earth Eater	固有名詞	
+とれないにおい	Lingering Aroma	固有名詞	
+ねつこうかん	Thermal Exchange	固有名詞	
+はどろんえんじん	Hadron Engine	固有名詞	
+ばんけん	Guard Dog	固有名詞	
+はんすう	Cud Chew	固有名詞	
+ひひいろのこどう	Orichalcum Pulse	固有名詞	
+びんじょう	Opportunist	固有名詞	
+ふうりょくでんき	Wind Power	固有名詞	
+まいてぃちぇんじ	Zero to Hero	固有名詞	
+わざわいのうつわ	Vessel of Ruin	固有名詞	
+わざわいのおふだ	Tablets of Ruin	固有名詞	
+わざわいのたま	Beads of Ruin	固有名詞	
+わざわいのつるぎ	Sword of Ruin	固有名詞	
