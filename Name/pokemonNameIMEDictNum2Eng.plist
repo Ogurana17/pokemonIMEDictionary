@@ -1,6154 +1,6154 @@
-<?xml version=1.0 encoding=UTF-8?>
-<!DOCTYPE plist PUBLIC -//Apple//DTD PLIST 1.0//EN http://www.apple.com/DTDs/PropertyList-1.0.dtd>
-<plist version=1.0>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
 <array>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Bulbasaur</string>
 		<key>shortcut</key>
 		<string>1p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Ivysaur</string>
 		<key>shortcut</key>
 		<string>2p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Venusaur</string>
 		<key>shortcut</key>
 		<string>3p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Charmander</string>
 		<key>shortcut</key>
 		<string>4p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Charmeleon</string>
 		<key>shortcut</key>
 		<string>5p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Charizard</string>
 		<key>shortcut</key>
 		<string>6p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Squirtle</string>
 		<key>shortcut</key>
 		<string>7p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Wartortle</string>
 		<key>shortcut</key>
 		<string>8p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Blastoise</string>
 		<key>shortcut</key>
 		<string>9p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Caterpie</string>
 		<key>shortcut</key>
 		<string>10p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Metapod</string>
 		<key>shortcut</key>
 		<string>11p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Butterfree</string>
 		<key>shortcut</key>
 		<string>12p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Weedle</string>
 		<key>shortcut</key>
 		<string>13p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Kakuna</string>
 		<key>shortcut</key>
 		<string>14p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Beedrill</string>
 		<key>shortcut</key>
 		<string>15p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Pidgey</string>
 		<key>shortcut</key>
 		<string>16p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Pidgeotto</string>
 		<key>shortcut</key>
 		<string>17p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Pidgeot</string>
 		<key>shortcut</key>
 		<string>18p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Rattata</string>
 		<key>shortcut</key>
 		<string>19p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Raticate</string>
 		<key>shortcut</key>
 		<string>20p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Spearow</string>
 		<key>shortcut</key>
 		<string>21p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Fearow</string>
 		<key>shortcut</key>
 		<string>22p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Ekans</string>
 		<key>shortcut</key>
 		<string>23p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Arbok</string>
 		<key>shortcut</key>
 		<string>24p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Pikachu</string>
 		<key>shortcut</key>
 		<string>25p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Raichu</string>
 		<key>shortcut</key>
 		<string>26p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Sandshrew</string>
 		<key>shortcut</key>
 		<string>27p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Sandslash</string>
 		<key>shortcut</key>
 		<string>28p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Nidoran♀</string>
 		<key>shortcut</key>
 		<string>29p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Nidorina</string>
 		<key>shortcut</key>
 		<string>30p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Nidoqueen</string>
 		<key>shortcut</key>
 		<string>31p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Nidoran♂</string>
 		<key>shortcut</key>
 		<string>32p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Nidorino</string>
 		<key>shortcut</key>
 		<string>33p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Nidoking</string>
 		<key>shortcut</key>
 		<string>34p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Clefairy</string>
 		<key>shortcut</key>
 		<string>35p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Clefable</string>
 		<key>shortcut</key>
 		<string>36p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Vulpix</string>
 		<key>shortcut</key>
 		<string>37p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Ninetales</string>
 		<key>shortcut</key>
 		<string>38p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Jigglypuff</string>
 		<key>shortcut</key>
 		<string>39p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Wigglytuff</string>
 		<key>shortcut</key>
 		<string>40p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Zubat</string>
 		<key>shortcut</key>
 		<string>41p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Golbat</string>
 		<key>shortcut</key>
 		<string>42p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Oddish</string>
 		<key>shortcut</key>
 		<string>43p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Gloom</string>
 		<key>shortcut</key>
 		<string>44p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Vileplume</string>
 		<key>shortcut</key>
 		<string>45p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Paras</string>
 		<key>shortcut</key>
 		<string>46p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Parasect</string>
 		<key>shortcut</key>
 		<string>47p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Venonat</string>
 		<key>shortcut</key>
 		<string>48p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Venomoth</string>
 		<key>shortcut</key>
 		<string>49p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Diglett</string>
 		<key>shortcut</key>
 		<string>50p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Dugtrio</string>
 		<key>shortcut</key>
 		<string>51p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Meowth</string>
 		<key>shortcut</key>
 		<string>52p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Persian</string>
 		<key>shortcut</key>
 		<string>53p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Psyduck</string>
 		<key>shortcut</key>
 		<string>54p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Golduck</string>
 		<key>shortcut</key>
 		<string>55p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Mankey</string>
 		<key>shortcut</key>
 		<string>56p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Primeape</string>
 		<key>shortcut</key>
 		<string>57p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Growlithe</string>
 		<key>shortcut</key>
 		<string>58p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Arcanine</string>
 		<key>shortcut</key>
 		<string>59p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Poliwag</string>
 		<key>shortcut</key>
 		<string>60p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Poliwhirl</string>
 		<key>shortcut</key>
 		<string>61p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Poliwrath</string>
 		<key>shortcut</key>
 		<string>62p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Abra</string>
 		<key>shortcut</key>
 		<string>63p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Kadabra</string>
 		<key>shortcut</key>
 		<string>64p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Alakazam</string>
 		<key>shortcut</key>
 		<string>65p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Machop</string>
 		<key>shortcut</key>
 		<string>66p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Machoke</string>
 		<key>shortcut</key>
 		<string>67p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Machamp</string>
 		<key>shortcut</key>
 		<string>68p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Bellsprout</string>
 		<key>shortcut</key>
 		<string>69p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Weepinbell</string>
 		<key>shortcut</key>
 		<string>70p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Victreebel</string>
 		<key>shortcut</key>
 		<string>71p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Tentacool</string>
 		<key>shortcut</key>
 		<string>72p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Tentacruel</string>
 		<key>shortcut</key>
 		<string>73p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Geodude</string>
 		<key>shortcut</key>
 		<string>74p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Graveler</string>
 		<key>shortcut</key>
 		<string>75p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Golem</string>
 		<key>shortcut</key>
 		<string>76p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Ponyta</string>
 		<key>shortcut</key>
 		<string>77p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Rapidash</string>
 		<key>shortcut</key>
 		<string>78p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Slowpoke</string>
 		<key>shortcut</key>
 		<string>79p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Slowbro</string>
 		<key>shortcut</key>
 		<string>80p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Magnemite</string>
 		<key>shortcut</key>
 		<string>81p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Magneton</string>
 		<key>shortcut</key>
 		<string>82p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Farfetch'd</string>
 		<key>shortcut</key>
 		<string>83p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Doduo</string>
 		<key>shortcut</key>
 		<string>84p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Dodrio</string>
 		<key>shortcut</key>
 		<string>85p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Seel</string>
 		<key>shortcut</key>
 		<string>86p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Dewgong</string>
 		<key>shortcut</key>
 		<string>87p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Grimer</string>
 		<key>shortcut</key>
 		<string>88p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Muk</string>
 		<key>shortcut</key>
 		<string>89p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Shellder</string>
 		<key>shortcut</key>
 		<string>90p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Cloyster</string>
 		<key>shortcut</key>
 		<string>91p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Gastly</string>
 		<key>shortcut</key>
 		<string>92p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Haunter</string>
 		<key>shortcut</key>
 		<string>93p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Gengar</string>
 		<key>shortcut</key>
 		<string>94p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Onix</string>
 		<key>shortcut</key>
 		<string>95p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Drowzee</string>
 		<key>shortcut</key>
 		<string>96p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Hypno</string>
 		<key>shortcut</key>
 		<string>97p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Krabby</string>
 		<key>shortcut</key>
 		<string>98p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Kingler</string>
 		<key>shortcut</key>
 		<string>99p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Voltorb</string>
 		<key>shortcut</key>
 		<string>100p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Electrode</string>
 		<key>shortcut</key>
 		<string>101p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Exeggcute</string>
 		<key>shortcut</key>
 		<string>102p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Exeggutor</string>
 		<key>shortcut</key>
 		<string>103p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Cubone</string>
 		<key>shortcut</key>
 		<string>104p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Marowak</string>
 		<key>shortcut</key>
 		<string>105p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Hitmonlee</string>
 		<key>shortcut</key>
 		<string>106p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Hitmonchan</string>
 		<key>shortcut</key>
 		<string>107p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Lickitung</string>
 		<key>shortcut</key>
 		<string>108p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Koffing</string>
 		<key>shortcut</key>
 		<string>109p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Weezing</string>
 		<key>shortcut</key>
 		<string>110p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Rhyhorn</string>
 		<key>shortcut</key>
 		<string>111p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Rhydon</string>
 		<key>shortcut</key>
 		<string>112p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Chansey</string>
 		<key>shortcut</key>
 		<string>113p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Tangela</string>
 		<key>shortcut</key>
 		<string>114p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Kangaskhan</string>
 		<key>shortcut</key>
 		<string>115p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Horsea</string>
 		<key>shortcut</key>
 		<string>116p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Seadra</string>
 		<key>shortcut</key>
 		<string>117p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Goldeen</string>
 		<key>shortcut</key>
 		<string>118p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Seaking</string>
 		<key>shortcut</key>
 		<string>119p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Staryu</string>
 		<key>shortcut</key>
 		<string>120p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Starmie</string>
 		<key>shortcut</key>
 		<string>121p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Mr. Mime</string>
 		<key>shortcut</key>
 		<string>122p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Scyther</string>
 		<key>shortcut</key>
 		<string>123p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Jynx</string>
 		<key>shortcut</key>
 		<string>124p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Electabuzz</string>
 		<key>shortcut</key>
 		<string>125p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Magmar</string>
 		<key>shortcut</key>
 		<string>126p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Pinsir</string>
 		<key>shortcut</key>
 		<string>127p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Tauros</string>
 		<key>shortcut</key>
 		<string>128p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Magikarp</string>
 		<key>shortcut</key>
 		<string>129p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Gyarados</string>
 		<key>shortcut</key>
 		<string>130p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Lapras</string>
 		<key>shortcut</key>
 		<string>131p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Ditto</string>
 		<key>shortcut</key>
 		<string>132p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Eevee</string>
 		<key>shortcut</key>
 		<string>133p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Vaporeon</string>
 		<key>shortcut</key>
 		<string>134p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Jolteon</string>
 		<key>shortcut</key>
 		<string>135p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Flareon</string>
 		<key>shortcut</key>
 		<string>136p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Porygon</string>
 		<key>shortcut</key>
 		<string>137p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Omanyte</string>
 		<key>shortcut</key>
 		<string>138p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Omastar</string>
 		<key>shortcut</key>
 		<string>139p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Kabuto</string>
 		<key>shortcut</key>
 		<string>140p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Kabutops</string>
 		<key>shortcut</key>
 		<string>141p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Aerodactyl</string>
 		<key>shortcut</key>
 		<string>142p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Snorlax</string>
 		<key>shortcut</key>
 		<string>143p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Articuno</string>
 		<key>shortcut</key>
 		<string>144p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Zapdos</string>
 		<key>shortcut</key>
 		<string>145p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Moltres</string>
 		<key>shortcut</key>
 		<string>146p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Dratini</string>
 		<key>shortcut</key>
 		<string>147p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Dragonair</string>
 		<key>shortcut</key>
 		<string>148p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Dragonite</string>
 		<key>shortcut</key>
 		<string>149p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Mewtwo</string>
 		<key>shortcut</key>
 		<string>150p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Mew</string>
 		<key>shortcut</key>
 		<string>151p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Chikorita</string>
 		<key>shortcut</key>
 		<string>152p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Bayleef</string>
 		<key>shortcut</key>
 		<string>153p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Meganium</string>
 		<key>shortcut</key>
 		<string>154p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Cyndaquil</string>
 		<key>shortcut</key>
 		<string>155p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Quilava</string>
 		<key>shortcut</key>
 		<string>156p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Typhlosion</string>
 		<key>shortcut</key>
 		<string>157p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Totodile</string>
 		<key>shortcut</key>
 		<string>158p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Croconaw</string>
 		<key>shortcut</key>
 		<string>159p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Feraligatr</string>
 		<key>shortcut</key>
 		<string>160p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Sentret</string>
 		<key>shortcut</key>
 		<string>161p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Furret</string>
 		<key>shortcut</key>
 		<string>162p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Hoothoot</string>
 		<key>shortcut</key>
 		<string>163p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Noctowl</string>
 		<key>shortcut</key>
 		<string>164p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Ledyba</string>
 		<key>shortcut</key>
 		<string>165p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Ledian</string>
 		<key>shortcut</key>
 		<string>166p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Spinarak</string>
 		<key>shortcut</key>
 		<string>167p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Ariados</string>
 		<key>shortcut</key>
 		<string>168p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Crobat</string>
 		<key>shortcut</key>
 		<string>169p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Chinchou</string>
 		<key>shortcut</key>
 		<string>170p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Lanturn</string>
 		<key>shortcut</key>
 		<string>171p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Pichu</string>
 		<key>shortcut</key>
 		<string>172p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Cleffa</string>
 		<key>shortcut</key>
 		<string>173p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Igglybuff</string>
 		<key>shortcut</key>
 		<string>174p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Togepi</string>
 		<key>shortcut</key>
 		<string>175p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Togetic</string>
 		<key>shortcut</key>
 		<string>176p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Natu</string>
 		<key>shortcut</key>
 		<string>177p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Xatu</string>
 		<key>shortcut</key>
 		<string>178p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Mareep</string>
 		<key>shortcut</key>
 		<string>179p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Flaaffy</string>
 		<key>shortcut</key>
 		<string>180p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Ampharos</string>
 		<key>shortcut</key>
 		<string>181p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Bellossom</string>
 		<key>shortcut</key>
 		<string>182p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Marill</string>
 		<key>shortcut</key>
 		<string>183p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Azumarill</string>
 		<key>shortcut</key>
 		<string>184p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Sudowoodo</string>
 		<key>shortcut</key>
 		<string>185p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Politoed</string>
 		<key>shortcut</key>
 		<string>186p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Hoppip</string>
 		<key>shortcut</key>
 		<string>187p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Skiploom</string>
 		<key>shortcut</key>
 		<string>188p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Jumpluff</string>
 		<key>shortcut</key>
 		<string>189p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Aipom</string>
 		<key>shortcut</key>
 		<string>190p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Sunkern</string>
 		<key>shortcut</key>
 		<string>191p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Sunflora</string>
 		<key>shortcut</key>
 		<string>192p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Yanma</string>
 		<key>shortcut</key>
 		<string>193p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Wooper</string>
 		<key>shortcut</key>
 		<string>194p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Quagsire</string>
 		<key>shortcut</key>
 		<string>195p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Espeon</string>
 		<key>shortcut</key>
 		<string>196p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Umbreon</string>
 		<key>shortcut</key>
 		<string>197p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Murkrow</string>
 		<key>shortcut</key>
 		<string>198p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Slowking</string>
 		<key>shortcut</key>
 		<string>199p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Misdreavus</string>
 		<key>shortcut</key>
 		<string>200p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Unown</string>
 		<key>shortcut</key>
 		<string>201p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Wobbuffet</string>
 		<key>shortcut</key>
 		<string>202p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Girafarig</string>
 		<key>shortcut</key>
 		<string>203p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Pineco</string>
 		<key>shortcut</key>
 		<string>204p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Forretress</string>
 		<key>shortcut</key>
 		<string>205p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Dunsparce</string>
 		<key>shortcut</key>
 		<string>206p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Gligar</string>
 		<key>shortcut</key>
 		<string>207p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Steelix</string>
 		<key>shortcut</key>
 		<string>208p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Snubbull</string>
 		<key>shortcut</key>
 		<string>209p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Granbull</string>
 		<key>shortcut</key>
 		<string>210p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Qwilfish</string>
 		<key>shortcut</key>
 		<string>211p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Scizor</string>
 		<key>shortcut</key>
 		<string>212p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Shuckle</string>
 		<key>shortcut</key>
 		<string>213p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Heracross</string>
 		<key>shortcut</key>
 		<string>214p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Sneasel</string>
 		<key>shortcut</key>
 		<string>215p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Teddiursa</string>
 		<key>shortcut</key>
 		<string>216p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Ursaring</string>
 		<key>shortcut</key>
 		<string>217p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Slugma</string>
 		<key>shortcut</key>
 		<string>218p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Magcargo</string>
 		<key>shortcut</key>
 		<string>219p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Swinub</string>
 		<key>shortcut</key>
 		<string>220p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Piloswine</string>
 		<key>shortcut</key>
 		<string>221p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Corsola</string>
 		<key>shortcut</key>
 		<string>222p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Remoraid</string>
 		<key>shortcut</key>
 		<string>223p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Octillery</string>
 		<key>shortcut</key>
 		<string>224p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Delibird</string>
 		<key>shortcut</key>
 		<string>225p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Mantine</string>
 		<key>shortcut</key>
 		<string>226p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Skarmory</string>
 		<key>shortcut</key>
 		<string>227p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Houndour</string>
 		<key>shortcut</key>
 		<string>228p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Houndoom</string>
 		<key>shortcut</key>
 		<string>229p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Kingdra</string>
 		<key>shortcut</key>
 		<string>230p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Phanpy</string>
 		<key>shortcut</key>
 		<string>231p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Donphan</string>
 		<key>shortcut</key>
 		<string>232p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Porygon2</string>
 		<key>shortcut</key>
 		<string>233p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Stantler</string>
 		<key>shortcut</key>
 		<string>234p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Smeargle</string>
 		<key>shortcut</key>
 		<string>235p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Tyrogue</string>
 		<key>shortcut</key>
 		<string>236p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Hitmontop</string>
 		<key>shortcut</key>
 		<string>237p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Smoochum</string>
 		<key>shortcut</key>
 		<string>238p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Elekid</string>
 		<key>shortcut</key>
 		<string>239p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Magby</string>
 		<key>shortcut</key>
 		<string>240p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Miltank</string>
 		<key>shortcut</key>
 		<string>241p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Blissey</string>
 		<key>shortcut</key>
 		<string>242p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Raikou</string>
 		<key>shortcut</key>
 		<string>243p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Entei</string>
 		<key>shortcut</key>
 		<string>244p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Suicune</string>
 		<key>shortcut</key>
 		<string>245p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Larvitar</string>
 		<key>shortcut</key>
 		<string>246p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Pupitar</string>
 		<key>shortcut</key>
 		<string>247p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Tyranitar</string>
 		<key>shortcut</key>
 		<string>248p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Lugia</string>
 		<key>shortcut</key>
 		<string>249p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Ho-Oh</string>
 		<key>shortcut</key>
 		<string>250p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Celebi</string>
 		<key>shortcut</key>
 		<string>251p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Treecko</string>
 		<key>shortcut</key>
 		<string>252p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Grovyle</string>
 		<key>shortcut</key>
 		<string>253p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Sceptile</string>
 		<key>shortcut</key>
 		<string>254p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Torchic</string>
 		<key>shortcut</key>
 		<string>255p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Combusken</string>
 		<key>shortcut</key>
 		<string>256p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Blaziken</string>
 		<key>shortcut</key>
 		<string>257p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Mudkip</string>
 		<key>shortcut</key>
 		<string>258p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Marshtomp</string>
 		<key>shortcut</key>
 		<string>259p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Swampert</string>
 		<key>shortcut</key>
 		<string>260p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Poochyena</string>
 		<key>shortcut</key>
 		<string>261p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Mightyena</string>
 		<key>shortcut</key>
 		<string>262p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Zigzagoon</string>
 		<key>shortcut</key>
 		<string>263p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Linoone</string>
 		<key>shortcut</key>
 		<string>264p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Wurmple</string>
 		<key>shortcut</key>
 		<string>265p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Silcoon</string>
 		<key>shortcut</key>
 		<string>266p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Beautifly</string>
 		<key>shortcut</key>
 		<string>267p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Cascoon</string>
 		<key>shortcut</key>
 		<string>268p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Dustox</string>
 		<key>shortcut</key>
 		<string>269p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Lotad</string>
 		<key>shortcut</key>
 		<string>270p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Lombre</string>
 		<key>shortcut</key>
 		<string>271p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Ludicolo</string>
 		<key>shortcut</key>
 		<string>272p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Seedot</string>
 		<key>shortcut</key>
 		<string>273p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Nuzleaf</string>
 		<key>shortcut</key>
 		<string>274p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Shiftry</string>
 		<key>shortcut</key>
 		<string>275p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Taillow</string>
 		<key>shortcut</key>
 		<string>276p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Swellow</string>
 		<key>shortcut</key>
 		<string>277p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Wingull</string>
 		<key>shortcut</key>
 		<string>278p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Pelipper</string>
 		<key>shortcut</key>
 		<string>279p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Ralts</string>
 		<key>shortcut</key>
 		<string>280p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Kirlia</string>
 		<key>shortcut</key>
 		<string>281p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Gardevoir</string>
 		<key>shortcut</key>
 		<string>282p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Surskit</string>
 		<key>shortcut</key>
 		<string>283p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Masquerain</string>
 		<key>shortcut</key>
 		<string>284p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Shroomish</string>
 		<key>shortcut</key>
 		<string>285p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Breloom</string>
 		<key>shortcut</key>
 		<string>286p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Slakoth</string>
 		<key>shortcut</key>
 		<string>287p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Vigoroth</string>
 		<key>shortcut</key>
 		<string>288p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Slaking</string>
 		<key>shortcut</key>
 		<string>289p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Nincada</string>
 		<key>shortcut</key>
 		<string>290p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Ninjask</string>
 		<key>shortcut</key>
 		<string>291p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Shedinja</string>
 		<key>shortcut</key>
 		<string>292p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Whismur</string>
 		<key>shortcut</key>
 		<string>293p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Loudred</string>
 		<key>shortcut</key>
 		<string>294p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Exploud</string>
 		<key>shortcut</key>
 		<string>295p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Makuhita</string>
 		<key>shortcut</key>
 		<string>296p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Hariyama</string>
 		<key>shortcut</key>
 		<string>297p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Azurill</string>
 		<key>shortcut</key>
 		<string>298p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Nosepass</string>
 		<key>shortcut</key>
 		<string>299p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Skitty</string>
 		<key>shortcut</key>
 		<string>300p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Delcatty</string>
 		<key>shortcut</key>
 		<string>301p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Sableye</string>
 		<key>shortcut</key>
 		<string>302p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Mawile</string>
 		<key>shortcut</key>
 		<string>303p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Aron</string>
 		<key>shortcut</key>
 		<string>304p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Lairon</string>
 		<key>shortcut</key>
 		<string>305p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Aggron</string>
 		<key>shortcut</key>
 		<string>306p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Meditite</string>
 		<key>shortcut</key>
 		<string>307p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Medicham</string>
 		<key>shortcut</key>
 		<string>308p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Electrike</string>
 		<key>shortcut</key>
 		<string>309p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Manectric</string>
 		<key>shortcut</key>
 		<string>310p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Plusle</string>
 		<key>shortcut</key>
 		<string>311p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Minun</string>
 		<key>shortcut</key>
 		<string>312p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Volbeat</string>
 		<key>shortcut</key>
 		<string>313p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Illumise</string>
 		<key>shortcut</key>
 		<string>314p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Roselia</string>
 		<key>shortcut</key>
 		<string>315p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Gulpin</string>
 		<key>shortcut</key>
 		<string>316p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Swalot</string>
 		<key>shortcut</key>
 		<string>317p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Carvanha</string>
 		<key>shortcut</key>
 		<string>318p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Sharpedo</string>
 		<key>shortcut</key>
 		<string>319p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Wailmer</string>
 		<key>shortcut</key>
 		<string>320p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Wailord</string>
 		<key>shortcut</key>
 		<string>321p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Numel</string>
 		<key>shortcut</key>
 		<string>322p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Camerupt</string>
 		<key>shortcut</key>
 		<string>323p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Torkoal</string>
 		<key>shortcut</key>
 		<string>324p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Spoink</string>
 		<key>shortcut</key>
 		<string>325p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Grumpig</string>
 		<key>shortcut</key>
 		<string>326p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Spinda</string>
 		<key>shortcut</key>
 		<string>327p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Trapinch</string>
 		<key>shortcut</key>
 		<string>328p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Vibrava</string>
 		<key>shortcut</key>
 		<string>329p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Flygon</string>
 		<key>shortcut</key>
 		<string>330p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Cacnea</string>
 		<key>shortcut</key>
 		<string>331p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Cacturne</string>
 		<key>shortcut</key>
 		<string>332p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Swablu</string>
 		<key>shortcut</key>
 		<string>333p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Altaria</string>
 		<key>shortcut</key>
 		<string>334p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Zangoose</string>
 		<key>shortcut</key>
 		<string>335p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Seviper</string>
 		<key>shortcut</key>
 		<string>336p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Lunatone</string>
 		<key>shortcut</key>
 		<string>337p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Solrock</string>
 		<key>shortcut</key>
 		<string>338p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Barboach</string>
 		<key>shortcut</key>
 		<string>339p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Whiscash</string>
 		<key>shortcut</key>
 		<string>340p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Corphish</string>
 		<key>shortcut</key>
 		<string>341p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Crawdaunt</string>
 		<key>shortcut</key>
 		<string>342p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Baltoy</string>
 		<key>shortcut</key>
 		<string>343p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Claydol</string>
 		<key>shortcut</key>
 		<string>344p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Lileep</string>
 		<key>shortcut</key>
 		<string>345p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Cradily</string>
 		<key>shortcut</key>
 		<string>346p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Anorith</string>
 		<key>shortcut</key>
 		<string>347p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Armaldo</string>
 		<key>shortcut</key>
 		<string>348p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Feebas</string>
 		<key>shortcut</key>
 		<string>349p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Milotic</string>
 		<key>shortcut</key>
 		<string>350p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Castform</string>
 		<key>shortcut</key>
 		<string>351p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Kecleon</string>
 		<key>shortcut</key>
 		<string>352p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Shuppet</string>
 		<key>shortcut</key>
 		<string>353p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Banette</string>
 		<key>shortcut</key>
 		<string>354p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Duskull</string>
 		<key>shortcut</key>
 		<string>355p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Dusclops</string>
 		<key>shortcut</key>
 		<string>356p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Tropius</string>
 		<key>shortcut</key>
 		<string>357p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Chimecho</string>
 		<key>shortcut</key>
 		<string>358p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Absol</string>
 		<key>shortcut</key>
 		<string>359p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Wynaut</string>
 		<key>shortcut</key>
 		<string>360p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Snorunt</string>
 		<key>shortcut</key>
 		<string>361p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Glalie</string>
 		<key>shortcut</key>
 		<string>362p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Spheal</string>
 		<key>shortcut</key>
 		<string>363p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Sealeo</string>
 		<key>shortcut</key>
 		<string>364p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Walrein</string>
 		<key>shortcut</key>
 		<string>365p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Clamperl</string>
 		<key>shortcut</key>
 		<string>366p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Huntail</string>
 		<key>shortcut</key>
 		<string>367p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Gorebyss</string>
 		<key>shortcut</key>
 		<string>368p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Relicanth</string>
 		<key>shortcut</key>
 		<string>369p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Luvdisc</string>
 		<key>shortcut</key>
 		<string>370p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Bagon</string>
 		<key>shortcut</key>
 		<string>371p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Shelgon</string>
 		<key>shortcut</key>
 		<string>372p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Salamence</string>
 		<key>shortcut</key>
 		<string>373p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Beldum</string>
 		<key>shortcut</key>
 		<string>374p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Metang</string>
 		<key>shortcut</key>
 		<string>375p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Metagross</string>
 		<key>shortcut</key>
 		<string>376p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Regirock</string>
 		<key>shortcut</key>
 		<string>377p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Regice</string>
 		<key>shortcut</key>
 		<string>378p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Registeel</string>
 		<key>shortcut</key>
 		<string>379p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Latias</string>
 		<key>shortcut</key>
 		<string>380p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Latios</string>
 		<key>shortcut</key>
 		<string>381p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Kyogre</string>
 		<key>shortcut</key>
 		<string>382p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Groudon</string>
 		<key>shortcut</key>
 		<string>383p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Rayquaza</string>
 		<key>shortcut</key>
 		<string>384p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Jirachi</string>
 		<key>shortcut</key>
 		<string>385p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Deoxys</string>
 		<key>shortcut</key>
 		<string>386p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Turtwig</string>
 		<key>shortcut</key>
 		<string>387p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Grotle</string>
 		<key>shortcut</key>
 		<string>388p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Torterra</string>
 		<key>shortcut</key>
 		<string>389p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Chimchar</string>
 		<key>shortcut</key>
 		<string>390p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Monferno</string>
 		<key>shortcut</key>
 		<string>391p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Infernape</string>
 		<key>shortcut</key>
 		<string>392p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Piplup</string>
 		<key>shortcut</key>
 		<string>393p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Prinplup</string>
 		<key>shortcut</key>
 		<string>394p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Empoleon</string>
 		<key>shortcut</key>
 		<string>395p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Starly</string>
 		<key>shortcut</key>
 		<string>396p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Staravia</string>
 		<key>shortcut</key>
 		<string>397p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Staraptor</string>
 		<key>shortcut</key>
 		<string>398p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Bidoof</string>
 		<key>shortcut</key>
 		<string>399p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Bibarel</string>
 		<key>shortcut</key>
 		<string>400p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Kricketot</string>
 		<key>shortcut</key>
 		<string>401p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Kricketune</string>
 		<key>shortcut</key>
 		<string>402p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Shinx</string>
 		<key>shortcut</key>
 		<string>403p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Luxio</string>
 		<key>shortcut</key>
 		<string>404p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Luxray</string>
 		<key>shortcut</key>
 		<string>405p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Budew</string>
 		<key>shortcut</key>
 		<string>406p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Roserade</string>
 		<key>shortcut</key>
 		<string>407p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Cranidos</string>
 		<key>shortcut</key>
 		<string>408p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Rampardos</string>
 		<key>shortcut</key>
 		<string>409p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Shieldon</string>
 		<key>shortcut</key>
 		<string>410p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Bastiodon</string>
 		<key>shortcut</key>
 		<string>411p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Burmy</string>
 		<key>shortcut</key>
 		<string>412p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Wormadam</string>
 		<key>shortcut</key>
 		<string>413p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Mothim</string>
 		<key>shortcut</key>
 		<string>414p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Combee</string>
 		<key>shortcut</key>
 		<string>415p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Vespiquen</string>
 		<key>shortcut</key>
 		<string>416p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Pachirisu</string>
 		<key>shortcut</key>
 		<string>417p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Buizel</string>
 		<key>shortcut</key>
 		<string>418p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Floatzel</string>
 		<key>shortcut</key>
 		<string>419p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Cherubi</string>
 		<key>shortcut</key>
 		<string>420p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Cherrim</string>
 		<key>shortcut</key>
 		<string>421p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Shellos</string>
 		<key>shortcut</key>
 		<string>422p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Gastrodon</string>
 		<key>shortcut</key>
 		<string>423p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Ambipom</string>
 		<key>shortcut</key>
 		<string>424p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Drifloon</string>
 		<key>shortcut</key>
 		<string>425p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Drifblim</string>
 		<key>shortcut</key>
 		<string>426p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Buneary</string>
 		<key>shortcut</key>
 		<string>427p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Lopunny</string>
 		<key>shortcut</key>
 		<string>428p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Mismagius</string>
 		<key>shortcut</key>
 		<string>429p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Honchkrow</string>
 		<key>shortcut</key>
 		<string>430p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Glameow</string>
 		<key>shortcut</key>
 		<string>431p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Purugly</string>
 		<key>shortcut</key>
 		<string>432p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Chingling</string>
 		<key>shortcut</key>
 		<string>433p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Stunky</string>
 		<key>shortcut</key>
 		<string>434p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Skuntank</string>
 		<key>shortcut</key>
 		<string>435p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Bronzor</string>
 		<key>shortcut</key>
 		<string>436p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Bronzong</string>
 		<key>shortcut</key>
 		<string>437p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Bonsly</string>
 		<key>shortcut</key>
 		<string>438p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Mime Jr.</string>
 		<key>shortcut</key>
 		<string>439p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Happiny</string>
 		<key>shortcut</key>
 		<string>440p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Chatot</string>
 		<key>shortcut</key>
 		<string>441p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Spiritomb</string>
 		<key>shortcut</key>
 		<string>442p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Gible</string>
 		<key>shortcut</key>
 		<string>443p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Gabite</string>
 		<key>shortcut</key>
 		<string>444p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Garchomp</string>
 		<key>shortcut</key>
 		<string>445p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Munchlax</string>
 		<key>shortcut</key>
 		<string>446p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Riolu</string>
 		<key>shortcut</key>
 		<string>447p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Lucario</string>
 		<key>shortcut</key>
 		<string>448p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Hippopotas</string>
 		<key>shortcut</key>
 		<string>449p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Hippowdon</string>
 		<key>shortcut</key>
 		<string>450p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Skorupi</string>
 		<key>shortcut</key>
 		<string>451p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Drapion</string>
 		<key>shortcut</key>
 		<string>452p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Croagunk</string>
 		<key>shortcut</key>
 		<string>453p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Toxicroak</string>
 		<key>shortcut</key>
 		<string>454p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Carnivine</string>
 		<key>shortcut</key>
 		<string>455p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Finneon</string>
 		<key>shortcut</key>
 		<string>456p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Lumineon</string>
 		<key>shortcut</key>
 		<string>457p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Mantyke</string>
 		<key>shortcut</key>
 		<string>458p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Snover</string>
 		<key>shortcut</key>
 		<string>459p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Abomasnow</string>
 		<key>shortcut</key>
 		<string>460p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Weavile</string>
 		<key>shortcut</key>
 		<string>461p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Magnezone</string>
 		<key>shortcut</key>
 		<string>462p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Lickilicky</string>
 		<key>shortcut</key>
 		<string>463p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Rhyperior</string>
 		<key>shortcut</key>
 		<string>464p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Tangrowth</string>
 		<key>shortcut</key>
 		<string>465p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Electivire</string>
 		<key>shortcut</key>
 		<string>466p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Magmortar</string>
 		<key>shortcut</key>
 		<string>467p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Togekiss</string>
 		<key>shortcut</key>
 		<string>468p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Yanmega</string>
 		<key>shortcut</key>
 		<string>469p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Leafeon</string>
 		<key>shortcut</key>
 		<string>470p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Glaceon</string>
 		<key>shortcut</key>
 		<string>471p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Gliscor</string>
 		<key>shortcut</key>
 		<string>472p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Mamoswine</string>
 		<key>shortcut</key>
 		<string>473p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Porygon-Z</string>
 		<key>shortcut</key>
 		<string>474p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Gallade</string>
 		<key>shortcut</key>
 		<string>475p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Probopass</string>
 		<key>shortcut</key>
 		<string>476p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Dusknoir</string>
 		<key>shortcut</key>
 		<string>477p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Froslass</string>
 		<key>shortcut</key>
 		<string>478p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Rotom</string>
 		<key>shortcut</key>
 		<string>479p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Uxie</string>
 		<key>shortcut</key>
 		<string>480p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Mesprit</string>
 		<key>shortcut</key>
 		<string>481p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Azelf</string>
 		<key>shortcut</key>
 		<string>482p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Dialga</string>
 		<key>shortcut</key>
 		<string>483p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Palkia</string>
 		<key>shortcut</key>
 		<string>484p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Heatran</string>
 		<key>shortcut</key>
 		<string>485p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Regigigas</string>
 		<key>shortcut</key>
 		<string>486p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Giratina</string>
 		<key>shortcut</key>
 		<string>487p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Cresselia</string>
 		<key>shortcut</key>
 		<string>488p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Phione</string>
 		<key>shortcut</key>
 		<string>489p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Manaphy</string>
 		<key>shortcut</key>
 		<string>490p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Darkrai</string>
 		<key>shortcut</key>
 		<string>491p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Shaymin</string>
 		<key>shortcut</key>
 		<string>492p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Arceus</string>
 		<key>shortcut</key>
 		<string>493p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Victini</string>
 		<key>shortcut</key>
 		<string>494p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Snivy</string>
 		<key>shortcut</key>
 		<string>495p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Servine</string>
 		<key>shortcut</key>
 		<string>496p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Serperior</string>
 		<key>shortcut</key>
 		<string>497p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Tepig</string>
 		<key>shortcut</key>
 		<string>498p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Pignite</string>
 		<key>shortcut</key>
 		<string>499p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Emboar</string>
 		<key>shortcut</key>
 		<string>500p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Oshawott</string>
 		<key>shortcut</key>
 		<string>501p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Dewott</string>
 		<key>shortcut</key>
 		<string>502p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Samurott</string>
 		<key>shortcut</key>
 		<string>503p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Patrat</string>
 		<key>shortcut</key>
 		<string>504p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Watchog</string>
 		<key>shortcut</key>
 		<string>505p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Lillipup</string>
 		<key>shortcut</key>
 		<string>506p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Herdier</string>
 		<key>shortcut</key>
 		<string>507p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Stoutland</string>
 		<key>shortcut</key>
 		<string>508p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Purrloin</string>
 		<key>shortcut</key>
 		<string>509p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Liepard</string>
 		<key>shortcut</key>
 		<string>510p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Pansage</string>
 		<key>shortcut</key>
 		<string>511p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Simisage</string>
 		<key>shortcut</key>
 		<string>512p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Pansear</string>
 		<key>shortcut</key>
 		<string>513p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Simisear</string>
 		<key>shortcut</key>
 		<string>514p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Panpour</string>
 		<key>shortcut</key>
 		<string>515p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Simipour</string>
 		<key>shortcut</key>
 		<string>516p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Munna</string>
 		<key>shortcut</key>
 		<string>517p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Musharna</string>
 		<key>shortcut</key>
 		<string>518p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Pidove</string>
 		<key>shortcut</key>
 		<string>519p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Tranquill</string>
 		<key>shortcut</key>
 		<string>520p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Unfezant</string>
 		<key>shortcut</key>
 		<string>521p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Blitzle</string>
 		<key>shortcut</key>
 		<string>522p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Zebstrika</string>
 		<key>shortcut</key>
 		<string>523p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Roggenrola</string>
 		<key>shortcut</key>
 		<string>524p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Boldore</string>
 		<key>shortcut</key>
 		<string>525p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Gigalith</string>
 		<key>shortcut</key>
 		<string>526p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Woobat</string>
 		<key>shortcut</key>
 		<string>527p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Swoobat</string>
 		<key>shortcut</key>
 		<string>528p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Drilbur</string>
 		<key>shortcut</key>
 		<string>529p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Excadrill</string>
 		<key>shortcut</key>
 		<string>530p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Audino</string>
 		<key>shortcut</key>
 		<string>531p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Timburr</string>
 		<key>shortcut</key>
 		<string>532p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Gurdurr</string>
 		<key>shortcut</key>
 		<string>533p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Conkeldurr</string>
 		<key>shortcut</key>
 		<string>534p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Tympole</string>
 		<key>shortcut</key>
 		<string>535p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Palpitoad</string>
 		<key>shortcut</key>
 		<string>536p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Seismitoad</string>
 		<key>shortcut</key>
 		<string>537p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Throh</string>
 		<key>shortcut</key>
 		<string>538p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Sawk</string>
 		<key>shortcut</key>
 		<string>539p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Sewaddle</string>
 		<key>shortcut</key>
 		<string>540p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Swadloon</string>
 		<key>shortcut</key>
 		<string>541p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Leavanny</string>
 		<key>shortcut</key>
 		<string>542p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Venipede</string>
 		<key>shortcut</key>
 		<string>543p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Whirlipede</string>
 		<key>shortcut</key>
 		<string>544p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Scolipede</string>
 		<key>shortcut</key>
 		<string>545p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Cottonee</string>
 		<key>shortcut</key>
 		<string>546p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Whimsicott</string>
 		<key>shortcut</key>
 		<string>547p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Petilil</string>
 		<key>shortcut</key>
 		<string>548p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Lilligant</string>
 		<key>shortcut</key>
 		<string>549p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Basculin</string>
 		<key>shortcut</key>
 		<string>550p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Sandile</string>
 		<key>shortcut</key>
 		<string>551p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Krokorok</string>
 		<key>shortcut</key>
 		<string>552p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Krookodile</string>
 		<key>shortcut</key>
 		<string>553p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Darumaka</string>
 		<key>shortcut</key>
 		<string>554p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Darmanitan</string>
 		<key>shortcut</key>
 		<string>555p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Maractus</string>
 		<key>shortcut</key>
 		<string>556p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Dwebble</string>
 		<key>shortcut</key>
 		<string>557p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Crustle</string>
 		<key>shortcut</key>
 		<string>558p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Scraggy</string>
 		<key>shortcut</key>
 		<string>559p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Scrafty</string>
 		<key>shortcut</key>
 		<string>560p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Sigilyph</string>
 		<key>shortcut</key>
 		<string>561p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Yamask</string>
 		<key>shortcut</key>
 		<string>562p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Cofagrigus</string>
 		<key>shortcut</key>
 		<string>563p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Tirtouga</string>
 		<key>shortcut</key>
 		<string>564p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Carracosta</string>
 		<key>shortcut</key>
 		<string>565p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Archen</string>
 		<key>shortcut</key>
 		<string>566p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Archeops</string>
 		<key>shortcut</key>
 		<string>567p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Trubbish</string>
 		<key>shortcut</key>
 		<string>568p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Garbodor</string>
 		<key>shortcut</key>
 		<string>569p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Zorua</string>
 		<key>shortcut</key>
 		<string>570p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Zoroark</string>
 		<key>shortcut</key>
 		<string>571p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Minccino</string>
 		<key>shortcut</key>
 		<string>572p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Cinccino</string>
 		<key>shortcut</key>
 		<string>573p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Gothita</string>
 		<key>shortcut</key>
 		<string>574p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Gothorita</string>
 		<key>shortcut</key>
 		<string>575p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Gothitelle</string>
 		<key>shortcut</key>
 		<string>576p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Solosis</string>
 		<key>shortcut</key>
 		<string>577p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Duosion</string>
 		<key>shortcut</key>
 		<string>578p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Reuniclus</string>
 		<key>shortcut</key>
 		<string>579p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Ducklett</string>
 		<key>shortcut</key>
 		<string>580p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Swanna</string>
 		<key>shortcut</key>
 		<string>581p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Vanillite</string>
 		<key>shortcut</key>
 		<string>582p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Vanillish</string>
 		<key>shortcut</key>
 		<string>583p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Vanilluxe</string>
 		<key>shortcut</key>
 		<string>584p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Deerling</string>
 		<key>shortcut</key>
 		<string>585p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Sawsbuck</string>
 		<key>shortcut</key>
 		<string>586p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Emolga</string>
 		<key>shortcut</key>
 		<string>587p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Karrablast</string>
 		<key>shortcut</key>
 		<string>588p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Escavalier</string>
 		<key>shortcut</key>
 		<string>589p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Foongus</string>
 		<key>shortcut</key>
 		<string>590p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Amoonguss</string>
 		<key>shortcut</key>
 		<string>591p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Frillish</string>
 		<key>shortcut</key>
 		<string>592p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Jellicent</string>
 		<key>shortcut</key>
 		<string>593p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Alomomola</string>
 		<key>shortcut</key>
 		<string>594p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Joltik</string>
 		<key>shortcut</key>
 		<string>595p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Galvantula</string>
 		<key>shortcut</key>
 		<string>596p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Ferroseed</string>
 		<key>shortcut</key>
 		<string>597p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Ferrothorn</string>
 		<key>shortcut</key>
 		<string>598p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Klink</string>
 		<key>shortcut</key>
 		<string>599p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Klang</string>
 		<key>shortcut</key>
 		<string>600p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Klinklang</string>
 		<key>shortcut</key>
 		<string>601p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Tynamo</string>
 		<key>shortcut</key>
 		<string>602p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Eelektrik</string>
 		<key>shortcut</key>
 		<string>603p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Eelektross</string>
 		<key>shortcut</key>
 		<string>604p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Elgyem</string>
 		<key>shortcut</key>
 		<string>605p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Beheeyem</string>
 		<key>shortcut</key>
 		<string>606p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Litwick</string>
 		<key>shortcut</key>
 		<string>607p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Lampent</string>
 		<key>shortcut</key>
 		<string>608p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Chandelure</string>
 		<key>shortcut</key>
 		<string>609p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Axew</string>
 		<key>shortcut</key>
 		<string>610p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Fraxure</string>
 		<key>shortcut</key>
 		<string>611p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Haxorus</string>
 		<key>shortcut</key>
 		<string>612p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Cubchoo</string>
 		<key>shortcut</key>
 		<string>613p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Beartic</string>
 		<key>shortcut</key>
 		<string>614p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Cryogonal</string>
 		<key>shortcut</key>
 		<string>615p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Shelmet</string>
 		<key>shortcut</key>
 		<string>616p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Accelgor</string>
 		<key>shortcut</key>
 		<string>617p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Stunfisk</string>
 		<key>shortcut</key>
 		<string>618p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Mienfoo</string>
 		<key>shortcut</key>
 		<string>619p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Mienshao</string>
 		<key>shortcut</key>
 		<string>620p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Druddigon</string>
 		<key>shortcut</key>
 		<string>621p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Golett</string>
 		<key>shortcut</key>
 		<string>622p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Golurk</string>
 		<key>shortcut</key>
 		<string>623p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Pawniard</string>
 		<key>shortcut</key>
 		<string>624p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Bisharp</string>
 		<key>shortcut</key>
 		<string>625p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Bouffalant</string>
 		<key>shortcut</key>
 		<string>626p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Rufflet</string>
 		<key>shortcut</key>
 		<string>627p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Braviary</string>
 		<key>shortcut</key>
 		<string>628p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Vullaby</string>
 		<key>shortcut</key>
 		<string>629p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Mandibuzz</string>
 		<key>shortcut</key>
 		<string>630p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Heatmor</string>
 		<key>shortcut</key>
 		<string>631p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Durant</string>
 		<key>shortcut</key>
 		<string>632p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Deino</string>
 		<key>shortcut</key>
 		<string>633p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Zweilous</string>
 		<key>shortcut</key>
 		<string>634p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Hydreigon</string>
 		<key>shortcut</key>
 		<string>635p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Larvesta</string>
 		<key>shortcut</key>
 		<string>636p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Volcarona</string>
 		<key>shortcut</key>
 		<string>637p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Cobalion</string>
 		<key>shortcut</key>
 		<string>638p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Terrakion</string>
 		<key>shortcut</key>
 		<string>639p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Virizion</string>
 		<key>shortcut</key>
 		<string>640p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Tornadus</string>
 		<key>shortcut</key>
 		<string>641p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Thundurus</string>
 		<key>shortcut</key>
 		<string>642p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Reshiram</string>
 		<key>shortcut</key>
 		<string>643p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Zekrom</string>
 		<key>shortcut</key>
 		<string>644p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Landorus</string>
 		<key>shortcut</key>
 		<string>645p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Kyurem</string>
 		<key>shortcut</key>
 		<string>646p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Keldeo</string>
 		<key>shortcut</key>
 		<string>647p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Meloetta</string>
 		<key>shortcut</key>
 		<string>648p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Genesect</string>
 		<key>shortcut</key>
 		<string>649p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Chespin</string>
 		<key>shortcut</key>
 		<string>650p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Quilladin</string>
 		<key>shortcut</key>
 		<string>651p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Chesnaught</string>
 		<key>shortcut</key>
 		<string>652p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Fennekin</string>
 		<key>shortcut</key>
 		<string>653p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Braixen</string>
 		<key>shortcut</key>
 		<string>654p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Delphox</string>
 		<key>shortcut</key>
 		<string>655p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Froakie</string>
 		<key>shortcut</key>
 		<string>656p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Frogadier</string>
 		<key>shortcut</key>
 		<string>657p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Greninja</string>
 		<key>shortcut</key>
 		<string>658p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Bunnelby</string>
 		<key>shortcut</key>
 		<string>659p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Diggersby</string>
 		<key>shortcut</key>
 		<string>660p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Fletchling</string>
 		<key>shortcut</key>
 		<string>661p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Fletchinder</string>
 		<key>shortcut</key>
 		<string>662p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Talonflame</string>
 		<key>shortcut</key>
 		<string>663p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Scatterbug</string>
 		<key>shortcut</key>
 		<string>664p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Spewpa</string>
 		<key>shortcut</key>
 		<string>665p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Vivillon</string>
 		<key>shortcut</key>
 		<string>666p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Litleo</string>
 		<key>shortcut</key>
 		<string>667p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Pyroar</string>
 		<key>shortcut</key>
 		<string>668p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Flabébé</string>
 		<key>shortcut</key>
 		<string>669p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Floette</string>
 		<key>shortcut</key>
 		<string>670p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Florges</string>
 		<key>shortcut</key>
 		<string>671p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Skiddo</string>
 		<key>shortcut</key>
 		<string>672p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Gogoat</string>
 		<key>shortcut</key>
 		<string>673p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Pancham</string>
 		<key>shortcut</key>
 		<string>674p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Pangoro</string>
 		<key>shortcut</key>
 		<string>675p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Furfrou</string>
 		<key>shortcut</key>
 		<string>676p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Espurr</string>
 		<key>shortcut</key>
 		<string>677p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Meowstic</string>
 		<key>shortcut</key>
 		<string>678p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Honedge</string>
 		<key>shortcut</key>
 		<string>679p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Doublade</string>
 		<key>shortcut</key>
 		<string>680p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Aegislash</string>
 		<key>shortcut</key>
 		<string>681p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Spritzee</string>
 		<key>shortcut</key>
 		<string>682p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Aromatisse</string>
 		<key>shortcut</key>
 		<string>683p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Swirlix</string>
 		<key>shortcut</key>
 		<string>684p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Slurpuff</string>
 		<key>shortcut</key>
 		<string>685p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Inkay</string>
 		<key>shortcut</key>
 		<string>686p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Malamar</string>
 		<key>shortcut</key>
 		<string>687p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Binacle</string>
 		<key>shortcut</key>
 		<string>688p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Barbaracle</string>
 		<key>shortcut</key>
 		<string>689p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Skrelp</string>
 		<key>shortcut</key>
 		<string>690p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Dragalge</string>
 		<key>shortcut</key>
 		<string>691p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Clauncher</string>
 		<key>shortcut</key>
 		<string>692p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Clawitzer</string>
 		<key>shortcut</key>
 		<string>693p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Helioptile</string>
 		<key>shortcut</key>
 		<string>694p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Heliolisk</string>
 		<key>shortcut</key>
 		<string>695p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Tyrunt</string>
 		<key>shortcut</key>
 		<string>696p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Tyrantrum</string>
 		<key>shortcut</key>
 		<string>697p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Amaura</string>
 		<key>shortcut</key>
 		<string>698p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Aurorus</string>
 		<key>shortcut</key>
 		<string>699p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Sylveon</string>
 		<key>shortcut</key>
 		<string>700p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Hawlucha</string>
 		<key>shortcut</key>
 		<string>701p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Dedenne</string>
 		<key>shortcut</key>
 		<string>702p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Carbink</string>
 		<key>shortcut</key>
 		<string>703p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Goomy</string>
 		<key>shortcut</key>
 		<string>704p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Sliggoo</string>
 		<key>shortcut</key>
 		<string>705p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Goodra</string>
 		<key>shortcut</key>
 		<string>706p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Klefki</string>
 		<key>shortcut</key>
 		<string>707p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Phantump</string>
 		<key>shortcut</key>
 		<string>708p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Trevenant</string>
 		<key>shortcut</key>
 		<string>709p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Pumpkaboo</string>
 		<key>shortcut</key>
 		<string>710p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Gourgeist</string>
 		<key>shortcut</key>
 		<string>711p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Bergmite</string>
 		<key>shortcut</key>
 		<string>712p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Avalugg</string>
 		<key>shortcut</key>
 		<string>713p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Noibat</string>
 		<key>shortcut</key>
 		<string>714p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Noivern</string>
 		<key>shortcut</key>
 		<string>715p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Xerneas</string>
 		<key>shortcut</key>
 		<string>716p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Yveltal</string>
 		<key>shortcut</key>
 		<string>717p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Zygarde</string>
 		<key>shortcut</key>
 		<string>718p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Diancie</string>
 		<key>shortcut</key>
 		<string>719p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Hoopa</string>
 		<key>shortcut</key>
 		<string>720p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Volcanion</string>
 		<key>shortcut</key>
 		<string>721p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Rowlet</string>
 		<key>shortcut</key>
 		<string>722p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Dartrix</string>
 		<key>shortcut</key>
 		<string>723p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Decidueye</string>
 		<key>shortcut</key>
 		<string>724p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Litten</string>
 		<key>shortcut</key>
 		<string>725p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Torracat</string>
 		<key>shortcut</key>
 		<string>726p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Incineroar</string>
 		<key>shortcut</key>
 		<string>727p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Popplio</string>
 		<key>shortcut</key>
 		<string>728p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Brionne</string>
 		<key>shortcut</key>
 		<string>729p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Primarina</string>
 		<key>shortcut</key>
 		<string>730p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Pikipek</string>
 		<key>shortcut</key>
 		<string>731p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Trumbeak</string>
 		<key>shortcut</key>
 		<string>732p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Toucannon</string>
 		<key>shortcut</key>
 		<string>733p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Yungoos</string>
 		<key>shortcut</key>
 		<string>734p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Gumshoos</string>
 		<key>shortcut</key>
 		<string>735p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Grubbin</string>
 		<key>shortcut</key>
 		<string>736p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Charjabug</string>
 		<key>shortcut</key>
 		<string>737p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Vikavolt</string>
 		<key>shortcut</key>
 		<string>738p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Crabrawler</string>
 		<key>shortcut</key>
 		<string>739p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Crabominable</string>
 		<key>shortcut</key>
 		<string>740p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Oricorio</string>
 		<key>shortcut</key>
 		<string>741p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Cutiefly</string>
 		<key>shortcut</key>
 		<string>742p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Ribombee</string>
 		<key>shortcut</key>
 		<string>743p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Rockruff</string>
 		<key>shortcut</key>
 		<string>744p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Lycanroc</string>
 		<key>shortcut</key>
 		<string>745p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Wishiwashi</string>
 		<key>shortcut</key>
 		<string>746p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Mareanie</string>
 		<key>shortcut</key>
 		<string>747p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Toxapex</string>
 		<key>shortcut</key>
 		<string>748p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Mudbray</string>
 		<key>shortcut</key>
 		<string>749p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Mudsdale</string>
 		<key>shortcut</key>
 		<string>750p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Dewpider</string>
 		<key>shortcut</key>
 		<string>751p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Araquanid</string>
 		<key>shortcut</key>
 		<string>752p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Fomantis</string>
 		<key>shortcut</key>
 		<string>753p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Lurantis</string>
 		<key>shortcut</key>
 		<string>754p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Morelull</string>
 		<key>shortcut</key>
 		<string>755p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Shiinotic</string>
 		<key>shortcut</key>
 		<string>756p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Salandit</string>
 		<key>shortcut</key>
 		<string>757p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Salazzle</string>
 		<key>shortcut</key>
 		<string>758p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Stufful</string>
 		<key>shortcut</key>
 		<string>759p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Bewear</string>
 		<key>shortcut</key>
 		<string>760p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Bounsweet</string>
 		<key>shortcut</key>
 		<string>761p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Steenee</string>
 		<key>shortcut</key>
 		<string>762p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Tsareena</string>
 		<key>shortcut</key>
 		<string>763p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Comfey</string>
 		<key>shortcut</key>
 		<string>764p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Oranguru</string>
 		<key>shortcut</key>
 		<string>765p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Passimian</string>
 		<key>shortcut</key>
 		<string>766p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Wimpod</string>
 		<key>shortcut</key>
 		<string>767p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Golisopod</string>
 		<key>shortcut</key>
 		<string>768p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Sandygast</string>
 		<key>shortcut</key>
 		<string>769p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Palossand</string>
 		<key>shortcut</key>
 		<string>770p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Pyukumuku</string>
 		<key>shortcut</key>
 		<string>771p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Type: Null (英語)Tipo Zero (イタリア語)Código Cero (スペイン語)</string>
 		<key>shortcut</key>
 		<string>772p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Silvally</string>
 		<key>shortcut</key>
 		<string>773p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Minior</string>
 		<key>shortcut</key>
 		<string>774p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Komala</string>
 		<key>shortcut</key>
 		<string>775p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Turtonator</string>
 		<key>shortcut</key>
 		<string>776p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Togedemaru</string>
 		<key>shortcut</key>
 		<string>777p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Mimikyu</string>
 		<key>shortcut</key>
 		<string>778p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Bruxish</string>
 		<key>shortcut</key>
 		<string>779p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Drampa</string>
 		<key>shortcut</key>
 		<string>780p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Dhelmise</string>
 		<key>shortcut</key>
 		<string>781p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Jangmo-o</string>
 		<key>shortcut</key>
 		<string>782p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Hakamo-o</string>
 		<key>shortcut</key>
 		<string>783p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Kommo-o</string>
 		<key>shortcut</key>
 		<string>784p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Tapu Koko</string>
 		<key>shortcut</key>
 		<string>785p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Tapu Lele</string>
 		<key>shortcut</key>
 		<string>786p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Tapu Bulu</string>
 		<key>shortcut</key>
 		<string>787p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Tapu Fini</string>
 		<key>shortcut</key>
 		<string>788p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Cosmog</string>
 		<key>shortcut</key>
 		<string>789p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Cosmoem</string>
 		<key>shortcut</key>
 		<string>790p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Solgaleo</string>
 		<key>shortcut</key>
 		<string>791p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Lunala</string>
 		<key>shortcut</key>
 		<string>792p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Nihilego</string>
 		<key>shortcut</key>
 		<string>793p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Buzzwole</string>
 		<key>shortcut</key>
 		<string>794p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Pheromosa</string>
 		<key>shortcut</key>
 		<string>795p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Xurkitree</string>
 		<key>shortcut</key>
 		<string>796p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Celesteela</string>
 		<key>shortcut</key>
 		<string>797p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Kartana</string>
 		<key>shortcut</key>
 		<string>798p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Guzzlord</string>
 		<key>shortcut</key>
 		<string>799p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Necrozma</string>
 		<key>shortcut</key>
 		<string>800p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Magearna</string>
 		<key>shortcut</key>
 		<string>801p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Marshadow</string>
 		<key>shortcut</key>
 		<string>802p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Poipole</string>
 		<key>shortcut</key>
 		<string>803p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Naganadel</string>
 		<key>shortcut</key>
 		<string>804p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Stakataka</string>
 		<key>shortcut</key>
 		<string>805p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Blacephalon</string>
 		<key>shortcut</key>
 		<string>806p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Zeraora</string>
 		<key>shortcut</key>
 		<string>807p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Meltan</string>
 		<key>shortcut</key>
 		<string>808p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Melmetal</string>
 		<key>shortcut</key>
 		<string>809p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Grookey</string>
 		<key>shortcut</key>
 		<string>810p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Thwackey</string>
 		<key>shortcut</key>
 		<string>811p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Rillaboom</string>
 		<key>shortcut</key>
 		<string>812p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Scorbunny</string>
 		<key>shortcut</key>
 		<string>813p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Raboot</string>
 		<key>shortcut</key>
 		<string>814p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Cinderace</string>
 		<key>shortcut</key>
 		<string>815p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Sobble</string>
 		<key>shortcut</key>
 		<string>816p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Drizzile</string>
 		<key>shortcut</key>
 		<string>817p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Inteleon</string>
 		<key>shortcut</key>
 		<string>818p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Skwovet</string>
 		<key>shortcut</key>
 		<string>819p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Greedent</string>
 		<key>shortcut</key>
 		<string>820p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Rookidee</string>
 		<key>shortcut</key>
 		<string>821p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Corvisquire</string>
 		<key>shortcut</key>
 		<string>822p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Corviknight</string>
 		<key>shortcut</key>
 		<string>823p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Blipbug</string>
 		<key>shortcut</key>
 		<string>824p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Dottler</string>
 		<key>shortcut</key>
 		<string>825p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Orbeetle</string>
 		<key>shortcut</key>
 		<string>826p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Nickit</string>
 		<key>shortcut</key>
 		<string>827p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Thievul</string>
 		<key>shortcut</key>
 		<string>828p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Gossifleur</string>
 		<key>shortcut</key>
 		<string>829p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Eldegoss</string>
 		<key>shortcut</key>
 		<string>830p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Wooloo</string>
 		<key>shortcut</key>
 		<string>831p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Dubwool</string>
 		<key>shortcut</key>
 		<string>832p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Chewtle</string>
 		<key>shortcut</key>
 		<string>833p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Drednaw</string>
 		<key>shortcut</key>
 		<string>834p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Yamper</string>
 		<key>shortcut</key>
 		<string>835p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Boltund</string>
 		<key>shortcut</key>
 		<string>836p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Rolycoly</string>
 		<key>shortcut</key>
 		<string>837p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Carkol</string>
 		<key>shortcut</key>
 		<string>838p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Coalossal</string>
 		<key>shortcut</key>
 		<string>839p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Applin</string>
 		<key>shortcut</key>
 		<string>840p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Flapple</string>
 		<key>shortcut</key>
 		<string>841p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Appletun</string>
 		<key>shortcut</key>
 		<string>842p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Silicobra</string>
 		<key>shortcut</key>
 		<string>843p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Sandaconda</string>
 		<key>shortcut</key>
 		<string>844p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Cramorant</string>
 		<key>shortcut</key>
 		<string>845p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Arrokuda</string>
 		<key>shortcut</key>
 		<string>846p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Barraskewda</string>
 		<key>shortcut</key>
 		<string>847p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Toxel</string>
 		<key>shortcut</key>
 		<string>848p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Toxtricity</string>
 		<key>shortcut</key>
 		<string>849p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Sizzlipede</string>
 		<key>shortcut</key>
 		<string>850p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Centiskorch</string>
 		<key>shortcut</key>
 		<string>851p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Clobbopus</string>
 		<key>shortcut</key>
 		<string>852p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Grapploct</string>
 		<key>shortcut</key>
 		<string>853p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Sinistea</string>
 		<key>shortcut</key>
 		<string>854p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Polteageist</string>
 		<key>shortcut</key>
 		<string>855p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Hatenna</string>
 		<key>shortcut</key>
 		<string>856p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Hattrem</string>
 		<key>shortcut</key>
 		<string>857p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Hatterene</string>
 		<key>shortcut</key>
 		<string>858p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Impidimp</string>
 		<key>shortcut</key>
 		<string>859p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Morgrem</string>
 		<key>shortcut</key>
 		<string>860p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Grimmsnarl</string>
 		<key>shortcut</key>
 		<string>861p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Obstagoon</string>
 		<key>shortcut</key>
 		<string>862p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Perrserker</string>
 		<key>shortcut</key>
 		<string>863p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Cursola</string>
 		<key>shortcut</key>
 		<string>864p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Sirfetch'd</string>
 		<key>shortcut</key>
 		<string>865p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Mr. Rime</string>
 		<key>shortcut</key>
 		<string>866p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Runerigus</string>
 		<key>shortcut</key>
 		<string>867p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Milcery</string>
 		<key>shortcut</key>
 		<string>868p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Alcremie</string>
 		<key>shortcut</key>
 		<string>869p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Falinks</string>
 		<key>shortcut</key>
 		<string>870p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Pincurchin</string>
 		<key>shortcut</key>
 		<string>871p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Snom</string>
 		<key>shortcut</key>
 		<string>872p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Frosmoth</string>
 		<key>shortcut</key>
 		<string>873p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Stonjourner</string>
 		<key>shortcut</key>
 		<string>874p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Eiscue</string>
 		<key>shortcut</key>
 		<string>875p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Indeedee</string>
 		<key>shortcut</key>
 		<string>876p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Morpeko</string>
 		<key>shortcut</key>
 		<string>877p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Cufant</string>
 		<key>shortcut</key>
 		<string>878p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Copperajah</string>
 		<key>shortcut</key>
 		<string>879p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Dracozolt</string>
 		<key>shortcut</key>
 		<string>880p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Arctozolt</string>
 		<key>shortcut</key>
 		<string>881p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Dracovish</string>
 		<key>shortcut</key>
 		<string>882p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Arctovish</string>
 		<key>shortcut</key>
 		<string>883p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Duraludon</string>
 		<key>shortcut</key>
 		<string>884p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Dreepy</string>
 		<key>shortcut</key>
 		<string>885p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Drakloak</string>
 		<key>shortcut</key>
 		<string>886p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Dragapult</string>
 		<key>shortcut</key>
 		<string>887p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Zacian</string>
 		<key>shortcut</key>
 		<string>888p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Zamazenta</string>
 		<key>shortcut</key>
 		<string>889p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Eternatus</string>
 		<key>shortcut</key>
 		<string>890p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Kubfu</string>
 		<key>shortcut</key>
 		<string>891p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Urshifu</string>
 		<key>shortcut</key>
 		<string>892p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Zarude</string>
 		<key>shortcut</key>
 		<string>893p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Regieleki</string>
 		<key>shortcut</key>
 		<string>894p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Regidrago</string>
 		<key>shortcut</key>
 		<string>895p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Glastrier</string>
 		<key>shortcut</key>
 		<string>896p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Spectrier</string>
 		<key>shortcut</key>
 		<string>897p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Calyrex</string>
 		<key>shortcut</key>
 		<string>898p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Wyrdeer</string>
 		<key>shortcut</key>
 		<string>899p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Kleavor</string>
 		<key>shortcut</key>
 		<string>900p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Ursaluna</string>
 		<key>shortcut</key>
 		<string>901p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Basculegion</string>
 		<key>shortcut</key>
 		<string>902p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Sneasler</string>
 		<key>shortcut</key>
 		<string>903p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Overqwil</string>
 		<key>shortcut</key>
 		<string>904p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Enamorus</string>
 		<key>shortcut</key>
 		<string>905p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Sprigatito</string>
 		<key>shortcut</key>
 		<string>906p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Floragato</string>
 		<key>shortcut</key>
 		<string>907p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Meowscarada</string>
 		<key>shortcut</key>
 		<string>908p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Fuecoco</string>
 		<key>shortcut</key>
 		<string>909p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Crocalor</string>
 		<key>shortcut</key>
 		<string>910p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Skeledirge</string>
 		<key>shortcut</key>
 		<string>911p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Quaxly</string>
 		<key>shortcut</key>
 		<string>912p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Quaxwell</string>
 		<key>shortcut</key>
 		<string>913p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Quaquaval</string>
 		<key>shortcut</key>
 		<string>914p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Lechonk</string>
 		<key>shortcut</key>
 		<string>915p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Oinkologne</string>
 		<key>shortcut</key>
 		<string>916p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Tarountula</string>
 		<key>shortcut</key>
 		<string>917p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Spidops</string>
 		<key>shortcut</key>
 		<string>918p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Nymble</string>
 		<key>shortcut</key>
 		<string>919p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Lokix</string>
 		<key>shortcut</key>
 		<string>920p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Pawmi</string>
 		<key>shortcut</key>
 		<string>921p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Pawmo</string>
 		<key>shortcut</key>
 		<string>922p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Pawmot</string>
 		<key>shortcut</key>
 		<string>923p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Tandemaus</string>
 		<key>shortcut</key>
 		<string>924p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Maushold</string>
 		<key>shortcut</key>
 		<string>925p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Fidough</string>
 		<key>shortcut</key>
 		<string>926p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Dachsbun</string>
 		<key>shortcut</key>
 		<string>927p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Smoliv</string>
 		<key>shortcut</key>
 		<string>928p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Dolliv</string>
 		<key>shortcut</key>
 		<string>929p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Arboliva</string>
 		<key>shortcut</key>
 		<string>930p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Squawkabilly</string>
 		<key>shortcut</key>
 		<string>931p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Nacli</string>
 		<key>shortcut</key>
 		<string>932p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Naclstack</string>
 		<key>shortcut</key>
 		<string>933p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Garganacl</string>
 		<key>shortcut</key>
 		<string>934p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Charcadet</string>
 		<key>shortcut</key>
 		<string>935p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Armarouge</string>
 		<key>shortcut</key>
 		<string>936p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Ceruledge</string>
 		<key>shortcut</key>
 		<string>937p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Tadbulb</string>
 		<key>shortcut</key>
 		<string>938p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Bellibolt</string>
 		<key>shortcut</key>
 		<string>939p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Wattrel</string>
 		<key>shortcut</key>
 		<string>940p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Kilowattrel</string>
 		<key>shortcut</key>
 		<string>941p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Maschiff</string>
 		<key>shortcut</key>
 		<string>942p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Mabosstiff</string>
 		<key>shortcut</key>
 		<string>943p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Shroodle</string>
 		<key>shortcut</key>
 		<string>944p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Grafaiai</string>
 		<key>shortcut</key>
 		<string>945p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Bramblin</string>
 		<key>shortcut</key>
 		<string>946p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Brambleghast</string>
 		<key>shortcut</key>
 		<string>947p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Toedscool</string>
 		<key>shortcut</key>
 		<string>948p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Toedscruel</string>
 		<key>shortcut</key>
 		<string>949p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Klawf</string>
 		<key>shortcut</key>
 		<string>950p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Capsakid</string>
 		<key>shortcut</key>
 		<string>951p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Scovillain</string>
 		<key>shortcut</key>
 		<string>952p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Rellor</string>
 		<key>shortcut</key>
 		<string>953p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Rabsca</string>
 		<key>shortcut</key>
 		<string>954p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Flittle</string>
 		<key>shortcut</key>
 		<string>955p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Espathra</string>
 		<key>shortcut</key>
 		<string>956p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Tinkatink</string>
 		<key>shortcut</key>
 		<string>957p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Tinkatuff</string>
 		<key>shortcut</key>
 		<string>958p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Tinkaton</string>
 		<key>shortcut</key>
 		<string>959p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Wiglett</string>
 		<key>shortcut</key>
 		<string>960p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Wugtrio</string>
 		<key>shortcut</key>
 		<string>961p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Bombirdier</string>
 		<key>shortcut</key>
 		<string>962p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Finizen</string>
 		<key>shortcut</key>
 		<string>963p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Palafin</string>
 		<key>shortcut</key>
 		<string>964p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Varoom</string>
 		<key>shortcut</key>
 		<string>965p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Revavroom</string>
 		<key>shortcut</key>
 		<string>966p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Cyclizar</string>
 		<key>shortcut</key>
 		<string>967p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Orthworm</string>
 		<key>shortcut</key>
 		<string>968p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Glimmet</string>
 		<key>shortcut</key>
 		<string>969p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Glimmora</string>
 		<key>shortcut</key>
 		<string>970p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Greavard</string>
 		<key>shortcut</key>
 		<string>971p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Houndstone</string>
 		<key>shortcut</key>
 		<string>972p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Flamigo</string>
 		<key>shortcut</key>
 		<string>973p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Cetoddle</string>
 		<key>shortcut</key>
 		<string>974p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Cetitan</string>
 		<key>shortcut</key>
 		<string>975p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Veluza</string>
 		<key>shortcut</key>
 		<string>976p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Dondozo</string>
 		<key>shortcut</key>
 		<string>977p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Tatsugiri</string>
 		<key>shortcut</key>
 		<string>978p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Annihilape</string>
 		<key>shortcut</key>
 		<string>979p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Clodsire</string>
 		<key>shortcut</key>
 		<string>980p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Farigiraf</string>
 		<key>shortcut</key>
 		<string>981p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Dudunsparce</string>
 		<key>shortcut</key>
 		<string>982p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Kingambit</string>
 		<key>shortcut</key>
 		<string>983p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Great Tusk (英語)Grandizanne (イタリア語)Colmilargo (スペイン語)</string>
 		<key>shortcut</key>
 		<string>984p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Scream Tail (英語)Codaurlante (イタリア語)Colagrito (スペイン語)</string>
 		<key>shortcut</key>
 		<string>985p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Brute Bonnet (英語)Fungofurioso (イタリア語)Furioseta (スペイン語)</string>
 		<key>shortcut</key>
 		<string>986p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Flutter Mane (英語)Crinealato (イタリア語)Melenaleteo (スペイン語)</string>
 		<key>shortcut</key>
 		<string>987p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Slither Wing (英語)Alirasenti (イタリア語)Reptalada (スペイン語)</string>
 		<key>shortcut</key>
 		<string>988p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Sandy Shocks (英語)Peldisabbia (イタリア語)Pelarena (スペイン語)</string>
 		<key>shortcut</key>
 		<string>989p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Iron Treads (英語)Solcoferro (イタリア語)Ferrodada (スペイン語)</string>
 		<key>shortcut</key>
 		<string>990p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Iron Bundle (英語)Saccoferreo (イタリア語)Ferrosaco (スペイン語)</string>
 		<key>shortcut</key>
 		<string>991p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Iron Hands (英語)Manoferrea (イタリア語)Ferropalmas (スペイン語)</string>
 		<key>shortcut</key>
 		<string>992p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Iron Jugulis (英語)Colloferreo (イタリア語)Ferrocuello (スペイン語)</string>
 		<key>shortcut</key>
 		<string>993p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Iron Moth (英語)Falenaferrea (イタリア語)Ferropolilla (スペイン語)</string>
 		<key>shortcut</key>
 		<string>994p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Iron Thorns (英語)Spineferree (イタリア語)Ferropúas (スペイン語)</string>
 		<key>shortcut</key>
 		<string>995p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Frigibax</string>
 		<key>shortcut</key>
 		<string>996p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Arctibax</string>
 		<key>shortcut</key>
 		<string>997p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Baxcalibur</string>
 		<key>shortcut</key>
 		<string>998p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Gimmighoul</string>
 		<key>shortcut</key>
 		<string>999p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Gholdengo</string>
 		<key>shortcut</key>
 		<string>1000p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Wo-Chien</string>
 		<key>shortcut</key>
 		<string>1001p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Chien-Pao</string>
 		<key>shortcut</key>
 		<string>1002p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Ting-Lu</string>
 		<key>shortcut</key>
 		<string>1003p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Chi-Yu</string>
 		<key>shortcut</key>
 		<string>1004p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Roaring Moon (英語)Lunaruggente (イタリア語)Bramaluna (スペイン語)</string>
 		<key>shortcut</key>
 		<string>1005p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Iron Valiant (英語)Eroeferreo (イタリア語)Ferropaladín (スペイン語)</string>
 		<key>shortcut</key>
 		<string>1006p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Koraidon</string>
 		<key>shortcut</key>
 		<string>1007p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Miraidon</string>
 		<key>shortcut</key>
 		<string>1008p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Walking Wake (英語)Acquecrespe (イタリア語)Ondulagua (スペイン語)</string>
 		<key>shortcut</key>
 		<string>1009p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Iron Leaves (英語)Fogliaferrea (イタリア語)Ferroverdor (スペイン語)</string>
 		<key>shortcut</key>
 		<string>1010p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Dipplin</string>
 		<key>shortcut</key>
 		<string>1011p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Poltchageist</string>
 		<key>shortcut</key>
 		<string>1012p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Sinistcha</string>
 		<key>shortcut</key>
 		<string>1013p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Okidogi</string>
 		<key>shortcut</key>
 		<string>1014p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Munkidori</string>
 		<key>shortcut</key>
 		<string>1015p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Fezandipiti</string>
 		<key>shortcut</key>
 		<string>1016p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Ogerpon</string>
 		<key>shortcut</key>
 		<string>1017p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Archaludon</string>
 		<key>shortcut</key>
 		<string>1018p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Hydrapple</string>
 		<key>shortcut</key>
 		<string>1019p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Gouging Fire (英語)Vampeaguzze (イタリア語)Flamariete (スペイン語)</string>
 		<key>shortcut</key>
 		<string>1020p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Raging Bolt (英語)Furiatonante (イタリア語)Electrofuria (スペイン語)</string>
 		<key>shortcut</key>
 		<string>1021p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Iron Boulder (英語)Massoferreo (イタリア語)Ferromole (スペイン語)</string>
 		<key>shortcut</key>
 		<string>1022p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Iron Crown (英語)Capoferreo (イタリア語)Ferrotesta (スペイン語)</string>
 		<key>shortcut</key>
 		<string>1023p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Terapagos</string>
 		<key>shortcut</key>
 		<string>1024p</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Pecharunt</string>
 		<key>shortcut</key>
 		<string>1025p</string>
 	</dict>
