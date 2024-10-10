@@ -1,35 +1,68 @@
-name: Release on merge
+name: Auto Tag and Release
 
 on:
   push:
     branches:
-      - main  # mainブランチにプッシュされた時にトリガー
+      - main  # メインブランチがマージされたときに実行
 
 jobs:
-  release:
+  tag_and_release:
     runs-on: ubuntu-latest
 
     steps:
-    # 1. リポジトリのチェックアウト
-    - name: Checkout code
-      uses: actions/checkout@v3
+      # 1. コードをチェックアウト
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-    # 2. リリースノートの自動生成
-    - name: Generate release notes
-      id: release_notes
-      uses: softprops/action-gh-release@v1
-      with:
-        generate_release_notes: true
+      # 2. タグのバージョンを自動生成
+      - name: Bump version and create tag
+        id: tag_version
+        run: |
+          # 直前のタグを取得
+          last_tag=$(git describe --tags --abbrev=0)
+          
+          # タグが存在しない場合、デフォルトのv0.0.0にする
+          if [ -z "$last_tag" ]; then
+            last_tag="v0.0.0"
+          fi
 
-    # 3. Pythonファイル以外のファイルをZIPで圧縮
-    - name: Create a ZIP archive of non-Python files
-      run: |
-        zip -r non_python_files.zip $(find . -type f ! -name "*.py")
-    
-    # 4. リリースを作成し、ZIPファイルをアップロード
-    - name: Create GitHub Release
-      uses: softprops/action-gh-release@v1
-      with:
-        files: non_python_files.zip
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub Actionsのデフォルトトークンを使用
+          # バージョン番号をインクリメント (パッチバージョンを上げる例)
+          IFS='.' read -r -a version_parts <<< "${last_tag#v}"
+          major="${version_parts[0]}"
+          minor="${version_parts[1]}"
+          patch="${version_parts[2]}"
+          new_patch=$((patch + 1))
+          new_tag="v$major.$minor.$new_patch"
+
+          # 新しいタグを作成して、リモートにプッシュ
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git tag "$new_tag"
+          git push origin "$new_tag"
+
+          # 新しいタグ名を出力
+          echo "::set-output name=NEW_TAG::$new_tag"
+
+      # 3. タグに基づいてリリースを作成
+      - name: Create GitHub Release
+        uses: actions/create-release@v1
+        with:
+          tag_name: ${{ steps.tag_version.outputs.NEW_TAG }}  # 生成された新しいタグを使用
+          release_name: Release ${{ steps.tag_version.outputs.NEW_TAG }}
+          body: |
+            Automated release with new tag ${{ steps.tag_version.outputs.NEW_TAG }}.
+          draft: false
+          prerelease: false
+
+      # 4. ZIPファイルを作成し、リリースに添付
+      - name: Zip non-py files
+        run: |
+          zip -r release-assets.zip $(find . -type f ! -name '*.py')
+
+      - name: Upload release assets
+        uses: actions/upload-release-asset@v1
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./release-assets.zip
+          asset_name: release-assets.zip
+          asset_content_type: application/zip
