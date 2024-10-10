@@ -769,7 +769,7 @@
 すなばぁ	Sandygast	固有名詞	
 しろですな	Palossand	固有名詞	
 なまこぶし	Pyukumuku	固有名詞	
-たいぷ:ぬる	Type: Null (英語)Tipo Zero (イタリア語)Código Cero (スペイン語)	固有名詞	
+たいぷ:ぬる	Type: Null	固有名詞	
 しるぶぁでぃ	Silvally	固有名詞	
 めての	Minior	固有名詞	
 ねっこあら	Komala	固有名詞	
@@ -981,18 +981,18 @@
 りききりん	Farigiraf	固有名詞	
 のここっち	Dudunsparce	固有名詞	
 どどげざん	Kingambit	固有名詞	
-いだいなきば	Great Tusk (英語)Grandizanne (イタリア語)Colmilargo (スペイン語)	固有名詞	
-さけぶしっぽ	Scream Tail (英語)Codaurlante (イタリア語)Colagrito (スペイン語)	固有名詞	
-あらぶるたけ	Brute Bonnet (英語)Fungofurioso (イタリア語)Furioseta (スペイン語)	固有名詞	
-はばたくかみ	Flutter Mane (英語)Crinealato (イタリア語)Melenaleteo (スペイン語)	固有名詞	
-ちをはうはね	Slither Wing (英語)Alirasenti (イタリア語)Reptalada (スペイン語)	固有名詞	
-すなのけがわ	Sandy Shocks (英語)Peldisabbia (イタリア語)Pelarena (スペイン語)	固有名詞	
-てつのわだち	Iron Treads (英語)Solcoferro (イタリア語)Ferrodada (スペイン語)	固有名詞	
-てつのつつみ	Iron Bundle (英語)Saccoferreo (イタリア語)Ferrosaco (スペイン語)	固有名詞	
-てつのかいな	Iron Hands (英語)Manoferrea (イタリア語)Ferropalmas (スペイン語)	固有名詞	
-てつのこうべ	Iron Jugulis (英語)Colloferreo (イタリア語)Ferrocuello (スペイン語)	固有名詞	
-てつのどくが	Iron Moth (英語)Falenaferrea (イタリア語)Ferropolilla (スペイン語)	固有名詞	
-てつのいばら	Iron Thorns (英語)Spineferree (イタリア語)Ferropúas (スペイン語)	固有名詞	
+いだいなきば	Great Tusk	固有名詞	
+さけぶしっぽ	Scream Tail	固有名詞	
+あらぶるたけ	Brute Bonnet	固有名詞	
+はばたくかみ	Flutter Mane	固有名詞	
+ちをはうはね	Slither Wing	固有名詞	
+すなのけがわ	Sandy Shocks	固有名詞	
+てつのわだち	Iron Treads	固有名詞	
+てつのつつみ	Iron Bundle	固有名詞	
+てつのかいな	Iron Hands	固有名詞	
+てつのこうべ	Iron Jugulis	固有名詞	
+てつのどくが	Iron Moth	固有名詞	
+てつのいばら	Iron Thorns	固有名詞	
 せびえ	Frigibax	固有名詞	
 せごーる	Arctibax	固有名詞	
 せぐれいぶ	Baxcalibur	固有名詞	
@@ -1002,12 +1002,12 @@
 ぱおじあん	Chien-Pao	固有名詞	
 でぃんるー	Ting-Lu	固有名詞	
 いーゆい	Chi-Yu	固有名詞	
-とどろくつき	Roaring Moon (英語)Lunaruggente (イタリア語)Bramaluna (スペイン語)	固有名詞	
-てつのぶじん	Iron Valiant (英語)Eroeferreo (イタリア語)Ferropaladín (スペイン語)	固有名詞	
+とどろくつき	Roaring Moon	固有名詞	
+てつのぶじん	Iron Valiant	固有名詞	
 こらいどん	Koraidon	固有名詞	
 みらいどん	Miraidon	固有名詞	
-うねるみなも	Walking Wake (英語)Acquecrespe (イタリア語)Ondulagua (スペイン語)	固有名詞	
-てつのいさは	Iron Leaves (英語)Fogliaferrea (イタリア語)Ferroverdor (スペイン語)	固有名詞	
+うねるみなも	Walking Wake	固有名詞	
+てつのいさは	Iron Leaves	固有名詞	
 かみっちゅ	Dipplin	固有名詞	
 ちゃです	Poltchageist	固有名詞	
 やばそちゃ	Sinistcha	固有名詞	
@@ -1017,9 +1017,9 @@
 おーがぽん	Ogerpon	固有名詞	
 ぶりじゅらす	Archaludon	固有名詞	
 かみつおろち	Hydrapple	固有名詞	
-うがつほむら	Gouging Fire (英語)Vampeaguzze (イタリア語)Flamariete (スペイン語)	固有名詞	
-たけるらいこ	Raging Bolt (英語)Furiatonante (イタリア語)Electrofuria (スペイン語)	固有名詞	
-てつのいわお	Iron Boulder (英語)Massoferreo (イタリア語)Ferromole (スペイン語)	固有名詞	
-てつのかしら	Iron Crown (英語)Capoferreo (イタリア語)Ferrotesta (スペイン語)	固有名詞	
+うがつほむら	Gouging Fire	固有名詞	
+たけるらいこ	Raging Bolt	固有名詞	
+てつのいわお	Iron Boulder	固有名詞	
+てつのかしら	Iron Crown	固有名詞	
 てらぱごす	Terapagos	固有名詞	
 ももわろう	Pecharunt	固有名詞	

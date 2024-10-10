@@ -104,7 +104,7 @@ def scrape_foreign_names(url, class_name):
             if len(cols) >= 3:
                 number = cols[0].text.strip().lstrip('0') + "p"   # 図鑑番号。先頭の0を削除して末尾に"p"を追加
                 japanese_name = cols[1].text.strip()  # カタカナの名前
-                english_name = cols[2].text.strip()  # 英語の名前
+                english_name = cols[2].text.strip().split('(英語)')[0].strip()  # 英語の名前
                 foreign_names_list.append((number, japanese_name, english_name))  # リストに追加
 
     return foreign_names_list

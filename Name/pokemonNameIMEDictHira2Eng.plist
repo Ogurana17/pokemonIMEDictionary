@@ -4630,7 +4630,7 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Type: Null (英語)Tipo Zero (イタリア語)Código Cero (スペイン語)</string>
+		<string>Type: Null</string>
 		<key>shortcut</key>
 		<string>たいぷ:ぬる</string>
 	</dict>
@@ -5902,73 +5902,73 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Great Tusk (英語)Grandizanne (イタリア語)Colmilargo (スペイン語)</string>
+		<string>Great Tusk</string>
 		<key>shortcut</key>
 		<string>いだいなきば</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Scream Tail (英語)Codaurlante (イタリア語)Colagrito (スペイン語)</string>
+		<string>Scream Tail</string>
 		<key>shortcut</key>
 		<string>さけぶしっぽ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Brute Bonnet (英語)Fungofurioso (イタリア語)Furioseta (スペイン語)</string>
+		<string>Brute Bonnet</string>
 		<key>shortcut</key>
 		<string>あらぶるたけ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Flutter Mane (英語)Crinealato (イタリア語)Melenaleteo (スペイン語)</string>
+		<string>Flutter Mane</string>
 		<key>shortcut</key>
 		<string>はばたくかみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Slither Wing (英語)Alirasenti (イタリア語)Reptalada (スペイン語)</string>
+		<string>Slither Wing</string>
 		<key>shortcut</key>
 		<string>ちをはうはね</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Sandy Shocks (英語)Peldisabbia (イタリア語)Pelarena (スペイン語)</string>
+		<string>Sandy Shocks</string>
 		<key>shortcut</key>
 		<string>すなのけがわ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Iron Treads (英語)Solcoferro (イタリア語)Ferrodada (スペイン語)</string>
+		<string>Iron Treads</string>
 		<key>shortcut</key>
 		<string>てつのわだち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Iron Bundle (英語)Saccoferreo (イタリア語)Ferrosaco (スペイン語)</string>
+		<string>Iron Bundle</string>
 		<key>shortcut</key>
 		<string>てつのつつみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Iron Hands (英語)Manoferrea (イタリア語)Ferropalmas (スペイン語)</string>
+		<string>Iron Hands</string>
 		<key>shortcut</key>
 		<string>てつのかいな</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Iron Jugulis (英語)Colloferreo (イタリア語)Ferrocuello (スペイン語)</string>
+		<string>Iron Jugulis</string>
 		<key>shortcut</key>
 		<string>てつのこうべ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Iron Moth (英語)Falenaferrea (イタリア語)Ferropolilla (スペイン語)</string>
+		<string>Iron Moth</string>
 		<key>shortcut</key>
 		<string>てつのどくが</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Iron Thorns (英語)Spineferree (イタリア語)Ferropúas (スペイン語)</string>
+		<string>Iron Thorns</string>
 		<key>shortcut</key>
 		<string>てつのいばら</string>
 	</dict>
@@ -6028,13 +6028,13 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Roaring Moon (英語)Lunaruggente (イタリア語)Bramaluna (スペイン語)</string>
+		<string>Roaring Moon</string>
 		<key>shortcut</key>
 		<string>とどろくつき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Iron Valiant (英語)Eroeferreo (イタリア語)Ferropaladín (スペイン語)</string>
+		<string>Iron Valiant</string>
 		<key>shortcut</key>
 		<string>てつのぶじん</string>
 	</dict>
@@ -6052,13 +6052,13 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Walking Wake (英語)Acquecrespe (イタリア語)Ondulagua (スペイン語)</string>
+		<string>Walking Wake</string>
 		<key>shortcut</key>
 		<string>うねるみなも</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Iron Leaves (英語)Fogliaferrea (イタリア語)Ferroverdor (スペイン語)</string>
+		<string>Iron Leaves</string>
 		<key>shortcut</key>
 		<string>てつのいさは</string>
 	</dict>
@@ -6118,25 +6118,25 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Gouging Fire (英語)Vampeaguzze (イタリア語)Flamariete (スペイン語)</string>
+		<string>Gouging Fire</string>
 		<key>shortcut</key>
 		<string>うがつほむら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Raging Bolt (英語)Furiatonante (イタリア語)Electrofuria (スペイン語)</string>
+		<string>Raging Bolt</string>
 		<key>shortcut</key>
 		<string>たけるらいこ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Iron Boulder (英語)Massoferreo (イタリア語)Ferromole (スペイン語)</string>
+		<string>Iron Boulder</string>
 		<key>shortcut</key>
 		<string>てつのいわお</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>Iron Crown (英語)Capoferreo (イタリア語)Ferrotesta (スペイン語)</string>
+		<string>Iron Crown</string>
 		<key>shortcut</key>
 		<string>てつのかしら</string>
 	</dict>

@@ -769,7 +769,7 @@
 769p	Sandygast	固有名詞	
 770p	Palossand	固有名詞	
 771p	Pyukumuku	固有名詞	
-772p	Type: Null (英語)Tipo Zero (イタリア語)Código Cero (スペイン語)	固有名詞	
+772p	Type: Null	固有名詞	
 773p	Silvally	固有名詞	
 774p	Minior	固有名詞	
 775p	Komala	固有名詞	
@@ -981,18 +981,18 @@
 981p	Farigiraf	固有名詞	
 982p	Dudunsparce	固有名詞	
 983p	Kingambit	固有名詞	
-984p	Great Tusk (英語)Grandizanne (イタリア語)Colmilargo (スペイン語)	固有名詞	
-985p	Scream Tail (英語)Codaurlante (イタリア語)Colagrito (スペイン語)	固有名詞	
-986p	Brute Bonnet (英語)Fungofurioso (イタリア語)Furioseta (スペイン語)	固有名詞	
-987p	Flutter Mane (英語)Crinealato (イタリア語)Melenaleteo (スペイン語)	固有名詞	
-988p	Slither Wing (英語)Alirasenti (イタリア語)Reptalada (スペイン語)	固有名詞	
-989p	Sandy Shocks (英語)Peldisabbia (イタリア語)Pelarena (スペイン語)	固有名詞	
-990p	Iron Treads (英語)Solcoferro (イタリア語)Ferrodada (スペイン語)	固有名詞	
-991p	Iron Bundle (英語)Saccoferreo (イタリア語)Ferrosaco (スペイン語)	固有名詞	
-992p	Iron Hands (英語)Manoferrea (イタリア語)Ferropalmas (スペイン語)	固有名詞	
-993p	Iron Jugulis (英語)Colloferreo (イタリア語)Ferrocuello (スペイン語)	固有名詞	
-994p	Iron Moth (英語)Falenaferrea (イタリア語)Ferropolilla (スペイン語)	固有名詞	
-995p	Iron Thorns (英語)Spineferree (イタリア語)Ferropúas (スペイン語)	固有名詞	
+984p	Great Tusk	固有名詞	
+985p	Scream Tail	固有名詞	
+986p	Brute Bonnet	固有名詞	
+987p	Flutter Mane	固有名詞	
+988p	Slither Wing	固有名詞	
+989p	Sandy Shocks	固有名詞	
+990p	Iron Treads	固有名詞	
+991p	Iron Bundle	固有名詞	
+992p	Iron Hands	固有名詞	
+993p	Iron Jugulis	固有名詞	
+994p	Iron Moth	固有名詞	
+995p	Iron Thorns	固有名詞	
 996p	Frigibax	固有名詞	
 997p	Arctibax	固有名詞	
 998p	Baxcalibur	固有名詞	
@@ -1002,12 +1002,12 @@
 1002p	Chien-Pao	固有名詞	
 1003p	Ting-Lu	固有名詞	
 1004p	Chi-Yu	固有名詞	
-1005p	Roaring Moon (英語)Lunaruggente (イタリア語)Bramaluna (スペイン語)	固有名詞	
-1006p	Iron Valiant (英語)Eroeferreo (イタリア語)Ferropaladín (スペイン語)	固有名詞	
+1005p	Roaring Moon	固有名詞	
+1006p	Iron Valiant	固有名詞	
 1007p	Koraidon	固有名詞	
 1008p	Miraidon	固有名詞	
-1009p	Walking Wake (英語)Acquecrespe (イタリア語)Ondulagua (スペイン語)	固有名詞	
-1010p	Iron Leaves (英語)Fogliaferrea (イタリア語)Ferroverdor (スペイン語)	固有名詞	
+1009p	Walking Wake	固有名詞	
+1010p	Iron Leaves	固有名詞	
 1011p	Dipplin	固有名詞	
 1012p	Poltchageist	固有名詞	
 1013p	Sinistcha	固有名詞	
@@ -1017,9 +1017,9 @@
 1017p	Ogerpon	固有名詞	
 1018p	Archaludon	固有名詞	
 1019p	Hydrapple	固有名詞	
-1020p	Gouging Fire (英語)Vampeaguzze (イタリア語)Flamariete (スペイン語)	固有名詞	
-1021p	Raging Bolt (英語)Furiatonante (イタリア語)Electrofuria (スペイン語)	固有名詞	
-1022p	Iron Boulder (英語)Massoferreo (イタリア語)Ferromole (スペイン語)	固有名詞	
-1023p	Iron Crown (英語)Capoferreo (イタリア語)Ferrotesta (スペイン語)	固有名詞	
+1020p	Gouging Fire	固有名詞	
+1021p	Raging Bolt	固有名詞	
+1022p	Iron Boulder	固有名詞	
+1023p	Iron Crown	固有名詞	
 1024p	Terapagos	固有名詞	
 1025p	Pecharunt	固有名詞	
