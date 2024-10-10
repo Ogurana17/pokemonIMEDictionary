@@ -5,13 +5,32 @@
 ポケモンの名前を簡単に出せるようにする辞書。
 `特性`,`木の実`,`アイテム`,`技`,`性格`も用意しました。
 
-Googleスプレッドシートで強引に作成しています。
-<https://drive.google.com/drive/folders/1oKhRNsdcKU27HQ4VobmATZQvXWYdvYtm>
+Python3系で作成しています。
+pyファイルを実行する場合は、`BeautifulSoup`の導入が必要です。ターミナルで以下を実行してください。
 
-## 導入
+```terminal
+pip install requests beautifulsoup4
+```
+
+## 辞書の導入
 
 1. <https://github.com/Ogurana17/pokemonIMEDictionary/archive/refs/heads/main.zip>からダウンロード
 2. ダウンロードしたファイルを解凍します。
+
+### 略称説明
+
+略称|意味
+---|---
+Ability|特性
+Berry|きのみ
+Item|道具
+Move|わざ
+Name|ポケモン名
+Nature|性格
+Hira|ひらがな
+Kata|カタカナ
+Eng|英語
+Num|図鑑番号
 
 ### Google 日本語入力
 
@@ -45,8 +64,8 @@ Googleスプレッドシートで強引に作成しています。
 | ----- | ---- |
 | ひらがな  | カタカナ |
 | ひらがな  | 英語   |
-| 図鑑No. | カタカナ |
-| 図鑑No. | 英語   |
+| 図鑑番号 | カタカナ |
+| 図鑑番号 | 英語   |
 
 #### 例
 
