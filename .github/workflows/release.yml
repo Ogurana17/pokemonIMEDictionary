@@ -1,0 +1,35 @@
+name: Release on merge
+
+on:
+  push:
+    branches:
+      - main  # mainブランチにプッシュされた時にトリガー
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+    # 1. リポジトリのチェックアウト
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    # 2. リリースノートの自動生成
+    - name: Generate release notes
+      id: release_notes
+      uses: softprops/action-gh-release@v1
+      with:
+        generate_release_notes: true
+
+    # 3. Pythonファイル以外のファイルをZIPで圧縮
+    - name: Create a ZIP archive of non-Python files
+      run: |
+        zip -r non_python_files.zip $(find . -type f ! -name "*.py")
+    
+    # 4. リリースを作成し、ZIPファイルをアップロード
+    - name: Create GitHub Release
+      uses: softprops/action-gh-release@v1
+      with:
+        files: non_python_files.zip
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub Actionsのデフォルトトークンを使用
