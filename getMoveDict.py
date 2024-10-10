@@ -71,9 +71,10 @@ def write_dictionary_to_file(file_type, dict_data, dir_path, file_path):
             f.write(footer)
 
 # 外国語名のリストから辞書を生成する関数
+# それぞれの辞書を作成して返す
 def generate_dictionaries(foreign_names_list):
-    katakana_to_hiragana_dict = {}
-    English_to_hiragana_dict = {}
+    katakana_to_hiragana_dict = {}  # ひらがなとカタカナの対応辞書
+    English_to_hiragana_dict = {}   # ひらがなと英語名の対応辞書
 
     for name, english_name in foreign_names_list:
         hiragana = katakana_to_hiragana(name)  # カタカナからひらがなに変換
@@ -84,19 +85,19 @@ def generate_dictionaries(foreign_names_list):
 
 # スクレイピングしてポケモンの外国語名一覧を取得する関数
 def scrape_foreign_names(url, class_name):
-    response = requests.get(url)
-    soup = BeautifulSoup(response.content, "html.parser")
+    response = requests.get(url)  # URLからデータを取得
+    soup = BeautifulSoup(response.content, "html.parser")  # BeautifulSoupでHTML解析
 
     foreign_names_list = []
-    tables = soup.find_all("table", {"class": class_name})
+    tables = soup.find_all("table", {"class": class_name})  # 指定されたクラス名のテーブルを取得
 
     for table in tables:
-        rows = table.find_all("tr")[1:]  # ヘッダーをスキップ
+        rows = table.find_all("tr")[1:]  # テーブルの各行（ヘッダー行をスキップ）
         for row in rows:
             cols = row.find_all("td")
             if len(cols) >= 3:
-                japanese_name = cols[0].text.strip()
-                english_name = cols[1].text.strip()
+                japanese_name = cols[0].text.strip()  # カタカナの名前
+                english_name = cols[1].text.strip()  # 英語の名前
                 foreign_names_list.append((japanese_name, english_name))
 
     return foreign_names_list
