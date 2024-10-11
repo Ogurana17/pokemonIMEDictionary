@@ -1,72 +1,68 @@
-name: Auto Tag and Release
+name: Create release tag and release note.
 
 on:
-  push:
+  pull_request:
+    types: [closed]
     branches:
-      - main  # メインブランチがマージされたときに実行
-
-permissions:
-  contents: write
+      - main
 
 jobs:
-  tag_and_release:
+  create-release-tag:
+    # PRがマージされたときのみ実行
+    if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
 
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      TZ: "Asia/Tokyo"
+
     steps:
-      # 1. コードをチェックアウト
-      - name: Checkout code
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      # 2. タグのバージョンを自動生成
-      - name: Bump version and create tag
-        id: tag_version
+      # 前回のリリースタグを取得する
+      - name: Get previous tag
+        id: pre_tag
         run: |
-          # 直前のタグを取得
-          last_tag=$(git describe --tags --abbrev=0)
-          
-          # タグが存在しない場合、デフォルトのv0.0.0にする
-          if [ -z "$last_tag" ]; then
-            last_tag="v0.0.0"
+          echo "pre_tag=$(curl -H 'Accept: application/vnd.github.v3+json' -H 'Authorization: token ${{ secrets.GITHUB_TOKEN }}' https://api.github.com/repos/${{ github.repository }}/releases/latest | jq -r .tag_name)" >> $GITHUB_OUTPUT
+
+      # タグを生成する 「{YYYY.MM.DD}-{当日リリース回数}」
+      - name: Generate tag
+        id: release_tag
+        run: |
+          today=$(date +'%Y.%m.%d')
+          pre_release_date=$(echo ${{ steps.pre_tag.outputs.pre_tag }} | awk -F'-' '{print $1}')
+          pre_release_count=$(echo ${{ steps.pre_tag.outputs.pre_tag }} | awk -F'-' '{print $2}')
+          if [[ ! $pre_release_date = $today ]]; then
+            pre_release_count=0
           fi
+          echo "release_tag=$today-$(($pre_release_count + 1))" >> $GITHUB_OUTPUT
 
-          # バージョン番号をインクリメント (パッチバージョンを上げる例)
-          IFS='.' read -r -a version_parts <<< "${last_tag#v}"
-          major="${version_parts[0]}"
-          minor="${version_parts[1]}"
-          patch="${version_parts[2]}"
-          new_patch=$((patch + 1))
-          new_tag="v$major.$minor.$new_patch"
-
-          # 新しいタグを作成して、リモートにプッシュ
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions[bot]"
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-          git tag "$new_tag"
-          git push origin "$new_tag"
-
-          # 新しいタグ名を出力
-          echo "::set-output name=NEW_TAG::$new_tag"
-
-      # 3. タグに基づいてリリースを作成
-      - name: Create GitHub Release
-        uses: actions/create-release@v1
-        with:
-          tag_name: ${{ steps.tag_version.outputs.NEW_TAG }}  # 生成された新しいタグを使用
-          release_name: Release ${{ steps.tag_version.outputs.NEW_TAG }}
-          body: |
-            Automated release with new tag ${{ steps.tag_version.outputs.NEW_TAG }}.
-          draft: false
-          prerelease: false
-
-      # 4. ZIPファイルを作成し、リリースに添付
-      - name: Zip non-py files
+      # PRのDescriptionを取得しマークダウン形式に変換する
+      - name: Get pr description
+        id: pr_description
         run: |
-          zip -r release-assets.zip $(find . -type f ! -name '*.py')
+          echo "pr_description=$(curl -H 'Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' 'https://api.github.com/repos/${{ github.repository }}/pulls/${{github.event.pull_request.number}}' | jq .body | sed 's/"//g' | awk '{if ($0 == "null") print ""; else print}')" >> $GITHUB_OUTPUT
 
-      - name: Upload release assets
-        uses: actions/upload-release-asset@v1
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./release-assets.zip
-          asset_name: release-assets.zip
-          asset_content_type: application/zip
+      # 前回リリースからの差分をもとに、リリースノートの本文を生成する
+      - name: Generate release note changes
+        id: release_note
+        run: |
+          echo "release_note=$(curl -X POST -H 'Accept: application/vnd.github.v3+json' -H 'Authorization: token ${{ secrets.GITHUB_TOKEN }}' https://api.github.com/repos/${{ github.repository }}/releases/generate-notes -d '{"tag_name":"${{ steps.release_tag.outputs.release_tag }}", "previous_tag_name":"${{ steps.pre_tag.outputs.pre_tag }}", "target_commitish":"main"}' | jq .body | sed 's/"//g')" >> $GITHUB_OUTPUT
+
+      # タグを切り、リリースノートを作成する
+      - name: Create Release
+        run: |
+          response=$(curl -X POST \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -d "{ \"tag_name\": \"${{ steps.release_tag.outputs.release_tag }}\", \"target_commitish\": \"main\", \"name\": \"${{ steps.release_tag.outputs.release_tag }}\", \"body\": \"${{steps.pr_description.outputs.pr_description}} ${{ steps.release_note.outputs.release_note }}\"}" \
+            -w "%{http_code}" \
+            -o response_body.txt \
+            https://api.github.com/repos/${{ github.repository }}/releases)
+            status_code=$(tail -n1 <<< "$response")
+            echo "Status Code: $status_code"
+            body=$(cat response_body.txt)
+            echo "Response Body: $body"
+            if [ $status_code -ne 201 ]; then
+              echo "Failed to create release"
+              exit 1
+            fi
