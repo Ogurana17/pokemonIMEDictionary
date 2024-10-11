@@ -1,0 +1,18 @@
+# PRのラベルに応じてリリースノートのカテゴリを分ける
+changelog:
+  exclude:
+    authors:
+      - github-actions
+  categories:
+    - title: New Features
+      labels:
+        - "feature"
+    - title: Bug Fixes
+      labels:
+        - "bug"
+    - title: Hot Fixes
+      labels:
+        - "hotfix"
+    - title: Other Changes
+      labels:
+        - "*"
