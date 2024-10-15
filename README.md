@@ -6,10 +6,10 @@
 `特性`,`木の実`,`アイテム`,`技`,`性格`も用意しました。
 
 Python3系で作成しています。
-pyファイルを実行する場合は、`BeautifulSoup`の導入が必要です。ターミナルで以下を実行してください。
+**pyファイルを実行する場合**は、`requests`と`BeautifulSoup`と`jaconv`の導入が必要です。ターミナルで以下を実行してください。
 
 ```terminal
-pip install requests beautifulsoup4
+pip install requests beautifulsoup4 jaconv
 ```
 
 ## 辞書の導入

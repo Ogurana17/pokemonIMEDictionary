@@ -82,7 +82,7 @@
 りゅうのいかり	Dragon Rage	固有名詞	
 ほのおのうず	Fire Spin	固有名詞	
 でんきしょっく	Thunder Shock	固有名詞	
-いちぜろまんぼると	Thunderbolt	固有名詞	
+じゅうまんぼると	Thunderbolt	固有名詞	
 でんじは	Thunder Wave	固有名詞	
 かみなり	Thunder	固有名詞	
 いわおとし	Rock Throw	固有名詞	
@@ -646,7 +646,7 @@
 うたかたのありあ	Sparkling Aria	固有名詞	
 あいすはんまー	Ice Hammer	固有名詞	
 ふらわーひーる	Floral Healing	固有名詞	
-いちぜろまんばりき	High Horsepower	固有名詞	
+じゅうまんばりき	High Horsepower	固有名詞	
 ちからをすいとる	Strength Sap	固有名詞	
 そーらーぶれーど	Solar Blade	固有名詞	
 このは	Leafage	固有名詞	
@@ -682,7 +682,7 @@
 らいとにんぐさーふらいど	Stoked Sparksurfer	固有名詞	
 ほんきをだす こうげき	Pulverizing Pancake	固有名詞	
 ないんえぼるぶーすと	Extreme Evoboost	固有名詞	
-おりじんずすーぱーのぶぁ	Genesis Supernova	固有名詞	
+おりじんずすーぱーのゔぁ	Genesis Supernova	固有名詞	
 とらっぷしぇる	Shell Trap	固有名詞	
 ふるーるかのん	Fleur Cannon	固有名詞	
 さいこふぁんぐ	Psychic Fangs	固有名詞	
@@ -698,7 +698,7 @@
 びりびりちくちく	Zing Zap	固有名詞	
 しぜんのいかり	Nature’s Madness	固有名詞	
 まるちあたっく	Multi-Attack	固有名詞	
-いちぜろぜろぜろまんぼると	10,000,000 Volt Thunderbolt	固有名詞	
+せんまんぼると	10,000,000 Volt Thunderbolt	固有名詞	
 ふぉとんげいざー	Photon Geyser	固有名詞	
 びっくりへっど	Mind Blown	固有名詞	
 ぷらずまふぃすと	Plasma Fists	固有名詞	

@@ -2970,7 +2970,7 @@
 		<key>phrase</key>
 		<string>あらびきヴルスト</string>
 		<key>shortcut</key>
-		<string>あらびきぶるすと</string>
+		<string>あらびきゔるすと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -4764,7 +4764,7 @@
 		<key>phrase</key>
 		<string>みがわりおまもり4</string>
 		<key>shortcut</key>
-		<string>みがわりおまもりし</string>
+		<string>みがわりおまもりよん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -4794,7 +4794,7 @@
 		<key>phrase</key>
 		<string>あんぜんおまもり4</string>
 		<key>shortcut</key>
-		<string>あんぜんおまもりし</string>
+		<string>あんぜんおまもりよん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -4824,7 +4824,7 @@
 		<key>phrase</key>
 		<string>けんこうおまもり4</string>
 		<key>shortcut</key>
-		<string>けんこうおまもりし</string>
+		<string>けんこうおまもりよん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>

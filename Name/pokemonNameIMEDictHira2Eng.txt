@@ -770,7 +770,7 @@
 しろですな	Palossand	固有名詞	
 なまこぶし	Pyukumuku	固有名詞	
 たいぷ:ぬる	Type: Null	固有名詞	
-しるぶぁでぃ	Silvally	固有名詞	
+しるゔぁでぃ	Silvally	固有名詞	
 めての	Minior	固有名詞	
 ねっこあら	Komala	固有名詞	
 ばくがめす	Turtonator	固有名詞	
@@ -927,7 +927,7 @@
 ばうっつぇる	Dachsbun	固有名詞	
 みにーぶ	Smoliv	固有名詞	
 おりーにょ	Dolliv	固有名詞	
-おりーぶぁ	Arboliva	固有名詞	
+おりーゔぁ	Arboliva	固有名詞	
 いきりんこ	Squawkabilly	固有名詞	
 こじお	Nacli	固有名詞	
 じおづむ	Naclstack	固有名詞	
@@ -949,7 +949,7 @@
 りくくらげ	Toedscruel	固有名詞	
 がけがに	Klawf	固有名詞	
 かぷさいじ	Capsakid	固有名詞	
-すこぶぃらん	Scovillain	固有名詞	
+すこゔぃらん	Scovillain	固有名詞	
 しがろこ	Rellor	固有名詞	
 べらかす	Rabsca	固有名詞	
 ひらひな	Flittle	固有名詞	

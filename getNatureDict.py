@@ -1,51 +1,52 @@
-import requests, os
+import requests, os, jaconv, re
 from bs4 import BeautifulSoup
 
-# カタカナからひらがなへの変換辞書（小文字含む）
-# 各カタカナ文字を対応するひらがなに変換するための辞書
-katakana_to_hiragana_dict = {
-    "ア": "あ", "イ": "い", "ウ": "う", "エ": "え", "オ": "お",
-    "カ": "か", "キ": "き", "ク": "く", "ケ": "け", "コ": "こ",
-    "サ": "さ", "シ": "し", "ス": "す", "セ": "せ", "ソ": "そ",
-    "タ": "た", "チ": "ち", "ツ": "つ", "テ": "て", "ト": "と",
-    "ナ": "な", "ニ": "に", "ヌ": "ぬ", "ネ": "ね", "ノ": "の",
-    "ハ": "は", "ヒ": "ひ", "フ": "ふ", "ヘ": "へ", "ホ": "ほ",
-    "マ": "ま", "ミ": "み", "ム": "む", "メ": "め", "モ": "も",
-    "ヤ": "や", "ユ": "ゆ", "ヨ": "よ",
-    "ラ": "ら", "リ": "り", "ル": "る", "レ": "れ", "ロ": "ろ",
-    "ワ": "わ", "ヲ": "を", "ン": "ん",
-    "ガ": "が", "ギ": "ぎ", "グ": "ぐ", "ゲ": "げ", "ゴ": "ご",
-    "ザ": "ざ", "ジ": "じ", "ズ": "ず", "ゼ": "ぜ", "ゾ": "ぞ",
-    "ダ": "だ", "ヂ": "ぢ", "ヅ": "づ", "デ": "で", "ド": "ど",
-    "バ": "ば", "ビ": "び", "ブ": "ぶ", "ベ": "べ", "ボ": "ぼ",
-    "パ": "ぱ", "ピ": "ぴ", "プ": "ぷ", "ペ": "ぺ", "ポ": "ぽ",
-    "ヴ": "ぶ", "ー": "ー", "ァ": "ぁ", "ィ": "ぃ", "ゥ": "ぅ", "ェ": "ぇ", "ォ": "ぉ",
-    "ッ": "っ", "ャ": "ゃ", "ュ": "ゅ", "ョ": "ょ", "ヮ": "ゎ"
+# 数字を漢数字に変換するマッピング
+kanji_digits = ["", "いち", "に", "さん", "よん", "ご", "ろく", "なな", "はち", "きゅう"]
+kanji_units = ["", "じゅう", "ひゃく", "せん"]
+large_units = ["", "まん", "おく"]
+
+# アルファベットをひらがなに変換するマッピング
+alphabet_hiragana = {
+    'A': 'えー', 'B': 'びー', 'C': 'しー', 'D': 'でぃー', 'E': 'いー', 'F': 'えふ',
+    'G': 'じー', 'H': 'えいち', 'I': 'あい', 'J': 'じぇい', 'K': 'けー', 'L': 'える',
+    'M': 'えむ', 'N': 'えぬ', 'O': 'おー', 'P': 'ぴー', 'Q': 'きゅー', 'R': 'あーる',
+    'S': 'えす', 'T': 'てぃー', 'U': 'ゆー', 'V': 'ぶい', 'W': 'だぶりゅー', 'X': 'えっくす',
+    'Y': 'わい', 'Z': 'ぜっと'
 }
 
-# 英数字からひらがな読みへの変換辞書
-# 各英数字をひらがな読みの文字列に変換するための辞書
-alnum_to_hiragana_dict = {
-    "0": "ぜろ", "1": "いち", "2": "に", "3": "さん", "4": "し",
-    "5": "ご", "6": "ろく", "7": "なな", "8": "はち", "9": "きゅう",
-    "A": "えー", "B": "びー", "C": "しー", "D": "でぃー", "E": "いー",
-    "F": "えふ", "G": "じー", "H": "えいち", "I": "あい", "J": "じぇー",
-    "K": "けー", "L": "える", "M": "えむ", "N": "えぬ", "O": "おー",
-    "P": "ぴー", "Q": "きゅー", "R": "あーる", "S": "えす", "T": "てぃー",
-    "U": "ゆー", "V": "ぶい", "W": "だぶりゅー", "X": "えっくす", "Y": "わい", "Z": "ぜっと"
-}
+# 数字を日本語の読み方に変換する関数
+def convert_number_to_japanese(num):
+    num_str = str(num)
+    length = len(num_str)
+    result = []
 
-# テキスト中のカタカナをひらがなに、英数字をひらがな読みへ変換する関数
+    for i, digit in enumerate(num_str):
+        digit = int(digit)
+        unit_position = (length - i - 1) % 4
+        large_unit_position = (length - i - 1) // 4
+
+        if digit == 0:
+            continue  # 0はその桁でスキップ
+
+        if digit > 1 or unit_position == 0:  # 「いちじゅう」「いちひゃく」とならないように
+            result.append(kanji_digits[digit])
+
+        result.append(kanji_units[unit_position])
+
+        if unit_position == 0:  # まん、億などの大きい単位を付加
+            result.append(large_units[large_unit_position])
+
+    return ''.join(result)
+
+# カタカナと数字をひらがなに変換する関数
 def katakana_to_hiragana(text):
+    # 数字のパターンを検出し、対応する日本語に変換
+    text = re.sub(r'\d+', lambda x: convert_number_to_japanese(int(x.group())), text)
+    # アルファベットをひらがなに変換
+    text = ''.join([alphabet_hiragana.get(char.upper(), char) for char in text])
     # カタカナをひらがなに変換
-    for katakana, hiragana in katakana_to_hiragana_dict.items():
-        text = text.replace(katakana, hiragana)
-
-    # 英数字をひらがな読みへ変換
-    for alnum, hiragana in alnum_to_hiragana_dict.items():
-        text = text.replace(alnum, hiragana)
-
-    return text
+    return jaconv.kata2hira(text)
 
 # 辞書データを書き出す共通関数（TXT/Plist両対応）
 # file_typeに応じてテキストまたはPlist形式で辞書を書き出す

@@ -131,7 +131,7 @@
 いやしのこころ	Healer	固有名詞	
 ふれんどがーど	Friend Guard	固有名詞	
 くだけるよろい	Weak Armor	固有名詞	
-へぶぃめたる	Heavy Metal	固有名詞	
+へゔぃめたる	Heavy Metal	固有名詞	
 らいとめたる	Light Metal	固有名詞	
 まるちすけいる	Multiscale	固有名詞	
 どくぼうそう	Toxic Boost	固有名詞	
