@@ -510,7 +510,7 @@
 		<key>phrase</key>
 		<string>10まんボルト</string>
 		<key>shortcut</key>
-		<string>いちぜろまんぼると</string>
+		<string>じゅうまんぼると</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -3342,7 +3342,7 @@
 		<key>phrase</key>
 		<string>Vジェネレート</string>
 		<key>shortcut</key>
-		<string>ぶいじぇねれーと</string>
+		<string>Vじぇねれーと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -3870,7 +3870,7 @@
 		<key>phrase</key>
 		<string>DDラリアット</string>
 		<key>shortcut</key>
-		<string>でぃーでぃーらりあっと</string>
+		<string>DDらりあっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -3894,7 +3894,7 @@
 		<key>phrase</key>
 		<string>10まんばりき</string>
 		<key>shortcut</key>
-		<string>いちぜろまんばりき</string>
+		<string>じゅうまんばりき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -4110,7 +4110,7 @@
 		<key>phrase</key>
 		<string>オリジンズスーパーノヴァ</string>
 		<key>shortcut</key>
-		<string>おりじんずすーぱーのぶぁ</string>
+		<string>おりじんずすーぱーのゔぁ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -4206,7 +4206,7 @@
 		<key>phrase</key>
 		<string>1000まんボルト</string>
 		<key>shortcut</key>
-		<string>いちぜろぜろぜろまんぼると</string>
+		<string>せんまんぼると</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -4662,7 +4662,7 @@
 		<key>phrase</key>
 		<string>Gのちから</string>
 		<key>shortcut</key>
-		<string>じーのちから</string>
+		<string>Gのちから</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
