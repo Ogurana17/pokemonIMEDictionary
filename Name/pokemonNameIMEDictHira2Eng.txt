@@ -471,7 +471,7 @@
 ぐれいしあ	Glaceon	固有名詞	
 ぐらいおん	Gliscor	固有名詞	
 まんむー	Mamoswine	固有名詞	
-ぽりごんZ	Porygon-Z	固有名詞	
+ぽりごんぜっと	Porygon-Z	固有名詞	
 えるれいど	Gallade	固有名詞	
 だいのーず	Probopass	固有名詞	
 よのわーる	Dusknoir	固有名詞	

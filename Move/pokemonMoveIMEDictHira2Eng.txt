@@ -554,7 +554,7 @@
 こーるどふれあ	Ice Burn	固有名詞	
 ばーくあうと	Snarl	固有名詞	
 つららおとし	Icicle Crash	固有名詞	
-Vじぇねれーと	V-create	固有名詞	
+ぶいじぇねれーと	V-create	固有名詞	
 くろすふれいむ	Fusion Flare	固有名詞	
 くろすさんだー	Fusion Bolt	固有名詞	
 ふらいんぐぷれす	Flying Press	固有名詞	
@@ -642,7 +642,7 @@ Vじぇねれーと	V-create	固有名詞
 であいがしら	First Impression	固有名詞	
 とーちか	Baneful Bunker	固有名詞	
 かげぬい	Spirit Shackle	固有名詞	
-DDらりあっと	Darkest Lariat	固有名詞	
+でぃーでぃーらりあっと	Darkest Lariat	固有名詞	
 うたかたのありあ	Sparkling Aria	固有名詞	
 あいすはんまー	Ice Hammer	固有名詞	
 ふらわーひーる	Floral Healing	固有名詞	
@@ -774,7 +774,7 @@ DDらりあっと	Darkest Lariat	固有名詞
 きょだいげんすい	G-Max Depletion	固有名詞	
 きょだいいちげき	G-Max One Blow	固有名詞	
 きょだいれんげき	G-Max Rapid Flow	固有名詞	
-Gのちから	Grav Apple	固有名詞	
+じーのちから	Grav Apple	固有名詞	
 あいあんろーらー	Steel Roller	固有名詞	
 あすとらるびっと	Astral Barrage	固有名詞	
 あんこくきょうだ	Wicked Blow	固有名詞	

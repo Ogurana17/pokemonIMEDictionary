@@ -1008,13 +1008,13 @@
 		<key>phrase</key>
 		<string>Charizardite X</string>
 		<key>shortcut</key>
-		<string>りざーどないとX</string>
+		<string>りざーどないとえっくす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Charizardite Y</string>
 		<key>shortcut</key>
-		<string>りざーどないとY</string>
+		<string>りざーどないとわい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1026,13 +1026,13 @@
 		<key>phrase</key>
 		<string>Mewtwonite X</string>
 		<key>shortcut</key>
-		<string>みゅうつないとX</string>
+		<string>みゅうつないとえっくす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Mewtwonite Y</string>
 		<key>shortcut</key>
-		<string>みゅうつないとY</string>
+		<string>みゅうつないとわい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1266,211 +1266,211 @@
 		<key>phrase</key>
 		<string>Normalium Z</string>
 		<key>shortcut</key>
-		<string>のーまるZ</string>
+		<string>のーまるぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Firium Z</string>
 		<key>shortcut</key>
-		<string>ほのおZ</string>
+		<string>ほのおぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Waterium Z</string>
 		<key>shortcut</key>
-		<string>みずZ</string>
+		<string>みずぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Electrium Z</string>
 		<key>shortcut</key>
-		<string>でんきZ</string>
+		<string>でんきぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Grassium Z</string>
 		<key>shortcut</key>
-		<string>くさZ</string>
+		<string>くさぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Icium Z</string>
 		<key>shortcut</key>
-		<string>こおりZ</string>
+		<string>こおりぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Fightinium Z</string>
 		<key>shortcut</key>
-		<string>かくとうZ</string>
+		<string>かくとうぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Poisonium Z</string>
 		<key>shortcut</key>
-		<string>どくZ</string>
+		<string>どくぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Groundium Z</string>
 		<key>shortcut</key>
-		<string>じめんZ</string>
+		<string>じめんぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Flyinium Z</string>
 		<key>shortcut</key>
-		<string>ひこうZ</string>
+		<string>ひこうぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Psychium Z</string>
 		<key>shortcut</key>
-		<string>えすぱーZ</string>
+		<string>えすぱーぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Buginium Z</string>
 		<key>shortcut</key>
-		<string>むしZ</string>
+		<string>むしぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Rockium Z</string>
 		<key>shortcut</key>
-		<string>いわZ</string>
+		<string>いわぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Ghostium Z</string>
 		<key>shortcut</key>
-		<string>ごーすとZ</string>
+		<string>ごーすとぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Dragonium Z</string>
 		<key>shortcut</key>
-		<string>どらごんZ</string>
+		<string>どらごんぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Darkinium Z</string>
 		<key>shortcut</key>
-		<string>あくZ</string>
+		<string>あくぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Steelium Z</string>
 		<key>shortcut</key>
-		<string>はがねZ</string>
+		<string>はがねぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Fairium Z</string>
 		<key>shortcut</key>
-		<string>ふぇありーZ</string>
+		<string>ふぇありーぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Pikanium Z</string>
 		<key>shortcut</key>
-		<string>ぴかちゅうZ</string>
+		<string>ぴかちゅうぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Pikashunium Z</string>
 		<key>shortcut</key>
-		<string>さとぴかZ</string>
+		<string>さとぴかぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Aloraichium Z</string>
 		<key>shortcut</key>
-		<string>あろらいZ</string>
+		<string>あろらいぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Eevium Z</string>
 		<key>shortcut</key>
-		<string>いーぶいZ</string>
+		<string>いーぶいぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Snorlium Z</string>
 		<key>shortcut</key>
-		<string>かびごんZ</string>
+		<string>かびごんぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Mewnium Z</string>
 		<key>shortcut</key>
-		<string>みゅうZ</string>
+		<string>みゅうぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Decidium Z</string>
 		<key>shortcut</key>
-		<string>じゅないぱーZ</string>
+		<string>じゅないぱーぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Incinium Z</string>
 		<key>shortcut</key>
-		<string>がおがえんZ</string>
+		<string>がおがえんぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Primarium Z</string>
 		<key>shortcut</key>
-		<string>あしれーぬZ</string>
+		<string>あしれーぬぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Tapunium Z</string>
 		<key>shortcut</key>
-		<string>かぷZ</string>
+		<string>かぷぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Marshadium Z</string>
 		<key>shortcut</key>
-		<string>まーしゃどーZ</string>
+		<string>まーしゃどーぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Solganium Z</string>
 		<key>shortcut</key>
-		<string>そるがれおZ</string>
+		<string>そるがれおぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Lunalium Z</string>
 		<key>shortcut</key>
-		<string>るなあーらZ</string>
+		<string>るなあーらぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Ultranecrozium Z</string>
 		<key>shortcut</key>
-		<string>うるとらねくろZ</string>
+		<string>うるとらねくろぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Mimikium Z</string>
 		<key>shortcut</key>
-		<string>みみっきゅZ</string>
+		<string>みみっきゅぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Lycanium Z</string>
 		<key>shortcut</key>
-		<string>るがるがんZ</string>
+		<string>るがるがんぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Kommonium Z</string>
 		<key>shortcut</key>
-		<string>じゃららんがZ</string>
+		<string>じゃららんがぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2532,31 +2532,31 @@
 		<key>phrase</key>
 		<string>BridgeMail S</string>
 		<key>shortcut</key>
-		<string>ぶりっじめーるS</string>
+		<string>ぶりっじめーるえす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>BridgeMail D</string>
 		<key>shortcut</key>
-		<string>ぶりっじめーるH</string>
+		<string>ぶりっじめーるえいち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>BridgeMail T</string>
 		<key>shortcut</key>
-		<string>ぶりっじめーるC</string>
+		<string>ぶりっじめーるしー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>BridgeMail V</string>
 		<key>shortcut</key>
-		<string>ぶりっじめーるV</string>
+		<string>ぶりっじめーるぶい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>BridgeMail M</string>
 		<key>shortcut</key>
-		<string>ぶりっじめーるW</string>
+		<string>ぶりっじめーるだぶりゅー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2922,13 +2922,13 @@
 		<key>phrase</key>
 		<string>Roto HP Restore</string>
 		<key>shortcut</key>
-		<string>HPかいふくぽん</string>
+		<string>えいちぴーかいふくぽん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Roto PP Restore</string>
 		<key>shortcut</key>
-		<string>PPかいふくぽん</string>
+		<string>ぴーぴーかいふくぽん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -4128,31 +4128,31 @@
 		<key>phrase</key>
 		<string>Exp. Candy XS</string>
 		<key>shortcut</key>
-		<string>けいけんあめXS</string>
+		<string>けいけんあめえっくすえす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Exp. Candy S</string>
 		<key>shortcut</key>
-		<string>けいけんあめS</string>
+		<string>けいけんあめえす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Exp. Candy M</string>
 		<key>shortcut</key>
-		<string>けいけんあめM</string>
+		<string>けいけんあめえむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Exp. Candy L</string>
 		<key>shortcut</key>
-		<string>けいけんあめL</string>
+		<string>けいけんあめえる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Exp. Candy XL</string>
 		<key>shortcut</key>
-		<string>けいけんあめXL</string>
+		<string>けいけんあめえっくすえる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -4374,13 +4374,13 @@
 		<key>phrase</key>
 		<string>Mysterious Shard S</string>
 		<key>shortcut</key>
-		<string>なぞのかけらS</string>
+		<string>なぞのかけらえす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>Mysterious Shard L</string>
 		<key>shortcut</key>
-		<string>なぞのかけらL</string>
+		<string>なぞのかけらえる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>

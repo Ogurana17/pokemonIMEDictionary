@@ -222,7 +222,7 @@
 れしーばー	Receiver	固有名詞	
 かがくのちから	Power of Alchemy	固有名詞	
 びーすとぶーすと	Beast Boost	固有名詞	
-ARしすてむ	RKS System	固有名詞	
+えーあーるしすてむ	RKS System	固有名詞	
 えれきめいかー	Electric Surge	固有名詞	
 さいこめいかー	Psychic Surge	固有名詞	
 みすとめいかー	Misty Surge	固有名詞	

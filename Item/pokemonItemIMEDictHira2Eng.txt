@@ -165,11 +165,11 @@
 さーないとないと	Gardevoirite	固有名詞	
 でんりゅうないと	Ampharosite	固有名詞	
 ふしぎばないと	Venusaurite	固有名詞	
-りざーどないとX	Charizardite X	固有名詞	
-りざーどないとY	Charizardite Y	固有名詞	
+りざーどないとえっくす	Charizardite X	固有名詞	
+りざーどないとわい	Charizardite Y	固有名詞	
 かめっくすないと	Blastoisinite	固有名詞	
-みゅうつないとX	Mewtwonite X	固有名詞	
-みゅうつないとY	Mewtwonite Y	固有名詞	
+みゅうつないとえっくす	Mewtwonite X	固有名詞	
+みゅうつないとわい	Mewtwonite Y	固有名詞	
 ばしゃーもないと	Blazikenite	固有名詞	
 ちゃーれむないと	Medichamite	固有名詞	
 へるがないと	Houndoominite	固有名詞	
@@ -208,41 +208,41 @@
 みみろっぷないと	Lopunnite	固有名詞	
 ぼーまんだないと	Salamencite	固有名詞	
 すぴあないと	Beedrillite	固有名詞	
-のーまるZ	Normalium Z	固有名詞	
-ほのおZ	Firium Z	固有名詞	
-みずZ	Waterium Z	固有名詞	
-でんきZ	Electrium Z	固有名詞	
-くさZ	Grassium Z	固有名詞	
-こおりZ	Icium Z	固有名詞	
-かくとうZ	Fightinium Z	固有名詞	
-どくZ	Poisonium Z	固有名詞	
-じめんZ	Groundium Z	固有名詞	
-ひこうZ	Flyinium Z	固有名詞	
-えすぱーZ	Psychium Z	固有名詞	
-むしZ	Buginium Z	固有名詞	
-いわZ	Rockium Z	固有名詞	
-ごーすとZ	Ghostium Z	固有名詞	
-どらごんZ	Dragonium Z	固有名詞	
-あくZ	Darkinium Z	固有名詞	
-はがねZ	Steelium Z	固有名詞	
-ふぇありーZ	Fairium Z	固有名詞	
-ぴかちゅうZ	Pikanium Z	固有名詞	
-さとぴかZ	Pikashunium Z	固有名詞	
-あろらいZ	Aloraichium Z	固有名詞	
-いーぶいZ	Eevium Z	固有名詞	
-かびごんZ	Snorlium Z	固有名詞	
-みゅうZ	Mewnium Z	固有名詞	
-じゅないぱーZ	Decidium Z	固有名詞	
-がおがえんZ	Incinium Z	固有名詞	
-あしれーぬZ	Primarium Z	固有名詞	
-かぷZ	Tapunium Z	固有名詞	
-まーしゃどーZ	Marshadium Z	固有名詞	
-そるがれおZ	Solganium Z	固有名詞	
-るなあーらZ	Lunalium Z	固有名詞	
-うるとらねくろZ	Ultranecrozium Z	固有名詞	
-みみっきゅZ	Mimikium Z	固有名詞	
-るがるがんZ	Lycanium Z	固有名詞	
-じゃららんがZ	Kommonium Z	固有名詞	
+のーまるぜっと	Normalium Z	固有名詞	
+ほのおぜっと	Firium Z	固有名詞	
+みずぜっと	Waterium Z	固有名詞	
+でんきぜっと	Electrium Z	固有名詞	
+くさぜっと	Grassium Z	固有名詞	
+こおりぜっと	Icium Z	固有名詞	
+かくとうぜっと	Fightinium Z	固有名詞	
+どくぜっと	Poisonium Z	固有名詞	
+じめんぜっと	Groundium Z	固有名詞	
+ひこうぜっと	Flyinium Z	固有名詞	
+えすぱーぜっと	Psychium Z	固有名詞	
+むしぜっと	Buginium Z	固有名詞	
+いわぜっと	Rockium Z	固有名詞	
+ごーすとぜっと	Ghostium Z	固有名詞	
+どらごんぜっと	Dragonium Z	固有名詞	
+あくぜっと	Darkinium Z	固有名詞	
+はがねぜっと	Steelium Z	固有名詞	
+ふぇありーぜっと	Fairium Z	固有名詞	
+ぴかちゅうぜっと	Pikanium Z	固有名詞	
+さとぴかぜっと	Pikashunium Z	固有名詞	
+あろらいぜっと	Aloraichium Z	固有名詞	
+いーぶいぜっと	Eevium Z	固有名詞	
+かびごんぜっと	Snorlium Z	固有名詞	
+みゅうぜっと	Mewnium Z	固有名詞	
+じゅないぱーぜっと	Decidium Z	固有名詞	
+がおがえんぜっと	Incinium Z	固有名詞	
+あしれーぬぜっと	Primarium Z	固有名詞	
+かぷぜっと	Tapunium Z	固有名詞	
+まーしゃどーぜっと	Marshadium Z	固有名詞	
+そるがれおぜっと	Solganium Z	固有名詞	
+るなあーらぜっと	Lunalium Z	固有名詞	
+うるとらねくろぜっと	Ultranecrozium Z	固有名詞	
+みみっきゅぜっと	Mimikium Z	固有名詞	
+るがるがんぜっと	Lycanium Z	固有名詞	
+じゃららんがぜっと	Kommonium Z	固有名詞	
 ふぁいやーめもり	Fire Memory	固有名詞	
 うおーたーめもり	Water Memory	固有名詞	
 ぐらすめもり	Grass Memory	固有名詞	
@@ -419,11 +419,11 @@
 しつもんめーる	Inquiry Mail	固有名詞	
 おすすめめーる	Like Mail	固有名詞	
 おかえしめーる	Reply Mail	固有名詞	
-ぶりっじめーるS	BridgeMail S	固有名詞	
-ぶりっじめーるH	BridgeMail D	固有名詞	
-ぶりっじめーるC	BridgeMail T	固有名詞	
-ぶりっじめーるV	BridgeMail V	固有名詞	
-ぶりっじめーるW	BridgeMail M	固有名詞	
+ぶりっじめーるえす	BridgeMail S	固有名詞	
+ぶりっじめーるえいち	BridgeMail D	固有名詞	
+ぶりっじめーるしー	BridgeMail T	固有名詞	
+ぶりっじめーるぶい	BridgeMail V	固有名詞	
+ぶりっじめーるだぶりゅー	BridgeMail M	固有名詞	
 えふぇくとがーど	Guard Spec.	固有名詞	
 くりてぃかっと	Dire Hit	固有名詞	
 ぷらすぱわー	X Attack	固有名詞	
@@ -484,8 +484,8 @@
 みあれがれっと	Lumiose Galette	固有名詞	
 しゃらさぶれ	Shalour Sable	固有名詞	
 おおきいまらさだ	Big Malasada	固有名詞	
-HPかいふくぽん	Roto HP Restore	固有名詞	
-PPかいふくぽん	Roto PP Restore	固有名詞	
+えいちぴーかいふくぽん	Roto HP Restore	固有名詞	
+ぴーぴーかいふくぽん	Roto PP Restore	固有名詞	
 にびあられ	Pewter Crunchies	固有名詞	
 だいみつ	Max Honey	固有名詞	
 ことぶきまふぃん	Jubilife Muffin	固有名詞	
@@ -685,11 +685,11 @@ PPかいふくぽん	Roto PP Restore	固有名詞
 ねがいのかたまり	Wishing Piece	固有名詞	
 だいくりすたる	Dynamax Crystal	固有名詞	
 だいまっくすあめ	Dynamax Candy	固有名詞	
-けいけんあめXS	Exp. Candy XS	固有名詞	
-けいけんあめS	Exp. Candy S	固有名詞	
-けいけんあめM	Exp. Candy M	固有名詞	
-けいけんあめL	Exp. Candy L	固有名詞	
-けいけんあめXL	Exp. Candy XL	固有名詞	
+けいけんあめえっくすえす	Exp. Candy XS	固有名詞	
+けいけんあめえす	Exp. Candy S	固有名詞	
+けいけんあめえむ	Exp. Candy M	固有名詞	
+けいけんあめえる	Exp. Candy L	固有名詞	
+けいけんあめえっくすえる	Exp. Candy XL	固有名詞	
 さみしがりみんと	Lonely Mint	固有名詞	
 いじっぱりみんと	Adamant Mint	固有名詞	
 やんちゃみんと	Naughty Mint	固有名詞	
@@ -726,8 +726,8 @@ PPかいふくぽん	Roto PP Restore	固有名詞
 くろぼんぐり	Black Apricorn	固有名詞	
 とくせいぱっち	Ability Patch	固有名詞	
 まっくすこうせき	Dynite Ore	固有名詞	
-なぞのかけらS	Mysterious Shard S	固有名詞	
-なぞのかけらL	Mysterious Shard L	固有名詞	
+なぞのかけらえす	Mysterious Shard S	固有名詞	
+なぞのかけらえる	Mysterious Shard L	固有名詞	
 みちびきのせきばん	Discovery Slate	固有名詞	
 じょうとのせきばん	Johto Slate	固有名詞	
 かんとーのせきばん	Kanto Slate	固有名詞	

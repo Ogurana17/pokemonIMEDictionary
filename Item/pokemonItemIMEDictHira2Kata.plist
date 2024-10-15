@@ -1008,13 +1008,13 @@
 		<key>phrase</key>
 		<string>リザードナイトX</string>
 		<key>shortcut</key>
-		<string>りざーどないとX</string>
+		<string>りざーどないとえっくす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>リザードナイトY</string>
 		<key>shortcut</key>
-		<string>りざーどないとY</string>
+		<string>りざーどないとわい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1026,13 +1026,13 @@
 		<key>phrase</key>
 		<string>ミュウツナイトX</string>
 		<key>shortcut</key>
-		<string>みゅうつないとX</string>
+		<string>みゅうつないとえっくす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>ミュウツナイトY</string>
 		<key>shortcut</key>
-		<string>みゅうつないとY</string>
+		<string>みゅうつないとわい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1266,211 +1266,211 @@
 		<key>phrase</key>
 		<string>ノーマルZ</string>
 		<key>shortcut</key>
-		<string>のーまるZ</string>
+		<string>のーまるぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>ホノオZ</string>
 		<key>shortcut</key>
-		<string>ほのおZ</string>
+		<string>ほのおぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>ミズZ</string>
 		<key>shortcut</key>
-		<string>みずZ</string>
+		<string>みずぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>デンキZ</string>
 		<key>shortcut</key>
-		<string>でんきZ</string>
+		<string>でんきぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>クサZ</string>
 		<key>shortcut</key>
-		<string>くさZ</string>
+		<string>くさぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>コオリZ</string>
 		<key>shortcut</key>
-		<string>こおりZ</string>
+		<string>こおりぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>カクトウZ</string>
 		<key>shortcut</key>
-		<string>かくとうZ</string>
+		<string>かくとうぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>ドクZ</string>
 		<key>shortcut</key>
-		<string>どくZ</string>
+		<string>どくぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>ジメンZ</string>
 		<key>shortcut</key>
-		<string>じめんZ</string>
+		<string>じめんぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>ヒコウZ</string>
 		<key>shortcut</key>
-		<string>ひこうZ</string>
+		<string>ひこうぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>エスパーZ</string>
 		<key>shortcut</key>
-		<string>えすぱーZ</string>
+		<string>えすぱーぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>ムシZ</string>
 		<key>shortcut</key>
-		<string>むしZ</string>
+		<string>むしぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>イワZ</string>
 		<key>shortcut</key>
-		<string>いわZ</string>
+		<string>いわぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>ゴーストZ</string>
 		<key>shortcut</key>
-		<string>ごーすとZ</string>
+		<string>ごーすとぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>ドラゴンZ</string>
 		<key>shortcut</key>
-		<string>どらごんZ</string>
+		<string>どらごんぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>アクZ</string>
 		<key>shortcut</key>
-		<string>あくZ</string>
+		<string>あくぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>ハガネZ</string>
 		<key>shortcut</key>
-		<string>はがねZ</string>
+		<string>はがねぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>フェアリーZ</string>
 		<key>shortcut</key>
-		<string>ふぇありーZ</string>
+		<string>ふぇありーぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>ピカチュウZ</string>
 		<key>shortcut</key>
-		<string>ぴかちゅうZ</string>
+		<string>ぴかちゅうぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>サトピカZ</string>
 		<key>shortcut</key>
-		<string>さとぴかZ</string>
+		<string>さとぴかぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>アロライZ</string>
 		<key>shortcut</key>
-		<string>あろらいZ</string>
+		<string>あろらいぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>イーブイZ</string>
 		<key>shortcut</key>
-		<string>いーぶいZ</string>
+		<string>いーぶいぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>カビゴンZ</string>
 		<key>shortcut</key>
-		<string>かびごんZ</string>
+		<string>かびごんぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>ミュウZ</string>
 		<key>shortcut</key>
-		<string>みゅうZ</string>
+		<string>みゅうぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>ジュナイパーZ</string>
 		<key>shortcut</key>
-		<string>じゅないぱーZ</string>
+		<string>じゅないぱーぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>ガオガエンZ</string>
 		<key>shortcut</key>
-		<string>がおがえんZ</string>
+		<string>がおがえんぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>アシレーヌZ</string>
 		<key>shortcut</key>
-		<string>あしれーぬZ</string>
+		<string>あしれーぬぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>カプZ</string>
 		<key>shortcut</key>
-		<string>かぷZ</string>
+		<string>かぷぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>マーシャドーZ</string>
 		<key>shortcut</key>
-		<string>まーしゃどーZ</string>
+		<string>まーしゃどーぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>ソルガレオZ</string>
 		<key>shortcut</key>
-		<string>そるがれおZ</string>
+		<string>そるがれおぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>ルナアーラZ</string>
 		<key>shortcut</key>
-		<string>るなあーらZ</string>
+		<string>るなあーらぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>ウルトラネクロZ</string>
 		<key>shortcut</key>
-		<string>うるとらねくろZ</string>
+		<string>うるとらねくろぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>ミミッキュZ</string>
 		<key>shortcut</key>
-		<string>みみっきゅZ</string>
+		<string>みみっきゅぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>ルガルガンZ</string>
 		<key>shortcut</key>
-		<string>るがるがんZ</string>
+		<string>るがるがんぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>ジャラランガZ</string>
 		<key>shortcut</key>
-		<string>じゃららんがZ</string>
+		<string>じゃららんがぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2532,31 +2532,31 @@
 		<key>phrase</key>
 		<string>ブリッジメールS</string>
 		<key>shortcut</key>
-		<string>ぶりっじめーるS</string>
+		<string>ぶりっじめーるえす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>ブリッジメールH</string>
 		<key>shortcut</key>
-		<string>ぶりっじめーるH</string>
+		<string>ぶりっじめーるえいち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>ブリッジメールC</string>
 		<key>shortcut</key>
-		<string>ぶりっじめーるC</string>
+		<string>ぶりっじめーるしー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>ブリッジメールV</string>
 		<key>shortcut</key>
-		<string>ぶりっじめーるV</string>
+		<string>ぶりっじめーるぶい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>ブリッジメールW</string>
 		<key>shortcut</key>
-		<string>ぶりっじめーるW</string>
+		<string>ぶりっじめーるだぶりゅー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -2922,13 +2922,13 @@
 		<key>phrase</key>
 		<string>HPかいふくポン</string>
 		<key>shortcut</key>
-		<string>HPかいふくぽん</string>
+		<string>えいちぴーかいふくぽん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>PPかいふくポン</string>
 		<key>shortcut</key>
-		<string>PPかいふくぽん</string>
+		<string>ぴーぴーかいふくぽん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -4128,31 +4128,31 @@
 		<key>phrase</key>
 		<string>けいけんアメXS</string>
 		<key>shortcut</key>
-		<string>けいけんあめXS</string>
+		<string>けいけんあめえっくすえす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>けいけんアメS</string>
 		<key>shortcut</key>
-		<string>けいけんあめS</string>
+		<string>けいけんあめえす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>けいけんアメM</string>
 		<key>shortcut</key>
-		<string>けいけんあめM</string>
+		<string>けいけんあめえむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>けいけんアメL</string>
 		<key>shortcut</key>
-		<string>けいけんあめL</string>
+		<string>けいけんあめえる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>けいけんアメXL</string>
 		<key>shortcut</key>
-		<string>けいけんあめXL</string>
+		<string>けいけんあめえっくすえる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -4374,13 +4374,13 @@
 		<key>phrase</key>
 		<string>なぞのかけらS</string>
 		<key>shortcut</key>
-		<string>なぞのかけらS</string>
+		<string>なぞのかけらえす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>なぞのかけらL</string>
 		<key>shortcut</key>
-		<string>なぞのかけらL</string>
+		<string>なぞのかけらえる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
