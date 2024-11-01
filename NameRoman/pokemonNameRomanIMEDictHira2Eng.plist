@@ -4,6151 +4,6151 @@
 <array>
 	<dict>
 		<key>phrase</key>
-		<string>フシギダネ</string>
+		<string>Fushigidane</string>
 		<key>shortcut</key>
 		<string>ふしぎだね</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>フシギソウ</string>
+		<string>Fushigisou</string>
 		<key>shortcut</key>
 		<string>ふしぎそう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>フシギバナ</string>
+		<string>Fushigibana</string>
 		<key>shortcut</key>
 		<string>ふしぎばな</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヒトカゲ</string>
+		<string>Hitokage</string>
 		<key>shortcut</key>
 		<string>ひとかげ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>リザード</string>
+		<string>Lizardo</string>
 		<key>shortcut</key>
 		<string>りざーど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>リザードン</string>
+		<string>Lizardon</string>
 		<key>shortcut</key>
 		<string>りざーどん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ゼニガメ</string>
+		<string>Zenigame</string>
 		<key>shortcut</key>
 		<string>ぜにがめ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カメール</string>
+		<string>Kameil</string>
 		<key>shortcut</key>
 		<string>かめーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カメックス</string>
+		<string>Kamex</string>
 		<key>shortcut</key>
 		<string>かめっくす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>キャタピー</string>
+		<string>Caterpie</string>
 		<key>shortcut</key>
 		<string>きゃたぴー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>トランセル</string>
+		<string>Transel</string>
 		<key>shortcut</key>
 		<string>とらんせる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>バタフリー</string>
+		<string>Butterfree</string>
 		<key>shortcut</key>
 		<string>ばたふりー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ビードル</string>
+		<string>Beedle</string>
 		<key>shortcut</key>
 		<string>びーどる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コクーン</string>
+		<string>Cocoon</string>
 		<key>shortcut</key>
 		<string>こくーん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>スピアー</string>
+		<string>Spear</string>
 		<key>shortcut</key>
 		<string>すぴあー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ポッポ</string>
+		<string>Poppo</string>
 		<key>shortcut</key>
 		<string>ぽっぽ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ピジョン</string>
+		<string>Pigeon</string>
 		<key>shortcut</key>
 		<string>ぴじょん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ピジョット</string>
+		<string>Pigeot</string>
 		<key>shortcut</key>
 		<string>ぴじょっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コラッタ</string>
+		<string>Koratta</string>
 		<key>shortcut</key>
 		<string>こらった</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ラッタ</string>
+		<string>Ratta</string>
 		<key>shortcut</key>
 		<string>らった</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オニスズメ</string>
+		<string>Onisuzume</string>
 		<key>shortcut</key>
 		<string>おにすずめ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オニドリル</string>
+		<string>Onidrill</string>
 		<key>shortcut</key>
 		<string>おにどりる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アーボ</string>
+		<string>Arbo</string>
 		<key>shortcut</key>
 		<string>あーぼ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アーボック</string>
+		<string>Arbok</string>
 		<key>shortcut</key>
 		<string>あーぼっく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ピカチュウ</string>
+		<string>Pikachu</string>
 		<key>shortcut</key>
 		<string>ぴかちゅう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ライチュウ</string>
+		<string>Raichu</string>
 		<key>shortcut</key>
 		<string>らいちゅう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>サンド</string>
+		<string>Sand</string>
 		<key>shortcut</key>
 		<string>さんど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>サンドパン</string>
+		<string>Sandpan</string>
 		<key>shortcut</key>
 		<string>さんどぱん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ニドラン♀</string>
+		<string>Nidoran♀</string>
 		<key>shortcut</key>
 		<string>にどらん♀</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ニドリーナ</string>
+		<string>Nidorina</string>
 		<key>shortcut</key>
 		<string>にどりーな</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ニドクイン</string>
+		<string>Nidoqueen</string>
 		<key>shortcut</key>
 		<string>にどくいん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ニドラン♂</string>
+		<string>Nidoran♂</string>
 		<key>shortcut</key>
 		<string>にどらん♂</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ニドリーノ</string>
+		<string>Nidorino</string>
 		<key>shortcut</key>
 		<string>にどりーの</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ニドキング</string>
+		<string>Nidoking</string>
 		<key>shortcut</key>
 		<string>にどきんぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ピッピ</string>
+		<string>Pippi</string>
 		<key>shortcut</key>
 		<string>ぴっぴ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ピクシー</string>
+		<string>Pixy</string>
 		<key>shortcut</key>
 		<string>ぴくしー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ロコン</string>
+		<string>Rokon</string>
 		<key>shortcut</key>
 		<string>ろこん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>キュウコン</string>
+		<string>Kyukon</string>
 		<key>shortcut</key>
 		<string>きゅうこん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>プリン</string>
+		<string>Purin</string>
 		<key>shortcut</key>
 		<string>ぷりん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>プクリン</string>
+		<string>Pukurin</string>
 		<key>shortcut</key>
 		<string>ぷくりん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ズバット</string>
+		<string>Zubat</string>
 		<key>shortcut</key>
 		<string>ずばっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ゴルバット</string>
+		<string>Golbat</string>
 		<key>shortcut</key>
 		<string>ごるばっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ナゾノクサ</string>
+		<string>Nazonokusa</string>
 		<key>shortcut</key>
 		<string>なぞのくさ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>クサイハナ</string>
+		<string>Kusaihana</string>
 		<key>shortcut</key>
 		<string>くさいはな</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ラフレシア</string>
+		<string>Ruffresia</string>
 		<key>shortcut</key>
 		<string>らふれしあ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>パラス</string>
+		<string>Paras</string>
 		<key>shortcut</key>
 		<string>ぱらす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>パラセクト</string>
+		<string>Parasect</string>
 		<key>shortcut</key>
 		<string>ぱらせくと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コンパン</string>
+		<string>Kongpang</string>
 		<key>shortcut</key>
 		<string>こんぱん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モルフォン</string>
+		<string>Morphon</string>
 		<key>shortcut</key>
 		<string>もるふぉん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ディグダ</string>
+		<string>Digda</string>
 		<key>shortcut</key>
 		<string>でぃぐだ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ダグトリオ</string>
+		<string>Dugtrio</string>
 		<key>shortcut</key>
 		<string>だぐとりお</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ニャース</string>
+		<string>Nyarth</string>
 		<key>shortcut</key>
 		<string>にゃーす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ペルシアン</string>
+		<string>Persian</string>
 		<key>shortcut</key>
 		<string>ぺるしあん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コダック</string>
+		<string>Koduck</string>
 		<key>shortcut</key>
 		<string>こだっく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ゴルダック</string>
+		<string>Golduck</string>
 		<key>shortcut</key>
 		<string>ごるだっく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マンキー</string>
+		<string>Mankey</string>
 		<key>shortcut</key>
 		<string>まんきー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オコリザル</string>
+		<string>Okorizaru</string>
 		<key>shortcut</key>
 		<string>おこりざる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ガーディ</string>
+		<string>Gardie</string>
 		<key>shortcut</key>
 		<string>がーでぃ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ウインディ</string>
+		<string>Windie</string>
 		<key>shortcut</key>
 		<string>ういんでぃ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ニョロモ</string>
+		<string>Nyoromo</string>
 		<key>shortcut</key>
 		<string>にょろも</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ニョロゾ</string>
+		<string>Nyorozo</string>
 		<key>shortcut</key>
 		<string>にょろぞ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ニョロボン</string>
+		<string>Nyorobon</string>
 		<key>shortcut</key>
 		<string>にょろぼん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ケーシィ</string>
+		<string>Casey</string>
 		<key>shortcut</key>
 		<string>けーしぃ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ユンゲラー</string>
+		<string>Yungerer</string>
 		<key>shortcut</key>
 		<string>ゆんげらー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>フーディン</string>
+		<string>Foodin</string>
 		<key>shortcut</key>
 		<string>ふーでぃん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ワンリキー</string>
+		<string>Wanriky</string>
 		<key>shortcut</key>
 		<string>わんりきー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ゴーリキー</string>
+		<string>Goriky</string>
 		<key>shortcut</key>
 		<string>ごーりきー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カイリキー</string>
+		<string>Kairiky</string>
 		<key>shortcut</key>
 		<string>かいりきー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マダツボミ</string>
+		<string>Madatsubomi</string>
 		<key>shortcut</key>
 		<string>まだつぼみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ウツドン</string>
+		<string>Utsudon</string>
 		<key>shortcut</key>
 		<string>うつどん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ウツボット</string>
+		<string>Utsubot</string>
 		<key>shortcut</key>
 		<string>うつぼっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>メノクラゲ</string>
+		<string>Menokurage</string>
 		<key>shortcut</key>
 		<string>めのくらげ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドククラゲ</string>
+		<string>Dokukurage</string>
 		<key>shortcut</key>
 		<string>どくくらげ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>イシツブテ</string>
+		<string>Isitsubute</string>
 		<key>shortcut</key>
 		<string>いしつぶて</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ゴローン</string>
+		<string>Golone</string>
 		<key>shortcut</key>
 		<string>ごろーん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ゴローニャ</string>
+		<string>Golonya</string>
 		<key>shortcut</key>
 		<string>ごろーにゃ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ポニータ</string>
+		<string>Ponyta</string>
 		<key>shortcut</key>
 		<string>ぽにーた</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ギャロップ</string>
+		<string>Gallop</string>
 		<key>shortcut</key>
 		<string>ぎゃろっぷ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヤドン</string>
+		<string>Yadon</string>
 		<key>shortcut</key>
 		<string>やどん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヤドラン</string>
+		<string>Yadoran</string>
 		<key>shortcut</key>
 		<string>やどらん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コイル</string>
+		<string>Coil</string>
 		<key>shortcut</key>
 		<string>こいる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>レアコイル</string>
+		<string>Rarecoil</string>
 		<key>shortcut</key>
 		<string>れあこいる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カモネギ</string>
+		<string>Kamonegi</string>
 		<key>shortcut</key>
 		<string>かもねぎ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドードー</string>
+		<string>Dodo</string>
 		<key>shortcut</key>
 		<string>どーどー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドードリオ</string>
+		<string>Dodorio</string>
 		<key>shortcut</key>
 		<string>どーどりお</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>パウワウ</string>
+		<string>Pawou</string>
 		<key>shortcut</key>
 		<string>ぱうわう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ジュゴン</string>
+		<string>Jugon</string>
 		<key>shortcut</key>
 		<string>じゅごん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ベトベター</string>
+		<string>Betbeter</string>
 		<key>shortcut</key>
 		<string>べとべたー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ベトベトン</string>
+		<string>Betbeton</string>
 		<key>shortcut</key>
 		<string>べとべとん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>シェルダー</string>
+		<string>Shellder</string>
 		<key>shortcut</key>
 		<string>しぇるだー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>パルシェン</string>
+		<string>Parshen</string>
 		<key>shortcut</key>
 		<string>ぱるしぇん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ゴース</string>
+		<string>Ghos</string>
 		<key>shortcut</key>
 		<string>ごーす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ゴースト</string>
+		<string>Ghost</string>
 		<key>shortcut</key>
 		<string>ごーすと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ゲンガー</string>
+		<string>Gangar</string>
 		<key>shortcut</key>
 		<string>げんがー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>イワーク</string>
+		<string>Iwark</string>
 		<key>shortcut</key>
 		<string>いわーく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>スリープ</string>
+		<string>Sleepe</string>
 		<key>shortcut</key>
 		<string>すりーぷ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>スリーパー</string>
+		<string>Sleeper</string>
 		<key>shortcut</key>
 		<string>すりーぱー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>クラブ</string>
+		<string>Crab</string>
 		<key>shortcut</key>
 		<string>くらぶ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>キングラー</string>
+		<string>Kingler</string>
 		<key>shortcut</key>
 		<string>きんぐらー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ビリリダマ</string>
+		<string>Biriridama</string>
 		<key>shortcut</key>
 		<string>びりりだま</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マルマイン</string>
+		<string>Marumine</string>
 		<key>shortcut</key>
 		<string>まるまいん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>タマタマ</string>
+		<string>Tamatama</string>
 		<key>shortcut</key>
 		<string>たまたま</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ナッシー</string>
+		<string>Nassy</string>
 		<key>shortcut</key>
 		<string>なっしー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カラカラ</string>
+		<string>Karakara</string>
 		<key>shortcut</key>
 		<string>からから</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ガラガラ</string>
+		<string>Garagara</string>
 		<key>shortcut</key>
 		<string>がらがら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>サワムラー</string>
+		<string>Sawamular</string>
 		<key>shortcut</key>
 		<string>さわむらー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>エビワラー</string>
+		<string>Ebiwalar</string>
 		<key>shortcut</key>
 		<string>えびわらー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ベロリンガ</string>
+		<string>Beroringa</string>
 		<key>shortcut</key>
 		<string>べろりんが</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドガース</string>
+		<string>Dogars</string>
 		<key>shortcut</key>
 		<string>どがーす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マタドガス</string>
+		<string>Matadogas</string>
 		<key>shortcut</key>
 		<string>またどがす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>サイホーン</string>
+		<string>Sihorn</string>
 		<key>shortcut</key>
 		<string>さいほーん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>サイドン</string>
+		<string>Sidon</string>
 		<key>shortcut</key>
 		<string>さいどん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ラッキー</string>
+		<string>Lucky</string>
 		<key>shortcut</key>
 		<string>らっきー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モンジャラ</string>
+		<string>Monjara</string>
 		<key>shortcut</key>
 		<string>もんじゃら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ガルーラ</string>
+		<string>Garura</string>
 		<key>shortcut</key>
 		<string>がるーら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>タッツー</string>
+		<string>Tattu</string>
 		<key>shortcut</key>
 		<string>たっつー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>シードラ</string>
+		<string>Seadra</string>
 		<key>shortcut</key>
 		<string>しーどら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>トサキント</string>
+		<string>Tosakinto</string>
 		<key>shortcut</key>
 		<string>とさきんと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アズマオウ</string>
+		<string>Azumao</string>
 		<key>shortcut</key>
 		<string>あずまおう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヒトデマン</string>
+		<string>Hitodeman</string>
 		<key>shortcut</key>
 		<string>ひとでまん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>スターミー</string>
+		<string>Starmie</string>
 		<key>shortcut</key>
 		<string>すたーみー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>バリヤード</string>
+		<string>Barrierd</string>
 		<key>shortcut</key>
 		<string>ばりやーど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ストライク</string>
+		<string>Strike</string>
 		<key>shortcut</key>
 		<string>すとらいく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ルージュラ</string>
+		<string>Rougela</string>
 		<key>shortcut</key>
 		<string>るーじゅら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>エレブー</string>
+		<string>Eleboo</string>
 		<key>shortcut</key>
 		<string>えれぶー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ブーバー</string>
+		<string>Boober</string>
 		<key>shortcut</key>
 		<string>ぶーばー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カイロス</string>
+		<string>Kailios</string>
 		<key>shortcut</key>
 		<string>かいろす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ケンタロス</string>
+		<string>Kentauros</string>
 		<key>shortcut</key>
 		<string>けんたろす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コイキング</string>
+		<string>Koiking</string>
 		<key>shortcut</key>
 		<string>こいきんぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ギャラドス</string>
+		<string>Gyarados</string>
 		<key>shortcut</key>
 		<string>ぎゃらどす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ラプラス</string>
+		<string>Laplace</string>
 		<key>shortcut</key>
 		<string>らぷらす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>メタモン</string>
+		<string>Metamon</string>
 		<key>shortcut</key>
 		<string>めたもん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>イーブイ</string>
+		<string>Eievui</string>
 		<key>shortcut</key>
 		<string>いーぶい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>シャワーズ</string>
+		<string>Showers</string>
 		<key>shortcut</key>
 		<string>しゃわーず</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>サンダース</string>
+		<string>Thunders</string>
 		<key>shortcut</key>
 		<string>さんだーす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ブースター</string>
+		<string>Booster</string>
 		<key>shortcut</key>
 		<string>ぶーすたー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ポリゴン</string>
+		<string>Porygon</string>
 		<key>shortcut</key>
 		<string>ぽりごん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オムナイト</string>
+		<string>Omnite</string>
 		<key>shortcut</key>
 		<string>おむないと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オムスター</string>
+		<string>Omstar</string>
 		<key>shortcut</key>
 		<string>おむすたー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カブト</string>
+		<string>Kabuto</string>
 		<key>shortcut</key>
 		<string>かぶと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カブトプス</string>
+		<string>Kabutops</string>
 		<key>shortcut</key>
 		<string>かぶとぷす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>プテラ</string>
+		<string>Ptera</string>
 		<key>shortcut</key>
 		<string>ぷてら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カビゴン</string>
+		<string>Kabigon</string>
 		<key>shortcut</key>
 		<string>かびごん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>フリーザー</string>
+		<string>Freezer</string>
 		<key>shortcut</key>
 		<string>ふりーざー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>サンダー</string>
+		<string>Thunder</string>
 		<key>shortcut</key>
 		<string>さんだー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ファイヤー</string>
+		<string>Fire</string>
 		<key>shortcut</key>
 		<string>ふぁいやー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ミニリュウ</string>
+		<string>Miniryu</string>
 		<key>shortcut</key>
 		<string>みにりゅう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ハクリュー</string>
+		<string>Hakuryu</string>
 		<key>shortcut</key>
 		<string>はくりゅー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カイリュー</string>
+		<string>Kairyu</string>
 		<key>shortcut</key>
 		<string>かいりゅー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ミュウツー</string>
+		<string>Mewtwo</string>
 		<key>shortcut</key>
 		<string>みゅうつー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ミュウ</string>
+		<string>Mew</string>
 		<key>shortcut</key>
 		<string>みゅう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>チコリータ</string>
+		<string>Chicorita</string>
 		<key>shortcut</key>
 		<string>ちこりーた</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ベイリーフ</string>
+		<string>Bayleaf</string>
 		<key>shortcut</key>
 		<string>べいりーふ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>メガニウム</string>
+		<string>Meganium</string>
 		<key>shortcut</key>
 		<string>めがにうむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヒノアラシ</string>
+		<string>Hinoarashi</string>
 		<key>shortcut</key>
 		<string>ひのあらし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マグマラシ</string>
+		<string>Magmarashi</string>
 		<key>shortcut</key>
 		<string>まぐまらし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>バクフーン</string>
+		<string>Bakphoon</string>
 		<key>shortcut</key>
 		<string>ばくふーん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ワニノコ</string>
+		<string>Waninoko</string>
 		<key>shortcut</key>
 		<string>わにのこ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アリゲイツ</string>
+		<string>Alligates</string>
 		<key>shortcut</key>
 		<string>ありげいつ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オーダイル</string>
+		<string>Ordile</string>
 		<key>shortcut</key>
 		<string>おーだいる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オタチ</string>
+		<string>Otachi</string>
 		<key>shortcut</key>
 		<string>おたち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オオタチ</string>
+		<string>Ootachi</string>
 		<key>shortcut</key>
 		<string>おおたち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ホーホー</string>
+		<string>Hoho</string>
 		<key>shortcut</key>
 		<string>ほーほー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヨルノズク</string>
+		<string>Yorunozuku</string>
 		<key>shortcut</key>
 		<string>よるのずく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>レディバ</string>
+		<string>Rediba</string>
 		<key>shortcut</key>
 		<string>れでぃば</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>レディアン</string>
+		<string>Redian</string>
 		<key>shortcut</key>
 		<string>れでぃあん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>イトマル</string>
+		<string>Itomaru</string>
 		<key>shortcut</key>
 		<string>いとまる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アリアドス</string>
+		<string>Ariados</string>
 		<key>shortcut</key>
 		<string>ありあどす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>クロバット</string>
+		<string>Crobat</string>
 		<key>shortcut</key>
 		<string>くろばっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>チョンチー</string>
+		<string>Chonchie</string>
 		<key>shortcut</key>
 		<string>ちょんちー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ランターン</string>
+		<string>Lantern</string>
 		<key>shortcut</key>
 		<string>らんたーん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ピチュー</string>
+		<string>Pichu</string>
 		<key>shortcut</key>
 		<string>ぴちゅー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ピィ</string>
+		<string>Py</string>
 		<key>shortcut</key>
 		<string>ぴぃ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ププリン</string>
+		<string>Pupurin</string>
 		<key>shortcut</key>
 		<string>ぷぷりん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>トゲピー</string>
+		<string>Togepy</string>
 		<key>shortcut</key>
 		<string>とげぴー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>トゲチック</string>
+		<string>Togechick</string>
 		<key>shortcut</key>
 		<string>とげちっく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ネイティ</string>
+		<string>Naty</string>
 		<key>shortcut</key>
 		<string>ねいてぃ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ネイティオ</string>
+		<string>Natio</string>
 		<key>shortcut</key>
 		<string>ねいてぃお</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>メリープ</string>
+		<string>Merriep</string>
 		<key>shortcut</key>
 		<string>めりーぷ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モココ</string>
+		<string>Mokoko</string>
 		<key>shortcut</key>
 		<string>もここ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>デンリュウ</string>
+		<string>Denryu</string>
 		<key>shortcut</key>
 		<string>でんりゅう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>キレイハナ</string>
+		<string>Kireihana</string>
 		<key>shortcut</key>
 		<string>きれいはな</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マリル</string>
+		<string>Maril</string>
 		<key>shortcut</key>
 		<string>まりる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マリルリ</string>
+		<string>Marilli</string>
 		<key>shortcut</key>
 		<string>まりるり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ウソッキー</string>
+		<string>Usokkie</string>
 		<key>shortcut</key>
 		<string>うそっきー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ニョロトノ</string>
+		<string>Nyorotono</string>
 		<key>shortcut</key>
 		<string>にょろとの</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ハネッコ</string>
+		<string>Hanecco</string>
 		<key>shortcut</key>
 		<string>はねっこ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ポポッコ</string>
+		<string>Popocco</string>
 		<key>shortcut</key>
 		<string>ぽぽっこ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ワタッコ</string>
+		<string>Watacco</string>
 		<key>shortcut</key>
 		<string>わたっこ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>エイパム</string>
+		<string>Eipam</string>
 		<key>shortcut</key>
 		<string>えいぱむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヒマナッツ</string>
+		<string>Himanuts</string>
 		<key>shortcut</key>
 		<string>ひまなっつ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>キマワリ</string>
+		<string>Kimawari</string>
 		<key>shortcut</key>
 		<string>きまわり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヤンヤンマ</string>
+		<string>Yanyanma</string>
 		<key>shortcut</key>
 		<string>やんやんま</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ウパー</string>
+		<string>Upah</string>
 		<key>shortcut</key>
 		<string>うぱー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヌオー</string>
+		<string>Nuoh</string>
 		<key>shortcut</key>
 		<string>ぬおー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>エーフィ</string>
+		<string>Eifie</string>
 		<key>shortcut</key>
 		<string>えーふぃ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ブラッキー</string>
+		<string>Bracky</string>
 		<key>shortcut</key>
 		<string>ぶらっきー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヤミカラス</string>
+		<string>Yamikarasu</string>
 		<key>shortcut</key>
 		<string>やみからす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヤドキング</string>
+		<string>Yadoking</string>
 		<key>shortcut</key>
 		<string>やどきんぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ムウマ</string>
+		<string>Muma</string>
 		<key>shortcut</key>
 		<string>むうま</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アンノーン</string>
+		<string>Unknown</string>
 		<key>shortcut</key>
 		<string>あんのーん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ソーナンス</string>
+		<string>Sonans</string>
 		<key>shortcut</key>
 		<string>そーなんす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>キリンリキ</string>
+		<string>Kirinriki</string>
 		<key>shortcut</key>
 		<string>きりんりき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>クヌギダマ</string>
+		<string>Kunugidama</string>
 		<key>shortcut</key>
 		<string>くぬぎだま</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>フォレトス</string>
+		<string>Foretos</string>
 		<key>shortcut</key>
 		<string>ふぉれとす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ノコッチ</string>
+		<string>Nokocchi</string>
 		<key>shortcut</key>
 		<string>のこっち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>グライガー</string>
+		<string>Gliger</string>
 		<key>shortcut</key>
 		<string>ぐらいがー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ハガネール</string>
+		<string>Haganeil</string>
 		<key>shortcut</key>
 		<string>はがねーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ブルー</string>
+		<string>Bulu</string>
 		<key>shortcut</key>
 		<string>ぶるー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>グランブル</string>
+		<string>Granbulu</string>
 		<key>shortcut</key>
 		<string>ぐらんぶる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ハリーセン</string>
+		<string>Harysen</string>
 		<key>shortcut</key>
 		<string>はりーせん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ハッサム</string>
+		<string>Hassam</string>
 		<key>shortcut</key>
 		<string>はっさむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ツボツボ</string>
+		<string>Tsubotsubo</string>
 		<key>shortcut</key>
 		<string>つぼつぼ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヘラクロス</string>
+		<string>Heracros</string>
 		<key>shortcut</key>
 		<string>へらくろす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ニューラ</string>
+		<string>Nyula</string>
 		<key>shortcut</key>
 		<string>にゅーら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヒメグマ</string>
+		<string>Himeguma</string>
 		<key>shortcut</key>
 		<string>ひめぐま</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>リングマ</string>
+		<string>Ringuma</string>
 		<key>shortcut</key>
 		<string>りんぐま</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マグマッグ</string>
+		<string>Magmag</string>
 		<key>shortcut</key>
 		<string>まぐまっぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マグカルゴ</string>
+		<string>Magcargot</string>
 		<key>shortcut</key>
 		<string>まぐかるご</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ウリムー</string>
+		<string>Urimoo</string>
 		<key>shortcut</key>
 		<string>うりむー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>イノムー</string>
+		<string>Inomoo</string>
 		<key>shortcut</key>
 		<string>いのむー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>サニーゴ</string>
+		<string>Sunnygo</string>
 		<key>shortcut</key>
 		<string>さにーご</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>テッポウオ</string>
+		<string>Teppouo</string>
 		<key>shortcut</key>
 		<string>てっぽうお</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オクタン</string>
+		<string>Okutank</string>
 		<key>shortcut</key>
 		<string>おくたん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>デリバード</string>
+		<string>Delibird</string>
 		<key>shortcut</key>
 		<string>でりばーど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マンタイン</string>
+		<string>Mantain</string>
 		<key>shortcut</key>
 		<string>まんたいん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>エアームド</string>
+		<string>Airmd</string>
 		<key>shortcut</key>
 		<string>えあーむど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>デルビル</string>
+		<string>Delvil</string>
 		<key>shortcut</key>
 		<string>でるびる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヘルガー</string>
+		<string>Hellgar</string>
 		<key>shortcut</key>
 		<string>へるがー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>キングドラ</string>
+		<string>Kingdra</string>
 		<key>shortcut</key>
 		<string>きんぐどら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ゴマゾウ</string>
+		<string>Gomazou</string>
 		<key>shortcut</key>
 		<string>ごまぞう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドンファン</string>
+		<string>Donfan</string>
 		<key>shortcut</key>
 		<string>どんふぁん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ポリゴン2</string>
+		<string>Porygon2</string>
 		<key>shortcut</key>
-		<string>ぽりごんに</string>
+		<string>ぽりごん2</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オドシシ</string>
+		<string>Odoshishi</string>
 		<key>shortcut</key>
 		<string>おどしし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドーブル</string>
+		<string>Doble</string>
 		<key>shortcut</key>
 		<string>どーぶる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>バルキー</string>
+		<string>Balkie</string>
 		<key>shortcut</key>
 		<string>ばるきー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カポエラー</string>
+		<string>Kapoerer</string>
 		<key>shortcut</key>
 		<string>かぽえらー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ムチュール</string>
+		<string>Muchul</string>
 		<key>shortcut</key>
 		<string>むちゅーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>エレキッド</string>
+		<string>Elekid</string>
 		<key>shortcut</key>
 		<string>えれきっど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ブビィ</string>
+		<string>Buby</string>
 		<key>shortcut</key>
 		<string>ぶびぃ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ミルタンク</string>
+		<string>Miltank</string>
 		<key>shortcut</key>
 		<string>みるたんく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ハピナス</string>
+		<string>Happinas</string>
 		<key>shortcut</key>
 		<string>はぴなす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ライコウ</string>
+		<string>Raikou</string>
 		<key>shortcut</key>
 		<string>らいこう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>エンテイ</string>
+		<string>Entei</string>
 		<key>shortcut</key>
 		<string>えんてい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>スイクン</string>
+		<string>Suicune</string>
 		<key>shortcut</key>
 		<string>すいくん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヨーギラス</string>
+		<string>Yogiras</string>
 		<key>shortcut</key>
 		<string>よーぎらす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>サナギラス</string>
+		<string>Sanagiras</string>
 		<key>shortcut</key>
 		<string>さなぎらす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>バンギラス</string>
+		<string>Bangiras</string>
 		<key>shortcut</key>
 		<string>ばんぎらす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ルギア</string>
+		<string>Lugia</string>
 		<key>shortcut</key>
 		<string>るぎあ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ホウオウ</string>
+		<string>Houou</string>
 		<key>shortcut</key>
 		<string>ほうおう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>セレビィ</string>
+		<string>Celebi</string>
 		<key>shortcut</key>
 		<string>せれびぃ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>キモリ</string>
+		<string>Kimori</string>
 		<key>shortcut</key>
 		<string>きもり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ジュプトル</string>
+		<string>Juptile</string>
 		<key>shortcut</key>
 		<string>じゅぷとる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ジュカイン</string>
+		<string>Jukain</string>
 		<key>shortcut</key>
 		<string>じゅかいん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アチャモ</string>
+		<string>Achamo</string>
 		<key>shortcut</key>
 		<string>あちゃも</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ワカシャモ</string>
+		<string>Wakasyamo</string>
 		<key>shortcut</key>
 		<string>わかしゃも</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>バシャーモ</string>
+		<string>Bursyamo</string>
 		<key>shortcut</key>
 		<string>ばしゃーも</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ミズゴロウ</string>
+		<string>Mizugorou</string>
 		<key>shortcut</key>
 		<string>みずごろう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヌマクロー</string>
+		<string>Numacraw</string>
 		<key>shortcut</key>
 		<string>ぬまくろー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ラグラージ</string>
+		<string>Laglarge</string>
 		<key>shortcut</key>
 		<string>らぐらーじ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ポチエナ</string>
+		<string>Pochiena</string>
 		<key>shortcut</key>
 		<string>ぽちえな</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>グラエナ</string>
+		<string>Graena</string>
 		<key>shortcut</key>
 		<string>ぐらえな</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ジグザグマ</string>
+		<string>Jiguzaguma</string>
 		<key>shortcut</key>
 		<string>じぐざぐま</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マッスグマ</string>
+		<string>Massuguma</string>
 		<key>shortcut</key>
 		<string>まっすぐま</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ケムッソ</string>
+		<string>Kemusso</string>
 		<key>shortcut</key>
 		<string>けむっそ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カラサリス</string>
+		<string>Karasalis</string>
 		<key>shortcut</key>
 		<string>からさりす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アゲハント</string>
+		<string>Agehunt</string>
 		<key>shortcut</key>
 		<string>あげはんと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マユルド</string>
+		<string>Mayuld</string>
 		<key>shortcut</key>
 		<string>まゆるど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドクケイル</string>
+		<string>Dokucale</string>
 		<key>shortcut</key>
 		<string>どくけいる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ハスボー</string>
+		<string>Hassboh</string>
 		<key>shortcut</key>
 		<string>はすぼー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ハスブレロ</string>
+		<string>Hasubrero</string>
 		<key>shortcut</key>
 		<string>はすぶれろ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ルンパッパ</string>
+		<string>Runpappa</string>
 		<key>shortcut</key>
 		<string>るんぱっぱ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>タネボー</string>
+		<string>Taneboh</string>
 		<key>shortcut</key>
 		<string>たねぼー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コノハナ</string>
+		<string>Konohana</string>
 		<key>shortcut</key>
 		<string>このはな</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ダーテング</string>
+		<string>Dirteng</string>
 		<key>shortcut</key>
 		<string>だーてんぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>スバメ</string>
+		<string>Subame</string>
 		<key>shortcut</key>
 		<string>すばめ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オオスバメ</string>
+		<string>Ohsubame</string>
 		<key>shortcut</key>
 		<string>おおすばめ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>キャモメ</string>
+		<string>Camome</string>
 		<key>shortcut</key>
 		<string>きゃもめ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ペリッパー</string>
+		<string>Pelipper</string>
 		<key>shortcut</key>
 		<string>ぺりっぱー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ラルトス</string>
+		<string>Ralts</string>
 		<key>shortcut</key>
 		<string>らるとす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>キルリア</string>
+		<string>Kirlia</string>
 		<key>shortcut</key>
 		<string>きるりあ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>サーナイト</string>
+		<string>Sirnight</string>
 		<key>shortcut</key>
 		<string>さーないと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アメタマ</string>
+		<string>Ametama</string>
 		<key>shortcut</key>
 		<string>あめたま</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アメモース</string>
+		<string>Amemoth</string>
 		<key>shortcut</key>
 		<string>あめもーす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>キノココ</string>
+		<string>Kinococo</string>
 		<key>shortcut</key>
 		<string>きのここ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>キノガッサ</string>
+		<string>Kinogassa</string>
 		<key>shortcut</key>
 		<string>きのがっさ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ナマケロ</string>
+		<string>Namakero</string>
 		<key>shortcut</key>
 		<string>なまけろ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヤルキモノ</string>
+		<string>Yarukimono</string>
 		<key>shortcut</key>
 		<string>やるきもの</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ケッキング</string>
+		<string>Kekking</string>
 		<key>shortcut</key>
 		<string>けっきんぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ツチニン</string>
+		<string>Tutinin</string>
 		<key>shortcut</key>
 		<string>つちにん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>テッカニン</string>
+		<string>Tekkanin</string>
 		<key>shortcut</key>
 		<string>てっかにん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヌケニン</string>
+		<string>Nukenin</string>
 		<key>shortcut</key>
 		<string>ぬけにん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ゴニョニョ</string>
+		<string>Gonyonyo</string>
 		<key>shortcut</key>
 		<string>ごにょにょ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドゴーム</string>
+		<string>Dogohmb</string>
 		<key>shortcut</key>
 		<string>どごーむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>バクオング</string>
+		<string>Bakuong</string>
 		<key>shortcut</key>
 		<string>ばくおんぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マクノシタ</string>
+		<string>Makunoshita</string>
 		<key>shortcut</key>
 		<string>まくのした</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ハリテヤマ</string>
+		<string>Hariteyama</string>
 		<key>shortcut</key>
 		<string>はりてやま</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ルリリ</string>
+		<string>Ruriri</string>
 		<key>shortcut</key>
 		<string>るりり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ノズパス</string>
+		<string>Nosepass</string>
 		<key>shortcut</key>
 		<string>のずぱす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>エネコ</string>
+		<string>Eneco</string>
 		<key>shortcut</key>
 		<string>えねこ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>エネコロロ</string>
+		<string>Enekororo</string>
 		<key>shortcut</key>
 		<string>えねころろ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヤミラミ</string>
+		<string>Yamirami</string>
 		<key>shortcut</key>
 		<string>やみらみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>クチート</string>
+		<string>Kucheat</string>
 		<key>shortcut</key>
 		<string>くちーと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ココドラ</string>
+		<string>Cokodora</string>
 		<key>shortcut</key>
 		<string>ここどら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コドラ</string>
+		<string>Kodora</string>
 		<key>shortcut</key>
 		<string>こどら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ボスゴドラ</string>
+		<string>Bossgodora</string>
 		<key>shortcut</key>
 		<string>ぼすごどら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アサナン</string>
+		<string>Asanan</string>
 		<key>shortcut</key>
 		<string>あさなん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>チャーレム</string>
+		<string>Charem</string>
 		<key>shortcut</key>
 		<string>ちゃーれむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ラクライ</string>
+		<string>Rakurai</string>
 		<key>shortcut</key>
 		<string>らくらい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ライボルト</string>
+		<string>Livolt</string>
 		<key>shortcut</key>
 		<string>らいぼると</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>プラスル</string>
+		<string>Prasle</string>
 		<key>shortcut</key>
 		<string>ぷらする</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マイナン</string>
+		<string>Minun</string>
 		<key>shortcut</key>
 		<string>まいなん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>バルビート</string>
+		<string>Barubeat</string>
 		<key>shortcut</key>
 		<string>ばるびーと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>イルミーゼ</string>
+		<string>Illumise</string>
 		<key>shortcut</key>
 		<string>いるみーぜ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ロゼリア</string>
+		<string>Roselia</string>
 		<key>shortcut</key>
 		<string>ろぜりあ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ゴクリン</string>
+		<string>Gokulin</string>
 		<key>shortcut</key>
 		<string>ごくりん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マルノーム</string>
+		<string>Marunoom</string>
 		<key>shortcut</key>
 		<string>まるのーむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>キバニア</string>
+		<string>Kibanha</string>
 		<key>shortcut</key>
 		<string>きばにあ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>サメハダー</string>
+		<string>Samehader</string>
 		<key>shortcut</key>
 		<string>さめはだー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ホエルコ</string>
+		<string>Hoeruko</string>
 		<key>shortcut</key>
 		<string>ほえるこ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ホエルオー</string>
+		<string>Whaloh</string>
 		<key>shortcut</key>
 		<string>ほえるおー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドンメル</string>
+		<string>Donmel</string>
 		<key>shortcut</key>
 		<string>どんめる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>バクーダ</string>
+		<string>Bakuuda</string>
 		<key>shortcut</key>
 		<string>ばくーだ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コータス</string>
+		<string>Cotoise</string>
 		<key>shortcut</key>
 		<string>こーたす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>バネブー</string>
+		<string>Baneboo</string>
 		<key>shortcut</key>
 		<string>ばねぶー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ブーピッグ</string>
+		<string>Boopig</string>
 		<key>shortcut</key>
 		<string>ぶーぴっぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>パッチール</string>
+		<string>Patcheel</string>
 		<key>shortcut</key>
 		<string>ぱっちーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ナックラー</string>
+		<string>Nuckrar</string>
 		<key>shortcut</key>
 		<string>なっくらー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ビブラーバ</string>
+		<string>Vibrava</string>
 		<key>shortcut</key>
 		<string>びぶらーば</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>フライゴン</string>
+		<string>Flygon</string>
 		<key>shortcut</key>
 		<string>ふらいごん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>サボネア</string>
+		<string>Sabonea</string>
 		<key>shortcut</key>
 		<string>さぼねあ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ノクタス</string>
+		<string>Noctus</string>
 		<key>shortcut</key>
 		<string>のくたす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>チルット</string>
+		<string>Tyltto</string>
 		<key>shortcut</key>
 		<string>ちるっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>チルタリス</string>
+		<string>Tyltalis</string>
 		<key>shortcut</key>
 		<string>ちるたりす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ザングース</string>
+		<string>Zangoose</string>
 		<key>shortcut</key>
 		<string>ざんぐーす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ハブネーク</string>
+		<string>Habunake</string>
 		<key>shortcut</key>
 		<string>はぶねーく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ルナトーン</string>
+		<string>Lunatone</string>
 		<key>shortcut</key>
 		<string>るなとーん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ソルロック</string>
+		<string>Solrock</string>
 		<key>shortcut</key>
 		<string>そるろっく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドジョッチ</string>
+		<string>Dojoach</string>
 		<key>shortcut</key>
 		<string>どじょっち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ナマズン</string>
+		<string>Namazun</string>
 		<key>shortcut</key>
 		<string>なまずん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヘイガニ</string>
+		<string>Heigani</string>
 		<key>shortcut</key>
 		<string>へいがに</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>シザリガー</string>
+		<string>Shizariger</string>
 		<key>shortcut</key>
 		<string>しざりがー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヤジロン</string>
+		<string>Yajilon</string>
 		<key>shortcut</key>
 		<string>やじろん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ネンドール</string>
+		<string>Nendoll</string>
 		<key>shortcut</key>
 		<string>ねんどーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>リリーラ</string>
+		<string>Lilyla</string>
 		<key>shortcut</key>
 		<string>りりーら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ユレイドル</string>
+		<string>Yuradle</string>
 		<key>shortcut</key>
 		<string>ゆれいどる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アノプス</string>
+		<string>Anopth</string>
 		<key>shortcut</key>
 		<string>あのぷす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アーマルド</string>
+		<string>Armaldo</string>
 		<key>shortcut</key>
 		<string>あーまるど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヒンバス</string>
+		<string>Hinbass</string>
 		<key>shortcut</key>
 		<string>ひんばす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ミロカロス</string>
+		<string>Milokaross</string>
 		<key>shortcut</key>
 		<string>みろかろす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ポワルン</string>
+		<string>Powalen</string>
 		<key>shortcut</key>
 		<string>ぽわるん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カクレオン</string>
+		<string>Kakureon</string>
 		<key>shortcut</key>
 		<string>かくれおん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カゲボウズ</string>
+		<string>Kagebouzu</string>
 		<key>shortcut</key>
 		<string>かげぼうず</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ジュペッタ</string>
+		<string>Juppeta</string>
 		<key>shortcut</key>
 		<string>じゅぺった</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヨマワル</string>
+		<string>Yomawaru</string>
 		<key>shortcut</key>
 		<string>よまわる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>サマヨール</string>
+		<string>Samayouru</string>
 		<key>shortcut</key>
 		<string>さまよーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>トロピウス</string>
+		<string>Tropius</string>
 		<key>shortcut</key>
 		<string>とろぴうす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>チリーン</string>
+		<string>Chirean</string>
 		<key>shortcut</key>
 		<string>ちりーん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アブソル</string>
+		<string>Absol</string>
 		<key>shortcut</key>
 		<string>あぶそる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ソーナノ</string>
+		<string>Sohnano</string>
 		<key>shortcut</key>
 		<string>そーなの</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ユキワラシ</string>
+		<string>Yukiwarashi</string>
 		<key>shortcut</key>
 		<string>ゆきわらし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オニゴーリ</string>
+		<string>Onigohri</string>
 		<key>shortcut</key>
 		<string>おにごーり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>タマザラシ</string>
+		<string>Tamazarashi</string>
 		<key>shortcut</key>
 		<string>たまざらし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>トドグラー</string>
+		<string>Todoggler</string>
 		<key>shortcut</key>
 		<string>とどぐらー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>トドゼルガ</string>
+		<string>Todoseruga</string>
 		<key>shortcut</key>
 		<string>とどぜるが</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>パールル</string>
+		<string>Pearlulu</string>
 		<key>shortcut</key>
 		<string>ぱーるる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ハンテール</string>
+		<string>Huntail</string>
 		<key>shortcut</key>
 		<string>はんてーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>サクラビス</string>
+		<string>Sakurabyss</string>
 		<key>shortcut</key>
 		<string>さくらびす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ジーランス</string>
+		<string>Glanth</string>
 		<key>shortcut</key>
 		<string>じーらんす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ラブカス</string>
+		<string>Lovecus</string>
 		<key>shortcut</key>
 		<string>らぶかす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>タツベイ</string>
+		<string>Tatsubay</string>
 		<key>shortcut</key>
 		<string>たつべい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コモルー</string>
+		<string>Komoruu</string>
 		<key>shortcut</key>
 		<string>こもるー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ボーマンダ</string>
+		<string>Bohmander</string>
 		<key>shortcut</key>
 		<string>ぼーまんだ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ダンバル</string>
+		<string>Dumbber</string>
 		<key>shortcut</key>
 		<string>だんばる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>メタング</string>
+		<string>Metang</string>
 		<key>shortcut</key>
 		<string>めたんぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>メタグロス</string>
+		<string>Metagross</string>
 		<key>shortcut</key>
 		<string>めたぐろす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>レジロック</string>
+		<string>Regirock</string>
 		<key>shortcut</key>
 		<string>れじろっく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>レジアイス</string>
+		<string>Regice</string>
 		<key>shortcut</key>
 		<string>れじあいす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>レジスチル</string>
+		<string>Registeel</string>
 		<key>shortcut</key>
 		<string>れじすちる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ラティアス</string>
+		<string>Latias</string>
 		<key>shortcut</key>
 		<string>らてぃあす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ラティオス</string>
+		<string>Latios</string>
 		<key>shortcut</key>
 		<string>らてぃおす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カイオーガ</string>
+		<string>Kyogre</string>
 		<key>shortcut</key>
 		<string>かいおーが</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>グラードン</string>
+		<string>Groudon</string>
 		<key>shortcut</key>
 		<string>ぐらーどん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>レックウザ</string>
+		<string>Rayquaza</string>
 		<key>shortcut</key>
 		<string>れっくうざ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ジラーチ</string>
+		<string>Jirachi</string>
 		<key>shortcut</key>
 		<string>じらーち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>デオキシス</string>
+		<string>Deoxys</string>
 		<key>shortcut</key>
 		<string>でおきしす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ナエトル</string>
+		<string>Naetle</string>
 		<key>shortcut</key>
 		<string>なえとる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ハヤシガメ</string>
+		<string>Hayashigame</string>
 		<key>shortcut</key>
 		<string>はやしがめ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドダイトス</string>
+		<string>Dodaitose</string>
 		<key>shortcut</key>
 		<string>どだいとす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヒコザル</string>
+		<string>Hikozaru</string>
 		<key>shortcut</key>
 		<string>ひこざる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モウカザル</string>
+		<string>Moukazaru</string>
 		<key>shortcut</key>
 		<string>もうかざる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ゴウカザル</string>
+		<string>Goukazaru</string>
 		<key>shortcut</key>
 		<string>ごうかざる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ポッチャマ</string>
+		<string>Pochama</string>
 		<key>shortcut</key>
 		<string>ぽっちゃま</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ポッタイシ</string>
+		<string>Pottaishi</string>
 		<key>shortcut</key>
 		<string>ぽったいし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>エンペルト</string>
+		<string>Emperte</string>
 		<key>shortcut</key>
 		<string>えんぺると</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ムックル</string>
+		<string>Mukkuru</string>
 		<key>shortcut</key>
 		<string>むっくる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ムクバード</string>
+		<string>Mukubird</string>
 		<key>shortcut</key>
 		<string>むくばーど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ムクホーク</string>
+		<string>Mukuhawk</string>
 		<key>shortcut</key>
 		<string>むくほーく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ビッパ</string>
+		<string>Bippa</string>
 		<key>shortcut</key>
 		<string>びっぱ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ビーダル</string>
+		<string>Beadaru</string>
 		<key>shortcut</key>
 		<string>びーだる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コロボーシ</string>
+		<string>Korobohshi</string>
 		<key>shortcut</key>
 		<string>ころぼーし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コロトック</string>
+		<string>Korotock</string>
 		<key>shortcut</key>
 		<string>ころとっく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コリンク</string>
+		<string>Kolink</string>
 		<key>shortcut</key>
 		<string>こりんく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ルクシオ</string>
+		<string>Luxio</string>
 		<key>shortcut</key>
 		<string>るくしお</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>レントラー</string>
+		<string>Rentorar</string>
 		<key>shortcut</key>
 		<string>れんとらー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>スボミー</string>
+		<string>Subomie</string>
 		<key>shortcut</key>
 		<string>すぼみー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ロズレイド</string>
+		<string>Roserade</string>
 		<key>shortcut</key>
 		<string>ろずれいど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ズガイドス</string>
+		<string>Zugaidos</string>
 		<key>shortcut</key>
 		<string>ずがいどす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ラムパルド</string>
+		<string>Rampald</string>
 		<key>shortcut</key>
 		<string>らむぱるど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>タテトプス</string>
+		<string>Tatetops</string>
 		<key>shortcut</key>
 		<string>たてとぷす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>トリデプス</string>
+		<string>Torideps</string>
 		<key>shortcut</key>
 		<string>とりでぷす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ミノムッチ</string>
+		<string>Minomucchi</string>
 		<key>shortcut</key>
 		<string>みのむっち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ミノマダム</string>
+		<string>Minomadam</string>
 		<key>shortcut</key>
 		<string>みのまだむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ガーメイル</string>
+		<string>Gamale</string>
 		<key>shortcut</key>
 		<string>がーめいる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ミツハニー</string>
+		<string>Mitsuhoney</string>
 		<key>shortcut</key>
 		<string>みつはにー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ビークイン</string>
+		<string>Beequen</string>
 		<key>shortcut</key>
 		<string>びーくいん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>パチリス</string>
+		<string>Pachirisu</string>
 		<key>shortcut</key>
 		<string>ぱちりす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ブイゼル</string>
+		<string>Buoysel</string>
 		<key>shortcut</key>
 		<string>ぶいぜる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>フローゼル</string>
+		<string>Floazel</string>
 		<key>shortcut</key>
 		<string>ふろーぜる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>チェリンボ</string>
+		<string>Cherinbo</string>
 		<key>shortcut</key>
 		<string>ちぇりんぼ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>チェリム</string>
+		<string>Cherrim</string>
 		<key>shortcut</key>
 		<string>ちぇりむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カラナクシ</string>
+		<string>Karanakushi</string>
 		<key>shortcut</key>
 		<string>からなくし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>トリトドン</string>
+		<string>Tritodon</string>
 		<key>shortcut</key>
 		<string>とりとどん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>エテボース</string>
+		<string>Eteboth</string>
 		<key>shortcut</key>
 		<string>えてぼーす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>フワンテ</string>
+		<string>Fuwante</string>
 		<key>shortcut</key>
 		<string>ふわんて</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>フワライド</string>
+		<string>Fuwaride</string>
 		<key>shortcut</key>
 		<string>ふわらいど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ミミロル</string>
+		<string>Mimirol</string>
 		<key>shortcut</key>
 		<string>みみろる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ミミロップ</string>
+		<string>Mimilop</string>
 		<key>shortcut</key>
 		<string>みみろっぷ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ムウマージ</string>
+		<string>Mumargi</string>
 		<key>shortcut</key>
 		<string>むうまーじ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドンカラス</string>
+		<string>Dongkarasu</string>
 		<key>shortcut</key>
 		<string>どんからす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ニャルマー</string>
+		<string>Nyarmar</string>
 		<key>shortcut</key>
 		<string>にゃるまー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ブニャット</string>
+		<string>Bunyatto</string>
 		<key>shortcut</key>
 		<string>ぶにゃっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>リーシャン</string>
+		<string>Lisyan</string>
 		<key>shortcut</key>
 		<string>りーしゃん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>スカンプー</string>
+		<string>Skunpuu</string>
 		<key>shortcut</key>
 		<string>すかんぷー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>スカタンク</string>
+		<string>Skutank</string>
 		<key>shortcut</key>
 		<string>すかたんく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドーミラー</string>
+		<string>Dohmirror</string>
 		<key>shortcut</key>
 		<string>どーみらー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドータクン</string>
+		<string>Dohtakun</string>
 		<key>shortcut</key>
 		<string>どーたくん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ウソハチ</string>
+		<string>Usohachi</string>
 		<key>shortcut</key>
 		<string>うそはち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マネネ</string>
+		<string>Manene</string>
 		<key>shortcut</key>
 		<string>まねね</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ピンプク</string>
+		<string>Pinpuku</string>
 		<key>shortcut</key>
 		<string>ぴんぷく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ペラップ</string>
+		<string>Perap</string>
 		<key>shortcut</key>
 		<string>ぺらっぷ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ミカルゲ</string>
+		<string>Mikaruge</string>
 		<key>shortcut</key>
 		<string>みかるげ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>フカマル</string>
+		<string>Fukamaru</string>
 		<key>shortcut</key>
 		<string>ふかまる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ガバイト</string>
+		<string>Gabite</string>
 		<key>shortcut</key>
 		<string>がばいと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ガブリアス</string>
+		<string>Gaburias</string>
 		<key>shortcut</key>
 		<string>がぶりあす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ゴンベ</string>
+		<string>Gonbe</string>
 		<key>shortcut</key>
 		<string>ごんべ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>リオル</string>
+		<string>Riolu</string>
 		<key>shortcut</key>
 		<string>りおる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ルカリオ</string>
+		<string>Lucario</string>
 		<key>shortcut</key>
 		<string>るかりお</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヒポポタス</string>
+		<string>Hippopotas</string>
 		<key>shortcut</key>
 		<string>ひぽぽたす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カバルドン</string>
+		<string>Kabaldon</string>
 		<key>shortcut</key>
 		<string>かばるどん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>スコルピ</string>
+		<string>Scorupi</string>
 		<key>shortcut</key>
 		<string>すこるぴ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドラピオン</string>
+		<string>Dorapion</string>
 		<key>shortcut</key>
 		<string>どらぴおん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>グレッグル</string>
+		<string>Gureggru</string>
 		<key>shortcut</key>
 		<string>ぐれっぐる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドクロッグ</string>
+		<string>Dokurog</string>
 		<key>shortcut</key>
 		<string>どくろっぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マスキッパ</string>
+		<string>Muskippa</string>
 		<key>shortcut</key>
 		<string>ますきっぱ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ケイコウオ</string>
+		<string>Keikouo</string>
 		<key>shortcut</key>
 		<string>けいこうお</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ネオラント</string>
+		<string>Neolant</string>
 		<key>shortcut</key>
 		<string>ねおらんと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>タマンタ</string>
+		<string>Tamanta</string>
 		<key>shortcut</key>
 		<string>たまんた</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ユキカブリ</string>
+		<string>Yukikaburi</string>
 		<key>shortcut</key>
 		<string>ゆきかぶり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ユキノオー</string>
+		<string>Yukinooh</string>
 		<key>shortcut</key>
 		<string>ゆきのおー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マニューラ</string>
+		<string>Manyula</string>
 		<key>shortcut</key>
 		<string>まにゅーら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ジバコイル</string>
+		<string>Jibacoil</string>
 		<key>shortcut</key>
 		<string>じばこいる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ベロベルト</string>
+		<string>Berobelt</string>
 		<key>shortcut</key>
 		<string>べろべると</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドサイドン</string>
+		<string>Dosidon</string>
 		<key>shortcut</key>
 		<string>どさいどん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モジャンボ</string>
+		<string>Mojumbo</string>
 		<key>shortcut</key>
 		<string>もじゃんぼ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>エレキブル</string>
+		<string>Elekible</string>
 		<key>shortcut</key>
 		<string>えれきぶる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ブーバーン</string>
+		<string>Booburn</string>
 		<key>shortcut</key>
 		<string>ぶーばーん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>トゲキッス</string>
+		<string>Togekiss</string>
 		<key>shortcut</key>
 		<string>とげきっす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>メガヤンマ</string>
+		<string>Megayanma</string>
 		<key>shortcut</key>
 		<string>めがやんま</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>リーフィア</string>
+		<string>Leafia</string>
 		<key>shortcut</key>
 		<string>りーふぃあ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>グレイシア</string>
+		<string>Glacia</string>
 		<key>shortcut</key>
 		<string>ぐれいしあ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>グライオン</string>
+		<string>Glion</string>
 		<key>shortcut</key>
 		<string>ぐらいおん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マンムー</string>
+		<string>Mammoo</string>
 		<key>shortcut</key>
 		<string>まんむー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ポリゴンZ</string>
+		<string>Porygon-Z</string>
 		<key>shortcut</key>
 		<string>ぽりごんぜっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>エルレイド</string>
+		<string>Erureido</string>
 		<key>shortcut</key>
 		<string>えるれいど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ダイノーズ</string>
+		<string>Dainose</string>
 		<key>shortcut</key>
 		<string>だいのーず</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヨノワール</string>
+		<string>Yonoir</string>
 		<key>shortcut</key>
 		<string>よのわーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ユキメノコ</string>
+		<string>Yukimenoko</string>
 		<key>shortcut</key>
 		<string>ゆきめのこ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ロトム</string>
+		<string>Rotom</string>
 		<key>shortcut</key>
 		<string>ろとむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ユクシー</string>
+		<string>Yuxie</string>
 		<key>shortcut</key>
 		<string>ゆくしー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>エムリット</string>
+		<string>Emrit</string>
 		<key>shortcut</key>
 		<string>えむりっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アグノム</string>
+		<string>Agnome</string>
 		<key>shortcut</key>
 		<string>あぐのむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ディアルガ</string>
+		<string>Dialga</string>
 		<key>shortcut</key>
 		<string>でぃあるが</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>パルキア</string>
+		<string>Palkia</string>
 		<key>shortcut</key>
 		<string>ぱるきあ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヒードラン</string>
+		<string>Heatran</string>
 		<key>shortcut</key>
 		<string>ひーどらん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>レジギガス</string>
+		<string>Regigigas</string>
 		<key>shortcut</key>
 		<string>れじぎがす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ギラティナ</string>
+		<string>Giratina</string>
 		<key>shortcut</key>
 		<string>ぎらてぃな</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>クレセリア</string>
+		<string>Cresselia</string>
 		<key>shortcut</key>
 		<string>くれせりあ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>フィオネ</string>
+		<string>Phione</string>
 		<key>shortcut</key>
 		<string>ふぃおね</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マナフィ</string>
+		<string>Manaphy</string>
 		<key>shortcut</key>
 		<string>まなふぃ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ダークライ</string>
+		<string>Darkrai</string>
 		<key>shortcut</key>
 		<string>だーくらい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>シェイミ</string>
+		<string>Shaymin</string>
 		<key>shortcut</key>
 		<string>しぇいみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アルセウス</string>
+		<string>Arceus</string>
 		<key>shortcut</key>
 		<string>あるせうす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ビクティニ</string>
+		<string>Victini</string>
 		<key>shortcut</key>
 		<string>びくてぃに</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ツタージャ</string>
+		<string>Tsutarja</string>
 		<key>shortcut</key>
 		<string>つたーじゃ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ジャノビー</string>
+		<string>Janovy</string>
 		<key>shortcut</key>
 		<string>じゃのびー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ジャローダ</string>
+		<string>Jalorda</string>
 		<key>shortcut</key>
 		<string>じゃろーだ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ポカブ</string>
+		<string>Pokabu</string>
 		<key>shortcut</key>
 		<string>ぽかぶ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>チャオブー</string>
+		<string>Chaoboo</string>
 		<key>shortcut</key>
 		<string>ちゃおぶー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>エンブオー</string>
+		<string>Enbuoh</string>
 		<key>shortcut</key>
 		<string>えんぶおー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ミジュマル</string>
+		<string>Mijumaru</string>
 		<key>shortcut</key>
 		<string>みじゅまる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>フタチマル</string>
+		<string>Futachimaru</string>
 		<key>shortcut</key>
 		<string>ふたちまる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ダイケンキ</string>
+		<string>Daikenki</string>
 		<key>shortcut</key>
 		<string>だいけんき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ミネズミ</string>
+		<string>Minezumi</string>
 		<key>shortcut</key>
 		<string>みねずみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ミルホッグ</string>
+		<string>Miruhog</string>
 		<key>shortcut</key>
 		<string>みるほっぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヨーテリー</string>
+		<string>Yorterrie</string>
 		<key>shortcut</key>
 		<string>よーてりー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ハーデリア</string>
+		<string>Herderrie</string>
 		<key>shortcut</key>
 		<string>はーでりあ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ムーランド</string>
+		<string>Mooland</string>
 		<key>shortcut</key>
 		<string>むーらんど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>チョロネコ</string>
+		<string>Choroneko</string>
 		<key>shortcut</key>
 		<string>ちょろねこ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>レパルダス</string>
+		<string>Lepardas</string>
 		<key>shortcut</key>
 		<string>れぱるだす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヤナップ</string>
+		<string>Yanappu</string>
 		<key>shortcut</key>
 		<string>やなっぷ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヤナッキー</string>
+		<string>Yanakkie</string>
 		<key>shortcut</key>
 		<string>やなっきー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>バオップ</string>
+		<string>Baoppu</string>
 		<key>shortcut</key>
 		<string>ばおっぷ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>バオッキー</string>
+		<string>Baokkie</string>
 		<key>shortcut</key>
 		<string>ばおっきー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヒヤップ</string>
+		<string>Hiyappu</string>
 		<key>shortcut</key>
 		<string>ひやっぷ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヒヤッキー</string>
+		<string>Hiyakkie</string>
 		<key>shortcut</key>
 		<string>ひやっきー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ムンナ</string>
+		<string>Munna</string>
 		<key>shortcut</key>
 		<string>むんな</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ムシャーナ</string>
+		<string>Musharna</string>
 		<key>shortcut</key>
 		<string>むしゃーな</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マメパト</string>
+		<string>Mamepato</string>
 		<key>shortcut</key>
 		<string>まめぱと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ハトーボー</string>
+		<string>Hatoboh</string>
 		<key>shortcut</key>
 		<string>はとーぼー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ケンホロウ</string>
+		<string>Kenhallow</string>
 		<key>shortcut</key>
 		<string>けんほろう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>シママ</string>
+		<string>Shimama</string>
 		<key>shortcut</key>
 		<string>しまま</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ゼブライカ</string>
+		<string>Zebraika</string>
 		<key>shortcut</key>
 		<string>ぜぶらいか</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ダンゴロ</string>
+		<string>Dangoro</string>
 		<key>shortcut</key>
 		<string>だんごろ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ガントル</string>
+		<string>Gantle</string>
 		<key>shortcut</key>
 		<string>がんとる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ギガイアス</string>
+		<string>Gigaiath</string>
 		<key>shortcut</key>
 		<string>ぎがいあす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コロモリ</string>
+		<string>Koromori</string>
 		<key>shortcut</key>
 		<string>ころもり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ココロモリ</string>
+		<string>Kokoromori</string>
 		<key>shortcut</key>
 		<string>こころもり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モグリュー</string>
+		<string>Mogurew</string>
 		<key>shortcut</key>
 		<string>もぐりゅー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドリュウズ</string>
+		<string>Doryuzu</string>
 		<key>shortcut</key>
 		<string>どりゅうず</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>タブンネ</string>
+		<string>Tabunne</string>
 		<key>shortcut</key>
 		<string>たぶんね</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドッコラー</string>
+		<string>Dokkorer</string>
 		<key>shortcut</key>
 		<string>どっこらー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドテッコツ</string>
+		<string>Dotekkotsu</string>
 		<key>shortcut</key>
 		<string>どてっこつ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ローブシン</string>
+		<string>Roubushin</string>
 		<key>shortcut</key>
 		<string>ろーぶしん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オタマロ</string>
+		<string>Otamaro</string>
 		<key>shortcut</key>
 		<string>おたまろ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ガマガル</string>
+		<string>Gamagaru</string>
 		<key>shortcut</key>
 		<string>がまがる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ガマゲロゲ</string>
+		<string>Gamageroge</string>
 		<key>shortcut</key>
 		<string>がまげろげ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ナゲキ</string>
+		<string>Nageki</string>
 		<key>shortcut</key>
 		<string>なげき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ダゲキ</string>
+		<string>Dageki</string>
 		<key>shortcut</key>
 		<string>だげき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>クルミル</string>
+		<string>Kurumiru</string>
 		<key>shortcut</key>
 		<string>くるみる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>クルマユ</string>
+		<string>Kurumayu</string>
 		<key>shortcut</key>
 		<string>くるまゆ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ハハコモリ</string>
+		<string>Hahakomori</string>
 		<key>shortcut</key>
 		<string>ははこもり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>フシデ</string>
+		<string>Fushide</string>
 		<key>shortcut</key>
 		<string>ふしで</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ホイーガ</string>
+		<string>Wheega</string>
 		<key>shortcut</key>
 		<string>ほいーが</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ペンドラー</string>
+		<string>Pendror</string>
 		<key>shortcut</key>
 		<string>ぺんどらー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モンメン</string>
+		<string>Monmen</string>
 		<key>shortcut</key>
 		<string>もんめん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>エルフーン</string>
+		<string>Elfuun</string>
 		<key>shortcut</key>
 		<string>えるふーん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>チュリネ</string>
+		<string>Churine</string>
 		<key>shortcut</key>
 		<string>ちゅりね</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドレディア</string>
+		<string>Dredear</string>
 		<key>shortcut</key>
 		<string>どれでぃあ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>バスラオ</string>
+		<string>Bassrao</string>
 		<key>shortcut</key>
 		<string>ばすらお</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>メグロコ</string>
+		<string>Meguroco</string>
 		<key>shortcut</key>
 		<string>めぐろこ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ワルビル</string>
+		<string>Waruvile</string>
 		<key>shortcut</key>
 		<string>わるびる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ワルビアル</string>
+		<string>Waruvial</string>
 		<key>shortcut</key>
 		<string>わるびある</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ダルマッカ</string>
+		<string>Darumakka</string>
 		<key>shortcut</key>
 		<string>だるまっか</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヒヒダルマ</string>
+		<string>Hihidaruma</string>
 		<key>shortcut</key>
 		<string>ひひだるま</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マラカッチ</string>
+		<string>Maracacchi</string>
 		<key>shortcut</key>
 		<string>まらかっち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>イシズマイ</string>
+		<string>Ishizumai</string>
 		<key>shortcut</key>
 		<string>いしずまい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>イワパレス</string>
+		<string>Iwapalace</string>
 		<key>shortcut</key>
 		<string>いわぱれす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ズルッグ</string>
+		<string>Zuruggu</string>
 		<key>shortcut</key>
 		<string>ずるっぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ズルズキン</string>
+		<string>Zuruzukin</string>
 		<key>shortcut</key>
 		<string>ずるずきん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>シンボラー</string>
+		<string>Symboler</string>
 		<key>shortcut</key>
 		<string>しんぼらー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>デスマス</string>
+		<string>Desumasu</string>
 		<key>shortcut</key>
 		<string>ですます</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>デスカーン</string>
+		<string>Desukarn</string>
 		<key>shortcut</key>
 		<string>ですかーん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>プロトーガ</string>
+		<string>Protoga</string>
 		<key>shortcut</key>
 		<string>ぷろとーが</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アバゴーラ</string>
+		<string>Abagoura</string>
 		<key>shortcut</key>
 		<string>あばごーら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アーケン</string>
+		<string>Archen</string>
 		<key>shortcut</key>
 		<string>あーけん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アーケオス</string>
+		<string>Archeos</string>
 		<key>shortcut</key>
 		<string>あーけおす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヤブクロン</string>
+		<string>Yabukuron</string>
 		<key>shortcut</key>
 		<string>やぶくろん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ダストダス</string>
+		<string>Dustdas</string>
 		<key>shortcut</key>
 		<string>だすとだす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ゾロア</string>
+		<string>Zorua</string>
 		<key>shortcut</key>
 		<string>ぞろあ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ゾロアーク</string>
+		<string>Zoroark</string>
 		<key>shortcut</key>
 		<string>ぞろあーく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>チラーミィ</string>
+		<string>Chillarmy</string>
 		<key>shortcut</key>
 		<string>ちらーみぃ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>チラチーノ</string>
+		<string>Chillaccino</string>
 		<key>shortcut</key>
 		<string>ちらちーの</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ゴチム</string>
+		<string>Gothimu</string>
 		<key>shortcut</key>
 		<string>ごちむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ゴチミル</string>
+		<string>Gothimiru</string>
 		<key>shortcut</key>
 		<string>ごちみる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ゴチルゼル</string>
+		<string>Gothiruselle</string>
 		<key>shortcut</key>
 		<string>ごちるぜる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ユニラン</string>
+		<string>Uniran</string>
 		<key>shortcut</key>
 		<string>ゆにらん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ダブラン</string>
+		<string>Doublan</string>
 		<key>shortcut</key>
 		<string>だぶらん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ランクルス</string>
+		<string>Lanculus</string>
 		<key>shortcut</key>
 		<string>らんくるす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コアルヒー</string>
+		<string>Koaruhie</string>
 		<key>shortcut</key>
 		<string>こあるひー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>スワンナ</string>
+		<string>Swanna</string>
 		<key>shortcut</key>
 		<string>すわんな</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>バニプッチ</string>
+		<string>Vanipeti</string>
 		<key>shortcut</key>
 		<string>ばにぷっち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>バニリッチ</string>
+		<string>Vanirich</string>
 		<key>shortcut</key>
 		<string>ばにりっち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>バイバニラ</string>
+		<string>Baivanilla</string>
 		<key>shortcut</key>
 		<string>ばいばにら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>シキジカ</string>
+		<string>Shikijika</string>
 		<key>shortcut</key>
 		<string>しきじか</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>メブキジカ</string>
+		<string>Mebukijika</string>
 		<key>shortcut</key>
 		<string>めぶきじか</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>エモンガ</string>
+		<string>Emonga</string>
 		<key>shortcut</key>
 		<string>えもんが</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カブルモ</string>
+		<string>Kaburumo</string>
 		<key>shortcut</key>
 		<string>かぶるも</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>シュバルゴ</string>
+		<string>Chevargo</string>
 		<key>shortcut</key>
 		<string>しゅばるご</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>タマゲタケ</string>
+		<string>Tamagetake</string>
 		<key>shortcut</key>
 		<string>たまげたけ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モロバレル</string>
+		<string>Morobareru</string>
 		<key>shortcut</key>
 		<string>もろばれる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>プルリル</string>
+		<string>Pururill</string>
 		<key>shortcut</key>
 		<string>ぷるりる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ブルンゲル</string>
+		<string>Burungel</string>
 		<key>shortcut</key>
 		<string>ぶるんげる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ママンボウ</string>
+		<string>Mamanbou</string>
 		<key>shortcut</key>
 		<string>ままんぼう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>バチュル</string>
+		<string>Bachuru</string>
 		<key>shortcut</key>
 		<string>ばちゅる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>デンチュラ</string>
+		<string>Dentula</string>
 		<key>shortcut</key>
 		<string>でんちゅら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>テッシード</string>
+		<string>Tesseed</string>
 		<key>shortcut</key>
 		<string>てっしーど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ナットレイ</string>
+		<string>Nutrey</string>
 		<key>shortcut</key>
 		<string>なっとれい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ギアル</string>
+		<string>Giaru</string>
 		<key>shortcut</key>
 		<string>ぎある</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ギギアル</string>
+		<string>Gigiaru</string>
 		<key>shortcut</key>
 		<string>ぎぎある</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ギギギアル</string>
+		<string>Gigigiaru</string>
 		<key>shortcut</key>
 		<string>ぎぎぎある</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>シビシラス</string>
+		<string>Shibishirasu</string>
 		<key>shortcut</key>
 		<string>しびしらす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>シビビール</string>
+		<string>Shibibeel</string>
 		<key>shortcut</key>
 		<string>しびびーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>シビルドン</string>
+		<string>Shibirudon</string>
 		<key>shortcut</key>
 		<string>しびるどん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>リグレー</string>
+		<string>Ligray</string>
 		<key>shortcut</key>
 		<string>りぐれー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オーベム</string>
+		<string>Ohbem</string>
 		<key>shortcut</key>
 		<string>おーべむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヒトモシ</string>
+		<string>Hitomoshi</string>
 		<key>shortcut</key>
 		<string>ひともし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ランプラー</string>
+		<string>Lampler</string>
 		<key>shortcut</key>
 		<string>らんぷらー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>シャンデラ</string>
+		<string>Chandela</string>
 		<key>shortcut</key>
 		<string>しゃんでら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>キバゴ</string>
+		<string>Kibago</string>
 		<key>shortcut</key>
 		<string>きばご</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オノンド</string>
+		<string>Onondo</string>
 		<key>shortcut</key>
 		<string>おのんど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オノノクス</string>
+		<string>Ononokus</string>
 		<key>shortcut</key>
 		<string>おののくす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>クマシュン</string>
+		<string>Kumasyun</string>
 		<key>shortcut</key>
 		<string>くましゅん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ツンベアー</string>
+		<string>Tunbear</string>
 		<key>shortcut</key>
 		<string>つんべあー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>フリージオ</string>
+		<string>Freegeo</string>
 		<key>shortcut</key>
 		<string>ふりーじお</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>チョボマキ</string>
+		<string>Chobomaki</string>
 		<key>shortcut</key>
 		<string>ちょぼまき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アギルダー</string>
+		<string>Agilder</string>
 		<key>shortcut</key>
 		<string>あぎるだー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マッギョ</string>
+		<string>Maggyo</string>
 		<key>shortcut</key>
 		<string>まっぎょ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コジョフー</string>
+		<string>Kojofu</string>
 		<key>shortcut</key>
 		<string>こじょふー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コジョンド</string>
+		<string>Kojondo</string>
 		<key>shortcut</key>
 		<string>こじょんど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>クリムガン</string>
+		<string>Crimgan</string>
 		<key>shortcut</key>
 		<string>くりむがん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ゴビット</string>
+		<string>Gobit</string>
 		<key>shortcut</key>
 		<string>ごびっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ゴルーグ</string>
+		<string>Goloog</string>
 		<key>shortcut</key>
 		<string>ごるーぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コマタナ</string>
+		<string>Komatana</string>
 		<key>shortcut</key>
 		<string>こまたな</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>キリキザン</string>
+		<string>Kirikizan</string>
 		<key>shortcut</key>
 		<string>きりきざん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>バッフロン</string>
+		<string>Buffron</string>
 		<key>shortcut</key>
 		<string>ばっふろん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ワシボン</string>
+		<string>Washibon</string>
 		<key>shortcut</key>
 		<string>わしぼん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ウォーグル</string>
+		<string>Warrgle</string>
 		<key>shortcut</key>
 		<string>うぉーぐる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>バルチャイ</string>
+		<string>Valchai</string>
 		<key>shortcut</key>
 		<string>ばるちゃい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>バルジーナ</string>
+		<string>Vulgina</string>
 		<key>shortcut</key>
 		<string>ばるじーな</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>クイタラン</string>
+		<string>Kuitaran</string>
 		<key>shortcut</key>
 		<string>くいたらん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アイアント</string>
+		<string>Aiant</string>
 		<key>shortcut</key>
 		<string>あいあんと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モノズ</string>
+		<string>Monozu</string>
 		<key>shortcut</key>
 		<string>ものず</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ジヘッド</string>
+		<string>Dihead</string>
 		<key>shortcut</key>
 		<string>じへっど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>サザンドラ</string>
+		<string>Sazandora</string>
 		<key>shortcut</key>
 		<string>さざんどら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>メラルバ</string>
+		<string>Merlarva</string>
 		<key>shortcut</key>
 		<string>めらるば</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ウルガモス</string>
+		<string>Ulgamoth</string>
 		<key>shortcut</key>
 		<string>うるがもす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コバルオン</string>
+		<string>Cobalon</string>
 		<key>shortcut</key>
 		<string>こばるおん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>テラキオン</string>
+		<string>Terrakion</string>
 		<key>shortcut</key>
 		<string>てらきおん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ビリジオン</string>
+		<string>Virizion</string>
 		<key>shortcut</key>
 		<string>びりじおん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>トルネロス</string>
+		<string>Tornelos</string>
 		<key>shortcut</key>
 		<string>とるねろす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ボルトロス</string>
+		<string>Voltolos</string>
 		<key>shortcut</key>
 		<string>ぼるとろす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>レシラム</string>
+		<string>Reshiram</string>
 		<key>shortcut</key>
 		<string>れしらむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ゼクロム</string>
+		<string>Zekrom</string>
 		<key>shortcut</key>
 		<string>ぜくろむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ランドロス</string>
+		<string>Landlos</string>
 		<key>shortcut</key>
 		<string>らんどろす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>キュレム</string>
+		<string>Kyurem</string>
 		<key>shortcut</key>
 		<string>きゅれむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ケルディオ</string>
+		<string>Keldeo</string>
 		<key>shortcut</key>
 		<string>けるでぃお</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>メロエッタ</string>
+		<string>Meloetta</string>
 		<key>shortcut</key>
 		<string>めろえった</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ゲノセクト</string>
+		<string>Genesect</string>
 		<key>shortcut</key>
 		<string>げのせくと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ハリマロン</string>
+		<string>Harimaron</string>
 		<key>shortcut</key>
 		<string>はりまろん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ハリボーグ</string>
+		<string>Hariborg</string>
 		<key>shortcut</key>
 		<string>はりぼーぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ブリガロン</string>
+		<string>Brigarron</string>
 		<key>shortcut</key>
 		<string>ぶりがろん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>フォッコ</string>
+		<string>Fokko</string>
 		<key>shortcut</key>
 		<string>ふぉっこ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>テールナー</string>
+		<string>Tairenar</string>
 		<key>shortcut</key>
 		<string>てーるなー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マフォクシー</string>
+		<string>Mahoxy</string>
 		<key>shortcut</key>
 		<string>まふぉくしー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ケロマツ</string>
+		<string>Keromatsu</string>
 		<key>shortcut</key>
 		<string>けろまつ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ゲコガシラ</string>
+		<string>Gekogashira</string>
 		<key>shortcut</key>
 		<string>げこがしら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ゲッコウガ</string>
+		<string>Gekkouga</string>
 		<key>shortcut</key>
 		<string>げっこうが</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ホルビー</string>
+		<string>Horubee</string>
 		<key>shortcut</key>
 		<string>ほるびー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ホルード</string>
+		<string>Horudo</string>
 		<key>shortcut</key>
 		<string>ほるーど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヤヤコマ</string>
+		<string>Yayakoma</string>
 		<key>shortcut</key>
 		<string>ややこま</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヒノヤコマ</string>
+		<string>Hinoyakoma</string>
 		<key>shortcut</key>
 		<string>ひのやこま</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ファイアロー</string>
+		<string>Fiarrow</string>
 		<key>shortcut</key>
 		<string>ふぁいあろー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コフキムシ</string>
+		<string>Kofukimushi</string>
 		<key>shortcut</key>
 		<string>こふきむし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コフーライ</string>
+		<string>Kofuurai</string>
 		<key>shortcut</key>
 		<string>こふーらい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ビビヨン</string>
+		<string>Viviyon</string>
 		<key>shortcut</key>
 		<string>びびよん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>シシコ</string>
+		<string>Shishiko</string>
 		<key>shortcut</key>
 		<string>ししこ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カエンジシ</string>
+		<string>Kaenjishi</string>
 		<key>shortcut</key>
 		<string>かえんじし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>フラベベ</string>
+		<string>Flabebe</string>
 		<key>shortcut</key>
 		<string>ふらべべ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>フラエッテ</string>
+		<string>Floette</string>
 		<key>shortcut</key>
 		<string>ふらえって</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>フラージェス</string>
+		<string>Florges</string>
 		<key>shortcut</key>
 		<string>ふらーじぇす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>メェークル</string>
+		<string>Meecle</string>
 		<key>shortcut</key>
 		<string>めぇーくる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ゴーゴート</string>
+		<string>Gogoat</string>
 		<key>shortcut</key>
 		<string>ごーごーと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヤンチャム</string>
+		<string>Yancham</string>
 		<key>shortcut</key>
 		<string>やんちゃむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ゴロンダ</string>
+		<string>Goronda</string>
 		<key>shortcut</key>
 		<string>ごろんだ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>トリミアン</string>
+		<string>Trimmien</string>
 		<key>shortcut</key>
 		<string>とりみあん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ニャスパー</string>
+		<string>Nyasper</string>
 		<key>shortcut</key>
 		<string>にゃすぱー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ニャオニクス</string>
+		<string>Nyaonix</string>
 		<key>shortcut</key>
 		<string>にゃおにくす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヒトツキ</string>
+		<string>Hitotsuki</string>
 		<key>shortcut</key>
 		<string>ひとつき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ニダンギル</string>
+		<string>Nidangill</string>
 		<key>shortcut</key>
 		<string>にだんぎる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ギルガルド</string>
+		<string>Gillgard</string>
 		<key>shortcut</key>
 		<string>ぎるがるど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>シュシュプ</string>
+		<string>Shushupu</string>
 		<key>shortcut</key>
 		<string>しゅしゅぷ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>フレフワン</string>
+		<string>Frefuwan</string>
 		<key>shortcut</key>
 		<string>ふれふわん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ペロッパフ</string>
+		<string>Peroppafu</string>
 		<key>shortcut</key>
 		<string>ぺろっぱふ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ペロリーム</string>
+		<string>Peroream</string>
 		<key>shortcut</key>
 		<string>ぺろりーむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マーイーカ</string>
+		<string>Maaiika</string>
 		<key>shortcut</key>
 		<string>まーいーか</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カラマネロ</string>
+		<string>Calamanero</string>
 		<key>shortcut</key>
 		<string>からまねろ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カメテテ</string>
+		<string>Kametete</string>
 		<key>shortcut</key>
 		<string>かめてて</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ガメノデス</string>
+		<string>Gamenodes</string>
 		<key>shortcut</key>
 		<string>がめのです</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>クズモー</string>
+		<string>Kuzumo</string>
 		<key>shortcut</key>
 		<string>くずもー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドラミドロ</string>
+		<string>Dramidoro</string>
 		<key>shortcut</key>
 		<string>どらみどろ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ウデッポウ</string>
+		<string>Udeppou</string>
 		<key>shortcut</key>
 		<string>うでっぽう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ブロスター</string>
+		<string>Bloster</string>
 		<key>shortcut</key>
 		<string>ぶろすたー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>エリキテル</string>
+		<string>Erikiteru</string>
 		<key>shortcut</key>
 		<string>えりきてる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>エレザード</string>
+		<string>Elezard</string>
 		<key>shortcut</key>
 		<string>えれざーど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>チゴラス</string>
+		<string>Chigoras</string>
 		<key>shortcut</key>
 		<string>ちごらす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ガチゴラス</string>
+		<string>Gachigoras</string>
 		<key>shortcut</key>
 		<string>がちごらす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アマルス</string>
+		<string>Amarus</string>
 		<key>shortcut</key>
 		<string>あまるす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アマルルガ</string>
+		<string>Amaruruga</string>
 		<key>shortcut</key>
 		<string>あまるるが</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ニンフィア</string>
+		<string>Nymphia</string>
 		<key>shortcut</key>
 		<string>にんふぃあ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ルチャブル</string>
+		<string>Luchabull</string>
 		<key>shortcut</key>
 		<string>るちゃぶる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>デデンネ</string>
+		<string>Dedenne</string>
 		<key>shortcut</key>
 		<string>ででんね</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>メレシー</string>
+		<string>Melecie</string>
 		<key>shortcut</key>
 		<string>めれしー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヌメラ</string>
+		<string>Numera</string>
 		<key>shortcut</key>
 		<string>ぬめら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヌメイル</string>
+		<string>Numeil</string>
 		<key>shortcut</key>
 		<string>ぬめいる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヌメルゴン</string>
+		<string>Numelgon</string>
 		<key>shortcut</key>
 		<string>ぬめるごん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>クレッフィ</string>
+		<string>Cleffy</string>
 		<key>shortcut</key>
 		<string>くれっふぃ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ボクレー</string>
+		<string>Bokurei</string>
 		<key>shortcut</key>
 		<string>ぼくれー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オーロット</string>
+		<string>Ohrot</string>
 		<key>shortcut</key>
 		<string>おーろっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>バケッチャ</string>
+		<string>Bakeccha</string>
 		<key>shortcut</key>
 		<string>ばけっちゃ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>パンプジン</string>
+		<string>Pumpjin</string>
 		<key>shortcut</key>
 		<string>ぱんぷじん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カチコール</string>
+		<string>Kachikohru</string>
 		<key>shortcut</key>
 		<string>かちこーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>クレベース</string>
+		<string>Crebase</string>
 		<key>shortcut</key>
 		<string>くれべーす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オンバット</string>
+		<string>Onbat</string>
 		<key>shortcut</key>
 		<string>おんばっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オンバーン</string>
+		<string>Onvern</string>
 		<key>shortcut</key>
 		<string>おんばーん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ゼルネアス</string>
+		<string>Xerneas</string>
 		<key>shortcut</key>
 		<string>ぜるねあす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>イベルタル</string>
+		<string>Yveltal</string>
 		<key>shortcut</key>
 		<string>いべるたる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ジガルデ</string>
+		<string>Zygarde</string>
 		<key>shortcut</key>
 		<string>じがるで</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ディアンシー</string>
+		<string>Diancie</string>
 		<key>shortcut</key>
 		<string>でぃあんしー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>フーパ</string>
+		<string>Hoopa</string>
 		<key>shortcut</key>
 		<string>ふーぱ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ボルケニオン</string>
+		<string>Volcanion</string>
 		<key>shortcut</key>
 		<string>ぼるけにおん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モクロー</string>
+		<string>Mokuroh</string>
 		<key>shortcut</key>
 		<string>もくろー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>フクスロー</string>
+		<string>Fukuthrow</string>
 		<key>shortcut</key>
 		<string>ふくすろー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ジュナイパー</string>
+		<string>Junaiper</string>
 		<key>shortcut</key>
 		<string>じゅないぱー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ニャビー</string>
+		<string>Nyabby</string>
 		<key>shortcut</key>
 		<string>にゃびー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ニャヒート</string>
+		<string>Nyaheat</string>
 		<key>shortcut</key>
 		<string>にゃひーと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ガオガエン</string>
+		<string>Gaogaen</string>
 		<key>shortcut</key>
 		<string>がおがえん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アシマリ</string>
+		<string>Ashimari</string>
 		<key>shortcut</key>
 		<string>あしまり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オシャマリ</string>
+		<string>Osyamari</string>
 		<key>shortcut</key>
 		<string>おしゃまり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アシレーヌ</string>
+		<string>Ashirene</string>
 		<key>shortcut</key>
 		<string>あしれーぬ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ツツケラ</string>
+		<string>Tsutsukera</string>
 		<key>shortcut</key>
 		<string>つつけら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ケララッパ</string>
+		<string>Kerarappa</string>
 		<key>shortcut</key>
 		<string>けららっぱ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドデカバシ</string>
+		<string>Dodekabashi</string>
 		<key>shortcut</key>
 		<string>どでかばし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヤングース</string>
+		<string>Youngoose</string>
 		<key>shortcut</key>
 		<string>やんぐーす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>デカグース</string>
+		<string>Dekagoose</string>
 		<key>shortcut</key>
 		<string>でかぐーす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アゴジムシ</string>
+		<string>Agojimushi</string>
 		<key>shortcut</key>
 		<string>あごじむし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>デンヂムシ</string>
+		<string>Dendimushi</string>
 		<key>shortcut</key>
 		<string>でんぢむし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>クワガノン</string>
+		<string>Kuwagannon</string>
 		<key>shortcut</key>
 		<string>くわがのん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マケンカニ</string>
+		<string>Makenkani</string>
 		<key>shortcut</key>
 		<string>まけんかに</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ケケンカニ</string>
+		<string>Kekenkani</string>
 		<key>shortcut</key>
 		<string>けけんかに</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オドリドリ</string>
+		<string>Odoridori</string>
 		<key>shortcut</key>
 		<string>おどりどり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アブリー</string>
+		<string>Abuly</string>
 		<key>shortcut</key>
 		<string>あぶりー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アブリボン</string>
+		<string>Aburibbon</string>
 		<key>shortcut</key>
 		<string>あぶりぼん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>イワンコ</string>
+		<string>Iwanko</string>
 		<key>shortcut</key>
 		<string>いわんこ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ルガルガン</string>
+		<string>Lugarugan</string>
 		<key>shortcut</key>
 		<string>るがるがん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヨワシ</string>
+		<string>Yowashi</string>
 		<key>shortcut</key>
 		<string>よわし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヒドイデ</string>
+		<string>Hidoide</string>
 		<key>shortcut</key>
 		<string>ひどいで</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドヒドイデ</string>
+		<string>Dohidoide</string>
 		<key>shortcut</key>
 		<string>どひどいで</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドロバンコ</string>
+		<string>Dorobanko</string>
 		<key>shortcut</key>
 		<string>どろばんこ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>バンバドロ</string>
+		<string>Banbadoro</string>
 		<key>shortcut</key>
 		<string>ばんばどろ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>シズクモ</string>
+		<string>Shizukumo</string>
 		<key>shortcut</key>
 		<string>しずくも</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オニシズクモ</string>
+		<string>Onishizukumo</string>
 		<key>shortcut</key>
 		<string>おにしずくも</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カリキリ</string>
+		<string>Karikiri</string>
 		<key>shortcut</key>
 		<string>かりきり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ラランテス</string>
+		<string>Lalantes</string>
 		<key>shortcut</key>
 		<string>ららんてす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ネマシュ</string>
+		<string>Nemasyu</string>
 		<key>shortcut</key>
 		<string>ねましゅ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マシェード</string>
+		<string>Mashade</string>
 		<key>shortcut</key>
 		<string>ましぇーど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヤトウモリ</string>
+		<string>Yatoumori</string>
 		<key>shortcut</key>
 		<string>やとうもり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>エンニュート</string>
+		<string>Ennewt</string>
 		<key>shortcut</key>
 		<string>えんにゅーと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヌイコグマ</string>
+		<string>Nuikoguma</string>
 		<key>shortcut</key>
 		<string>ぬいこぐま</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>キテルグマ</string>
+		<string>Kiteruguma</string>
 		<key>shortcut</key>
 		<string>きてるぐま</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アマカジ</string>
+		<string>Amakaji</string>
 		<key>shortcut</key>
 		<string>あまかじ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アママイコ</string>
+		<string>Amamaiko</string>
 		<key>shortcut</key>
 		<string>あままいこ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アマージョ</string>
+		<string>Amajo</string>
 		<key>shortcut</key>
 		<string>あまーじょ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>キュワワー</string>
+		<string>Cuwawa</string>
 		<key>shortcut</key>
 		<string>きゅわわー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヤレユータン</string>
+		<string>Yareyuutan</string>
 		<key>shortcut</key>
 		<string>やれゆーたん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ナゲツケサル</string>
+		<string>Nagetukesaru</string>
 		<key>shortcut</key>
 		<string>なげつけさる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コソクムシ</string>
+		<string>Kosokumushi</string>
 		<key>shortcut</key>
 		<string>こそくむし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>グソクムシャ</string>
+		<string>Gusokumusha</string>
 		<key>shortcut</key>
 		<string>ぐそくむしゃ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>スナバァ</string>
+		<string>Sunaba</string>
 		<key>shortcut</key>
 		<string>すなばぁ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>シロデスナ</string>
+		<string>Sirodethna</string>
 		<key>shortcut</key>
 		<string>しろですな</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ナマコブシ</string>
+		<string>Namakobushi</string>
 		<key>shortcut</key>
 		<string>なまこぶし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>タイプ:ヌル</string>
+		<string>Type: Null</string>
 		<key>shortcut</key>
 		<string>たいぷ:ぬる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>シルヴァディ</string>
+		<string>Silvady</string>
 		<key>shortcut</key>
 		<string>しるゔぁでぃ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>メテノ</string>
+		<string>Meteno</string>
 		<key>shortcut</key>
 		<string>めての</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ネッコアラ</string>
+		<string>Nekkoara</string>
 		<key>shortcut</key>
 		<string>ねっこあら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>バクガメス</string>
+		<string>Bakugames</string>
 		<key>shortcut</key>
 		<string>ばくがめす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>トゲデマル</string>
+		<string>Togedemaru</string>
 		<key>shortcut</key>
 		<string>とげでまる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ミミッキュ</string>
+		<string>Mimikkyu</string>
 		<key>shortcut</key>
 		<string>みみっきゅ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ハギギシリ</string>
+		<string>Hagigishiri</string>
 		<key>shortcut</key>
 		<string>はぎぎしり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ジジーロン</string>
+		<string>Jijilong</string>
 		<key>shortcut</key>
 		<string>じじーろん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ダダリン</string>
+		<string>Dadarin</string>
 		<key>shortcut</key>
 		<string>だだりん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ジャラコ</string>
+		<string>Jyarako</string>
 		<key>shortcut</key>
 		<string>じゃらこ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ジャランゴ</string>
+		<string>Jyarango</string>
 		<key>shortcut</key>
 		<string>じゃらんご</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ジャラランガ</string>
+		<string>Jyararanga</string>
 		<key>shortcut</key>
 		<string>じゃららんが</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カプ・コケコ</string>
+		<string>Kapu-Kokeko</string>
 		<key>shortcut</key>
 		<string>かぷ・こけこ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カプ・テテフ</string>
+		<string>Kapu-Tetefu</string>
 		<key>shortcut</key>
 		<string>かぷ・ててふ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カプ・ブルル</string>
+		<string>Kapu-Bulul</string>
 		<key>shortcut</key>
 		<string>かぷ・ぶるる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カプ・レヒレ</string>
+		<string>Kapu-Rehire</string>
 		<key>shortcut</key>
 		<string>かぷ・れひれ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コスモッグ</string>
+		<string>Cosmog</string>
 		<key>shortcut</key>
 		<string>こすもっぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コスモウム</string>
+		<string>Cosmovum</string>
 		<key>shortcut</key>
 		<string>こすもうむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ソルガレオ</string>
+		<string>Solgaleo</string>
 		<key>shortcut</key>
 		<string>そるがれお</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ルナアーラ</string>
+		<string>Lunala</string>
 		<key>shortcut</key>
 		<string>るなあーら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ウツロイド</string>
+		<string>Uturoid</string>
 		<key>shortcut</key>
 		<string>うつろいど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マッシブーン</string>
+		<string>Massivoon</string>
 		<key>shortcut</key>
 		<string>まっしぶーん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>フェローチェ</string>
+		<string>Pheroache</string>
 		<key>shortcut</key>
 		<string>ふぇろーちぇ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>デンジュモク</string>
+		<string>Denjyumoku</string>
 		<key>shortcut</key>
 		<string>でんじゅもく</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>テッカグヤ</string>
+		<string>Tekkaguya</string>
 		<key>shortcut</key>
 		<string>てっかぐや</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カミツルギ</string>
+		<string>Kamiturugi</string>
 		<key>shortcut</key>
 		<string>かみつるぎ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アクジキング</string>
+		<string>Akuziking</string>
 		<key>shortcut</key>
 		<string>あくじきんぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ネクロズマ</string>
+		<string>Necrozma</string>
 		<key>shortcut</key>
 		<string>ねくろずま</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マギアナ</string>
+		<string>Magearna</string>
 		<key>shortcut</key>
 		<string>まぎあな</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マーシャドー</string>
+		<string>Marshadow</string>
 		<key>shortcut</key>
 		<string>まーしゃどー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ベベノム</string>
+		<string>Bevenom</string>
 		<key>shortcut</key>
 		<string>べべのむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アーゴヨン</string>
+		<string>Agoyon</string>
 		<key>shortcut</key>
 		<string>あーごよん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ツンデツンデ</string>
+		<string>Tundetunde</string>
 		<key>shortcut</key>
 		<string>つんでつんで</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ズガドーン</string>
+		<string>Zugadoon</string>
 		<key>shortcut</key>
 		<string>ずがどーん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ゼラオラ</string>
+		<string>Zeraora</string>
 		<key>shortcut</key>
 		<string>ぜらおら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>メルタン</string>
+		<string>Meltan</string>
 		<key>shortcut</key>
 		<string>めるたん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>メルメタル</string>
+		<string>Melmetal</string>
 		<key>shortcut</key>
 		<string>めるめたる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>サルノリ</string>
+		<string>Sarunori</string>
 		<key>shortcut</key>
 		<string>さるのり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>バチンキー</string>
+		<string>Bachinkey</string>
 		<key>shortcut</key>
 		<string>ばちんきー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ゴリランダー</string>
+		<string>Gorirander</string>
 		<key>shortcut</key>
 		<string>ごりらんだー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヒバニー</string>
+		<string>Hibanny</string>
 		<key>shortcut</key>
 		<string>ひばにー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ラビフット</string>
+		<string>Rabbifuto</string>
 		<key>shortcut</key>
 		<string>らびふっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>エースバーン</string>
+		<string>Aceburn</string>
 		<key>shortcut</key>
 		<string>えーすばーん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>メッソン</string>
+		<string>Messon</string>
 		<key>shortcut</key>
 		<string>めっそん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ジメレオン</string>
+		<string>Jimereon</string>
 		<key>shortcut</key>
 		<string>じめれおん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>インテレオン</string>
+		<string>Intereon</string>
 		<key>shortcut</key>
 		<string>いんてれおん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ホシガリス</string>
+		<string>Hoshigarisu</string>
 		<key>shortcut</key>
 		<string>ほしがりす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヨクバリス</string>
+		<string>Yokubarisu</string>
 		<key>shortcut</key>
 		<string>よくばりす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ココガラ</string>
+		<string>Kokogara</string>
 		<key>shortcut</key>
 		<string>ここがら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アオガラス</string>
+		<string>Aogarasu</string>
 		<key>shortcut</key>
 		<string>あおがらす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アーマーガア</string>
+		<string>Armorga</string>
 		<key>shortcut</key>
 		<string>あーまーがあ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>サッチムシ</string>
+		<string>Sacchimushi</string>
 		<key>shortcut</key>
 		<string>さっちむし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>レドームシ</string>
+		<string>Redomushi</string>
 		<key>shortcut</key>
 		<string>れどーむし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>イオルブ</string>
+		<string>Eolb</string>
 		<key>shortcut</key>
 		<string>いおるぶ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>クスネ</string>
+		<string>Kusune</string>
 		<key>shortcut</key>
 		<string>くすね</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>フォクスライ</string>
+		<string>Foxly</string>
 		<key>shortcut</key>
 		<string>ふぉくすらい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヒメンカ</string>
+		<string>Himenka</string>
 		<key>shortcut</key>
 		<string>ひめんか</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ワタシラガ</string>
+		<string>Watashiraga</string>
 		<key>shortcut</key>
 		<string>わたしらが</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ウールー</string>
+		<string>Wooluu</string>
 		<key>shortcut</key>
 		<string>うーるー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>バイウールー</string>
+		<string>Baiwooluu</string>
 		<key>shortcut</key>
 		<string>ばいうーるー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カムカメ</string>
+		<string>Kamukame</string>
 		<key>shortcut</key>
 		<string>かむかめ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カジリガメ</string>
+		<string>Kajirigame</string>
 		<key>shortcut</key>
 		<string>かじりがめ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ワンパチ</string>
+		<string>Wanpachi</string>
 		<key>shortcut</key>
 		<string>わんぱち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>パルスワン</string>
+		<string>Pulsewan</string>
 		<key>shortcut</key>
 		<string>ぱるすわん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>タンドン</string>
+		<string>Tandon</string>
 		<key>shortcut</key>
 		<string>たんどん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>トロッゴン</string>
+		<string>Toroggon</string>
 		<key>shortcut</key>
 		<string>とろっごん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>セキタンザン</string>
+		<string>Sekitanzan</string>
 		<key>shortcut</key>
 		<string>せきたんざん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カジッチュ</string>
+		<string>Kajicchu</string>
 		<key>shortcut</key>
 		<string>かじっちゅ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アップリュー</string>
+		<string>Appryu</string>
 		<key>shortcut</key>
 		<string>あっぷりゅー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>タルップル</string>
+		<string>Tarupple</string>
 		<key>shortcut</key>
 		<string>たるっぷる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>スナヘビ</string>
+		<string>Sunahebi</string>
 		<key>shortcut</key>
 		<string>すなへび</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>サダイジャ</string>
+		<string>Sadaija</string>
 		<key>shortcut</key>
 		<string>さだいじゃ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ウッウ</string>
+		<string>Uu</string>
 		<key>shortcut</key>
 		<string>うっう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>サシカマス</string>
+		<string>Sasikamasu</string>
 		<key>shortcut</key>
 		<string>さしかます</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カマスジョー</string>
+		<string>Kamasujaw</string>
 		<key>shortcut</key>
 		<string>かますじょー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>エレズン</string>
+		<string>Eleson</string>
 		<key>shortcut</key>
 		<string>えれずん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ストリンダー</string>
+		<string>Strinder</string>
 		<key>shortcut</key>
 		<string>すとりんだー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヤクデ</string>
+		<string>Yakude</string>
 		<key>shortcut</key>
 		<string>やくで</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マルヤクデ</string>
+		<string>Maruyakude</string>
 		<key>shortcut</key>
 		<string>まるやくで</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>タタッコ</string>
+		<string>Tatakko</string>
 		<key>shortcut</key>
 		<string>たたっこ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オトスパス</string>
+		<string>Otosupus</string>
 		<key>shortcut</key>
 		<string>おとすぱす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヤバチャ</string>
+		<string>Yabacha</string>
 		<key>shortcut</key>
 		<string>やばちゃ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ポットデス</string>
+		<string>Potdeath</string>
 		<key>shortcut</key>
 		<string>ぽっとです</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ミブリム</string>
+		<string>Mibrim</string>
 		<key>shortcut</key>
 		<string>みぶりむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>テブリム</string>
+		<string>Tebrim</string>
 		<key>shortcut</key>
 		<string>てぶりむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ブリムオン</string>
+		<string>Brimuon</string>
 		<key>shortcut</key>
 		<string>ぶりむおん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ベロバー</string>
+		<string>Beroba</string>
 		<key>shortcut</key>
 		<string>べろばー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ギモー</string>
+		<string>Gimoh</string>
 		<key>shortcut</key>
 		<string>ぎもー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オーロンゲ</string>
+		<string>Ohlonge</string>
 		<key>shortcut</key>
 		<string>おーろんげ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>タチフサグマ</string>
+		<string>Tachifusaguma</string>
 		<key>shortcut</key>
 		<string>たちふさぐま</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ニャイキング</string>
+		<string>Nyaiking</string>
 		<key>shortcut</key>
 		<string>にゃいきんぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>サニゴーン</string>
+		<string>Sunigoon</string>
 		<key>shortcut</key>
 		<string>さにごーん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ネギガナイト</string>
+		<string>Negigaknight</string>
 		<key>shortcut</key>
 		<string>ねぎがないと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>バリコオル</string>
+		<string>Barrikohru</string>
 		<key>shortcut</key>
 		<string>ばりこおる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>デスバーン</string>
+		<string>Deathbarn</string>
 		<key>shortcut</key>
 		<string>ですばーん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マホミル</string>
+		<string>Mahomil</string>
 		<key>shortcut</key>
 		<string>まほみる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マホイップ</string>
+		<string>Mawhip</string>
 		<key>shortcut</key>
 		<string>まほいっぷ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>タイレーツ</string>
+		<string>Tairetsu</string>
 		<key>shortcut</key>
 		<string>たいれーつ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>バチンウニ</string>
+		<string>Bachinuni</string>
 		<key>shortcut</key>
 		<string>ばちんうに</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ユキハミ</string>
+		<string>Yukihami</string>
 		<key>shortcut</key>
 		<string>ゆきはみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モスノウ</string>
+		<string>Mothnow</string>
 		<key>shortcut</key>
 		<string>もすのう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>イシヘンジン</string>
+		<string>Ishihengin</string>
 		<key>shortcut</key>
 		<string>いしへんじん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コオリッポ</string>
+		<string>Korippo</string>
 		<key>shortcut</key>
 		<string>こおりっぽ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>イエッサン</string>
+		<string>Yessan</string>
 		<key>shortcut</key>
 		<string>いえっさん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モルペコ</string>
+		<string>Morpeko</string>
 		<key>shortcut</key>
 		<string>もるぺこ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ゾウドウ</string>
+		<string>Zoudou</string>
 		<key>shortcut</key>
 		<string>ぞうどう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ダイオウドウ</string>
+		<string>Daioudou</string>
 		<key>shortcut</key>
 		<string>だいおうどう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>パッチラゴン</string>
+		<string>Patchiragon</string>
 		<key>shortcut</key>
 		<string>ぱっちらごん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>パッチルドン</string>
+		<string>Patchilldon</string>
 		<key>shortcut</key>
 		<string>ぱっちるどん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ウオノラゴン</string>
+		<string>Uonoragon</string>
 		<key>shortcut</key>
 		<string>うおのらごん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ウオチルドン</string>
+		<string>Uochilldon</string>
 		<key>shortcut</key>
 		<string>うおちるどん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ジュラルドン</string>
+		<string>Duraludon</string>
 		<key>shortcut</key>
 		<string>じゅらるどん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドラメシヤ</string>
+		<string>Dorameshiya</string>
 		<key>shortcut</key>
 		<string>どらめしや</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドロンチ</string>
+		<string>Doronch</string>
 		<key>shortcut</key>
 		<string>どろんち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドラパルト</string>
+		<string>Dorapult</string>
 		<key>shortcut</key>
 		<string>どらぱると</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ザシアン</string>
+		<string>Zacian</string>
 		<key>shortcut</key>
 		<string>ざしあん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ザマゼンタ</string>
+		<string>Zamazenta</string>
 		<key>shortcut</key>
 		<string>ざまぜんた</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ムゲンダイナ</string>
+		<string>Mugendina</string>
 		<key>shortcut</key>
 		<string>むげんだいな</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ダクマ</string>
+		<string>Dakuma</string>
 		<key>shortcut</key>
 		<string>だくま</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ウーラオス</string>
+		<string>Wulaosu</string>
 		<key>shortcut</key>
 		<string>うーらおす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ザルード</string>
+		<string>Zarude</string>
 		<key>shortcut</key>
 		<string>ざるーど</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>レジエレキ</string>
+		<string>Regieleki</string>
 		<key>shortcut</key>
 		<string>れじえれき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>レジドラゴ</string>
+		<string>Regidorago</string>
 		<key>shortcut</key>
 		<string>れじどらご</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ブリザポス</string>
+		<string>Blizzapos</string>
 		<key>shortcut</key>
 		<string>ぶりざぽす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>レイスポス</string>
+		<string>Wraithpos</string>
 		<key>shortcut</key>
 		<string>れいすぽす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>バドレックス</string>
+		<string>Budrex</string>
 		<key>shortcut</key>
 		<string>ばどれっくす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アヤシシ</string>
+		<string>Ayashishi</string>
 		<key>shortcut</key>
 		<string>あやしし</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>バサギリ</string>
+		<string>Basagiri</string>
 		<key>shortcut</key>
 		<string>ばさぎり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ガチグマ</string>
+		<string>Gachiguma</string>
 		<key>shortcut</key>
 		<string>がちぐま</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>イダイトウ</string>
+		<string>Idaitou</string>
 		<key>shortcut</key>
 		<string>いだいとう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オオニューラ</string>
+		<string>Ohnyula</string>
 		<key>shortcut</key>
 		<string>おおにゅーら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ハリーマン</string>
+		<string>Haryman</string>
 		<key>shortcut</key>
 		<string>はりーまん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ラブトロス</string>
+		<string>Lovetolos</string>
 		<key>shortcut</key>
 		<string>らぶとろす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ニャオハ</string>
+		<string>Nyahoja</string>
 		<key>shortcut</key>
 		<string>にゃおは</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ニャローテ</string>
+		<string>Nyarote</string>
 		<key>shortcut</key>
 		<string>にゃろーて</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マスカーニャ</string>
+		<string>Masquernya</string>
 		<key>shortcut</key>
 		<string>ますかーにゃ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ホゲータ</string>
+		<string>Hogator</string>
 		<key>shortcut</key>
 		<string>ほげーた</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アチゲータ</string>
+		<string>Achigator</string>
 		<key>shortcut</key>
 		<string>あちげーた</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ラウドボーン</string>
+		<string>Laudbon</string>
 		<key>shortcut</key>
 		<string>らうどぼーん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>クワッス</string>
+		<string>Kuwassu</string>
 		<key>shortcut</key>
 		<string>くわっす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ウェルカモ</string>
+		<string>Welkamo</string>
 		<key>shortcut</key>
 		<string>うぇるかも</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ウェーニバル</string>
+		<string>Wanival</string>
 		<key>shortcut</key>
 		<string>うぇーにばる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>グルトン</string>
+		<string>Gourton</string>
 		<key>shortcut</key>
 		<string>ぐるとん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>パフュートン</string>
+		<string>Perfuton</string>
 		<key>shortcut</key>
 		<string>ぱふゅーとん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>タマンチュラ</string>
+		<string>Tamantula</string>
 		<key>shortcut</key>
 		<string>たまんちゅら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ワナイダー</string>
+		<string>Wanaider</string>
 		<key>shortcut</key>
 		<string>わないだー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マメバッタ</string>
+		<string>Mamebatta</string>
 		<key>shortcut</key>
 		<string>まめばった</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>エクスレッグ</string>
+		<string>Exleg</string>
 		<key>shortcut</key>
 		<string>えくすれっぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>パモ</string>
+		<string>Pamo</string>
 		<key>shortcut</key>
 		<string>ぱも</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>パモット</string>
+		<string>Pamot</string>
 		<key>shortcut</key>
 		<string>ぱもっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>パーモット</string>
+		<string>Parmot</string>
 		<key>shortcut</key>
 		<string>ぱーもっと</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ワッカネズミ</string>
+		<string>Wakkanezumi</string>
 		<key>shortcut</key>
 		<string>わっかねずみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>イッカネズミ</string>
+		<string>Ikkanezumi</string>
 		<key>shortcut</key>
 		<string>いっかねずみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>パピモッチ</string>
+		<string>Pupimocchi</string>
 		<key>shortcut</key>
 		<string>ぱぴもっち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>バウッツェル</string>
+		<string>Bowtzel</string>
 		<key>shortcut</key>
 		<string>ばうっつぇる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ミニーブ</string>
+		<string>Minive</string>
 		<key>shortcut</key>
 		<string>みにーぶ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オリーニョ</string>
+		<string>Olinyo</string>
 		<key>shortcut</key>
 		<string>おりーにょ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オリーヴァ</string>
+		<string>Oliva</string>
 		<key>shortcut</key>
 		<string>おりーゔぁ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>イキリンコ</string>
+		<string>Ikirinko</string>
 		<key>shortcut</key>
 		<string>いきりんこ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コジオ</string>
+		<string>Kojio</string>
 		<key>shortcut</key>
 		<string>こじお</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ジオヅム</string>
+		<string>Jiodumu</string>
 		<key>shortcut</key>
 		<string>じおづむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>キョジオーン</string>
+		<string>Kyojiohn</string>
 		<key>shortcut</key>
 		<string>きょじおーん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カルボウ</string>
+		<string>Carbou</string>
 		<key>shortcut</key>
 		<string>かるぼう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>グレンアルマ</string>
+		<string>Gurenarma</string>
 		<key>shortcut</key>
 		<string>ぐれんあるま</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ソウブレイズ</string>
+		<string>Soublades</string>
 		<key>shortcut</key>
 		<string>そうぶれいず</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ズピカ</string>
+		<string>Zupika</string>
 		<key>shortcut</key>
 		<string>ずぴか</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ハラバリー</string>
+		<string>Harabarie</string>
 		<key>shortcut</key>
 		<string>はらばりー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カイデン</string>
+		<string>Kaiden</string>
 		<key>shortcut</key>
 		<string>かいでん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>タイカイデン</string>
+		<string>Taikaiden</string>
 		<key>shortcut</key>
 		<string>たいかいでん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オラチフ</string>
+		<string>Orachifu</string>
 		<key>shortcut</key>
 		<string>おらちふ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マフィティフ</string>
+		<string>Mafitiff</string>
 		<key>shortcut</key>
 		<string>まふぃてぃふ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>シルシュルー</string>
+		<string>Shirushrew</string>
 		<key>shortcut</key>
 		<string>しるしゅるー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>タギングル</string>
+		<string>Taggingru</string>
 		<key>shortcut</key>
 		<string>たぎんぐる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アノクサ</string>
+		<string>Anokusa</string>
 		<key>shortcut</key>
 		<string>あのくさ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アノホラグサ</string>
+		<string>Anohoragusa</string>
 		<key>shortcut</key>
 		<string>あのほらぐさ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ノノクラゲ</string>
+		<string>Nonokurage</string>
 		<key>shortcut</key>
 		<string>ののくらげ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>リククラゲ</string>
+		<string>Rikukurage</string>
 		<key>shortcut</key>
 		<string>りくくらげ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ガケガニ</string>
+		<string>Gakegani</string>
 		<key>shortcut</key>
 		<string>がけがに</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カプサイジ</string>
+		<string>Capsaiji</string>
 		<key>shortcut</key>
 		<string>かぷさいじ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>スコヴィラン</string>
+		<string>Scovillain</string>
 		<key>shortcut</key>
 		<string>すこゔぃらん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>シガロコ</string>
+		<string>Shigaroko</string>
 		<key>shortcut</key>
 		<string>しがろこ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ベラカス</string>
+		<string>Beracas</string>
 		<key>shortcut</key>
 		<string>べらかす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヒラヒナ</string>
+		<string>Hirahina</string>
 		<key>shortcut</key>
 		<string>ひらひな</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>クエスパトラ</string>
+		<string>Cuespatra</string>
 		<key>shortcut</key>
 		<string>くえすぱとら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カヌチャン</string>
+		<string>Kanuchan</string>
 		<key>shortcut</key>
 		<string>かぬちゃん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ナカヌチャン</string>
+		<string>Nakanuchan</string>
 		<key>shortcut</key>
 		<string>なかぬちゃん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>デカヌチャン</string>
+		<string>Dekanuchan</string>
 		<key>shortcut</key>
 		<string>でかぬちゃん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ウミディグダ</string>
+		<string>Umidigda</string>
 		<key>shortcut</key>
 		<string>うみでぃぐだ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ウミトリオ</string>
+		<string>Umitrio</string>
 		<key>shortcut</key>
 		<string>うみとりお</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オトシドリ</string>
+		<string>Otoshidori</string>
 		<key>shortcut</key>
 		<string>おとしどり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ナミイルカ</string>
+		<string>Namiiruka</string>
 		<key>shortcut</key>
 		<string>なみいるか</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>イルカマン</string>
+		<string>Irukaman</string>
 		<key>shortcut</key>
 		<string>いるかまん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ブロロン</string>
+		<string>Buroron</string>
 		<key>shortcut</key>
 		<string>ぶろろん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ブロロローム</string>
+		<string>Burororoom</string>
 		<key>shortcut</key>
 		<string>ぶろろろーむ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モトトカゲ</string>
+		<string>Mototokage</string>
 		<key>shortcut</key>
 		<string>もととかげ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ミミズズ</string>
+		<string>Mimizuzu</string>
 		<key>shortcut</key>
 		<string>みみずず</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>キラーメ</string>
+		<string>Kirame</string>
 		<key>shortcut</key>
 		<string>きらーめ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>キラフロル</string>
+		<string>Kiraflor</string>
 		<key>shortcut</key>
 		<string>きらふろる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ボチ</string>
+		<string>Bochi</string>
 		<key>shortcut</key>
 		<string>ぼち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ハカドッグ</string>
+		<string>Hakadog</string>
 		<key>shortcut</key>
 		<string>はかどっぐ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カラミンゴ</string>
+		<string>Karamingo</string>
 		<key>shortcut</key>
 		<string>からみんご</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アルクジラ</string>
+		<string>Arukujira</string>
 		<key>shortcut</key>
 		<string>あるくじら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ハルクジラ</string>
+		<string>Hulkujira</string>
 		<key>shortcut</key>
 		<string>はるくじら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ミガルーサ</string>
+		<string>Migalusa</string>
 		<key>shortcut</key>
 		<string>みがるーさ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヘイラッシャ</string>
+		<string>Heyrusher</string>
 		<key>shortcut</key>
 		<string>へいらっしゃ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>シャリタツ</string>
+		<string>Syaritatsu</string>
 		<key>shortcut</key>
 		<string>しゃりたつ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コノヨザル</string>
+		<string>Konoyozaru</string>
 		<key>shortcut</key>
 		<string>このよざる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドオー</string>
+		<string>Dooh</string>
 		<key>shortcut</key>
 		<string>どおー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>リキキリン</string>
+		<string>Rikikirin</string>
 		<key>shortcut</key>
 		<string>りききりん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ノココッチ</string>
+		<string>Nokokocchi</string>
 		<key>shortcut</key>
 		<string>のここっち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ドドゲザン</string>
+		<string>Dodogezan</string>
 		<key>shortcut</key>
 		<string>どどげざん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>イダイナキバ</string>
+		<string>Idainakiba</string>
 		<key>shortcut</key>
 		<string>いだいなきば</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>サケブシッポ</string>
+		<string>Sakebushippo</string>
 		<key>shortcut</key>
 		<string>さけぶしっぽ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>アラブルタケ</string>
+		<string>Araburutake</string>
 		<key>shortcut</key>
 		<string>あらぶるたけ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ハバタクカミ</string>
+		<string>Habatakukami</string>
 		<key>shortcut</key>
 		<string>はばたくかみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>チヲハウハネ</string>
+		<string>Chiwohauhane</string>
 		<key>shortcut</key>
 		<string>ちをはうはね</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>スナノケガワ</string>
+		<string>Sunanokegawa</string>
 		<key>shortcut</key>
 		<string>すなのけがわ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>テツノワダチ</string>
+		<string>Tetsunowadachi</string>
 		<key>shortcut</key>
 		<string>てつのわだち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>テツノツツミ</string>
+		<string>Tetsunotsutsumi</string>
 		<key>shortcut</key>
 		<string>てつのつつみ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>テツノカイナ</string>
+		<string>Tetsunokaina</string>
 		<key>shortcut</key>
 		<string>てつのかいな</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>テツノコウベ</string>
+		<string>Tetsunokoube</string>
 		<key>shortcut</key>
 		<string>てつのこうべ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>テツノドクガ</string>
+		<string>Tetsunodokuga</string>
 		<key>shortcut</key>
 		<string>てつのどくが</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>テツノイバラ</string>
+		<string>Tetsunoibara</string>
 		<key>shortcut</key>
 		<string>てつのいばら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>セビエ</string>
+		<string>Sebie</string>
 		<key>shortcut</key>
 		<string>せびえ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>セゴール</string>
+		<string>Segohru</string>
 		<key>shortcut</key>
 		<string>せごーる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>セグレイブ</string>
+		<string>Seglaive</string>
 		<key>shortcut</key>
 		<string>せぐれいぶ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コレクレー</string>
+		<string>Collecurei</string>
 		<key>shortcut</key>
 		<string>これくれー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>サーフゴー</string>
+		<string>Surfugo</string>
 		<key>shortcut</key>
 		<string>さーふごー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>チオンジェン</string>
+		<string>Chionjen</string>
 		<key>shortcut</key>
 		<string>ちおんじぇん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>パオジアン</string>
+		<string>Paojian</string>
 		<key>shortcut</key>
 		<string>ぱおじあん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ディンルー</string>
+		<string>Dinlu</string>
 		<key>shortcut</key>
 		<string>でぃんるー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>イーユイ</string>
+		<string>Yiyui</string>
 		<key>shortcut</key>
 		<string>いーゆい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>トドロクツキ</string>
+		<string>Todorokutsuki</string>
 		<key>shortcut</key>
 		<string>とどろくつき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>テツノブジン</string>
+		<string>Tetsunobujin</string>
 		<key>shortcut</key>
 		<string>てつのぶじん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>コライドン</string>
+		<string>Koraidon</string>
 		<key>shortcut</key>
 		<string>こらいどん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ミライドン</string>
+		<string>Miraidon</string>
 		<key>shortcut</key>
 		<string>みらいどん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ウネルミナモ</string>
+		<string>Uneruminamo</string>
 		<key>shortcut</key>
 		<string>うねるみなも</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>テツノイサハ</string>
+		<string>Tetsunoisaha</string>
 		<key>shortcut</key>
 		<string>てつのいさは</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カミッチュ</string>
+		<string>Kamicchu</string>
 		<key>shortcut</key>
 		<string>かみっちゅ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>チャデス</string>
+		<string>Chadeath</string>
 		<key>shortcut</key>
 		<string>ちゃです</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ヤバソチャ</string>
+		<string>Yabasocha</string>
 		<key>shortcut</key>
 		<string>やばそちゃ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>イイネイヌ</string>
+		<string>Iineinu</string>
 		<key>shortcut</key>
 		<string>いいねいぬ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>マシマシラ</string>
+		<string>Mashimashira</string>
 		<key>shortcut</key>
 		<string>ましましら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>キチキギス</string>
+		<string>Kichikigisu</string>
 		<key>shortcut</key>
 		<string>きちきぎす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>オーガポン</string>
+		<string>Ogerpon</string>
 		<key>shortcut</key>
 		<string>おーがぽん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ブリジュラス</string>
+		<string>Briduras</string>
 		<key>shortcut</key>
 		<string>ぶりじゅらす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>カミツオロチ</string>
+		<string>Kamitsuorochi</string>
 		<key>shortcut</key>
 		<string>かみつおろち</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>ウガツホムラ</string>
+		<string>Ugatsuhomura</string>
 		<key>shortcut</key>
 		<string>うがつほむら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>タケルライコ</string>
+		<string>Takeruraiko</string>
 		<key>shortcut</key>
 		<string>たけるらいこ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>テツノイワオ</string>
+		<string>Tetsunoiwao</string>
 		<key>shortcut</key>
 		<string>てつのいわお</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>テツノカシラ</string>
+		<string>Tetsunokashira</string>
 		<key>shortcut</key>
 		<string>てつのかしら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>テラパゴス</string>
+		<string>Terapagos</string>
 		<key>shortcut</key>
 		<string>てらぱごす</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>モモワロウ</string>
+		<string>Momowarou</string>
 		<key>shortcut</key>
 		<string>ももわろう</string>
 	</dict>
