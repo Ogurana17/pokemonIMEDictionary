@@ -15,6 +15,9 @@ alphabet_hiragana = {
     'Y': 'わい', 'Z': 'ぜっと'
 }
 
+# 装飾を除去するマッピング
+delete_decoration = {'*': '', '[': '', '1': '', ']': ''}
+
 # 数字を日本語の読み方に変換する関数
 def convert_number_to_japanese(num):
     num_str = str(num)
@@ -41,12 +44,16 @@ def convert_number_to_japanese(num):
 
 # カタカナと数字をひらがなに変換する関数
 def katakana_to_hiragana(text):
-    # 数字のパターンを検出し、対応する日本語に変換
-    text = re.sub(r'\d+', lambda x: convert_number_to_japanese(int(x.group())), text)
     # アルファベットをひらがなに変換
     text = ''.join([alphabet_hiragana.get(char.upper(), char) for char in text])
     # カタカナをひらがなに変換
     return jaconv.kata2hira(text)
+
+# ローマ字から装飾を除去する関数
+def delete_to_decoration(text):
+    # 装飾を除去
+    text = ''.join([delete_decoration.get(char.upper(), char) for char in text])
+    return text
 
 # 辞書データを書き出す共通関数（TXT/Plist両対応）
 # file_typeに応じてテキストまたはPlist形式で辞書を書き出す
@@ -75,16 +82,17 @@ def write_dictionary_to_file(file_type, dict_data, dir_path, file_path):
 # それぞれの辞書を作成して返す
 def generate_dictionaries(foreign_names_list):
     katakana_to_hiragana_dict = {}  # ひらがなとカタカナの対応辞書
-    English_to_hiragana_dict = {}   # ひらがなと英語名の対応辞書
+    roman_to_hiragana_dict = {}   # ひらがなと英語名の対応辞書
 
-    for name, english_name in foreign_names_list:
+    for name, roman_name in foreign_names_list:
         hiragana = katakana_to_hiragana(name)  # カタカナからひらがなに変換
+        roman = delete_to_decoration(roman_name)  # ローマ字の装飾を除去
         katakana_to_hiragana_dict[hiragana] = name
-        English_to_hiragana_dict[hiragana] = english_name
+        roman_to_hiragana_dict[hiragana] = roman
 
-    return katakana_to_hiragana_dict, English_to_hiragana_dict
+    return katakana_to_hiragana_dict, roman_to_hiragana_dict
 
-# スクレイピングしてポケモンの外国語名一覧を取得する関数
+# スクレイピングしてポケモンのローマ字名一覧を取得する関数
 def scrape_foreign_names(url, class_name):
     response = requests.get(url)  # URLからデータを取得
     soup = BeautifulSoup(response.content, 'html.parser')  # BeautifulSoupでHTML解析
@@ -97,28 +105,26 @@ def scrape_foreign_names(url, class_name):
         for row in rows:
             cols = row.find_all('td')
             if len(cols) >= 3:
-                japanese_name = cols[0].text.strip()  # カタカナの名前
-                english_name = cols[2].text.strip()  # 英語の名前
-                foreign_names_list.append((japanese_name, english_name))
+                japanese_name = cols[1].text.strip()  # カタカナの名前
+                roman_name = cols[2].text.strip()  # ローマ字の名前
+                foreign_names_list.append((japanese_name, roman_name))
 
     return foreign_names_list
 
 # データ元のURLとクラス名
-url = 'https://wiki.xn--rckteqa2e.com/wiki/%E3%81%9B%E3%81%84%E3%81%8B%E3%81%8F%E3%81%AE%E5%A4%96%E5%9B%BD%E8%AA%9E%E5%90%8D%E4%B8%80%E8%A6%A7'
-class_name = 'bluetable'
+url = 'https://wiki.xn--rckteqa2e.com/wiki/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%E3%81%AE%E5%85%AC%E5%BC%8F%E3%83%AD%E3%83%BC%E3%83%9E%E5%AD%97%E8%A1%A8%E8%A8%98%E4%B8%80%E8%A6%A7'
+class_name = 'graytable'
 
 # ポケモン名をスクレイピング
 foreign_names_list = scrape_foreign_names(url, class_name)
 
 # 辞書を生成
-katakana_to_hiragana_dict, English_to_hiragana_dict = generate_dictionaries(foreign_names_list)
+katakana_to_hiragana_dict, roman_to_hiragana_dict = generate_dictionaries(foreign_names_list)
 
 # 辞書をtxtとplistファイルに書き出し
-file_name = 'Nature'
+file_name = 'NameRoman'
 
-write_dictionary_to_file('txt', katakana_to_hiragana_dict, file_name, file_name + '/pokemon' + file_name + 'IMEDictHira2Kata.txt')
-write_dictionary_to_file('txt', English_to_hiragana_dict, file_name, file_name + '/pokemon' + file_name + 'IMEDictHira2Eng.txt')
-write_dictionary_to_file('plist', katakana_to_hiragana_dict, file_name, file_name + '/pokemon' + file_name + 'IMEDictHira2Kata.plist')
-write_dictionary_to_file('plist', English_to_hiragana_dict, file_name, file_name + '/pokemon' + file_name + 'IMEDictHira2Eng.plist')
+write_dictionary_to_file('txt', roman_to_hiragana_dict, file_name, file_name + '/pokemon' + file_name + 'IMEDictHira2Eng.txt')
+write_dictionary_to_file('plist', roman_to_hiragana_dict, file_name, file_name + '/pokemon' + file_name + 'IMEDictHira2Eng.plist')
 
 print('辞書ファイルの作成が完了しました。')

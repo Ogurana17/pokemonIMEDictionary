@@ -2,9 +2,9 @@ import requests, os, jaconv, re
 from bs4 import BeautifulSoup
 
 # 数字を漢数字に変換するマッピング
-kanji_digits = ["", "いち", "に", "さん", "よん", "ご", "ろく", "なな", "はち", "きゅう"]
-kanji_units = ["", "じゅう", "ひゃく", "せん"]
-large_units = ["", "まん", "おく"]
+kanji_digits = ['', 'いち', 'に', 'さん', 'よん', 'ご', 'ろく', 'なな', 'はち', 'きゅう']
+kanji_units = ['', 'じゅう', 'ひゃく', 'せん']
+large_units = ['', 'まん', 'おく']
 
 # アルファベットをひらがなに変換するマッピング
 alphabet_hiragana = {
@@ -52,20 +52,20 @@ def katakana_to_hiragana(text):
 # file_typeに応じてテキストまたはPlist形式で辞書を書き出す
 def write_dictionary_to_file(file_type, dict_data, dir_path, file_path):
     os.makedirs(dir_path, exist_ok=True)
-    if file_type == "txt":
+    if file_type == 'txt':
         # TXTファイルとして辞書を書き出し
-        with open(file_path, "w", encoding="utf-8") as f:
+        with open(file_path, 'w', encoding='utf-8') as f:
             for hiragana, original in dict_data.items():
-                f.write(f"{hiragana}\t{original}\t固有名詞\t\n")
-    elif file_type == "plist":
+                f.write(f'{hiragana}\t{original}\t固有名詞\t\n')
+    elif file_type == 'plist':
         # Plistファイルのヘッダーとフッター
-        header = """<?xml version="1.0" encoding="UTF-8"?>\n<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">\n<plist version="1.0">\n<array>\n"""
-        footer = "</array>\n</plist>\n"
+        header = '''<?xml version='1.0' encoding='UTF-8'?>\n<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>\n<plist version='1.0'>\n<array>\n'''
+        footer = '</array>\n</plist>\n'
         # Plistのデータフォーマット
-        main_format = "\t<dict>\n\t\t<key>phrase</key>\n\t\t<string>{}</string>\n\t\t<key>shortcut</key>\n\t\t<string>{}</string>\n\t</dict>\n"
+        main_format = '\t<dict>\n\t\t<key>phrase</key>\n\t\t<string>{}</string>\n\t\t<key>shortcut</key>\n\t\t<string>{}</string>\n\t</dict>\n'
 
         # Plistファイルとして辞書を書き出し
-        with open(file_path, "w", encoding="utf-8") as f:
+        with open(file_path, 'w', encoding='utf-8') as f:
             f.write(header)
             for hiragana, original in dict_data.items():
                 f.write(main_format.format(original, hiragana))
@@ -87,15 +87,15 @@ def generate_dictionaries(foreign_names_list):
 # スクレイピングしてポケモンの外国語名一覧を取得する関数
 def scrape_foreign_names(url, class_name):
     response = requests.get(url)  # URLからデータを取得
-    soup = BeautifulSoup(response.content, "html.parser")  # BeautifulSoupでHTML解析
+    soup = BeautifulSoup(response.content, 'html.parser')  # BeautifulSoupでHTML解析
 
     foreign_names_list = []
-    tables = soup.find_all("table", {"class": class_name})  # 指定されたクラス名のテーブルを取得
+    tables = soup.find_all('table', {'class': class_name})  # 指定されたクラス名のテーブルを取得
 
     for table in tables:
-        rows = table.find_all("tr")[1:]  # テーブルの各行（ヘッダー行をスキップ）
+        rows = table.find_all('tr')[1:]  # テーブルの各行（ヘッダー行をスキップ）
         for row in rows:
-            cols = row.find_all("td")
+            cols = row.find_all('td')
             if len(cols) >= 3:
                 japanese_name = cols[0].text.strip()  # カタカナの名前
                 english_name = cols[1].text.strip()  # 英語の名前
@@ -104,8 +104,8 @@ def scrape_foreign_names(url, class_name):
     return foreign_names_list
 
 # データ元のURLとクラス名
-url = "https://wiki.xn--rckteqa2e.com/wiki/%E3%81%8D%E3%81%AE%E3%81%BF%E3%81%AE%E5%A4%96%E5%9B%BD%E8%AA%9E%E5%90%8D%E4%B8%80%E8%A6%A7"
-class_name = "graytable"
+url = 'https://wiki.xn--rckteqa2e.com/wiki/%E3%81%8D%E3%81%AE%E3%81%BF%E3%81%AE%E5%A4%96%E5%9B%BD%E8%AA%9E%E5%90%8D%E4%B8%80%E8%A6%A7'
+class_name = 'graytable'
 
 # ポケモン名をスクレイピング
 foreign_names_list = scrape_foreign_names(url, class_name)
@@ -114,9 +114,11 @@ foreign_names_list = scrape_foreign_names(url, class_name)
 katakana_to_hiragana_dict, English_to_hiragana_dict = generate_dictionaries(foreign_names_list)
 
 # 辞書をtxtとplistファイルに書き出し
-write_dictionary_to_file("txt", katakana_to_hiragana_dict, "Berry", "Berry/pokemonBerryIMEDictHira2Kata.txt")
-write_dictionary_to_file("txt", English_to_hiragana_dict, "Berry", "Berry/pokemonBerryIMEDictHira2Eng.txt")
-write_dictionary_to_file("plist", katakana_to_hiragana_dict, "Berry", "Berry/pokemonBerryIMEDictHira2Kata.plist")
-write_dictionary_to_file("plist", English_to_hiragana_dict, "Berry", "Berry/pokemonBerryIMEDictHira2Eng.plist")
+file_name = 'Berry'
 
-print("辞書ファイルの作成が完了しました。")
+write_dictionary_to_file('txt', katakana_to_hiragana_dict, file_name, file_name + '/pokemon' + file_name + 'IMEDictHira2Kata.txt')
+write_dictionary_to_file('txt', English_to_hiragana_dict, file_name, file_name + '/pokemon' + file_name + 'IMEDictHira2Eng.txt')
+write_dictionary_to_file('plist', katakana_to_hiragana_dict, file_name, file_name + '/pokemon' + file_name + 'IMEDictHira2Kata.plist')
+write_dictionary_to_file('plist', English_to_hiragana_dict, file_name, file_name + '/pokemon' + file_name + 'IMEDictHira2Eng.plist')
+
+print('辞書ファイルの作成が完了しました。')
