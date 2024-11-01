@@ -124,7 +124,7 @@ katakana_to_hiragana_dict, roman_to_hiragana_dict = generate_dictionaries(foreig
 # 辞書をtxtとplistファイルに書き出し
 file_name = 'NameRoman'
 
-write_dictionary_to_file('txt', roman_to_hiragana_dict, file_name, file_name + '/pokemon' + file_name + 'IMEDictHira2Eng.txt')
-write_dictionary_to_file('plist', roman_to_hiragana_dict, file_name, file_name + '/pokemon' + file_name + 'IMEDictHira2Eng.plist')
+write_dictionary_to_file('txt', roman_to_hiragana_dict, file_name, file_name + '/pokemon' + file_name + 'IMEDictHira2Roman.txt')
+write_dictionary_to_file('plist', roman_to_hiragana_dict, file_name, file_name + '/pokemon' + file_name + 'IMEDictHira2Roman.plist')
 
 print('辞書ファイルの作成が完了しました。')
